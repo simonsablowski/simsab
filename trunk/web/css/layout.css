@@ -1,0 +1,174 @@
+li {
+	margin-left: 15px;
+}
+
+a.external {
+	padding-right: 14px;
+}
+
+#document {
+	margin: auto;
+	position: relative;
+	width: 860px;
+}
+
+#menu {
+	-moz-border-radius-topleft: 15px;
+	-moz-border-radius-bottomleft: 15px;
+	-khtml-border-radius-topleft: 15px;
+	-khtml-border-radius-bottomleft: 15px;
+	-webkit-border-radius-topleft: 15px;
+	-webkit-border-radius-bottomleft: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	padding: 10px 0;
+	position: fixed;
+	top: 169px;
+	width: 160px;
+}
+
+#menu .item {
+	height: 18px;
+	line-height: 2;
+	list-style: none;
+	margin: 0;
+	overflow: hidden;
+	padding: 0 20px 8px 0;
+}
+
+#menu .item a {
+	display: block;
+	height: 18px;
+	font-weight: bold;
+	text-align: right;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+#menu .language a {
+	font-weight: normal;
+}
+
+#content {
+	-moz-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 1px solid;
+	margin: 30px 0 30px 160px;
+	width: 698px;
+}
+
+#head {
+	position: relative;
+}
+
+#magnifier {
+	height: 16px;
+	position: absolute;
+	right: 140px;
+	top: 118px;
+	width: 16px;
+}
+
+#photo, #large-photo {
+	position: absolute;
+	right: 22px;
+	top: 0;
+}
+
+#photo {
+	height: 140px;
+	width: 140px;
+}
+
+#large-photo {
+	border-bottom: 10px solid;
+	border-left: 10px solid;
+	display: none;
+	height: 280px;
+	width: 280px;
+}
+
+#logo {
+	height: 61px;
+	padding: 26px 0 0 27px;
+	width: 493px;
+}
+
+#body {
+	clear: both;
+	line-height: 2.0;
+	padding: 47px 26px;
+	text-align: justify;
+}
+
+#body h2 {
+	padding-top: 10px;
+}
+
+#body h2 a {
+	display: block;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#body a, #body em {
+	white-space: nowrap;
+}
+
+#body .section {
+	padding-bottom: 26px;
+}
+
+#body .sub-section {
+	float: left;
+	overflow: hidden;
+	width: 323px;
+}
+
+#body .professional-skills span, #body .sample-work span {
+	white-space: nowrap;
+}
+
+#body .programming-languages li, #body .frameworks li, #body .contact-me li {
+	display: inline;
+	float: left;
+	list-style-type: none;
+	margin-left: 0;
+	width: 107px;
+}
+
+#body .work-experience .item, #body .work-experience .description, #body .sample-work .item, #body .sample-work .description {
+	padding-bottom: 20px;
+}
+
+#body .work-experience .item, #body .sample-work .item {
+	clear: left;
+	float: left;
+	width: 150px;
+}
+
+#body .work-experience .item .sub-line {
+	display: block;
+	font-size: 85%;
+}
+
+#body .sample-work .item .sub-line {
+	font-size: 85%;
+}
+
+#body .work-experience .description, #body .sample-work .description {
+	margin-left: 150px;
+}
+
+#copyright {
+	padding: 0 0 28px;
+	text-align: center;
+}
+
+#body .section .clear {
+	clear: both;
+	margin: 0;
+	padding: 0;
+}

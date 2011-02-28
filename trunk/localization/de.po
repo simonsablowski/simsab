@@ -1,0 +1,469 @@
+msgid "en"
+msgstr "de"
+
+msgid "simsab"
+msgstr "simsab"
+
+msgid "http://www.simsab.de/en"
+msgstr "http://www.simsab.de/de"
+
+msgid "Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design."
+msgstr "Simon Sablowski ist Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Schwerpunktmäßig arbeitet er im Bereich Core- und Backend-Entwicklung, Software-Architektur, technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
+
+msgid "simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc"
+msgstr "simon sablowski, sablowski, berlin, web-entwicklung, software-architektur, technische konzeption, prototyping, refactoring, datenbank-design, php, mysql, oop, mvc"
+
+#menu
+
+msgid "about-me"
+msgstr "ueber-mich"
+
+msgid "About Me"
+msgstr "Über mich"
+
+msgid "professional-skills"
+msgstr "kompetenzen"
+
+msgid "Professional Skills"
+msgstr "Kompetenzen"
+
+msgid "programming"
+msgstr "programmierung"
+
+msgid "Programming"
+msgstr "Programmierung"
+
+msgid "sample-work"
+msgstr "arbeitsproben"
+
+msgid "Sample Work"
+msgstr "Arbeitsproben"
+
+msgid "work-experience"
+msgstr "berufserfahrung"
+
+msgid "Work Experience"
+msgstr "Berufserfahrung"
+
+msgid "contact-me"
+msgstr "kontakt"
+
+msgid "Contact Me"
+msgstr "Kontakt"
+
+msgid "/de"
+msgstr "/en"
+
+msgid "Deutsche Version"
+msgstr "English version"
+
+#head
+
+msgid "/en"
+msgstr "/de"
+
+msgid "Simon Sablowski"
+msgstr "Simon Sablowski"
+
+#about-me
+
+msgid "I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to numerous exciting projects."
+msgstr "Ich bin Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Meine Expertise und Kreativität habe ich in eine Reihe von aufregenden Projekten eingebracht."
+
+msgid "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standard in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. My main focus lies with <em>software architecture</em>, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design."
+msgstr "Spezialisiert habe ich mich auf den Einsatz von <em>PHP</em> und <em>MySQL</em>. Dabei lege ich Wert auf Effizienz, Wartbarkeit und ggf. Wiederverwendbarkeit meiner Software. Ich richte mich nach Design Patterns, achte auf Redundanzfreiheit sowie Modularität und entwickle Routinen zur Performance-Optimierung. Schwerpunktmäßig arbeite ich im Bereich <em>Software-Architektur</em>, Core- und Backend-Entwicklung, technische Konzeption, Prototyping, Refactoring und Datenbank-Design. Darüber hinaus verfüge ich über weitreichende Kenntnisse zu Benutzerfreundlichkeit und Suchmaschinenoptimierung und habe ein Auge für gutes Design."
+
+msgid "Throughout my career I have worked on projects by myself or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit."
+msgstr "Im Laufe meiner Karriere habe ich Projekte selbständig oder in Teams realisiert und relevante Erfahrung sowohl in Agenturen und Startups als auch etablierten Unternehmen gesammelt. Ich bin erfahrener und talentierter Teamleiter und habe einen ausgeprägten unternehmerischen Geist."
+
+msgid "In my spare time I concern myself with any kind of art and culture. I enjoy life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>."
+msgstr "In meiner Freizeit beschäftige ich mich gern mit Kunst und Kultur jeglicher Facette. Ich zeichne Akte, Porträts und Comics, spiele Gitarre und experimentiere mit digitaler Produktion akustischer und visueller Art. <a title="Filippo Baraccani" href="http://fbrccn.com">Filippo Baraccani</a> und ich stellen einige unserer künstlerischen Arbeiten auf <a title="notmybiz.com" href="http://notmybiz.com">notmybiz.com</a> aus."
+
+#professional-skills
+
+msgid "Web Development"
+msgstr "Web-Entwicklung"
+
+msgid "Rapid Prototyping"
+msgstr "Rapid Prototyping"
+
+msgid "Technical Conception"
+msgstr "Technische Konzeption"
+
+msgid "Backend Development"
+msgstr "Backend-Entwicklung"
+
+msgid "Webserver Configuration"
+msgstr "Webserver-Konfiguration"
+
+msgid "Shell Scripting"
+msgstr "Shell Scripting"
+
+msgid "Scaffolding"
+msgstr "Scaffolding"
+
+msgid "Database Design"
+msgstr "Datenbank-Design"
+
+msgid "Content Syndication"
+msgstr "Content Syndication"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "Database Conversion"
+msgstr "Datenbankkonvertierung"
+
+msgid "Entity Relationship Models"
+msgstr "Entity Relationship Models"
+
+msgid "Data Modeling"
+msgstr "Datenmodellierung"
+
+msgid "Object-Oriented Programming"
+msgstr "Objektorientierte Programmierung"
+
+msgid "Performance Optimization"
+msgstr "Performance-Optimierung"
+
+msgid "Scraping"
+msgstr "Scraping"
+
+msgid "Standards Compliance"
+msgstr "Standards Compliance"
+
+msgid "Code Generation"
+msgstr "Code-Generierung"
+
+msgid "Internationalization"
+msgstr "Internationalisierung"
+
+msgid "Caching"
+msgstr "Caching"
+
+msgid "Application Monitoring"
+msgstr "Anwendungsüberwachung"
+
+msgid "Unit Testing"
+msgstr "Unit Testing"
+
+msgid "Object-Relational Mapping"
+msgstr "Object-Relational Mapping"
+
+msgid "Relational Database Management Systems"
+msgstr "Relational Database Management Systems"
+
+msgid "Scrum"
+msgstr "Scrum"
+
+msgid "Usability"
+msgstr "Usability"
+
+msgid "Communication Gateways"
+msgstr "Kommunikationsschnittstellen"
+
+msgid "E-Commerce"
+msgstr "E-Commerce"
+
+msgid "Scalability"
+msgstr "Skalierung"
+
+msgid "Regular Expressions"
+msgstr "Reguläre Ausdrücke"
+
+msgid "Outsourcing"
+msgstr "Outsourcing"
+
+msgid "Affiliate Systems"
+msgstr "Affiliate-Systeme"
+
+msgid "Framework Development"
+msgstr "Framework-Entwicklung"
+
+msgid "User-Generated Content"
+msgstr "User-Generated Content"
+
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+msgid "Cross-Browser Compatibility"
+msgstr "Cross-Browser-Kompatibilität"
+
+msgid "Semantic Web"
+msgstr "Semantic Web"
+
+msgid "Quality Control"
+msgstr "Qualitätskontrolle"
+
+msgid "Web-Crawling"
+msgstr "Web-Crawling"
+
+msgid "Social Networks"
+msgstr "Social Networks"
+
+msgid "Entrepreneurship"
+msgstr "Entrepreneurship"
+
+msgid "APIs"
+msgstr "APIs"
+
+msgid "Refactoring"
+msgstr "Refactoring"
+
+msgid "Version Control"
+msgstr "Versionskontrolle"
+
+msgid "Frontend Development"
+msgstr "Frontend-Entwicklung"
+
+msgid "Web Application Architecture"
+msgstr "Web Application Architecture"
+
+msgid "User Experience Design"
+msgstr "User Experience Design"
+
+msgid "Content Management Systems"
+msgstr "Content-Management-Systeme"
+
+msgid "Programming Paradigms"
+msgstr "Programmierparadigmen"
+
+msgid "Artificial Intelligence"
+msgstr "Künstliche Intelligenz"
+
+msgid "Pair Programming"
+msgstr "Pair Programming"
+
+msgid "Test-Driven Software Development"
+msgstr "Test-Driven Software Development"
+
+msgid "Search Engine Optimization"
+msgstr "Suchmaschinenoptimierung"
+
+msgid "Web-Based Training"
+msgstr "Web-Based Training"
+
+msgid "Model-View-Controller Design Pattern"
+msgstr "Model-View-Controller Design Pattern"
+
+msgid "Booking Engines"
+msgstr "Buchungssysteme"
+
+msgid "Web Services"
+msgstr "Web Services"
+
+msgid "E-Learning"
+msgstr "E-Learning"
+
+msgid "Data Migration"
+msgstr "Datenmigration"
+
+msgid "Open Source Software"
+msgstr "Open-Source-Software"
+
+msgid "Leadership"
+msgstr "Personalführung"
+
+msgid "Offshoring"
+msgstr "Offshoring"
+
+#programming-languages
+
+msgid "Programming Languages and Technologies"
+msgstr "Programmiersprachen und Technologien"
+
+#frameworks
+
+msgid "frameworks"
+msgstr "frameworks"
+
+msgid "Frameworks and Auxiliary Tools"
+msgstr "Frameworks und Tools"
+
+#sample-work
+
+msgid "Source code"
+msgstr "Quellcode"
+
+msgid "CMS add-on for <a href="http://code.google.com/p/nacho/" title="nacho">nacho</a> (2011)"
+msgstr "CMS-Add-on für <a href="http://code.google.com/p/nacho/" title="nacho">nacho</a> (2011)"
+
+msgid "The full-featured content management system cheese is a delicious topping for nacho. Configuring or extending field types for database tables and corresponding models is all that has to be done for obtaining a complete <em>create-read-update-delete</em> database interface."
+msgstr "Das voll ausgestattete Content-Management-System cheese ist eine köstliche Garnierung für nacho. Um eine komplette <em>Create-Read-Update-Delete</em>-Schnittstelle für Datenbanken zu erhalten, reicht es aus die Feldtypen für Datenbanktabellen und die korrespondierenden Models zu konfigurieren."
+
+msgid "Web application framework (2011)"
+msgstr "Web Application Framework (2011)"
+
+msgid "Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP5</em> features have been utilized in the development of nacho, among others:"
+msgstr "Die Prinzipien <em>Rapid Development</em> und <em>Convention Over Configuration</em> sind im MVC-basierten Web Application Framework nacho kombiniert. Das Framework ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten. Viele <em>PHP5</em>-Features wurden bei der Entwicklung von nacho verwendet, unter anderem:"
+
+msgid "Reflection"
+msgstr "Reflexion"
+
+msgid "magic methods"
+msgstr "magische Methoden"
+
+msgid "autoloading"
+msgstr "Autoloading"
+
+msgid "class abstraction"
+msgstr "Klassenabstraktion"
+
+msgid "type hinting"
+msgstr "Type Hinting"
+
+msgid "and"
+msgstr "und"
+
+msgid "error backtracking"
+msgstr "Fehlerzurückverfolgung"
+
+msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding. Currently, the following database types are supported:"
+msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session- und Ausnahmebehandlung, Anfrageumleitung, Schablonieren, Ausgabepufferung sowie Eingabevalidierung. Herausragend ist außerdem die implementierte <em>Datenbankabstraktion</em>. Aktuell werden folgende Datenbanktypen unterstützt:"
+
+msgid "Beerball Simulator"
+msgstr "Bierball-Simulator"
+
+msgid "Demonstration"
+msgstr "Demonstration"
+
+msgid "One-day project (2009)"
+msgstr "Eintagesprojekt (2009)"
+
+msgid "Not to be taken too seriously, this gimmick simulates a game of Beerball. Playing Beerball requires throwing accuracy and running speed as well as drinking skills."
+msgstr "Diese nicht ganz ernstzunehmende Spielerei simuliert eine Partie Bierball. Bierball fordert von seinen Spielern nicht nur Wurfgeschick und Laufgeschwindigkeit, sondern auch Trinkfähigkeit."
+
+#work-experience
+
+msgid "since 08/2009"
+msgstr "seit 08/2009"
+
+msgid "I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado Ltd</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
+msgstr "Ich bin Gründer und <em>CTO</em> der <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt. Seit November 2010 sind wir mit einer Beta-Version und über 2000 Coaching-Videos live."
+
+msgid "since 1999"
+msgstr "seit 1999"
+
+msgid "Web and software development &ndash; selected projects:"
+msgstr "Web- und Software-Entwicklung &ndash; ausgewählte Projekte:"
+
+msgid "One-day project <em>Scraping</em> library for product catalogues (2010)"
+msgstr "Eintagesprojekt <em>Scraping</em>-Library für Produktkataloge (2010)"
+
+msgid "One-day project <a href="http://names.notmybiz.com" title="Filtering names">Filtering names</a> by configurable patterns (2010)"
+msgstr "Eintagesprojekt <a href="http://names.notmybiz.com" title="Filtern von Vornamen">Filtern von Vornamen</a> nach konfigurierbaren Mustern (2010)"
+
+msgid "One-day project <a href="http://trend.notmybiz.com" title="Der nÃ¤chste musikalische Trend">Der nÃ¤chste musikalische Trend</a> (2009)"
+msgstr "Eintagesprojekt <a href="http://trend.notmybiz.com" title="Der nächste musikalische Trend">Der nächste musikalische Trend</a> (2009)"
+
+msgid "Development of the <em>MVC</em>-based web application framework nacho (2009)"
+msgstr "Entwicklung des <em>MVC</em>-basierten Web Application Frameworks nacho (2009)"
+
+msgid "Application for the creation of flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)"
+msgstr "Anwendung für das Erstellen von flexiblen <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">Umfragen</a> (2009)"
+
+msgid "All-round development of the fun sports community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)"
+msgstr "Rundum-Entwicklung der Freizeitsport-Community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)"
+
+msgid "Real estate platform for <a href="http://www.lbsi.de/immobiliengesellschaften" title="LBS Immobiliengesellschaften">LBS Immobiliengesellschaften</a> (2003)"
+msgstr "Immobilienportal für die <a href="http://www.lbsi.de/immobiliengesellschaften" title="LBS Immobiliengesellschaften">LBS Immobiliengesellschaften</a> (2003)"
+
+msgid "Database interface for the <a href="http://uni-bremen.de" title="University of Bremen">University of Bremen</a> (2002)"
+msgstr "Datenbankschnittstelle für die <a href="http://uni-bremen.de" title="Universität Bremen">Universität Bremen</a> (2002)"
+
+msgid "Development of the content management system MWMS (2001 - 2003)"
+msgstr "Entwicklung des Content-Management-Systems MWMS (2001 - 2003)"
+
+msgid "Development of the bookmark sharing platform Linkoln (2001)"
+msgstr "Entwicklung der Bookmark-Sharing-Plattform Linkoln (2001)"
+
+msgid "01/2009 - 08/2009"
+msgstr "01/2009 - 08/2009"
+
+msgid "8 months"
+msgstr "8 Monate"
+
+msgid "Freelance work as a senior web developer for the online agencies"
+msgstr "Freie Mitarbeit als Senior Web Developer für die Online-Agenturen "
+
+msgid "08/2007 - 01/2009"
+msgstr "08/2007 - 01/2009"
+
+msgid "1 year, 6 months"
+msgstr "1 Jahr, 6 Monate"
+
+msgid "Core and feature development for the startup <em>mytourclips AG</em>:"
+msgstr "Core und Feature Development für das Startup <em>mytourclips AG</em>:"
+
+msgid "Multimedia, video streaming"
+msgstr "Multimedia, Video-Streaming"
+
+msgid "Social network/community"
+msgstr "Social Network/Community"
+
+msgid "Editiorially maintainable and user-generated content"
+msgstr "Redaktionell gepflegte Inhalte sowie User-Generated Content"
+
+msgid "Internationalization, scaling, high availability"
+msgstr "Internationalisierung, Skalierung, High Availability"
+
+msgid "Affiliating, booking engies und content aggregation"
+msgstr "Affiliating, Buchungssysteme und Content-Aggregation"
+
+msgid "In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
+msgstr "Im Juni 2007 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
+
+msgid "07/2006 - 10/2007"
+msgstr "07/2006 - 10/2007"
+
+msgid "1 year, 4 months"
+msgstr "1 Jahr, 4 Monate"
+
+msgid "Animation, background/character clean up and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
+msgstr "Animation, Background sowie Character Clean Up und Compositing-Assistenz beim Zeichentrickfilm <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> von <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
+
+msgid "06/2000 - 12/2008"
+msgstr "06/2000 - 12/2008"
+
+msgid "8 years, 7 months"
+msgstr "8 Jahre, 7 Monate"
+
+msgid "Software development and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches"
+msgstr "Software-Entwicklung und Betreuung der Webpräsenzen für die 111 Group und die Tochterunternehmen in den Sparten Immobilien und Touristik"
+
+#contact-me
+
+msgid "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
+msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert. Gern sende ich Ihnen Arbeitsproben oder detailliertere Projektbeschreibungen zu. Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
+
+msgid "/img/contact-en.gif"
+msgstr "/img/contact-de.gif"
+
+msgid "Contact me"
+msgstr "Kontaktieren Sie mich"
+
+msgid "You are welcome to visit my profile in the following social networks:"
+msgstr "Gern können Sie außerdem meine Profile in den folgenden sozialen Netzwerken besuchen:"
+
+msgid "Simon Sablowski at LinkedIn"
+msgstr "Simon Sablowski bei LinkedIn"
+
+msgid "Simon Sablowski at XING"
+msgstr "Simon Sablowski bei XING"
+
+msgid "Simon Sablowski at Facebook"
+msgstr "Simon Sablowski bei Facebook"
+
+msgid "Simon Sablowski at Last.fm"
+msgstr "Simon Sablowski bei Last.fm"
+
+msgid "Simon Sablowski at YouTube"
+msgstr "Simon Sablowski bei YouTube"
+
+msgid "Simon Sablowski at IMDb"
+msgstr "Simon Sablowski bei IMDb"
+
+#copyright
+
+msgid "&copy; 2010 Simon Sablowski"
+msgstr "&copy; 2010 Simon Sablowski"

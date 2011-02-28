@@ -1,0 +1,60 @@
+@import 'screen.css';
+
+#document, #content {
+	padding: 0;
+	width: auto;
+}
+
+#menu {
+	top: 82px;
+}
+
+#content {
+	border: 0 none;
+	margin: 0 0 0 160px;
+}
+
+#head {
+	margin-left: -160px;
+}
+
+#logo {
+	height: 30px;
+	padding: 0 0 0 15px;
+	width: 242px;
+}
+
+#photo, #large-photo {
+	right: 0;
+	top: 0;
+}
+
+#magnifier {
+	right: 70px;
+	top: 92px;
+}
+
+#body {
+	padding: 48px 0 48px 20px;
+	text-align: left;
+	width: auto;
+}
+
+#body .sub-section {
+	float: none;
+	width: auto !important;
+}
+
+#body .section .frameworks {
+	padding-top: 26px;
+}
+
+#body .work-experience .item {
+	clear: none;
+	float: none;
+	width: auto;
+}
+
+#body .work-experience .description {
+	margin-left: 20px;
+}
