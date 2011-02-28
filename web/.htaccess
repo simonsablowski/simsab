@@ -1,0 +1,6 @@
+ErrorDocument 404 index.php
+
+RewriteEngine on
+
+RewriteRule ^$ index.php
+RewriteRule ^([a-z]+)/?$ index.php?localization=$1

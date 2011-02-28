@@ -1,0 +1,62 @@
+@import 'screen.css';
+
+#document {
+	width: auto;
+}
+
+#sidebar, #magnifier, #foot {
+	display: none;
+}
+
+#head {
+	padding-top: 0;
+	width: 100%;
+}
+
+#content {
+	border: 0 none;
+	margin-left: 0;
+}
+
+#logo {
+	height: 30px;
+	padding: 0 0 31px 27px;
+	top: 0;
+	width: 242px;
+}
+
+#photo {
+	top: 0;
+}
+
+#body {
+	border: 0 none;
+	width: auto;
+}
+
+#body a.external {
+	background-image: none;
+	padding-right: 0;
+}
+
+#body a.external:after {
+	content: " <"attr(href)">";
+}
+
+#body .sub-section {
+	float: none;
+	width: auto !important;
+}
+
+#body .section .frameworks {
+	padding-top: 26px;
+}
+
+#body .work-experience {
+	text-align: left;
+}
+
+#body .contact-me li {
+	float: none;
+	display: block;
+}

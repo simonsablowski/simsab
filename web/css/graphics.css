@@ -1,0 +1,11 @@
+#magnifier {
+	background: url('../img/magnifier.gif') no-repeat;
+}
+
+#body li {
+	list-style-image: url('../img/list-item.gif');
+}
+
+#body a.external {
+	background: url('../img/external.gif') no-repeat right center;
+}

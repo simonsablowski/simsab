@@ -1,0 +1,31 @@
+html, #content {
+	background-color: #fff;
+}
+
+#large-photo {
+	border-color: #fff;
+}
+
+#menu .item a, #print a {
+	color: #fff;
+}
+
+#menu .item a:hover, #menu .language a {
+	color: #bda;
+}
+
+#content, abbr, acronym {
+	border-color: #ccc;
+}
+
+#body .work-experience .item .sub-line, #copyright {
+	color: #999;
+}
+
+#menu {
+	background-color: #390;
+}
+
+#body h2, #body h3, #body a, #body em, #body strong {
+	color: #390;
+}

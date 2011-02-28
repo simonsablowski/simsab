@@ -1,0 +1,36 @@
+#menu {
+	background-image: url('../img/menu-top.png');
+	background-position: top left;
+	background-repeat: no-repeat;
+	padding-bottom: 0;
+}
+
+#menu .language {
+	background-color: #390;
+	background-image: url('../img/menu-bottom.png');
+	background-position: top left;
+	background-repeat: no-repeat;
+	padding-bottom: 18px;
+}
+
+#content {
+	border: 0 none;
+	width: 700px;
+}
+
+#head {
+	background-image: url('../img/head.png');
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+#body {
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+
+#foot {
+	background-image: url('../img/foot.png');
+	background-position: bottom center;
+	background-repeat: no-repeat;
+}
