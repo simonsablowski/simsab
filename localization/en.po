@@ -51,16 +51,16 @@ msgstr "contact-me"
 msgid "Contact Me"
 msgstr "Contact Me"
 
-msgid "/de"
-msgstr "/de"
+msgid "de"
+msgstr "de"
 
 msgid "Deutsche Version"
 msgstr "Deutsche Version"
 
 #head
 
-msgid "/en"
-msgstr "/en"
+msgid "en"
+msgstr "en"
 
 msgid "Simon Sablowski"
 msgstr "Simon Sablowski"
@@ -321,46 +321,20 @@ msgstr "error backtracking"
 msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding. Currently, the following database types are supported:"
 msgstr "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding. Currently, the following database types are supported:"
 
-msgid "Beerball Simulator"
-msgstr "Beerball Simulator"
-
-msgid "Demonstration"
-msgstr "Demonstration"
-
-msgid "One-day project (2009)"
-msgstr "One-day project (2009)"
-
-msgid "Not to be taken too seriously, this gimmick simulates a game of Beerball. Playing Beerball requires throwing accuracy and running speed as well as drinking skills."
-msgstr "Not to be taken too seriously, this gimmick simulates a game of Beerball. Playing Beerball requires throwing accuracy and running speed as well as drinking skills."
-
-#work-experience
-
-msgid "since 08/2009"
-msgstr "since 08/2009"
-
-msgid "I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado Ltd</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
-msgstr "I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado Ltd</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
-
-msgid "since 1999"
-msgstr "since 1999"
-
-msgid "Web and software development &ndash; selected projects:"
-msgstr "Web and software development &ndash; selected projects:"
-
-msgid "One-day project <em>Scraping</em> library for product catalogues (2010)"
-msgstr "One-day project <em>Scraping</em> library for product catalogues (2010)"
+msgid "One-day project library for scraping product catalogues (2010)"
+msgstr "One-day project library for scraping product catalogues (2010)"
 
 msgid "One-day project <a href="http://names.notmybiz.com" title="Filtering names">Filtering names</a> by configurable patterns (2010)"
 msgstr "One-day project <a href="http://names.notmybiz.com" title="Filtering names">Filtering names</a> by configurable patterns (2010)"
 
-msgid "One-day project <a href="http://trend.notmybiz.com" title="Der nÃ¤chste musikalische Trend">Der nÃ¤chste musikalische Trend</a> (2009)"
-msgstr "One-day project <a href="http://trend.notmybiz.com" title="Der nÃ¤chste musikalische Trend">Der nÃ¤chste musikalische Trend</a> (2009)"
+msgid "One-day project <a href="http://trend.notmybiz.com" title="Der nächste musikalische Trend">Der nächste musikalische Trend</a> (2009)"
+msgstr "One-day project <a href="http://trend.notmybiz.com" title="Der nächste musikalische Trend">Der nächste musikalische Trend</a> (2009)"
 
-msgid "Development of the <em>MVC</em>-based web application framework nacho (2009)"
-msgstr "Development of the <em>MVC</em>-based web application framework nacho (2009)"
+msgid "One-day project <a href="http://bbs.notmybiz.com" title="Beerball Simulator">Beerball Simulator</a> (2009)"
+msgstr "One-day project <a href="http://bbs.notmybiz.com" title="Beerball Simulator">Beerball Simulator</a> (2009)"
 
-msgid "Application for the creation of flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)"
-msgstr "Application for the creation of flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)"
+msgid "One-day project application for flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)"
+msgstr "One-day project application for flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)"
 
 msgid "All-round development of the fun sports community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)"
 msgstr "All-round development of the fun sports community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)"
@@ -376,6 +350,23 @@ msgstr "Development of the content management system MWMS (2001 - 2003)"
 
 msgid "Development of the bookmark sharing platform Linkoln (2001)"
 msgstr "Development of the bookmark sharing platform Linkoln (2001)"
+
+#work-experience
+
+msgid "since 08/2009"
+msgstr "since 08/2009"
+
+msgid "I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado Ltd</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
+msgstr "I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado Ltd</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
+
+msgid "since 1999"
+msgstr "since 1999"
+
+msgid "Web and software development"
+msgstr "Web and software development"
+
+msgid "I am a developer and architect for web applications with more than ten years of experience. My main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design. Specializing in these fields, I have contributed my expertise and creativity to numerous exciting projects."
+msgstr "I am a developer and architect for web applications with more than ten years of experience. My main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design. Specializing in these fields, I have contributed my expertise and creativity to numerous exciting projects."
 
 msgid "01/2009 - 08/2009"
 msgstr "01/2009 - 08/2009"
@@ -436,8 +427,8 @@ msgstr "Software development and website maintenance for the 111 Group and the s
 msgid "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
 msgstr "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
 
-msgid "/img/contact-en.gif"
-msgstr "/img/contact-de.gif"
+msgid "img/contact-en.gif"
+msgstr "img/contact-de.gif"
 
 msgid "Contact me"
 msgstr "Contact me"

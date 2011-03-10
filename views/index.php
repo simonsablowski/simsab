@@ -9,13 +9,14 @@
 		<meta name="description" content="<?php echo $this->localize('Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design.'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/screen.css" rel="stylesheet" title="Default" type="text/css" media="screen"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/print.css" rel="stylesheet" title="Print" type="text/css" media="print"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" title="Handheld" type="text/css" media="handheld"/>
-		<!--[if IE]><link href="<?php echo $this->getConfiguration('basePath'); ?>css/ie.css" rel="stylesheet" title="Internet Explorer" type="text/css" media="screen"/><![endif]-->
-		<link type="image/x-icon" href="<?php echo $this->getConfiguration('basePath'); ?>img/favicon.ico" rel="shortcut icon"/>
-		<script type="text/javascript" src="<?php echo $this->getConfiguration('basePath'); ?>js/jquery-1.4.2.min.js"></script>
-		<script type="text/javascript" src="<?php echo $this->getConfiguration('basePath'); ?>js/simsab.js"></script>
+		<base href="<?php echo $this->getConfiguration('basePath'); ?>"/>
+		<link href="css/screen.css" rel="stylesheet" title="Default" type="text/css" media="screen"/>
+		<link href="css/print.css" rel="stylesheet" title="Print" type="text/css" media="print"/>
+		<link href="css/handheld.css" rel="stylesheet" title="Handheld" type="text/css" media="handheld"/>
+		<!--[if IE]><link href="css/ie.css" rel="stylesheet" title="Internet Explorer" type="text/css" media="screen"/><![endif]-->
+		<link type="image/x-icon" href="img/favicon.ico" rel="shortcut icon"/>
+		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="js/simsab.js"></script>
 	</head>
 	<body>
 		<div id="document">
@@ -31,7 +32,7 @@
 						<a href="#<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming'); ?>"><?php echo $this->localize('Programming'); ?></a>
 					</li>
 					<li class="item">
-						<a href="#<?php echo $this->localize('sample-work'); ?>" title="<?php echo $this->localize('Sample Work'); ?>"><?php echo $this->localize('Sample Work'); ?></a>
+						<a href="#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
 					</li>
 					<li class="item">
 						<a href="#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Work Experience'); ?>"><?php echo $this->localize('Work Experience'); ?></a>
@@ -40,15 +41,15 @@
 						<a href="#<?php echo $this->localize('contact-me'); ?>" title="<?php echo $this->localize('Contact Me'); ?>"><?php echo $this->localize('Contact Me'); ?></a>
 					</li>
 					<li class="language item">
-						<a href="<?php echo $this->localize('/de'); ?>" title="<?php echo $this->localize('Deutsche Version'); ?>"><?php echo $this->localize('Deutsche Version'); ?></a>
+						<a href="<?php echo $this->localize('de'); ?>" title="<?php echo $this->localize('Deutsche Version'); ?>"><?php echo $this->localize('Deutsche Version'); ?></a>
 					</li>
 				</ul>
 			</div>
 			<div id="content">
 				<div id="head">
-					<a href="<?php echo $this->localize('/en'); ?>" title="<?php echo $this->localize('simsab'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.gif" alt="<?php echo $this->localize('simsab'); ?>" title="<?php echo $this->localize('simsab'); ?>"/></a>
-					<img id="photo" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
-					<img id="large-photo" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski-large.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
+					<a href="<?php echo $this->localize('en'); ?>" title="<?php echo $this->localize('simsab'); ?>"><img id="logo" src="img/logo.gif" alt="<?php echo $this->localize('simsab'); ?>" title="<?php echo $this->localize('simsab'); ?>"/></a>
+					<img id="photo" src="img/simon-sablowski.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
+					<img id="large-photo" src="img/simon-sablowski-large.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
 					<div id="magnifier"><!--  --></div>
 				</div>
 				<div id="body">
@@ -202,9 +203,9 @@
 						</div>
 						<div class="clear"><!--  --></div>
 					</div>
-					<div class="section sample-work">
+					<div class="section projects">
 						<h2>
-							<a href="#<?php echo $this->localize('sample-work'); ?>" name="<?php echo $this->localize('sample-work'); ?>" title="<?php echo $this->localize('Sample Work'); ?>"><?php echo $this->localize('Sample Work'); ?></a>
+							<a href="#<?php echo $this->localize('projects'); ?>" name="<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
 						</h2>
 						<dl>
 							<dt class="item">
@@ -245,7 +246,7 @@
 									<span>MS Access.</span>
 								</p>
 							</dd>
-							<dt class="item">
+							<?php/*dt class="item">
 								<a href="http://code.google.com/p/beerball-simulator/" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a><br/>
 								<a class="sub-line" href="http://bbs.notmybiz.com" title="<?php echo $this->localize('Demonstration'); ?>"><?php echo $this->localize('Demonstration'); ?></a><br/>
 								<a class="sub-line" href="http://code.google.com/p/beerball-simulator/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
@@ -257,8 +258,42 @@
 								<p>
 									<?php echo $this->localize('Not to be taken too seriously, this gimmick simulates a game of Beerball. Playing Beerball requires throwing accuracy and running speed as well as drinking skills.'); ?>
 								</p>
-							</dd>
-						</dl>
+							</dd*/?>
+						</dt>
+						<ul>
+							<li>
+								<?php echo $this->localize('One-day project library for scraping product catalogues (2010)'); ?> &ndash;
+								<a href="http://code.google.com/p/scraping/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+							</li>
+							<li>
+								<?php echo $this->localize('One-day project <a href="http://names.notmybiz.com" title="Filtering names">Filtering names</a> by configurable patterns (2010)'); ?>
+							</li>
+							<li>
+								<?php echo $this->localize('One-day project <a href="http://trend.notmybiz.com" title="Der nächste musikalische Trend">Der nächste musikalische Trend</a> (2009)'); ?>
+							</li>
+							<li>
+								<?php echo $this->localize('One-day project <a href="http://bbs.notmybiz.com" title="Beerball Simulator">Beerball Simulator</a> (2009)'); ?> &ndash;
+								<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+							</li>
+							<li>
+								<?php echo $this->localize('One-day project application for flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)'); ?>
+							</li>
+							<li>
+								<?php echo $this->localize('All-round development of the fun sports community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)'); ?>
+							</li>
+							<li>
+								<?php echo $this->localize('Real estate platform for <a href="http://www.lbsi.de/immobiliengesellschaften" title="LBS Immobiliengesellschaften">LBS Immobiliengesellschaften</a> (2003)'); ?>
+							</li>
+							<li>
+								<?php echo $this->localize('Database interface for the <a href="http://uni-bremen.de" title="University of Bremen">University of Bremen</a> (2002)'); ?>
+							</li>
+							<li>
+								<?php echo $this->localize('Development of the content management system MWMS (2001 - 2003)'); ?>
+							</li>
+							<li>
+								<?php echo $this->localize('Development of the bookmark sharing platform Linkoln (2001)'); ?>
+							</li>
+						</ul>
 					</div>
 					<div class="section work-experience">
 						<h2>
@@ -277,7 +312,7 @@
 								<?php echo $this->localize('since 1999'); ?>
 							</dt>
 							<dd class="description">
-								<p>
+								<?php/*p>
 									<?php echo $this->localize('Web and software development &ndash; selected projects:'); ?>
 								</p>
 								<ul>
@@ -311,7 +346,13 @@
 									<li>
 										<?php echo $this->localize('Development of the bookmark sharing platform Linkoln (2001)'); ?>
 									</li>
-								</ul>
+								</ul*/?>
+								<p>
+									<?php echo $this->localize('Web and software development'); ?>
+								</p>
+								<p>
+									<?php echo $this->localize('I am a developer and architect for web applications with more than ten years of experience. My main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design. Specializing in these fields, I have contributed my expertise and creativity to numerous exciting projects.'); ?>
+								</p>
 							</dd>
 							<dt class="item">
 								<?php echo $this->localize('01/2009 - 08/2009'); ?>
@@ -386,7 +427,7 @@
 						<p>
 							<?php echo $this->localize('I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:'); ?>
 						</p>
-						<img src="<?php echo $this->getConfiguration('basePath') . $this->localize('img/contact-en.gif'); ?>" alt="<?php echo $this->localize('Contact me'); ?>" title="<?php echo $this->localize('Contact me'); ?>"/>
+						<img src="<?php echo $this->localize('img/contact-en.gif'); ?>" alt="<?php echo $this->localize('Contact me'); ?>" title="<?php echo $this->localize('Contact me'); ?>"/>
 						<p>
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
 						</p>
