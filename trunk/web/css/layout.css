@@ -127,7 +127,7 @@ a.external {
 	width: 323px;
 }
 
-#body .professional-skills span, #body .sample-work span {
+#body .professional-skills span, #body .projects span {
 	white-space: nowrap;
 }
 
@@ -139,11 +139,11 @@ a.external {
 	width: 107px;
 }
 
-#body .work-experience .item, #body .work-experience .description, #body .sample-work .item, #body .sample-work .description {
+#body .work-experience .item, #body .work-experience .description, #body .projects .item, #body .projects .description {
 	padding-bottom: 20px;
 }
 
-#body .work-experience .item, #body .sample-work .item {
+#body .work-experience .item, #body .projects .item {
 	clear: left;
 	float: left;
 	width: 150px;
@@ -154,11 +154,11 @@ a.external {
 	font-size: 85%;
 }
 
-#body .sample-work .item .sub-line {
+#body .projects .item .sub-line {
 	font-size: 85%;
 }
 
-#body .work-experience .description, #body .sample-work .description {
+#body .work-experience .description, #body .projects .description {
 	margin-left: 150px;
 }
 

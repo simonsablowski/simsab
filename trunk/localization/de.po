@@ -33,11 +33,11 @@ msgstr "programmierung"
 msgid "Programming"
 msgstr "Programmierung"
 
-msgid "sample-work"
-msgstr "arbeitsproben"
+msgid "projects"
+msgstr "projekte"
 
-msgid "Sample Work"
-msgstr "Arbeitsproben"
+msgid "Projects"
+msgstr "Projekte"
 
 msgid "work-experience"
 msgstr "berufserfahrung"
@@ -280,7 +280,7 @@ msgstr "frameworks"
 msgid "Frameworks and Auxiliary Tools"
 msgstr "Frameworks und Tools"
 
-#sample-work
+#projects
 
 msgid "Source code"
 msgstr "Quellcode"
