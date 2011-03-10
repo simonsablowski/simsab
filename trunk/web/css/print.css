@@ -52,8 +52,19 @@
 	padding-top: 26px;
 }
 
-#body .work-experience {
+#body .projects, #body .work-experience {
 	text-align: left;
+}
+
+#body .projects .item, #body .work-experience .item {
+	clear: none;
+	float: none;
+	padding-bottom: 0;
+	width: auto;
+}
+
+#body .projects .description, #body .work-experience .description {
+	margin-left: 20px;
 }
 
 #body .contact-me li {

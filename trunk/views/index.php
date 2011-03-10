@@ -10,9 +10,9 @@
 		<meta name="keywords" content="<?php echo $this->localize('simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
 		<base href="<?php echo $this->getConfiguration('basePath'); ?>"/>
-		<link href="css/screen.css" rel="stylesheet" title="Default" type="text/css" media="screen"/>
-		<link href="css/print.css" rel="stylesheet" title="Print" type="text/css" media="print"/>
-		<link href="css/handheld.css" rel="stylesheet" title="Handheld" type="text/css" media="handheld"/>
+		<link href="css/screen.css" rel="stylesheet" type="text/css" media="screen"/>
+		<link href="css/print.css" rel="stylesheet" type="text/css" media="print"/>
+		<link href="css/handheld.css" rel="stylesheet" type="text/css" media="handheld"/>
 		<!--[if IE]><link href="css/ie.css" rel="stylesheet" title="Internet Explorer" type="text/css" media="screen"/><![endif]-->
 		<link type="image/x-icon" href="img/favicon.ico" rel="shortcut icon"/>
 		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
@@ -59,15 +59,19 @@
 						</h2>
 						<p>
 							<?php echo $this->localize('I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to numerous exciting projects.'); ?>
+
 						</p>
 						<p>
 							<?php echo $this->localize('While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standard in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. My main focus lies with <em>software architecture</em>, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
+
 						</p>
 						<p>
 							<?php echo $this->localize('Throughout my career I have worked on projects by myself or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit.'); ?>
+
 						</p>
 						<p>
 							<?php echo $this->localize('In my spare time I concern myself with any kind of art and culture. I enjoy life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>.'); ?>
+
 						</p>
 					</div>
 					<div class="section professional-skills">
@@ -223,10 +227,12 @@
 									<span><?php echo $this->localize('error backtracking'); ?>,</span>
 									<span><?php echo $this->localize('class abstraction'); ?>,</span>
 									<span><?php echo $this->localize('type hinting'); ?></span> <?php echo $this->localize('and'); ?>
+
 									<span><?php echo $this->localize('autoloading'); ?>.</span>
 								</p>
 								<p>
 									<?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office.'); ?>
+
 								</p>
 							</dd>
 							<dt class="item">
@@ -289,30 +295,37 @@
 						<dl>
 							<dt class="item">
 								<?php echo $this->localize('since 08/2009'); ?>
+
 							</dt>
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010.'); ?>
+
 								</p>
 							</dd>
 							<dt class="item">
 								<?php echo $this->localize('since 1999'); ?>
+
 							</dt>
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Web and software development'); ?>
+
 								</p>
 								<p>
 									<?php echo $this->localize('My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to 100+ exciting projects.'); ?>
+
 								</p>
 							</dd>
 							<dt class="item">
 								<?php echo $this->localize('01/2009 - 08/2009'); ?>
+
 								<span class="sub-line"><?php echo $this->localize('8 months'); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Freelance work as a senior web developer for the online agencies'); ?>
+
 								</p>
 								<ul>
 									<li>
@@ -325,11 +338,13 @@
 							</dd>
 							<dt class="item">
 								<?php echo $this->localize('08/2007 - 01/2009'); ?>
+
 								<span class="sub-line"><?php echo $this->localize('1 year, 6 months'); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Core and feature development for the startup <em>mytourclips AG</em>:'); ?>
+
 								</p>
 								<p>
 									<span><?php echo $this->localize('Multimedia, video streaming'); ?>,</span>
@@ -340,24 +355,29 @@
 								</p>
 								<p>
 									<?php echo $this->localize('In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product.'); ?>
+
 								</p>
 							</dd>
 							<dt class="item">
 								<?php echo $this->localize('07/2006 - 10/2007'); ?>
+
 								<span class="sub-line"><?php echo $this->localize('1 year, 4 months'); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Animation, background/character clean up and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>'); ?>
+
 								</p>
 							</dd>
 							<dt class="item">
 								<?php echo $this->localize('06/2000 - 12/2008'); ?>
+
 								<span class="sub-line"><?php echo $this->localize('8 years, 7 months'); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Software development and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches'); ?>
+
 								</p>
 							</dd>
 						</dl>
@@ -368,10 +388,12 @@
 						</h2>
 						<p>
 							<?php echo $this->localize('I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:'); ?>
+
 						</p>
 						<img src="<?php echo $this->localize('img/contact-en.gif'); ?>" alt="<?php echo $this->localize('Contact me'); ?>" title="<?php echo $this->localize('Contact me'); ?>"/>
 						<p>
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
+
 						</p>
 						<ul>
 							<li>
@@ -398,6 +420,7 @@
 				<div id="foot">
 					<p id="copyright">
 						<?php echo $this->localize('&copy; 2010 Simon Sablowski'); ?>
+
 					</p>
 				</div>
 			</div>
