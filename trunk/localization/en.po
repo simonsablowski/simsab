@@ -285,12 +285,6 @@ msgstr "Frameworks and Auxiliary Tools"
 msgid "Source code"
 msgstr "Source code"
 
-msgid "CMS add-on for <a href="http://code.google.com/p/nacho/" title="nacho">nacho</a> (2011)"
-msgstr "CMS add-on for <a href="http://code.google.com/p/nacho/" title="nacho">nacho</a> (2011)"
-
-msgid "The full-featured content management system cheese is a delicious topping for nacho. Configuring or extending field types for database tables and corresponding models is all that has to be done for obtaining a complete <em>create-read-update-delete</em> database interface."
-msgstr "The full-featured content management system cheese is a delicious topping for nacho. Configuring or extending field types for database tables and corresponding models is all that has to be done for obtaining a complete <em>create-read-update-delete</em> database interface."
-
 msgid "Web application framework (2011)"
 msgstr "Web application framework (2011)"
 
@@ -320,6 +314,9 @@ msgstr "error backtracking"
 
 msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding. Currently, the following database types are supported:"
 msgstr "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding. Currently, the following database types are supported:"
+
+msgid "CMS add-on <a href="http://code.google.com/p/cheese/" title="cheese">cheese</a> for nacho (2011)"
+msgstr "CMS add-on <a href="http://code.google.com/p/cheese/" title="cheese">cheese</a> for nacho (2011)"
 
 msgid "One-day project library for scraping product catalogues (2010)"
 msgstr "One-day project library for scraping product catalogues (2010)"
@@ -428,7 +425,7 @@ msgid "I am always looking for exciting new challenges and the opportunity to en
 msgstr "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
 
 msgid "img/contact-en.gif"
-msgstr "img/contact-de.gif"
+msgstr "img/contact-en.gif"
 
 msgid "Contact me"
 msgstr "Contact me"

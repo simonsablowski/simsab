@@ -285,12 +285,6 @@ msgstr "Frameworks und Tools"
 msgid "Source code"
 msgstr "Quellcode"
 
-msgid "CMS add-on for <a href="http://code.google.com/p/nacho/" title="nacho">nacho</a> (2011)"
-msgstr "CMS-Add-on für <a href="http://code.google.com/p/nacho/" title="nacho">nacho</a> (2011)"
-
-msgid "The full-featured content management system cheese is a delicious topping for nacho. Configuring or extending field types for database tables and corresponding models is all that has to be done for obtaining a complete <em>create-read-update-delete</em> database interface."
-msgstr "Das voll ausgestattete Content-Management-System cheese ist eine köstliche Garnierung für nacho. Um eine komplette <em>Create-Read-Update-Delete</em>-Schnittstelle für Datenbanken zu erhalten, reicht es aus die Feldtypen für Datenbanktabellen und die korrespondierenden Models zu konfigurieren."
-
 msgid "Web application framework (2011)"
 msgstr "Web Application Framework (2011)"
 
@@ -320,6 +314,9 @@ msgstr "Fehlerzurückverfolgung"
 
 msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding. Currently, the following database types are supported:"
 msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session- und Ausnahmebehandlung, Anfrageumleitung, Schablonieren, Ausgabepufferung sowie Eingabevalidierung. Herausragend ist außerdem die implementierte <em>Datenbankabstraktion</em>. Aktuell werden folgende Datenbanktypen unterstützt:"
+
+msgid "CMS add-on <a href="http://code.google.com/p/cheese/" title="cheese">cheese</a> for nacho (2011)"
+msgstr "CMS-Add-on <a href="http://code.google.com/p/cheese/" title="cheese">cheese</a> für nacho (2011)"
 
 msgid "One-day project library for scraping product catalogues (2010)"
 msgstr "Eintagesprojekt Library für das Scrapen von Produktkatalogen (2010)"
@@ -389,16 +386,16 @@ msgstr "Core und Feature Development für das Startup <em>mytourclips AG</em>:"
 msgid "Multimedia, video streaming"
 msgstr "Multimedia, Video-Streaming"
 
-msgid "Social network/community"
+msgid "social network/community"
 msgstr "Social Network/Community"
 
-msgid "Editiorially maintainable and user-generated content"
-msgstr "Redaktionell gepflegte Inhalte sowie User-Generated Content"
+msgid "editiorially maintainable and user-generated content"
+msgstr "redaktionell gepflegte Inhalte sowie User-Generated Content"
 
-msgid "Internationalization, scaling, high availability"
+msgid "internationalization, scaling, high availability"
 msgstr "Internationalisierung, Skalierung, High Availability"
 
-msgid "Affiliating, booking engies und content aggregation"
+msgid "affiliating, booking engies und content aggregation"
 msgstr "Affiliating, Buchungssysteme und Content-Aggregation"
 
 msgid "In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."

@@ -209,18 +209,6 @@
 						</h2>
 						<dl>
 							<dt class="item">
-								<a href="http://code.google.com/p/cheese/" title="cheese">cheese</a><br/>
-								<a class="sub-line" href="http://code.google.com/p/cheese/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('CMS add-on for <a href="http://code.google.com/p/nacho/" title="nacho">nacho</a> (2011)'); ?>
-								</p>
-								<p>
-									<?php echo $this->localize('The full-featured content management system cheese is a delicious topping for nacho. Configuring or extending field types for database tables and corresponding models is all that has to be done for obtaining a complete <em>create-read-update-delete</em> database interface.'); ?>
-								</p>
-							</dd>
-							<dt class="item">
 								<a href="http://code.google.com/p/nacho/" title="nacho">nacho</a><br/>
 								<a class="sub-line" href="http://code.google.com/p/nacho/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 							</dt>
@@ -246,21 +234,12 @@
 									<span>MS Access.</span>
 								</p>
 							</dd>
-							<?php/*dt class="item">
-								<a href="http://code.google.com/p/beerball-simulator/" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a><br/>
-								<a class="sub-line" href="http://bbs.notmybiz.com" title="<?php echo $this->localize('Demonstration'); ?>"><?php echo $this->localize('Demonstration'); ?></a><br/>
-								<a class="sub-line" href="http://code.google.com/p/beerball-simulator/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('One-day project (2009)'); ?>
-								</p>
-								<p>
-									<?php echo $this->localize('Not to be taken too seriously, this gimmick simulates a game of Beerball. Playing Beerball requires throwing accuracy and running speed as well as drinking skills.'); ?>
-								</p>
-							</dd*/?>
 						</dt>
 						<ul>
+							<li>
+								<?php echo $this->localize('CMS add-on <a href="http://code.google.com/p/cheese/" title="cheese">cheese</a> for nacho (2011)'); ?> &ndash;
+								<a href="http://code.google.com/p/cheese/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+							</li>
 							<li>
 								<?php echo $this->localize('One-day project library for scraping product catalogues (2010)'); ?> &ndash;
 								<a href="http://code.google.com/p/scraping/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
@@ -312,41 +291,6 @@
 								<?php echo $this->localize('since 1999'); ?>
 							</dt>
 							<dd class="description">
-								<?php/*p>
-									<?php echo $this->localize('Web and software development &ndash; selected projects:'); ?>
-								</p>
-								<ul>
-									<li>
-										<?php echo $this->localize('One-day project <em>Scraping</em> library for product catalogues (2010)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('One-day project <a href="http://names.notmybiz.com" title="Filtering names">Filtering names</a> by configurable patterns (2010)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('One-day project <a href="http://trend.notmybiz.com" title="Der nächste musikalische Trend">Der nächste musikalische Trend</a> (2009)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Development of the <em>MVC</em>-based web application framework nacho (2009)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Application for the creation of flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('All-round development of the fun sports community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Real estate platform for <a href="http://www.lbsi.de/immobiliengesellschaften" title="LBS Immobiliengesellschaften">LBS Immobiliengesellschaften</a> (2003)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Database interface for the <a href="http://uni-bremen.de" title="University of Bremen">University of Bremen</a> (2002)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Development of the content management system MWMS (2001 - 2003)'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Development of the bookmark sharing platform Linkoln (2001)'); ?>
-									</li>
-								</ul*/?>
 								<p>
 									<?php echo $this->localize('Web and software development'); ?>
 								</p>
@@ -379,23 +323,13 @@
 								<p>
 									<?php echo $this->localize('Core and feature development for the startup <em>mytourclips AG</em>:'); ?>
 								</p>
-								<ul>
-									<li>
-										<?php echo $this->localize('Multimedia, video streaming'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Social network/community'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Editiorially maintainable and user-generated content'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Internationalization, scaling, high availability'); ?>
-									</li>
-									<li>
-										<?php echo $this->localize('Affiliating, booking engies und content aggregation'); ?>
-									</li>
-								</ul>
+								<p>
+									<span><?php echo $this->localize('Multimedia, video streaming'); ?>,</span>
+									<span><?php echo $this->localize('social network/community'); ?>,</span>
+									<span><?php echo $this->localize('editiorially maintainable and user-generated content'); ?>,</span>
+									<span><?php echo $this->localize('internationalization, scaling, high availability'); ?>,</span>
+									<span><?php echo $this->localize('affiliating, booking engies und content aggregation'); ?></span>
+								</p>
 								<p>
 									<?php echo $this->localize('In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product.'); ?>
 								</p>
