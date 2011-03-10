@@ -209,12 +209,12 @@
 						</h2>
 						<dl>
 							<dt class="item">
-								<a href="http://code.google.com/p/nacho/" title="nacho">nacho</a><br/>
-								<a class="sub-line" href="http://code.google.com/p/nacho/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+								<em><?php echo $this->localize('nacho'); ?></em>
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Web application framework (2011)'); ?>
+									<?php echo $this->localize('Web application framework (2011)'); ?> &ndash;
+									<a href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 								<p>
 									<?php echo $this->localize('Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:'); ?>
@@ -226,53 +226,61 @@
 									<span><?php echo $this->localize('autoloading'); ?>.</span>
 								</p>
 								<p>
-									<?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding. Currently, the following database types are supported:'); ?>
-									<span>MySQL,</span>
-									<span>PostgreSQL,</span>
-									<span>MsSQL,</span>
-									<span>MS Excel,</span>
-									<span>MS Access.</span>
+									<?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office.'); ?>
+								</p>
+							</dd>
+							<dt class="item">
+								<em><?php echo $this->localize('cheese'); ?></em>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('CMS add-on for nacho'); ?> (2011) &ndash;
+									<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+								</p>
+							</dd>
+							<dt class="item">
+								<em><?php echo $this->localize('Scraper'); ?></em>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Library for scraping product catalogues'); ?> (2010) &ndash;
+									<a href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+								</p>
+							</dd>
+							<dt class="item">
+								<a href="http://names.notmybiz.com" title="<?php echo $this->localize('Filtering names'); ?>"><?php echo $this->localize('Filtering names'); ?></a>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Filtering names by configurable patterns'); ?> (2010)
+								</p>
+							</dd>
+							<dt class="item">
+								<a href="http://trend.notmybiz.com" title="<?php echo $this->localize('Trend'); ?>"><?php echo $this->localize('Trend'); ?></a>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Der nächste musikalische Trend'); ?> (2009)
+								</p>
+							</dd>
+							<dt class="item">
+								<a href="http://bbs.notmybiz.com" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &ndash;
+									<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+								</p>
+							</dd>
+							<dt class="item">
+								<a href="http://bierball.com" title="bierball.com">bierball.com</a>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('All-round development of a fun sports community for Beerball'); ?> (2008)
 								</p>
 							</dd>
 						</dt>
-						<ul>
-							<li>
-								<?php echo $this->localize('CMS add-on <a href="http://code.google.com/p/cheese/" title="cheese">cheese</a> for nacho (2011)'); ?> &ndash;
-								<a href="http://code.google.com/p/cheese/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-							</li>
-							<li>
-								<?php echo $this->localize('One-day project library for scraping product catalogues (2010)'); ?> &ndash;
-								<a href="http://code.google.com/p/scraping/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-							</li>
-							<li>
-								<?php echo $this->localize('One-day project <a href="http://names.notmybiz.com" title="Filtering names">Filtering names</a> by configurable patterns (2010)'); ?>
-							</li>
-							<li>
-								<?php echo $this->localize('One-day project <a href="http://trend.notmybiz.com" title="Der nächste musikalische Trend">Der nächste musikalische Trend</a> (2009)'); ?>
-							</li>
-							<li>
-								<?php echo $this->localize('One-day project <a href="http://bbs.notmybiz.com" title="Beerball Simulator">Beerball Simulator</a> (2009)'); ?> &ndash;
-								<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk/" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-							</li>
-							<li>
-								<?php echo $this->localize('One-day project application for flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)'); ?>
-							</li>
-							<li>
-								<?php echo $this->localize('All-round development of the fun sports community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)'); ?>
-							</li>
-							<li>
-								<?php echo $this->localize('Real estate platform for <a href="http://www.lbsi.de/immobiliengesellschaften" title="LBS Immobiliengesellschaften">LBS Immobiliengesellschaften</a> (2003)'); ?>
-							</li>
-							<li>
-								<?php echo $this->localize('Database interface for the <a href="http://uni-bremen.de" title="University of Bremen">University of Bremen</a> (2002)'); ?>
-							</li>
-							<li>
-								<?php echo $this->localize('Development of the content management system MWMS (2001 - 2003)'); ?>
-							</li>
-							<li>
-								<?php echo $this->localize('Development of the bookmark sharing platform Linkoln (2001)'); ?>
-							</li>
-						</ul>
 					</div>
 					<div class="section work-experience">
 						<h2>
@@ -284,7 +292,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado Ltd</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010.'); ?>
+									<?php echo $this->localize('I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010.'); ?>
 								</p>
 							</dd>
 							<dt class="item">
@@ -295,7 +303,7 @@
 									<?php echo $this->localize('Web and software development'); ?>
 								</p>
 								<p>
-									<?php echo $this->localize('I am a developer and architect for web applications with more than ten years of experience. My main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design. Specializing in these fields, I have contributed my expertise and creativity to numerous exciting projects.'); ?>
+									<?php echo $this->localize('My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to 100+ exciting projects.'); ?>
 								</p>
 							</dd>
 							<dt class="item">
