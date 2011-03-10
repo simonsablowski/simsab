@@ -66,28 +66,28 @@ a.external {
 #magnifier {
 	height: 16px;
 	position: absolute;
-	right: 140px;
+	right: 127px;
 	top: 118px;
 	width: 16px;
 }
 
 #photo, #large-photo {
 	position: absolute;
-	right: 22px;
+	right: 25px;
 	top: 0;
 }
 
 #photo {
-	height: 140px;
-	width: 140px;
+	height: 138px;
+	width: 121px;
 }
 
 #large-photo {
-	border-bottom: 10px solid;
-	border-left: 10px solid;
+	border-bottom: 15px solid;
+	border-left: 15px solid;
 	display: none;
-	height: 280px;
-	width: 280px;
+	height: 270px;
+	width: 270px;
 }
 
 #logo {
