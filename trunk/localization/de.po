@@ -282,20 +282,23 @@ msgstr "Frameworks und Tools"
 
 #projects
 
+msgid "nacho"
+msgstr "nacho"
+
 msgid "Source code"
 msgstr "Quellcode"
 
 msgid "Web application framework (2011)"
 msgstr "Web Application Framework (2011)"
 
-msgid "Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP5</em> features have been utilized in the development of nacho, among others:"
-msgstr "Die Prinzipien <em>Rapid Development</em> und <em>Convention Over Configuration</em> sind im MVC-basierten Web Application Framework nacho kombiniert. Das Framework ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten. Viele <em>PHP5</em>-Features wurden bei der Entwicklung von nacho verwendet, unter anderem:"
+msgid "Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:"
+msgstr "Die Prinzipien <em>Rapid Development</em> und <em>Convention Over Configuration</em> sind im MVC-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten und viele <em>PHP 5.3</em>-Features wurden integriert, unter anderem:"
 
 msgid "Reflection"
-msgstr "Reflexion"
+msgstr "Reflection"
 
 msgid "magic methods"
-msgstr "magische Methoden"
+msgstr "Magic Methods"
 
 msgid "autoloading"
 msgstr "Autoloading"
@@ -310,50 +313,47 @@ msgid "and"
 msgstr "und"
 
 msgid "error backtracking"
-msgstr "Fehlerzurückverfolgung"
+msgstr "Error Backtracking"
 
-msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding. Currently, the following database types are supported:"
-msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session- und Ausnahmebehandlung, Anfrageumleitung, Schablonieren, Ausgabepufferung sowie Eingabevalidierung. Herausragend ist außerdem die implementierte <em>Datenbankabstraktion</em>. Aktuell werden folgende Datenbanktypen unterstützt:"
+msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office."
+msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering sowie User-Input-Validierung. Der <em>Database Abstraction Layer</em> ist herausragend und unterstützt Datenbanksysteme von SQL bis MS Office."
 
-msgid "CMS add-on <a href="http://code.google.com/p/cheese/" title="cheese">cheese</a> for nacho (2011)"
-msgstr "CMS-Add-on <a href="http://code.google.com/p/cheese/" title="cheese">cheese</a> für nacho (2011)"
+msgid "One-day project"
+msgstr "Eintagesprojekt"
 
-msgid "One-day project library for scraping product catalogues (2010)"
-msgstr "Eintagesprojekt Library für das Scrapen von Produktkatalogen (2010)"
+msgid "CMS add-on for nacho"
+msgstr "CMS-Add-on für nacho"
 
-msgid "One-day project <a href="http://names.notmybiz.com" title="Filtering names">Filtering names</a> by configurable patterns (2010)"
-msgstr "Eintagesprojekt <a href="http://names.notmybiz.com" title="Filtern von Vornamen">Filtern von Vornamen</a> nach konfigurierbaren Mustern (2010)"
+msgid "Scraper"
+msgstr "Scraper"
 
-msgid "One-day project <a href="http://trend.notmybiz.com" title="Der nächste musikalische Trend">Der nächste musikalische Trend</a> (2009)"
-msgstr "Eintagesprojekt <a href="http://trend.notmybiz.com" title="Der nächste musikalische Trend">Der nächste musikalische Trend</a> (2009)"
+msgid "Library for scraping product catalogues"
+msgstr "Library für das Scrapen von Produktkatalogen"
 
-msgid "One-day project <a href="http://bbs.notmybiz.com" title="Beerball Simulator">Beerball Simulator</a> (2009)"
-msgstr "Eintagesprojekt <a href="http://bbs.notmybiz.com" title="Bierball-Simulator">Bierball-Simulator</a> (2009)"
+msgid "Filtering names"
+msgstr "Vornamen filtern"
 
-msgid "One-day project application for flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">surveys</a> (2009)"
-msgstr "Eintagesprojekt Anwendung für flexible <a href="http://prinziptageszeitung.notmybiz.com" title="Das Prinzip Tageszeitung">Umfragen</a> (2009)"
+msgid "Trend"
+msgstr "Trend"
 
-msgid "All-round development of the fun sports community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)"
-msgstr "Rundum-Entwicklung der Freizeitsport-Community <a href="http://bierball.com" title="bierball.com">bierball.com</a> (2008)"
+msgid "Der nächste musikalische Trend"
+msgstr "Der nächste musikalische Trend"
 
-msgid "Real estate platform for <a href="http://www.lbsi.de/immobiliengesellschaften" title="LBS Immobiliengesellschaften">LBS Immobiliengesellschaften</a> (2003)"
-msgstr "Immobilienportal für die <a href="http://www.lbsi.de/immobiliengesellschaften" title="LBS Immobiliengesellschaften">LBS Immobiliengesellschaften</a> (2003)"
+msgid "Beerball Simulator"
+msgstr "Bierball-Simulator"
 
-msgid "Database interface for the <a href="http://uni-bremen.de" title="University of Bremen">University of Bremen</a> (2002)"
-msgstr "Datenbankschnittstelle für die <a href="http://uni-bremen.de" title="Universität Bremen">Universität Bremen</a> (2002)"
+msgid "Simulation of a Beerball match"
+msgstr "Simulation eines Spiels Bierball"
 
-msgid "Development of the content management system MWMS (2001 - 2003)"
-msgstr "Entwicklung des Content-Management-Systems MWMS (2001 - 2003)"
-
-msgid "Development of the bookmark sharing platform Linkoln (2001)"
-msgstr "Entwicklung der Bookmark-Sharing-Plattform Linkoln (2001)"
+msgid "All-round development of a fun sports community for Beerball"
+msgstr "Rundum-Entwicklung der Freizeitsport-Community für Bierball"
 
 #work-experience
 
 msgid "since 08/2009"
 msgstr "seit 08/2009"
 
-msgid "I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado Ltd</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
+msgid "I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
 msgstr "Ich bin Gründer und <em>CTO</em> der <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt. Seit November 2010 sind wir mit einer Beta-Version und über 2000 Coaching-Videos live."
 
 msgid "since 1999"
@@ -362,8 +362,8 @@ msgstr "seit 1999"
 msgid "Web and software development"
 msgstr "Web- und Software-Entwicklung"
 
-msgid "I am a developer and architect for web applications with more than ten years of experience. My main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design. Specializing in these fields, I have contributed my expertise and creativity to numerous exciting projects."
-msgstr "Ich bin Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Schwerpunktmäßig arbeite ich im Bereich Core- und Backend-Entwicklung, Software-Architektur, technische Konzeption, Prototyping, Refactoring und Datenbank-Design. Mit diesem Profil habe ich meine Expertise und Kreativität in eine Reihe von aufregenden Projekten eingebracht."
+msgid "My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to 100+ exciting projects."
+msgstr "Schwerpunktmäßig arbeite ich im Bereich Core- und Backend-Entwicklung, Software-Architektur, technische Konzeption, Prototyping, Refactoring und Datenbank-Design. Ich habe meine Expertise und Kreativität in über 100 aufregende Projekte eingebracht."
 
 msgid "01/2009 - 08/2009"
 msgstr "01/2009 - 08/2009"
