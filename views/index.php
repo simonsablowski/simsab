@@ -62,11 +62,11 @@
 
 						</p>
 						<p>
-							<?php echo $this->localize('While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standard in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. My main focus lies with <em>software architecture</em>, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
+							<?php echo $this->localize('While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. My main focus lies with <em>software architecture</em>, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
 
 						</p>
 						<p>
-							<?php echo $this->localize('Throughout my career I have worked on projects by myself or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit.'); ?>
+							<?php echo $this->localize('Throughout my career I have worked on projects on my own or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit.'); ?>
 
 						</p>
 						<p>
