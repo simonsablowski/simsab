@@ -70,7 +70,7 @@
 
 						</p>
 						<p>
-							<?php echo $this->localize('In my spare time I concern myself with any kind of art and culture. I enjoy life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>.'); ?>
+							<?php echo $this->localize('In my spare time I enjoy different kinds of art and culture. I particularly like life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>.'); ?>
 
 						</p>
 					</div>
@@ -299,7 +299,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010.'); ?>
+									<?php echo $this->localize('I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010.'); ?>
 
 								</p>
 							</dd>

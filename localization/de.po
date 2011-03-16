@@ -76,7 +76,7 @@ msgstr "Spezialisiert habe ich mich auf den Einsatz von <em>PHP</em> und <em>MyS
 msgid "Throughout my career I have worked on projects on my own or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit."
 msgstr "Im Laufe meiner Karriere habe ich Projekte selbständig oder in Teams realisiert und relevante Erfahrung sowohl in Agenturen und Startups als auch etablierten Unternehmen gesammelt. Ich bin erfahrener und talentierter Teamleiter und habe einen ausgeprägten unternehmerischen Geist."
 
-msgid "In my spare time I concern myself with any kind of art and culture. I enjoy life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>."
+msgid "In my spare time I enjoy different kinds of art and culture. I particularly like life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>."
 msgstr "In meiner Freizeit beschäftige ich mich gern mit Kunst und Kultur jeglicher Facette. Ich zeichne Akte, Porträts und Comics, spiele Gitarre und experimentiere mit digitaler Produktion akustischer und visueller Art. <a title="Filippo Baraccani" href="http://fbrccn.com">Filippo Baraccani</a> und ich stellen einige unserer künstlerischen Arbeiten auf <a title="notmybiz.com" href="http://notmybiz.com">notmybiz.com</a> aus."
 
 #professional-skills
@@ -353,7 +353,7 @@ msgstr "Rundum-Entwicklung der Freizeitsport-Community für Bierball"
 msgid "since 08/2009"
 msgstr "seit 08/2009"
 
-msgid "I am founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
+msgid "I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010."
 msgstr "Ich bin Gründer und <em>CTO</em> der <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt. Seit November 2010 sind wir mit einer Beta-Version und über 2000 Coaching-Videos live."
 
 msgid "since 1999"
