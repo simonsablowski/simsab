@@ -9,36 +9,35 @@
 		<meta name="description" content="<?php echo $this->localize('Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design.'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
-		<base href="<?php echo $this->getConfiguration('basePath'); ?>"/>
-		<link href="css/screen.css" rel="stylesheet" type="text/css" media="screen"/>
-		<link href="css/print.css" rel="stylesheet" type="text/css" media="print"/>
-		<link href="css/handheld.css" rel="stylesheet" type="text/css" media="handheld"/>
-		<!--[if IE]><link href="css/ie.css" rel="stylesheet" title="Internet Explorer" type="text/css" media="screen"/><![endif]-->
-		<link type="image/x-icon" href="img/favicon.ico" rel="shortcut icon"/>
-		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-		<script type="text/javascript" src="js/simsab.js"></script>
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/screen.css" rel="stylesheet" type="text/css" media="screen"/>
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/print.css" rel="stylesheet" type="text/css" media="print"/>
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css" media="handheld"/>
+		<!--[if IE]><link href="<?php echo $this->getConfiguration('basePath'); ?>css/ie.css" rel="stylesheet" type="text/css" media="screen"/><![endif]-->
+		<link type="image/x-icon" href="<?php echo $this->getConfiguration('basePath'); ?>img/favicon.ico" rel="shortcut icon"/>
+		<script type="text/javascript" src="<?php echo $this->getConfiguration('basePath'); ?>js/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="<?php echo $this->getConfiguration('basePath'); ?>js/simsab.js"></script>
 	</head>
 	<body>
 		<div id="document">
 			<div id="sidebar">
 				<ul id="menu">
 					<li class="item">
-						<a href="#<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
 					</li>
 					<li class="item">
-						<a href="#<?php echo $this->localize('professional-skills'); ?>" title="<?php echo $this->localize('Professional Skills'); ?>"><?php echo $this->localize('Professional Skills'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('professional-skills'); ?>" title="<?php echo $this->localize('Professional Skills'); ?>"><?php echo $this->localize('Professional Skills'); ?></a>
 					</li>
 					<li class="item">
-						<a href="#<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming'); ?>"><?php echo $this->localize('Programming'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming'); ?>"><?php echo $this->localize('Programming'); ?></a>
 					</li>
 					<li class="item">
-						<a href="#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
 					</li>
 					<li class="item">
-						<a href="#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Work Experience'); ?>"><?php echo $this->localize('Work Experience'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Work Experience'); ?>"><?php echo $this->localize('Work Experience'); ?></a>
 					</li>
 					<li class="item">
-						<a href="#<?php echo $this->localize('contact-me'); ?>" title="<?php echo $this->localize('Contact Me'); ?>"><?php echo $this->localize('Contact Me'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('contact-me'); ?>" title="<?php echo $this->localize('Contact Me'); ?>"><?php echo $this->localize('Contact Me'); ?></a>
 					</li>
 					<li class="language item">
 						<a href="<?php echo $this->localize('de'); ?>" title="<?php echo $this->localize('Deutsche Version'); ?>"><?php echo $this->localize('Deutsche Version'); ?></a>
@@ -47,7 +46,7 @@
 			</div>
 			<div id="content">
 				<div id="head">
-					<a href="<?php echo $this->localize('en'); ?>" title="<?php echo $this->localize('simsab'); ?>"><img id="logo" src="img/logo.gif" alt="<?php echo $this->localize('simsab'); ?>" title="<?php echo $this->localize('simsab'); ?>"/></a>
+					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>" title="<?php echo $this->localize('simsab'); ?>"><img id="logo" src="img/logo.gif" alt="<?php echo $this->localize('simsab'); ?>" title="<?php echo $this->localize('simsab'); ?>"/></a>
 					<img id="photo" src="img/simon-sablowski.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
 					<img id="large-photo" src="img/simon-sablowski-large.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
 					<div id="magnifier"><!--  --></div>
@@ -55,7 +54,7 @@
 				<div id="body">
 					<div class="section about-me'">
 						<h2>
-							<a href="#<?php echo $this->localize('about-me'); ?>" name="<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
+							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('about-me'); ?>" name="<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
 						</h2>
 						<p>
 							<?php echo $this->localize('I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to numerous exciting projects.'); ?>
@@ -76,7 +75,7 @@
 					</div>
 					<div class="section professional-skills">
 						<h2>
-							<a href="#<?php echo $this->localize('professional-skills'); ?>" name="<?php echo $this->localize('professional-skills'); ?>" title="<?php echo $this->localize('Professional Skills'); ?>"><?php echo $this->localize('Professional Skills'); ?></a>
+							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('professional-skills'); ?>" name="<?php echo $this->localize('professional-skills'); ?>" title="<?php echo $this->localize('Professional Skills'); ?>"><?php echo $this->localize('Professional Skills'); ?></a>
 						</h2>
 						<p>
 							<span><?php echo $this->localize('Web Development'); ?>,</span>
@@ -157,7 +156,7 @@
 					<div class="section">
 						<div class="sub-section programming-languages">
 							<h2>
-								<a href="#<?php echo $this->localize('programming'); ?>" name="<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming Languages and Technologies'); ?>"><?php echo $this->localize('Programming Languages and Technologies'); ?></a>
+								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('programming'); ?>" name="<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming Languages and Technologies'); ?>"><?php echo $this->localize('Programming Languages and Technologies'); ?></a>
 							</h2>
 							<ul>
 								<li>PHP</li>
@@ -182,7 +181,7 @@
 						</div>
 						<div class="sub-section frameworks">
 							<h2>
-								<a href="#<?php echo $this->localize('frameworks'); ?>" name="<?php echo $this->localize('frameworks'); ?>" title="<?php echo $this->localize('Frameworks and Auxiliary Tools'); ?>"><?php echo $this->localize('Frameworks and Auxiliary Tools'); ?></a>
+								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('frameworks'); ?>" name="<?php echo $this->localize('frameworks'); ?>" title="<?php echo $this->localize('Frameworks and Auxiliary Tools'); ?>"><?php echo $this->localize('Frameworks and Auxiliary Tools'); ?></a>
 							</h2>
 							<ul>
 								<li>CakePHP</li>
@@ -209,7 +208,7 @@
 					</div>
 					<div class="section projects">
 						<h2>
-							<a href="#<?php echo $this->localize('projects'); ?>" name="<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
+							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" name="<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
 						</h2>
 						<dl>
 							<dt class="item">
@@ -286,11 +285,11 @@
 									<?php echo $this->localize('All-round development of a fun sports community for Beerball'); ?> (2008)
 								</p>
 							</dd>
-						</dt>
+						</dl>
 					</div>
 					<div class="section work-experience">
 						<h2>
-							<a href="#<?php echo $this->localize('work-experience'); ?>" name="<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Work Experience'); ?>"><?php echo $this->localize('Work Experience'); ?></a>
+							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" name="<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Work Experience'); ?>"><?php echo $this->localize('Work Experience'); ?></a>
 						</h2>
 						<dl>
 							<dt class="item">
@@ -384,7 +383,7 @@
 					</div>
 					<div class="section contact-me">
 						<h2>
-							<a href="#<?php echo $this->localize('contact-me'); ?>" name="<?php echo $this->localize('contact-me'); ?>" title="<?php echo $this->localize('Contact Me'); ?>"><?php echo $this->localize('Contact Me'); ?></a>
+							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('contact-me'); ?>" name="<?php echo $this->localize('contact-me'); ?>" title="<?php echo $this->localize('Contact Me'); ?>"><?php echo $this->localize('Contact Me'); ?></a>
 						</h2>
 						<p>
 							<?php echo $this->localize('I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:'); ?>
