@@ -46,13 +46,13 @@
 			</div>
 			<div id="content">
 				<div id="head">
-					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>" title="<?php echo $this->localize('simsab'); ?>"><img id="logo" src="img/logo.gif" alt="<?php echo $this->localize('simsab'); ?>" title="<?php echo $this->localize('simsab'); ?>"/></a>
-					<img id="photo" src="img/simon-sablowski.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
-					<img id="large-photo" src="img/simon-sablowski-large.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
+					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>" title="<?php echo $this->localize('simsab'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.gif" alt="<?php echo $this->localize('simsab'); ?>" title="<?php echo $this->localize('simsab'); ?>"/></a>
+					<img id="photo" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
+					<img id="large-photo" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski-large.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
 					<div id="magnifier"><!--  --></div>
 				</div>
 				<div id="body">
-					<div class="section about-me'">
+					<div class="section about-me">
 						<h2>
 							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('about-me'); ?>" name="<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
 						</h2>
@@ -389,7 +389,7 @@
 							<?php echo $this->localize('I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:'); ?>
 
 						</p>
-						<img src="<?php echo $this->localize('img/contact-en.gif'); ?>" alt="<?php echo $this->localize('Contact me'); ?>" title="<?php echo $this->localize('Contact me'); ?>"/>
+						<img src="<?php echo $this->getConfiguration('basePath') . $this->localize('img/contact-en.gif'); ?>" alt="<?php echo $this->localize('Contact me'); ?>" title="<?php echo $this->localize('Contact me'); ?>"/>
 						<p>
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
 
@@ -414,11 +414,14 @@
 								<a href="http://www.imdb.com/mymovies/list?l=47109736" title="<?php echo $this->localize('Simon Sablowski at %s', 'IMDb'); ?>">IMDb</a>
 							</li>
 						</ul>
+						<p>
+							<a href="<?php echo $this->getConfiguration('basePath'); ?>impressum.html" title="<?php echo $this->localize('Legal notice in German'); ?>" rel="nofollow" class="external"><?php echo $this->localize('Legal notice in German'); ?></a>
+						</p>
 					</div>
 				</div>
 				<div id="foot">
 					<p id="copyright">
-						<?php echo $this->localize('&copy; 2010 Simon Sablowski'); ?>
+						<?php date_default_timezone_set('Europe/Berlin'); echo $this->localize('&copy; 1999-%d Simon Sablowski', date('Y')); ?>
 
 					</p>
 				</div>

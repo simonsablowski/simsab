@@ -451,7 +451,10 @@ msgstr "Simon Sablowski bei YouTube"
 msgid "Simon Sablowski at IMDb"
 msgstr "Simon Sablowski bei IMDb"
 
+msgid "Legal notice in German"
+msgstr "Impressum"
+
 #copyright
 
-msgid "&copy; 2010 Simon Sablowski"
-msgstr "&copy; 2010 Simon Sablowski"
+msgid "&copy; 1999-%d Simon Sablowski"
+msgstr "&copy; 1999-%d Simon Sablowski"
