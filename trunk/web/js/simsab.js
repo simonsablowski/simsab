@@ -1,7 +1,9 @@
 $(document).ready(function() {
 	$('a').filter(function() {
 		return this.hostname && this.hostname !== location.hostname;
-	}).addClass('external').click(function(e) {
+	}).addClass('external');
+	
+	$('a.external').click(function(e) {
 		open(this.href);
 		e.preventDefault();
 	});
@@ -50,8 +52,6 @@ $(document).ready(function() {
 	$('#menu .item a').filter(function() {
 		return this.href.match('#');
 	}).click(function(e) {
-		$('#menu .item a.current').removeClass('current');
-		$(this).addClass('current');
 		$('.section:visible').hide();
 		$('.section a[href*="' + $(this).attr('href') + '"]').parents('.section').fadeIn(400);
 	});
