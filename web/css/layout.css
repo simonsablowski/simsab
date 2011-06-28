@@ -121,6 +121,12 @@ a.external {
 	padding-bottom: 26px;
 }
 
+#body .section .clear {
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+
 #body .sub-section {
 	float: left;
 	overflow: hidden;
@@ -167,8 +173,6 @@ a.external {
 	text-align: center;
 }
 
-#body .section .clear {
-	clear: both;
-	margin: 0;
-	padding: 0;
+#copyright a {
+	margin-left: 26px;
 }

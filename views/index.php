@@ -40,7 +40,7 @@
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('contact-me'); ?>" title="<?php echo $this->localize('Contact Me'); ?>"><?php echo $this->localize('Contact Me'); ?></a>
 					</li>
 					<li class="language item">
-						<a href="<?php echo $this->localize('de'); ?>" title="<?php echo $this->localize('Deutsche Version'); ?>"><?php echo $this->localize('Deutsche Version'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('de'); ?>" title="<?php echo $this->localize('Deutsche Version'); ?>"><?php echo $this->localize('Deutsche Version'); ?></a>
 					</li>
 				</ul>
 			</div>
@@ -389,7 +389,9 @@
 							<?php echo $this->localize('I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:'); ?>
 
 						</p>
-						<img src="<?php echo $this->getConfiguration('basePath') . $this->localize('img/contact-en.gif'); ?>" alt="<?php echo $this->localize('Contact me'); ?>" title="<?php echo $this->localize('Contact me'); ?>"/>
+						<p>
+							<em><?php echo $this->localize('contact@simsab.de'); ?></em>
+						</p>
 						<p>
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
 
@@ -414,15 +416,13 @@
 								<a href="http://www.imdb.com/mymovies/list?l=47109736" title="<?php echo $this->localize('Simon Sablowski at %s', 'IMDb'); ?>">IMDb</a>
 							</li>
 						</ul>
-						<p>
-							<a href="<?php echo $this->getConfiguration('basePath'); ?>impressum.html" title="<?php echo $this->localize('Legal notice in German'); ?>" rel="nofollow" class="external"><?php echo $this->localize('Legal notice in German'); ?></a>
-						</p>
 					</div>
 				</div>
 				<div id="foot">
 					<p id="copyright">
 						<?php date_default_timezone_set('Europe/Berlin'); echo $this->localize('&copy; 1999-%d Simon Sablowski', date('Y')); ?>
 
+						<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice'); ?>" title="<?php echo $this->localize('Legal notice'); ?>" rel="nofollow"><?php echo $this->localize('Legal notice'); ?></a>
 					</p>
 				</div>
 			</div>

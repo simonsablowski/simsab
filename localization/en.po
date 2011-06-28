@@ -424,8 +424,8 @@ msgstr "Software development and website maintenance for the 111 Group and the s
 msgid "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
 msgstr "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
 
-msgid "img/contact-en.gif"
-msgstr "img/contact-en.gif"
+msgid "contact@simsab.de"
+msgstr "contact@simsab.de"
 
 msgid "Contact me"
 msgstr "Contact me"
@@ -451,10 +451,13 @@ msgstr "Simon Sablowski at YouTube"
 msgid "Simon Sablowski at IMDb"
 msgstr "Simon Sablowski at IMDb"
 
-msgid "Legal notice in German"
-msgstr "Legal notice in German"
-
 #copyright
 
 msgid "&copy; 1999-%d Simon Sablowski"
 msgstr "&copy; 1999-%d Simon Sablowski"
+
+msgid "legal-notice"
+msgstr "legal-notice"
+
+msgid "Legal notice"
+msgstr "Legal notice"
