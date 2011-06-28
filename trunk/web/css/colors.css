@@ -18,7 +18,7 @@ html, #content {
 	border-color: #ccc;
 }
 
-#body .work-experience .item .sub-line, #copyright {
+#body .work-experience .item .sub-line, #copyright, #copyright a {
 	color: #999;
 }
 

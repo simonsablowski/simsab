@@ -3,4 +3,5 @@ ErrorDocument 404 index.php
 RewriteEngine on
 
 RewriteRule ^$ index.php
+RewriteRule ^(impressum|legal-notice)$ impressum.html [L]
 RewriteRule ^([a-z]+)/?$ index.php?localization=$1
