@@ -29,17 +29,6 @@ $(document).ready(function() {
 		}
 	}
 	
-	if ($(window).width() < 860) {
-		$('link[@rel*=style][media]').each(function(i) {
-			if (this.getAttribute('media') == 'screen') {
-				this.disabled = true;
-			} else if (this.getAttribute('media') == 'handheld') {
-				this.setAttribute('media', 'screen');
-				this.disabled = false;
-			}
-		});
-	}
-	
 	$('.section').hide();
 	
 	var url = document.location.toString();
