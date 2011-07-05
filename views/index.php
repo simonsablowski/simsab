@@ -9,10 +9,19 @@
 		<meta name="description" content="<?php echo $this->localize('Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design.'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
+		<!-- Mobile device detection by Bushido Designs: BushidoDesigns.net -->
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css"/>
+		<style type="text/css" media="screen and (min-width: 860px)">
+		<!--
+		@import url("<?php echo $this->getConfiguration('basePath'); ?>css/screen.css");
+		-->
+		</style>
+		<!--[if IE]>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/screen.css" rel="stylesheet" type="text/css" media="screen"/>
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/ie.css" rel="stylesheet" type="text/css" media="screen"/>
+		<![endif]-->
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 859px)"/>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/print.css" rel="stylesheet" type="text/css" media="print"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css" media="handheld"/>
-		<!--[if IE]><link href="<?php echo $this->getConfiguration('basePath'); ?>css/ie.css" rel="stylesheet" type="text/css" media="screen"/><![endif]-->
 		<link type="image/x-icon" href="<?php echo $this->getConfiguration('basePath'); ?>img/favicon.ico" rel="shortcut icon"/>
 		<script type="text/javascript" src="<?php echo $this->getConfiguration('basePath'); ?>js/jquery-1.4.2.min.js"></script>
 		<script type="text/javascript" src="<?php echo $this->getConfiguration('basePath'); ?>js/simsab.js"></script>
