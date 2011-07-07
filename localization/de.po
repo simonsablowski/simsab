@@ -267,6 +267,12 @@ msgstr "Personalführung"
 msgid "Offshoring"
 msgstr "Offshoring"
 
+msgid "Kanban"
+msgstr "Kanban"
+
+msgid "Continuous Integration"
+msgstr "Kontinuierliche Integration"
+
 #programming-languages
 
 msgid "Programming Languages and Technologies"
