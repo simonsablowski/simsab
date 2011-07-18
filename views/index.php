@@ -90,13 +90,13 @@
 							<span><em><?php echo $this->localize('Web Development'); ?></em>,</span>
 							<span><?php echo $this->localize('Backend Development'); ?>,</span>
 							<span><?php echo $this->localize('Webserver Configuration'); ?>,</span>
-							<span><?php echo $this->localize('Shell Scripting'); ?>,</span>
+							<span><?php echo $this->localize('Accessibility'); ?>,</span>
 							<span><em><?php echo $this->localize('Rapid Prototyping'); ?></em>,</span>
 							<span><?php echo $this->localize('Usability'); ?>,</span>
 							
 							<span><?php echo $this->localize('Database Design'); ?>,</span>
 							<span><?php echo $this->localize('Content Syndication'); ?>,</span>
-							<span><?php echo $this->localize('Accessibility'); ?>,</span>
+							<span><?php echo $this->localize('Shell Scripting'); ?>,</span>
 							<span><?php echo $this->localize('Performance Optimization'); ?>,</span>
 							<span><?php echo $this->localize('Database Conversion'); ?>,</span>
 							
