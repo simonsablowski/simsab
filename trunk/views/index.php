@@ -179,9 +179,9 @@
 								<li>Apache</li>
 								<li>XML</li>
 								<li>XSLT</li>
-								<li>AJAX</li>
+								<li>MXML</li>
 								<li>JavaScript</li>
-								<li>Java</li>
+								<li>AJAX</li>
 								<li>UML</li>
 								<li>ActionScript</li>
 								<li>Python</li>
@@ -196,24 +196,30 @@
 								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('frameworks'); ?>" name="<?php echo $this->localize('frameworks'); ?>" title="<?php echo $this->localize('Frameworks and Auxiliary Tools'); ?>"><?php echo $this->localize('Frameworks and Auxiliary Tools'); ?></a>
 							</h2>
 							<ul>
-								<li>CakePHP</li>
-								<li>CodeIgniter</li>
 								<li>Magento</li>
 								<li>Zend</li>
-								<li>Symfony</li>
 								<li>Doctrine</li>
+								<li>CodeIgniter</li>
+								<li>CakePHP</li>
 								<li>Memcache</li>
-								<li>Sphinx</li>
 								<li>Smarty</li>
 								<li>Drupal</li>
 								<li>WordPress</li>
 								<li>jQuery</li>
+								<li>mootools</li>
+								<li>Prototype</li>
+								<li>JIRA</li>
+								<li>Confluence</li>
+								<li>GreenHopper</li>
+								<li>Bamboo</li>
+								<li>FishEye</li>
+								<li>Bonfire</li>
+								<li>Crucible</li>
+								<li>Crowd</li>
 								<li>trac</li>
+								<li>Google Apps</li>
 								<li>Subversion</li>
 								<li>PHPUnit</li>
-								<li>Profiler</li>
-								<li>Android SDK</li>
-								<li>Google Apps</li>
 							</ul>
 						</div>
 						<div class="clear"><!--  --></div>
@@ -439,22 +445,5 @@
 				</div>
 			</div>
 		</div>
-		<script type="text/javascript">
-		<!--
-		var gaJsHost = 'https:' == document.location.protocol ? 'https://ssl.' : 'http://www.';
-		document.write(unescape('%3Cscript src="' + gaJsHost + 'google-analytics.com/ga.js" type="text/javascript"%3E%3C/script%3E'));
-		//-->
-		</script>
-		<script type="text/javascript">
-		<!--
-		try {
-			var pageTracker = _gat._getTracker('UA-9712670-1');
-			pageTracker._initData();
-			pageTracker._trackPageview();
-		} catch (error) {
-			
-		}
-		//-->
-		</script>
 	</body>
 </html>
