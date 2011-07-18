@@ -273,6 +273,9 @@ msgstr "Kanban"
 msgid "Continuous Integration"
 msgstr "Continuous Integration"
 
+msgid "Agile Development"
+msgstr "Agile Development"
+
 #programming-languages
 
 msgid "Programming Languages and Technologies"
