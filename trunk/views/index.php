@@ -87,82 +87,83 @@
 							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('professional-skills'); ?>" name="<?php echo $this->localize('professional-skills'); ?>" title="<?php echo $this->localize('Professional Skills'); ?>"><?php echo $this->localize('Professional Skills'); ?></a>
 						</h2>
 						<p>
-							<span><?php echo $this->localize('Web Development'); ?>,</span>
-							<span><em><?php echo $this->localize('Rapid Prototyping'); ?></em>,</span>
-							<span><?php echo $this->localize('Technical Conception'); ?>,</span>
+							<span><em><?php echo $this->localize('Web Development'); ?></em>,</span>
 							<span><?php echo $this->localize('Backend Development'); ?>,</span>
 							<span><?php echo $this->localize('Webserver Configuration'); ?>,</span>
-							
 							<span><?php echo $this->localize('Shell Scripting'); ?>,</span>
-							<span><?php echo $this->localize('Scaffolding'); ?>,</span>
-							<span><?php echo $this->localize('Database Design'); ?>,</span>
-							<span><?php echo $this->localize('Content Syndication'); ?>,</span>
-							<span><?php echo $this->localize('Database Conversion'); ?>,</span>
+							<span><em><?php echo $this->localize('Rapid Prototyping'); ?></em>,</span>
 							<span><?php echo $this->localize('Usability'); ?>,</span>
 							
-							<span><?php echo $this->localize('Entity Relationship Models'); ?>,</span>
-							<span><?php echo $this->localize('Code Generation'); ?>,</span>
-							<span><em><?php echo $this->localize('Object-Oriented Programming'); ?></em>,</span>
+							<span><?php echo $this->localize('Database Design'); ?>,</span>
+							<span><?php echo $this->localize('Content Syndication'); ?>,</span>
+							<span><?php echo $this->localize('Accessibility'); ?>,</span>
 							<span><?php echo $this->localize('Performance Optimization'); ?>,</span>
+							<span><?php echo $this->localize('Database Conversion'); ?>,</span>
 							
-							<span><?php echo $this->localize('Scraping'); ?>,</span>
-							<span><?php echo $this->localize('Kanban'); ?>,</span>
+							<span><?php echo $this->localize('Code Generation'); ?>,</span>
 							<span><?php echo $this->localize('Standards Compliance'); ?>,</span>
+							<span><em><?php echo $this->localize('Technical Conception'); ?></em>,</span>
 							<span><?php echo $this->localize('Data Modeling'); ?>,</span>
 							<span><?php echo $this->localize('Internationalization'); ?>,</span>
+							
 							<span><?php echo $this->localize('Continuous Integration'); ?>,</span>
-							
-							<span><?php echo $this->localize('E-Commerce'); ?>,</span>
-							<span><?php echo $this->localize('Accessibility'); ?>,</span>
-							<span><?php echo $this->localize('Application Monitoring'); ?>,</span>
 							<span><?php echo $this->localize('Unit Testing'); ?>,</span>
-							<span><em><?php echo $this->localize('Object-Relational Mapping'); ?></em>,</span>
-							
-							<span><?php echo $this->localize('Relational Database Management Systems'); ?>,</span>
+							<span><?php echo $this->localize('Social Networks'); ?>,</span>
+							<span><?php echo $this->localize('Affiliate Systems'); ?>,</span>
 							<span><?php echo $this->localize('Scrum'); ?>,</span>
-							<span><?php echo $this->localize('Communication Gateways'); ?>,</span>
-							<span><?php echo $this->localize('Caching'); ?>,</span>
+							<span><?php echo $this->localize('Application Monitoring'); ?>,</span>
+							
+							<span><?php echo $this->localize('Outsourcing'); ?>,</span>
+							<span><em><?php echo $this->localize('Object-Oriented Programming'); ?></em>,</span>
+							<span><?php echo $this->localize('Relational Database Management Systems'); ?>,</span>
 							<span><?php echo $this->localize('Scalability'); ?>,</span>
 							
+							<span><?php echo $this->localize('Entity Relationship Models'); ?>,</span>
+							<span><?php echo $this->localize('Communication Gateways'); ?>,</span>
+							<span><?php echo $this->localize('Object-Relational Mapping'); ?>,</span>
 							<span><em><?php echo $this->localize('Regular Expressions'); ?></em>,</span>
-							<span><?php echo $this->localize('Outsourcing'); ?>,</span>
-							<span><?php echo $this->localize('Affiliate Systems'); ?>,</span>
-							<span><em><?php echo $this->localize('Framework Development'); ?></em>,</span>
-							<span><?php echo $this->localize('User-Generated Content'); ?>,</span>
 							
-							<span><?php echo $this->localize('Web 2.0'); ?>,</span>
-							<span><?php echo $this->localize('Cross-Browser Compatibility'); ?>,</span>
-							<span><?php echo $this->localize('Semantic Web'); ?>,</span>
+							<span><?php echo $this->localize('Scaffolding'); ?>,</span>
+							<span><?php echo $this->localize('User-Generated Content'); ?>,</span>
+							<span><em><?php echo $this->localize('Framework Development'); ?></em>,</span>
 							<span><?php echo $this->localize('Quality Control'); ?>,</span>
 							<span><?php echo $this->localize('Web-Crawling'); ?>,</span>
-							<span><?php echo $this->localize('Social Networks'); ?>,</span>
+							<span><?php echo $this->localize('Refactoring'); ?>,</span>
 							
-							<span><?php echo $this->localize('Entrepreneurship'); ?>,</span>
-							<span><?php echo $this->localize('APIs'); ?>,</span>
-							<span><em><?php echo $this->localize('Refactoring'); ?></em>,</span>
+							<span><?php echo $this->localize('Caching'); ?>,</span>
+							<span><?php echo $this->localize('Scraping'); ?>,</span>
+							<span><?php echo $this->localize('Web 2.0'); ?>,</span>
 							<span><?php echo $this->localize('Version Control'); ?>,</span>
-							<span><?php echo $this->localize('Frontend Development'); ?>,</span>
-							<span><em><?php echo $this->localize('Web Application Architecture'); ?></em>,</span>
+							<span><?php echo $this->localize('Cross-Browser Compatibility'); ?>,</span>
+							<span><?php echo $this->localize('Semantic Web'); ?>,</span>
+							<span><?php echo $this->localize('E-Commerce'); ?>,</span>
 							
-							<span><?php echo $this->localize('User Experience Design'); ?>,</span>
-							<span><?php echo $this->localize('Content Management Systems'); ?>,</span>
-							<span><?php echo $this->localize('Programming Paradigms'); ?>,</span>
-							<span><?php echo $this->localize('Artificial Intelligence'); ?>,</span>
-							
+							<span><?php echo $this->localize('Web Services'); ?>,</span>
+							<span><?php echo $this->localize('Booking Engines'); ?>,</span>
+							<span><?php echo $this->localize('E-Learning'); ?>,</span>
 							<span><?php echo $this->localize('Pair Programming'); ?>,</span>
-							<span><?php echo $this->localize('Test-Driven Software Development'); ?>,</span>
-							<span><?php echo $this->localize('Search Engine Optimization'); ?>,</span>
+							<span><em><?php echo $this->localize('Entrepreneurship'); ?></em>,</span>
+							<span><?php echo $this->localize('Programming Paradigms'); ?>,</span>
+							
+							<span><?php echo $this->localize('Frontend Development'); ?>,</span>
+							<span><em><?php echo $this->localize('Agile Development'); ?></em>,</span>
+							<span><?php echo $this->localize('Kanban'); ?>,</span>
+							<span><?php echo $this->localize('Content Management Systems'); ?>,</span>
+							<span><?php echo $this->localize('User Experience Design'); ?>,</span>
+							
+							<span><?php echo $this->localize('Artificial Intelligence'); ?>,</span>
+							<span><?php echo $this->localize('Data Migration'); ?>,</span>
+							<span><?php echo $this->localize('Offshoring'); ?>,</span>
+							<span><em><?php echo $this->localize('Search Engine Optimization'); ?></em>,</span>
+							<span><?php echo $this->localize('APIs'); ?>,</span>
 							<span><?php echo $this->localize('Web-Based Training'); ?>,</span>
 							
-							<span><em><?php echo $this->localize('Model-View-Controller Design Pattern'); ?></em>,</span>
-							<span><?php echo $this->localize('Booking Engines'); ?>,</span>
-							<span><?php echo $this->localize('Web Services'); ?>,</span>
-							<span><?php echo $this->localize('E-Learning'); ?>,</span>
-							<span><?php echo $this->localize('Data Migration'); ?>,</span>
+							<span><em><?php echo $this->localize('Web Application Architecture'); ?></em>,</span>
+							<span><?php echo $this->localize('Test-Driven Software Development'); ?>,</span>
+							<span><?php echo $this->localize('Model-View-Controller Design Pattern'); ?>,</span>
 							
 							<span><?php echo $this->localize('Open Source Software'); ?>,</span>
-							<span><?php echo $this->localize('Leadership'); ?>,</span>
-							<span><?php echo $this->localize('Offshoring'); ?></span>
+							<span><em><?php echo $this->localize('Leadership'); ?></em></span>
 						</p>
 					</div>
 					<div class="section">
@@ -425,14 +426,17 @@
 								<a href="http://www.facebook.com/simon.sablowski" title="<?php echo $this->localize('Simon Sablowski at %s', 'Facebook'); ?>">Facebook</a>
 							</li>
 							<li>
+								<a href="https://plus.google.com/106803691412367539900" title="<?php echo $this->localize('Simon Sablowski at %s', 'Google+'); ?>">Google+</a>
+							</li>
+							<li>
 								<a href="http://www.last.fm/user/gluehbirne" title="<?php echo $this->localize('Simon Sablowski at %s', 'Last.fm'); ?>">Last.fm</a>
 							</li>
 							<li>
 								<a href="http://www.youtube.com/user/simbobwe" title="<?php echo $this->localize('Simon Sablowski at %s', 'YouTube'); ?>">YouTube</a>
 							</li>
-							<li>
+							<?/*li>
 								<a href="http://www.imdb.com/mymovies/list?l=47109736" title="<?php echo $this->localize('Simon Sablowski at %s', 'IMDb'); ?>">IMDb</a>
-							</li>
+							</li*/?>
 						</ul>
 					</div>
 				</div>
