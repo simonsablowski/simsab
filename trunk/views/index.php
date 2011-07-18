@@ -163,7 +163,7 @@
 							<span><?php echo $this->localize('Database Conversion'); ?>,</span>
 							
 							<span><?php echo $this->localize('Open Source Software'); ?>,</span>
-							<span><strong><?php echo $this->localize('Leadership'); ?></strong></span>
+							<span><strong><?php echo $this->localize('Leadership'); ?></em></span>
 						</p>
 					</div>
 					<div class="section">
