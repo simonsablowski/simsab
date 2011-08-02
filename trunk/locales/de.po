@@ -276,6 +276,18 @@ msgstr "Kontinuierliche Integration"
 msgid "Agile Development"
 msgstr "Agile Entwicklung"
 
+msgid "Deployment Strategies"
+msgstr "Deployment-Strategien"
+
+msgid "Load Balancing"
+msgstr "Load Balancing"
+
+msgid "Product Development"
+msgstr "Produktentwicklung"
+
+msgid "Design-Lead Planning"
+msgstr "Design-Lead Planning"
+
 #programming-languages
 
 msgid "Programming Languages and Technologies"
