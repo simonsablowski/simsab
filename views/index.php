@@ -178,21 +178,21 @@
 								<li>PHP</li>
 								<li>MySQL</li>
 								<li>PCRE</li>
+								<li>Apache</li>
+								<li>nginx</li>
+								<li>lighttp</li>
 								<li>XHTML</li>
 								<li>CSS</li>
-								<li>Apache</li>
 								<li>XML</li>
 								<li>XSLT</li>
 								<li>MXML</li>
-								<li>JavaScript</li>
 								<li>AJAX</li>
-								<li>UML</li>
+								<li>JavaScript</li>
 								<li>ActionScript</li>
 								<li>Python</li>
-								<li>SOAP</li>
 								<li>Ruby</li>
-								<li>PostgreSQL</li>
-								<li>PEAR</li>
+								<li>SFTP</li>
+								<li>SOAP</li>
 							</ul>
 						</div>
 						<div class="sub-section frameworks">
@@ -201,29 +201,34 @@
 							</h2>
 							<ul>
 								<li>Magento</li>
-								<li>Zend</li>
-								<li>Doctrine</li>
-								<li>CodeIgniter</li>
 								<li>CakePHP</li>
+								<li>Zend</li>
 								<li>Memcache</li>
+								<li>CodeIgniter</li>
+								<li>Symfony</li>
+								<li>Yii</li>
+								<li>Solarphp</li>
 								<li>Smarty</li>
 								<li>Drupal</li>
 								<li>WordPress</li>
+								<li>Subversion</li>
 								<li>jQuery</li>
 								<li>mootools</li>
 								<li>Prototype</li>
+								<li>SproutCore</li>
+								<li>YAML</li>
+								<li>YUI</li>
 								<li>JIRA</li>
-								<li>Confluence</li>
-								<li>GreenHopper</li>
 								<li>Bamboo</li>
-								<li>FishEye</li>
-								<li>Bonfire</li>
-								<li>Crucible</li>
-								<li>Crowd</li>
-								<li>trac</li>
-								<li>Google Apps</li>
-								<li>Subversion</li>
+								<li>Firebug</li>
+								<li>XDebug</li>
 								<li>PHPUnit</li>
+								<li>Selenium</li>
+								<li>trac</li>
+								<li>Phing</li>
+								<li>Doctrine</li>
+								<li>Google Analytics</li>
+								<li class="wide">Google Website Optimizer</li>
 							</ul>
 						</div>
 						<div class="clear"><!--  --></div>

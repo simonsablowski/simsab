@@ -146,6 +146,10 @@ a.external {
 	width: 107px;
 }
 
+#body .programming-languages li.wide, #body .frameworks li.wide, #body .contact-me li.wide {
+	width: 214px;
+}
+
 #body .work-experience .item, #body .work-experience .description, #body .projects .item, #body .projects .description {
 	padding-bottom: 20px;
 }
