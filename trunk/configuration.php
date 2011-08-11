@@ -30,5 +30,4 @@ $configuration['Request'] = array(
 	'aliasQueries' => array()
 );
 
-// $configuration['debugMode'] = TRUE;
 $configuration['debugMode'] = FALSE;
