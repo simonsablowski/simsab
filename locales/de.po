@@ -4,8 +4,8 @@ msgstr "de"
 msgid "simsab"
 msgstr "simsab"
 
-msgid "http://www.simsab.de/en"
-msgstr "http://www.simsab.de/de"
+msgid "http://www.simsab.net/en"
+msgstr "http://www.simsab.net/de"
 
 msgid "Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design."
 msgstr "Simon Sablowski ist Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Schwerpunktmäßig arbeitet er im Bereich Core- und Backend-Entwicklung, Software-Architektur, technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
@@ -445,8 +445,8 @@ msgstr "Software-Entwicklung und Betreuung der Webpräsenzen für die 111 Group 
 msgid "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
 msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert. Gern sende ich Ihnen Arbeitsproben oder detailliertere Projektbeschreibungen zu. Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
 
-msgid "contact@simsab.de"
-msgstr "kontakt@simsab.de"
+msgid "contact@simsab.net"
+msgstr "kontakt@simsab.net"
 
 msgid "Contact me"
 msgstr "Kontaktieren Sie mich"
