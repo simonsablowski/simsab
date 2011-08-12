@@ -4,8 +4,8 @@ msgstr "en"
 msgid "simsab"
 msgstr "simsab"
 
-msgid "http://www.simsab.de/en"
-msgstr "http://www.simsab.de/en"
+msgid "http://www.simsab.net/en"
+msgstr "http://www.simsab.net/en"
 
 msgid "Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design."
 msgstr "Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design."
@@ -445,8 +445,8 @@ msgstr "Software development and website maintenance for the 111 Group and the s
 msgid "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
 msgstr "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
 
-msgid "contact@simsab.de"
-msgstr "contact@simsab.de"
+msgid "contact@simsab.net"
+msgstr "contact@simsab.net"
 
 msgid "Contact me"
 msgstr "Contact me"

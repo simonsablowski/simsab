@@ -4,7 +4,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 		<meta http-equiv="Content-Language" content="<?php echo $this->localize('en'); ?>"/>
 		<title><?php echo $this->localize('simsab'); ?></title>
-		<link rel="canonical" href="<?php echo $this->localize('http://www.simsab.de/en'); ?>"/>
+		<link rel="canonical" href="<?php echo $this->localize('http://www.simsab.net/en'); ?>"/>
 		<meta name="dc.title" content="<?php echo $this->localize('simsab'); ?>"/>
 		<meta name="description" content="<?php echo $this->localize('Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design.'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc'); ?>"/>
@@ -417,7 +417,7 @@
 
 						</p>
 						<p>
-							<em><?php echo $this->localize('contact@simsab.de'); ?></em>
+							<em><?php echo $this->localize('contact@simsab.net'); ?></em>
 						</p>
 						<p>
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
