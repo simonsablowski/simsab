@@ -395,8 +395,8 @@ msgstr "since 1999"
 msgid "Web and software development"
 msgstr "Web and software development"
 
-msgid "My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to 100+ exciting projects."
-msgstr "My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to 100+ exciting projects."
+msgid "My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to more than 100 exciting projects."
+msgstr "My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to more than 100 exciting projects."
 
 msgid "01/2009 - 08/2009"
 msgstr "01/2009 - 08/2009"
