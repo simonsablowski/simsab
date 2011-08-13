@@ -280,7 +280,7 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<a href="http://names.notmybiz.com" title="<?php echo $this->localize('Filtering names'); ?>"><?php echo $this->localize('Filtering names'); ?></a>
+								<a href="http://projects.simsab.net/names/" title="<?php echo $this->localize('Filtering names'); ?>"><?php echo $this->localize('Filtering names'); ?></a>
 							</dt>
 							<dd class="description">
 								<p>
@@ -288,7 +288,7 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<a href="http://trend.notmybiz.com" title="<?php echo $this->localize('Trend'); ?>"><?php echo $this->localize('Trend'); ?></a>
+								<a href="http://projects.simsab.net/trend/" title="<?php echo $this->localize('Trend'); ?>"><?php echo $this->localize('Trend'); ?></a>
 							</dt>
 							<dd class="description">
 								<p>
@@ -296,7 +296,7 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<a href="http://bbs.notmybiz.com" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a>
+								<a href="http://projects.simsab.net/beerball-simulator/" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a>
 							</dt>
 							<dd class="description">
 								<p>
