@@ -271,6 +271,24 @@
 								</p>
 							</dd>
 							<dt class="item">
+								<a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('AskMe'); ?>"><?php echo $this->localize('AskMe'); ?></a>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Ask and answer questions'); ?> (2010) &ndash;
+									<a href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+								</p>
+							</dd>
+							<dt class="item">
+								<a href="http://projects.simsab.net/dialogues/" title="<?php echo $this->localize('Dialogues'); ?>"><?php echo $this->localize('Dialogues'); ?></a>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Parsing multi-format instant messaging dialogues'); ?> (2010) &ndash;
+									<a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+								</p>
+							</dd>
+							<dt class="item">
 								<em><?php echo $this->localize('Scraper'); ?></em>
 							</dt>
 							<dd class="description">
@@ -302,14 +320,6 @@
 								<p>
 									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &ndash;
 									<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-								</p>
-							</dd>
-							<dt class="item">
-								<a href="http://bierball.com" title="bierball.com">bierball.com</a>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('All-round development of a fun sports community for Beerball'); ?> (2008)
 								</p>
 							</dd>
 						</dl>
