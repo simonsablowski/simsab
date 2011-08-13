@@ -354,6 +354,9 @@ msgstr "Library für das Scrapen von Produktkatalogen"
 msgid "Filtering names"
 msgstr "Vornamen filtern"
 
+msgid "Filtering names by configurable patterns"
+msgstr "Vornamen nach konfigurierbaren Mustern filtern"
+
 msgid "Trend"
 msgstr "Trend"
 
@@ -366,8 +369,17 @@ msgstr "Bierball-Simulator"
 msgid "Simulation of a Beerball match"
 msgstr "Simulation eines Spiels Bierball"
 
-msgid "All-round development of a fun sports community for Beerball"
-msgstr "Rundum-Entwicklung der Freizeitsport-Community für Bierball"
+msgid "AskMe"
+msgstr "AskMe"
+
+msgid "Ask and answer questions"
+msgstr "Fragen stellen und beantworten"
+
+msgid "Dialogues"
+msgstr "Dialoge"
+
+msgid "Parsing multi-format instant messaging dialogues"
+msgstr "Parsen von Chat-Dialogen in verschiedenen Formaten"
 
 #work-experience
 

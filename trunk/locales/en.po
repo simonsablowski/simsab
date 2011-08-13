@@ -354,11 +354,14 @@ msgstr "Library for scraping product catalogues"
 msgid "Filtering names"
 msgstr "Filtering names"
 
+msgid "Filtering names by configurable patterns"
+msgstr "Filtering names by configurable patterns"
+
 msgid "Trend"
 msgstr "Trend"
 
 msgid "Der nächste musikalische Trend"
-msgstr "Der nächste musikalische Trend"
+msgstr "The next musical trend"
 
 msgid "Beerball Simulator"
 msgstr "Beerball Simulator"
@@ -366,8 +369,17 @@ msgstr "Beerball Simulator"
 msgid "Simulation of a Beerball match"
 msgstr "Simulation of a Beerball match"
 
-msgid "All-round development of a fun sports community for Beerball"
-msgstr "All-round development of a fun sports community for Beerball"
+msgid "AskMe"
+msgstr "AskMe"
+
+msgid "Ask and answer questions"
+msgstr "Fragen stellen und beantworten"
+
+msgid "Dialogues"
+msgstr "Dialogues"
+
+msgid "Parsing multi-format instant messaging dialogues"
+msgstr "Parsing multi-format instant messaging dialogues"
 
 #work-experience
 
