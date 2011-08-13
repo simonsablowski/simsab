@@ -284,7 +284,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Parsing multi-format instant messaging dialogues'); ?> (2010) &ndash;
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Multi-format instant messaging dialogues'); ?> (2010) &ndash;
 									<a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
