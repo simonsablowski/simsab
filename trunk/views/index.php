@@ -349,7 +349,7 @@
 
 								</p>
 								<p>
-									<?php echo $this->localize('My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to 100+ exciting projects.'); ?>
+									<?php echo $this->localize('My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to more than 100 exciting projects.'); ?>
 
 								</p>
 							</dd>
