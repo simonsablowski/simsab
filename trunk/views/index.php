@@ -271,7 +271,7 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('AskMe'); ?>"><?php echo $this->localize('AskMe'); ?></a>
+								<em><?php echo $this->localize('AskMe'); ?></em>
 							</dt>
 							<dd class="description">
 								<p>
@@ -280,7 +280,7 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<a href="http://projects.simsab.net/dialogues/" title="<?php echo $this->localize('Dialogues'); ?>"><?php echo $this->localize('Dialogues'); ?></a>
+								<em><?php echo $this->localize('Dialogues'); ?></em>
 							</dt>
 							<dd class="description">
 								<p>
