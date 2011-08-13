@@ -378,8 +378,8 @@ msgstr "Fragen stellen und beantworten"
 msgid "Dialogues"
 msgstr "Dialoge"
 
-msgid "Parsing multi-format instant messaging dialogues"
-msgstr "Parsen von Chat-Dialogen in verschiedenen Formaten"
+msgid "Multi-format instant messaging dialogues"
+msgstr "Chat-Dialoge in verschiedenen Formaten"
 
 #work-experience
 
