@@ -339,11 +339,14 @@ msgstr "error backtracking"
 msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office."
 msgstr "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office."
 
+msgid "Content management system for nacho"
+msgstr "Content management system for nacho"
+
+msgid "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
+msgstr "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
+
 msgid "One-day project"
 msgstr "One-day project"
-
-msgid "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
-msgstr "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
 
 msgid "Scraper"
 msgstr "Scraper"
