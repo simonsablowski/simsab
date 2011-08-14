@@ -266,7 +266,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('CMS add-on for nacho'); ?> (2011) &ndash;
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner.'); ?> (2011) &ndash;
 									<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
