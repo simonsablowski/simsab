@@ -342,8 +342,8 @@ msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität i
 msgid "One-day project"
 msgstr "Eintagesprojekt"
 
-msgid "CMS add-on for nacho"
-msgstr "CMS-Add-on für nacho"
+msgid "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
+msgstr "Außer nützlicher <em>Events-basierter Frontend-Funktionalität</em>, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese hochflexible <em>CRUD-Interfaces</em>, die auf clevere MVC-Weise konfiguriert werden können."
 
 msgid "Scraper"
 msgstr "Scraper"
