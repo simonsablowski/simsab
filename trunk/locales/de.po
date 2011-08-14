@@ -340,7 +340,7 @@ msgid "Furthermore, the software package provides extensive functionality in mea
 msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering sowie User-Input-Validierung. Der <em>Database Abstraction Layer</em> ist herausragend und unterstützt Datenbanksysteme von SQL bis MS Office."
 
 msgid "Content management system for nacho"
-msgstr "Content Management System für nacho"
+msgstr "Content-Management-System für nacho"
 
 msgid "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
 msgstr "Außer nützlicher <em>Events-basierter Frontend-Funktionalität</em>, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese sichere Mechanismen für <em>Authentifizierung</em> sowie hochflexible <em>CRUD-Interfaces</em>, die auf clevere MVC-Weise konfiguriert werden können."
