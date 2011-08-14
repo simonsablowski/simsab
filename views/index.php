@@ -266,7 +266,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Content management system for nacho"'); ?>(2011) &ndash;
+									<?php echo $this->localize('Content management system for nacho'); ?> (2011) &ndash;
 									<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 								<p>
