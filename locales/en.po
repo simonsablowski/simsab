@@ -376,7 +376,7 @@ msgid "AskMe"
 msgstr "AskMe"
 
 msgid "Ask and answer questions"
-msgstr "Fragen stellen und beantworten"
+msgstr "Ask and answer questions"
 
 msgid "Dialogues"
 msgstr "Dialogues"
