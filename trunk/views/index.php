@@ -341,7 +341,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live with a beta version and over 2000 coaching videos since November 2010.'); ?>
+									<?php echo $this->localize('I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. Having been live since November 2010, we deliver hundreds of premium quality products to our satisfied customers.'); ?>
 
 								</p>
 							</dd>
