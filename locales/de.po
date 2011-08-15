@@ -77,7 +77,7 @@ msgid "Throughout my career I have worked on projects on my own or in teams and 
 msgstr "Im Laufe meiner Karriere habe ich Projekte selbständig oder in Teams realisiert und relevante Erfahrung sowohl in Agenturen und Startups als auch etablierten Unternehmen gesammelt. Ich bin erfahrener und talentierter Teamleiter und habe einen ausgeprägten unternehmerischen Geist."
 
 msgid "In my spare time I enjoy different kinds of art and culture. I particularly like life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>."
-msgstr "In meiner Freizeit beschäftige ich mich gern mit Kunst und Kultur jeglicher Facette. Ich zeichne Akte, Porträts und Comics, spiele Gitarre und experimentiere mit digitaler Produktion akustischer und visueller Art. <a title="Filippo Baraccani" href="http://fbrccn.com">Filippo Baraccani</a> und ich stellen einige unserer künstlerischen Arbeiten auf <a title="notmybiz.com" href="http://notmybiz.com">notmybiz.com</a> aus."
+msgstr "In meiner Freizeit beschäftige ich mich gern mit Kunst und Kultur jeglicher Facette. Ich zeichne Akte, Porträts und Comics, spiele Gitarre und experimentiere mit digitaler Produktion akustischer und visueller Art. <a title="Filippo Baraccani" href="http://fbrccn.com">Filippo Baraccani</a> und ich stellen unsere Arbeit auf <a title="notmybiz.com" href="http://notmybiz.com">notmybiz.com</a> aus."
 
 #professional-skills
 
