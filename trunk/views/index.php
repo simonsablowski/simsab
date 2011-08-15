@@ -70,7 +70,7 @@
 
 						</p>
 						<p>
-							<?php echo $this->localize('While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. My main focus lies with <em>software architecture</em>, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
+							<?php echo $this->localize('While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. I combine passion with precision, perfectionism with time consciousness.'); ?>
 
 						</p>
 						<p>
@@ -352,7 +352,7 @@
 
 								</p>
 								<p>
-									<?php echo $this->localize('My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to more than 100 exciting projects.'); ?>
+									<?php echo $this->localize('My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
 
 								</p>
 							</dd>
