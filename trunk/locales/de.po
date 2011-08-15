@@ -73,8 +73,8 @@ msgstr "Ich bin leidenschaftlicher Entwickler und Architekt für Web-Anwendungen
 msgid "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized."
 msgstr "Spezialisiert habe ich mich auf den Einsatz von <em>PHP</em> und <em>MySQL</em>. Dabei lege ich Wert auf Effizienz, Wartbarkeit und Wiederverwendbarkeit meiner Software. Meine Arbeit richtet sich nach Design Patterns, ist redundanzfrei, modular und Performance-optimiert."
 
-msgid "Throughout my career I have worked on projects on my own or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit."
-msgstr "Im Laufe meiner Karriere habe ich Projekte selbständig oder in Teams realisiert und relevante Erfahrung sowohl in Agenturen und Startups als auch etablierten Unternehmen gesammelt. Ich bin erfahrener und talentierter Teamleiter und habe einen ausgeprägten unternehmerischen Geist."
+msgid "Throughout my career I have gained experience working on short-term projects with different agencies as well as on long-term projects in startups and established companies. I am an experienced and talented team leader and have a strong entrepreneurial spirit."
+msgstr "Im Laufe meiner Karriere habe ich Erfahrung gesammelt mit kurzfristigen Projekten in verschiedenen Agenturen sowie mit langfristigen Projekten in Startups und etablierten Unternehmen. Ich bin erfahrener und talentierter Teamleiter und habe einen ausgeprägten unternehmerischen Geist."
 
 msgid "In my spare time I enjoy different kinds of art and culture. I particularly like life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>."
 msgstr "In meiner Freizeit beschäftige ich mich gern mit Kunst und Kultur jeglicher Facette. Ich zeichne Akte, Porträts und Comics, spiele Gitarre und experimentiere mit digitaler Produktion akustischer und visueller Art. <a title="Filippo Baraccani" href="http://fbrccn.com">Filippo Baraccani</a> und ich stellen unsere Arbeit auf <a title="notmybiz.com" href="http://notmybiz.com">notmybiz.com</a> aus."
@@ -392,7 +392,7 @@ msgstr "Eintagesprojekte geben Ihnen eine Vorstellung davon, was für einen Tage
 msgid "since 08/2009"
 msgstr "seit 08/2009"
 
-msgid "I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. Having been live since November 2010, we deliver hundreds of premium quality products to our satisfied customers."
+msgid "I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
 msgstr "Ich bin Gründer und <em>CTO</em> der <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt. Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden hunderte von Produkten in Premiumqualität."
 
 msgid "since 1999"
@@ -401,7 +401,7 @@ msgstr "seit 1999"
 msgid "Web and software development"
 msgstr "Web- und Software-Entwicklung"
 
-msgid "My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design."
+msgid "My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design."
 msgstr "Schwerpunktmäßig arbeite ich im Bereich Software-Architektur, Core- und Backend-Entwicklung, technische Konzeption, Prototyping, Refactoring und Datenbank-Design. Darüber hinaus verfüge ich über weitreichende Kenntnisse zu Benutzerfreundlichkeit und Suchmaschinenoptimierung und habe ein Auge für gutes Design."
 
 msgid "01/2009 - 08/2009"
@@ -434,7 +434,7 @@ msgstr "redaktionell gepflegte Inhalte sowie User-Generated Content"
 msgid "internationalization, scaling, high availability"
 msgstr "Internationalisierung, Skalierung, High Availability"
 
-msgid "affiliating, booking engies und content aggregation"
+msgid "affiliating, booking engines und content aggregation"
 msgstr "Affiliating, Buchungssysteme und Content-Aggregation"
 
 msgid "In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."

@@ -74,7 +74,7 @@
 
 						</p>
 						<p>
-							<?php echo $this->localize('Throughout my career I have worked on projects on my own or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit.'); ?>
+							<?php echo $this->localize('Throughout my career I have gained experience working on short-term projects with different agencies as well as on long-term projects in startups and established companies. I am an experienced and talented team leader and have a strong entrepreneurial spirit.'); ?>
 
 						</p>
 						<p>
@@ -327,7 +327,7 @@
 							</dd>
 						</dl>
 						<p>
-							<sup>1</sup><span class="footnote"><?php echo $this->localize('One-day projects give you an impression of what is realizable for a day\'s rate.'); ?></span>
+							<sup>1</sup> <span class="footnote"><?php echo $this->localize('One-day projects give you an impression of what is realizable for a day\'s rate.'); ?></span>
 						</p>
 					</div>
 					<div class="section work-experience">
@@ -341,7 +341,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. Having been live since November 2010, we deliver hundreds of premium quality products to our satisfied customers.'); ?>
+									<?php echo $this->localize('I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers.'); ?>
 
 								</p>
 							</dd>
@@ -355,7 +355,7 @@
 
 								</p>
 								<p>
-									<?php echo $this->localize('My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
+									<?php echo $this->localize('My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
 
 								</p>
 							</dd>
@@ -393,7 +393,7 @@
 									<span><?php echo $this->localize('social network/community'); ?>,</span>
 									<span><?php echo $this->localize('editiorially maintainable and user-generated content'); ?>,</span>
 									<span><?php echo $this->localize('internationalization, scaling, high availability'); ?>,</span>
-									<span><?php echo $this->localize('affiliating, booking engies und content aggregation'); ?></span>
+									<span><?php echo $this->localize('affiliating, booking engines und content aggregation'); ?></span>
 								</p>
 								<p>
 									<?php echo $this->localize('In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product.'); ?>
