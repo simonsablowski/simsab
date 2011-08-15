@@ -67,8 +67,8 @@ msgstr "Simon Sablowski"
 
 #about-me
 
-msgid "I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to numerous exciting projects."
-msgstr "Ich bin Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Meine Expertise und Kreativität habe ich in eine Reihe von aufregenden Projekten eingebracht."
+msgid "I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects."
+msgstr "Ich bin Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Meine Expertise und Kreativität habe ich in mehr als 100 aufregende Projekte eingebracht."
 
 msgid "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. I combine passion with precision, perfectionism with time consciousness."
 msgstr "Spezialisiert habe ich mich auf den Einsatz von <em>PHP</em> und <em>MySQL</em>. Dabei lege ich Wert auf Effizienz, Wartbarkeit und ggf. Wiederverwendbarkeit meiner Software. Ich richte mich nach Design Patterns, achte auf Redundanzfreiheit sowie Modularität und entwickle Routinen zur Performance-Optimierung. Ich kombiniere Leidenschaft mit Präzision, Perfektionismus mit Zeitbewusstsein."

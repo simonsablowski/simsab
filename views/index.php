@@ -66,7 +66,7 @@
 							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('about-me'); ?>" name="<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
 						</h2>
 						<p>
-							<?php echo $this->localize('I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to numerous exciting projects.'); ?>
+							<?php echo $this->localize('I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects.'); ?>
 
 						</p>
 						<p>
