@@ -70,8 +70,8 @@ msgstr "Simon Sablowski"
 msgid "I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to numerous exciting projects."
 msgstr "I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to numerous exciting projects."
 
-msgid "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. My main focus lies with <em>software architecture</em>, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design."
-msgstr "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. My main focus lies with <em>software architecture</em>, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design."
+msgid "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. I combine passion with precision, perfectionism with time consciousness."
+msgstr "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. I combine passion with precision, perfectionism with time consciousness."
 
 msgid "Throughout my career I have worked on projects on my own or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit."
 msgstr "Throughout my career I have worked on projects on my own or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit."
@@ -398,8 +398,8 @@ msgstr "since 1999"
 msgid "Web and software development"
 msgstr "Web and software development"
 
-msgid "My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to more than 100 exciting projects."
-msgstr "My specialities are core and backend development, software architecture, technical conception, prototyping, refactoring and database design. I have contributed my expertise and creativity to more than 100 exciting projects."
+msgid "My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design."
+msgstr "My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition I am well grounded in usability, search engine optimization and I have an eye for good design."
 
 msgid "01/2009 - 08/2009"
 msgstr "01/2009 - 08/2009"
