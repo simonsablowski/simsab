@@ -165,7 +165,7 @@ a.external {
 	font-size: 85%;
 }
 
-#body .projects .item .sub-line {
+#body .projects .item .sub-line, #body .projects .footnote {
 	font-size: 85%;
 }
 
