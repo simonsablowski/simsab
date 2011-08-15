@@ -67,11 +67,11 @@ msgstr "Simon Sablowski"
 
 #about-me
 
-msgid "I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects."
-msgstr "I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects."
+msgid "I am a passionate developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects."
+msgstr "I am a passionate developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects."
 
-msgid "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. I combine passion with precision, perfectionism with time consciousness."
-msgstr "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. I combine passion with precision, perfectionism with time consciousness."
+msgid "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized."
+msgstr "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized."
 
 msgid "Throughout my career I have worked on projects on my own or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit."
 msgstr "Throughout my career I have worked on projects on my own or in teams and have gathered experience working for both agencies and startups as well as etablished companies. I am an experienced and talented team leader and have a strong entrepreneural spirit."

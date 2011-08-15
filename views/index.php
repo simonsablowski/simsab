@@ -66,11 +66,11 @@
 							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('about-me'); ?>" name="<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
 						</h2>
 						<p>
-							<?php echo $this->localize('I am a developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects.'); ?>
+							<?php echo $this->localize('I am a passionate developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects.'); ?>
 
 						</p>
 						<p>
-							<?php echo $this->localize('While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized. I combine passion with precision, perfectionism with time consciousness.'); ?>
+							<?php echo $this->localize('While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized.'); ?>
 
 						</p>
 						<p>
