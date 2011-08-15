@@ -278,7 +278,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Ask and answer questions'); ?> (2011) &ndash;
+									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Ask and answer questions'); ?> (2011) &ndash;
 									<a href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
@@ -287,7 +287,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Multi-format instant messaging dialogues'); ?> (2011) &ndash;
+									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Multi-format instant messaging dialogues'); ?> (2011) &ndash;
 									<a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
@@ -296,7 +296,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Library for scraping product catalogues'); ?> (2010) &ndash;
+									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Library for scraping product catalogues'); ?> (2010) &ndash;
 									<a href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
@@ -305,7 +305,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Filtering names by configurable patterns'); ?> (2010)
+									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Filtering names by configurable patterns'); ?> (2010)
 								</p>
 							</dd>
 							<dt class="item">
@@ -313,7 +313,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Der nächste musikalische Trend'); ?> (2009)
+									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Der nächste musikalische Trend'); ?> (2009)
 								</p>
 							</dd>
 							<dt class="item">
@@ -321,11 +321,14 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &ndash;
+									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &ndash;
 									<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
 						</dl>
+						<p>
+							<sup>1</sup><span class="footnote"><?php echo $this->localize('One-day projects give you an impression of what is realizable for a day\'s rate.'); ?></span>
+						</p>
 					</div>
 					<div class="section work-experience">
 						<h2>

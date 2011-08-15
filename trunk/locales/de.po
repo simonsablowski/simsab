@@ -384,6 +384,9 @@ msgstr "Dialoge"
 msgid "Multi-format instant messaging dialogues"
 msgstr "Chat-Dialoge in verschiedenen Formaten"
 
+msgid "One-day projects give you an impression of what is realizable for a day's rate."
+msgstr "Eintagesprojekte geben Ihnen eine Vorstellung davon, was für einen Tagessatz."
+
 #work-experience
 
 msgid "since 08/2009"
