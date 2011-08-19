@@ -12,16 +12,16 @@ $configuration['includeDirectories'] = array(
 );
 
 $configuration['Localization'] = array(
-	'default' => 'de',
-	'de' => array(
-		'language' => 'de',
-		'locale' => 'de_DE',
-		'name' => 'Deutsch'
-	),
+	'default' => 'en',
 	'en' => array(
 		'language' => 'en',
 		'locale' => 'en_GB',
 		'name' => 'English'
+	),
+	'de' => array(
+		'language' => 'de',
+		'locale' => 'de_DE',
+		'name' => 'Deutsch'
 	)
 );
 
