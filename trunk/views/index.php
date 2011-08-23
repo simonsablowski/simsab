@@ -178,21 +178,15 @@
 								<li>PHP</li>
 								<li>MySQL</li>
 								<li>PCRE</li>
-								<li>Apache</li>
-								<li>nginx</li>
-								<li>lighttp</li>
+								<li>Python</li>
+								<li>JavaScript</li>
+								<li>ActionScript</li>
 								<li>XHTML</li>
 								<li>CSS</li>
 								<li>XML</li>
 								<li>XSLT</li>
-								<li>MXML</li>
 								<li>AJAX</li>
-								<li>JavaScript</li>
-								<li>ActionScript</li>
-								<li>Python</li>
-								<li>Ruby</li>
-								<li>SFTP</li>
-								<li>SOAP</li>
+								<li>MXML</li>
 							</ul>
 						</div>
 						<div class="sub-section frameworks">
@@ -201,32 +195,32 @@
 							</h2>
 							<ul>
 								<li>Magento</li>
-								<li>CakePHP</li>
 								<li>Zend</li>
-								<li>Memcache</li>
-								<li>CodeIgniter</li>
-								<li>Symfony</li>
-								<li>Yii</li>
-								<li>Solarphp</li>
-								<li>Smarty</li>
 								<li>Drupal</li>
 								<li>WordPress</li>
-								<li>Subversion</li>
-								<li>jQuery</li>
-								<li>mootools</li>
-								<li>Prototype</li>
-								<li>SproutCore</li>
-								<li>YAML</li>
-								<li>YUI</li>
-								<li>JIRA</li>
-								<li>Bamboo</li>
-								<li>Firebug</li>
+								<li>CakePHP</li>
+								<li>CodeIgniter</li>
+								<li>Apache</li>
+								<li>nginx</li>
+								<li>lighttp</li>
+								<li>varnish</li>
+								<li>pound</li>
+								<li>munin</li>
+								<li>Memcache</li>
+								<li>eAccelerator</li>
+								<li>APC</li>
+								<li>XCache</li>
 								<li>XDebug</li>
+								<li>Phing</li>
+								<li>Subversion</li>
 								<li>PHPUnit</li>
 								<li>Selenium</li>
+								<li>Bamboo</li>
+								<li>JIRA</li>
 								<li>trac</li>
-								<li>Phing</li>
-								<li>Doctrine</li>
+								<li>jQuery</li>
+								<li>mootools</li>
+								<li>Firebug</li>
 								<li>Google Analytics</li>
 								<li class="wide">Google Website Optimizer</li>
 							</ul>
