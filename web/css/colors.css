@@ -24,7 +24,7 @@ html {
 	box-shadow: 0 0 3px #ccc;
 }
 
-#content, abbr, acronym {
+abbr, acronym {
 	border-color: #ccc;
 }
 
