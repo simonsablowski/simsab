@@ -29,7 +29,7 @@ abbr, acronym {
 }
 
 #menu .item a, #print a {
-	text-shadow: 0 1px 0 #c6c;
+	text-shadow: 0 1px 0 #360;
 }
 
 #body .work-experience .item .sub-line, #copyright, #copyright a {
@@ -38,6 +38,10 @@ abbr, acronym {
 
 #menu {
 	background-color: #390;
+}
+
+#body h2, #body h3 {
+	text-shadow: 0 1px 0 #cfcfcf;
 }
 
 #body h2, #body h3, #body a, #body em, #body strong {
