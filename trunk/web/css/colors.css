@@ -1,7 +1,3 @@
-html, #content {
-	background-color: #fff;
-}
-
 #large-photo {
 	border-color: #fff;
 }
@@ -10,12 +6,30 @@ html, #content {
 	color: #fff;
 }
 
+#body {
+	background-color: #fff;
+}
+
+html {
+	background-color: #f9f9f9;
+}
+
 #menu .item a:hover, #menu .language a {
 	color: #bda;
 }
 
+#menu, #content {
+	-moz-box-shadow: 0 0 3px #ccc;
+	-webkit-box-shadow: 0 0 3px #ccc;
+	box-shadow: 0 0 3px #ccc;
+}
+
 #content, abbr, acronym {
 	border-color: #ccc;
+}
+
+#menu .item a, #print a {
+	text-shadow: 0 1px 0 #c3c;
 }
 
 #body .work-experience .item .sub-line, #copyright, #copyright a {
