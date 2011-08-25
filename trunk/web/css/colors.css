@@ -19,9 +19,9 @@ html {
 }
 
 #menu, #content {
-	-moz-box-shadow: 0 0 3px #ccc;
-	-webkit-box-shadow: 0 0 3px #ccc;
-	box-shadow: 0 0 3px #ccc;
+	-moz-box-shadow: 0 0 1.75px #ccc;
+	-webkit-box-shadow: 0 0 1.75px #ccc;
+	box-shadow: 0 0 1.75px #ccc;
 }
 
 abbr, acronym {
