@@ -29,7 +29,7 @@ abbr, acronym {
 }
 
 #menu .item a, #print a {
-	text-shadow: 0 1px 0 #360;
+	text-shadow: 0 1px 0 #370;
 }
 
 #body .work-experience .item .sub-line, #copyright, #copyright a {
@@ -41,7 +41,7 @@ abbr, acronym {
 }
 
 #body h2, #body h3 {
-	text-shadow: 0 1px 0 #cfcfcf;
+	text-shadow: 0 1px 0 #ddd;
 }
 
 #body h2, #body h3, #body a, #body em, #body strong {
