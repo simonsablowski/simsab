@@ -3,9 +3,17 @@ $(document).ready(function() {
 		return this.hostname && this.hostname !== location.hostname;
 	}).addClass('external');
 	
-	$('a.external').click(function(e) {
+	$('a.external').click(function(event) {
 		open(this.href);
-		e.preventDefault();
+		event.preventDefault();
+	});
+	
+	$('.expandable').hide();
+	
+	$('a.expand, a.collapse').click(function(event) {
+		$(this).toggleClass('expand').toggleClass('collapse');
+		$(this).parent().siblings('.expandable').slideToggle(400);
+		event.preventDefault();
 	});
 	
 	$('#photo').mouseenter(function() {
@@ -40,7 +48,7 @@ $(document).ready(function() {
 	
 	$('#menu .item a').filter(function() {
 		return this.href.match('#');
-	}).click(function(e) {
+	}).click(function(event) {
 		$('.section:visible').hide();
 		$('.section a[href*="' + $(this).attr('href') + '"]').parents('.section').fadeIn(400);
 	});

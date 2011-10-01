@@ -237,10 +237,11 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Web application framework (2011)'); ?> &ndash;
-									<a href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									<?php echo $this->localize('Web application framework (2011)'); ?> &sdot;
+									<a href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
-								<p>
+								<p class="expandable">
 									<?php echo $this->localize('Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:'); ?>
 									<span><?php echo $this->localize('Reflection'); ?>,</span>
 									<span><?php echo $this->localize('magic methods'); ?>,</span>
@@ -250,7 +251,7 @@
 
 									<span><?php echo $this->localize('autoloading'); ?>.</span>
 								</p>
-								<p>
+								<p class="expandable">
 									<?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office.'); ?>
 
 								</p>
@@ -260,10 +261,11 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Content management system for nacho'); ?> (2011) &ndash;
-									<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									<?php echo $this->localize('Content management system for nacho'); ?> (2011) &sdot;
+									<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
-								<p>
+								<p class="expandable">
 									<?php echo $this->localize('Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner.'); ?>
 								</p>
 							</dd>
@@ -272,7 +274,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Ask and answer questions'); ?> (2011) &ndash;
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Ask and answer questions'); ?> (2011) &sdot;
 									<a href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
@@ -281,7 +283,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Multi-format instant messaging dialogues'); ?> (2011) &ndash;
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Multi-format instant messaging dialogues'); ?> (2011) &sdot;
 									<a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
@@ -290,7 +292,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Library for scraping product catalogues'); ?> (2010) &ndash;
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Library for scraping product catalogues'); ?> (2010) &sdot;
 									<a href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
@@ -299,7 +301,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Filtering names by configurable patterns'); ?> (2010)
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Filtering names by configurable patterns'); ?> (2010)
 								</p>
 							</dd>
 							<dt class="item">
@@ -307,7 +309,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Der nächste musikalische Trend'); ?> (2009)
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Der nächste musikalische Trend'); ?> (2009)
 								</p>
 							</dd>
 							<dt class="item">
@@ -315,14 +317,11 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('One-day project'); ?><sup>1</sup>: <?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &ndash;
+									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &sdot;
 									<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
 						</dl>
-						<p>
-							<sup>1</sup> <span class="footnote"><?php echo $this->localize('One-day projects give you an impression of what is realizable for a day\'s rate.'); ?></span>
-						</p>
 					</div>
 					<div class="section work-experience">
 						<h2>
