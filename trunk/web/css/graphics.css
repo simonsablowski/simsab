@@ -6,6 +6,14 @@
 	list-style-image: url('../img/list-item.gif');
 }
 
+#body a.collapse {
+	background: url('../img/collapse.gif') no-repeat right center;
+}
+
+#body a.expand {
+	background: url('../img/expand.gif') no-repeat right center;
+}
+
 #body a.external {
 	background: url('../img/external.gif') no-repeat right center;
 }

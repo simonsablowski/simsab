@@ -2,7 +2,7 @@ li {
 	margin-left: 15px;
 }
 
-a.external {
+a.collapse, a.expand, a.external {
 	padding-right: 14px;
 }
 
