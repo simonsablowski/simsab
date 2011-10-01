@@ -149,6 +149,14 @@ a.collapse, a.expand, a.external {
 	width: 214px;
 }
 
+#body .projects .item .sub-line, #body .projects .footnote {
+	font-size: 85%;
+}
+
+#body .work-experience .description, #body .projects .description {
+	margin-left: 150px;
+}
+
 #body .work-experience .item, #body .work-experience .description, #body .projects .item, #body .projects .description {
 	padding-bottom: 20px;
 }
@@ -164,12 +172,8 @@ a.collapse, a.expand, a.external {
 	font-size: 85%;
 }
 
-#body .projects .item .sub-line, #body .projects .footnote {
-	font-size: 85%;
-}
-
-#body .work-experience .description, #body .projects .description {
-	margin-left: 150px;
+#body .contact-me .options {
+	padding-bottom: 20px;
 }
 
 #copyright {

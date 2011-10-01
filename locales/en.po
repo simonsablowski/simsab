@@ -469,6 +469,18 @@ msgstr "contact@simsab.net"
 msgid "Contact me"
 msgstr "Contact me"
 
+msgid "Contact me via e-mail"
+msgstr "Contact me via e-mail"
+
+msgid "(via e-mail)"
+msgstr "(via e-mail)"
+
+msgid "Contact me via Skype"
+msgstr "Contact me via Skype"
+
+msgid "(via Skype)"
+msgstr "(via Skype)"
+
 msgid "You are welcome to visit my profile in the following social networks:"
 msgstr "You are welcome to visit my profile in the following social networks:"
 

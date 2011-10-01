@@ -425,8 +425,9 @@
 							<?php echo $this->localize('I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:'); ?>
 
 						</p>
-						<p>
-							<em><?php echo $this->localize('contact@simsab.net'); ?></em>
+						<p class="options">
+							<a href="mailto:<?php echo $this->localize('contact@simsab.net'); ?>" title="<?php echo $this->localize('Contact me via e-mail'); ?>"><?php echo $this->localize('contact@simsab.net'); ?></a> <?php echo $this->localize('(via e-mail)'); ?><br/>
+							<a href="skype:simonsablowski?call" title="<?php echo $this->localize('Contact me via Skype'); ?>">simonsablowski</a> <?php echo $this->localize('(via Skype)'); ?>
 						</p>
 						<p>
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
