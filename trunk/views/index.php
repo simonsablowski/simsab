@@ -320,7 +320,7 @@
 								<dd class="description">
 									<p>
 										<?php echo $this->localize('Communication between frontend and API (2011)'); ?> &sdot;
-										<a href="http://code.google.com/p/motivado-ui/source/browse" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+										<a href="http://code.google.com/p/motivado-ui/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
 							</dl>
