@@ -158,7 +158,7 @@ a.collapse, a.expand, a.external {
 }
 
 #body .work-experience .item, #body .work-experience .description, #body .projects .item, #body .projects .description {
-	padding-bottom: 20px;
+	padding-bottom: 15px;
 }
 
 #body .work-experience .item, #body .projects .item {
@@ -173,7 +173,7 @@ a.collapse, a.expand, a.external {
 }
 
 #body .contact-me .options {
-	padding-bottom: 20px;
+	padding-bottom: 15px;
 }
 
 #copyright {
