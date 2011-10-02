@@ -273,6 +273,58 @@
 								</dd>
 							</dl>
 						</div>
+						<div class="sub-section motivado-projects">
+							<h2>
+								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('motivado-projects'); ?>" name="<?php echo $this->localize('motivado-projects'); ?>" title="<?php echo $this->localize('Motivado Projects'); ?>"><?php echo $this->localize('Motivado Projects'); ?></a>
+							</h2>
+							<dl>
+								<dt class="item">
+									<a href="http://projects.simsab.net/motivado/coaching-preview/" title="<?php echo $this->localize('Coaching Preview'); ?>"><?php echo $this->localize('Coaching Preview'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Configure and test coaching elements (2011)'); ?> &sdot;
+										<a href="http://code.google.com/p/coaching-preview/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<a href="http://projects.simsab.net/motivado/coaching-import/index" title="<?php echo $this->localize('Coaching Import'); ?>"><?php echo $this->localize('Coaching Import'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Import coaching models into database (2011)'); ?> &sdot;
+										<a href="http://code.google.com/p/motivado-importer/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<a href="http://projects.simsab.net/motivado/coaching-test" title="<?php echo $this->localize('Coaching Test'); ?>"><?php echo $this->localize('Coaching Test'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Test coachings before deployment (2011)'); ?> &sdot;
+										<a href="http://code.google.com/p/coaching-test/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<em><?php echo $this->localize('Coaching API'); ?></em>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('API for Motivado\'s coaching content (2011)'); ?> &sdot;
+										<a href="http://code.google.com/p/motivado-api/source/browse" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<em><?php echo $this->localize('Coaching UI'); ?></em>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Communication between frontend and API (2011)'); ?> &sdot;
+										<a href="http://code.google.com/p/motivado-ui/source/browse" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+							</dl>
+						</div>
 						<div class="sub-section one-day-projects">
 							<h2>
 								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('one-day-projects'); ?>" name="<?php echo $this->localize('one-day-projects'); ?>" title="<?php echo $this->localize('One-Day Projects'); ?>"><?php echo $this->localize('One-Day Projects'); ?></a>
