@@ -35,7 +35,7 @@ function initializeTogglingSections() {
 	
 	var url = document.location.toString();
 	if (url.match('#')) {
-		$('.section a[href*="#' + url.split('#')[1] + '"]').parents('.section').show();
+		$('.section h2 a[href*="#' + url.split('#')[1] + '"]').parents('.section').show();
 	} else {
 		$('.section:first').show();
 	}
