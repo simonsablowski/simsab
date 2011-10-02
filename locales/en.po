@@ -70,8 +70,8 @@ msgstr "Simon Sablowski"
 msgid "I am a passionate developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects."
 msgstr "I am a passionate developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects."
 
-msgid "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized."
-msgstr "While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized."
+msgid "While specializing in the use of <em>PHP</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized."
+msgstr "While specializing in the use of <em>PHP</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized."
 
 msgid "Throughout my career I have gained experience working on short-term projects with different agencies as well as on long-term projects in startups and established companies. I am an experienced and talented team leader and have a strong entrepreneurial spirit."
 msgstr "Throughout my career I have gained experience working on short-term projects with different agencies as well as on long-term projects in startups and established companies. I am an experienced and talented team leader and have a strong entrepreneurial spirit."
@@ -303,6 +303,18 @@ msgstr "Frameworks and Auxiliary Tools"
 
 #projects
 
+msgid "Motivado Projects"
+msgstr "Motivado Projects"
+
+msgid "motivado-projects"
+msgstr "motivado-projects"
+
+msgid "Long-Term Projects"
+msgstr "Long-Term Projects"
+
+msgid "long-term-projects"
+msgstr "long-term-projects"
+
 msgid "nacho"
 msgstr "nacho"
 
@@ -330,11 +342,14 @@ msgstr "class abstraction"
 msgid "type hinting"
 msgstr "type hinting"
 
-msgid "and"
-msgstr "and"
-
 msgid "error backtracking"
 msgstr "error backtracking"
+
+msgid "namespaces"
+msgstr "namespaces"
+
+msgid "and"
+msgstr "and"
 
 msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office."
 msgstr "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office."
@@ -345,8 +360,11 @@ msgstr "Content management system for nacho"
 msgid "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
 msgstr "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
 
-msgid "One-day project"
-msgstr "One-day project"
+msgid "One-Day Projects"
+msgstr "One-Day Projects"
+
+msgid "one-day-projects"
+msgstr "one-day-projects"
 
 msgid "Scraper"
 msgstr "Scraper"
@@ -392,8 +410,14 @@ msgstr "One-day projects give you an impression of what is realizable for a day'
 msgid "since 08/2009"
 msgstr "since 08/2009"
 
-msgid "I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
-msgstr "I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
+msgid "I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content."
+msgstr "I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content."
+
+msgid "I developed Motivado's %scomplex software%s  with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
+msgstr "I developed Motivado's %scomplex software%s  with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
+
+msgid "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
+msgstr "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
 
 msgid "since 1999"
 msgstr "since 1999"
@@ -419,8 +443,8 @@ msgstr "08/2007 - 01/2009"
 msgid "1 year, 6 months"
 msgstr "1 year, 6 months"
 
-msgid "Core and feature development for the startup <em>mytourclips AG</em>:"
-msgstr "Core and feature development for the startup <em>mytourclips AG</em>:"
+msgid "Core and feature development for the startup <em>mytourclips AG</em>"
+msgstr "Core and feature development for the startup <em>mytourclips AG</em>"
 
 msgid "Multimedia, video streaming"
 msgstr "Multimedia, video streaming"

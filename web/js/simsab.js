@@ -1,4 +1,4 @@
-$(document).ready(function() {
+function initializeExternalLinks() {
 	$('a').filter(function() {
 		return this.hostname && this.hostname !== location.hostname;
 	}).addClass('external');
@@ -7,7 +7,9 @@ $(document).ready(function() {
 		open(this.href);
 		event.preventDefault();
 	});
-	
+}
+
+function initializeExpandableElements() {
 	$('.expandable').hide();
 	
 	$('a.expand, a.collapse').click(function(event) {
@@ -15,7 +17,9 @@ $(document).ready(function() {
 		$(this).parent().siblings('.expandable').slideToggle(400);
 		event.preventDefault();
 	});
-	
+}
+
+function initializePhotoMagnifier() {
 	$('#photo').mouseenter(function() {
 		$('#large-photo').fadeIn(400);
 		$('#magnifier').fadeOut(400);
@@ -24,7 +28,27 @@ $(document).ready(function() {
 		$('#large-photo').fadeOut(100);
 		$('#magnifier').fadeIn(100);
 	});
+}
+
+function initializeTogglingSections() {
+	$('.section').hide();
 	
+	var url = document.location.toString();
+	if (url.match('#')) {
+		$('.section a[href*="#' + url.split('#')[1] + '"]').parents('.section').show();
+	} else {
+		$('.section:first').show();
+	}
+	
+	$('a').not('.expand, .collapse, .external').filter(function() {
+		return this.href.match('#');
+	}).click(function(event) {
+		$('.section:visible').hide();
+		$('.section h2 a[href*="' + $(this).attr('href') + '"]').parents('.section').fadeIn(400);
+	});
+}
+
+function initializeIeFix() {
 	if ($.browser.msie) {
 		if ($.browser.version < 7) {
 			$('#menu').css('position', 'absolute');
@@ -36,20 +60,12 @@ $(document).ready(function() {
 			});
 		}
 	}
-	
-	$('.section').hide();
-	
-	var url = document.location.toString();
-	if (url.match('#')) {
-		$('.section a[href*="#' + url.split('#')[1] + '"]').parents('.section').show();
-	} else {
-		$('.section:first').show();
-	}
-	
-	$('#menu .item a').filter(function() {
-		return this.href.match('#');
-	}).click(function(event) {
-		$('.section:visible').hide();
-		$('.section a[href*="' + $(this).attr('href') + '"]').parents('.section').fadeIn(400);
-	});
+}
+
+$(document).ready(function() {
+	initializeExternalLinks();
+	initializeExpandableElements();
+	initializePhotoMagnifier();
+	initializeTogglingSections();
+	initializeIeFix();
 });

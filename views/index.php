@@ -70,7 +70,7 @@
 
 						</p>
 						<p>
-							<?php echo $this->localize('While specializing in the use of <em>PHP</em> and <em>MySQL</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized.'); ?>
+							<?php echo $this->localize('While specializing in the use of <em>PHP</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized.'); ?>
 
 						</p>
 						<p>
@@ -169,7 +169,7 @@
 							<span><strong><?php echo $this->localize('Leadership'); ?></strong></span>
 						</p>
 					</div>
-					<div class="section">
+					<div class="section programming">
 						<div class="sub-section programming-languages">
 							<h2>
 								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('programming'); ?>" name="<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming Languages and Technologies'); ?>"><?php echo $this->localize('Programming Languages and Technologies'); ?></a>
@@ -228,100 +228,111 @@
 						<div class="clear"><!--  --></div>
 					</div>
 					<div class="section projects">
-						<h2>
-							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" name="<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
-						</h2>
-						<dl>
-							<dt class="item">
-								<em><?php echo $this->localize('nacho'); ?></em>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('Web application framework (2011)'); ?> &sdot;
-									<a href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
-								</p>
-								<p class="expandable">
-									<?php echo $this->localize('Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:'); ?>
-									<span><?php echo $this->localize('Reflection'); ?>,</span>
-									<span><?php echo $this->localize('magic methods'); ?>,</span>
-									<span><?php echo $this->localize('error backtracking'); ?>,</span>
-									<span><?php echo $this->localize('class abstraction'); ?>,</span>
-									<span><?php echo $this->localize('type hinting'); ?></span> <?php echo $this->localize('and'); ?>
+						<div class="sub-section long-term-projects">
+							<h2>
+								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" name="<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Long-Term Projects'); ?>"><?php echo $this->localize('Long-Term Projects'); ?></a>
+							</h2>
+							<dl>
+								<dt class="item">
+									<em><?php echo $this->localize('nacho'); ?></em>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Web application framework (2011)'); ?> &sdot;
+										<a href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
+										<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									</p>
+									<p class="expandable">
+										<?php echo $this->localize('Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:'); ?>
+										<span><?php echo $this->localize('Reflection'); ?>,</span>
+										<span><?php echo $this->localize('magic methods'); ?>,</span>
+										<span><?php echo $this->localize('error backtracking'); ?>,</span>
+										<span><?php echo $this->localize('class abstraction'); ?>,</span>
+										<span><?php echo $this->localize('namespaces'); ?>,</span>
+										<span><?php echo $this->localize('type hinting'); ?></span> <?php echo $this->localize('and'); ?>
 
-									<span><?php echo $this->localize('autoloading'); ?>.</span>
-								</p>
-								<p class="expandable">
-									<?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office.'); ?>
+										<span><?php echo $this->localize('autoloading'); ?>.</span>
+									</p>
+									<p class="expandable">
+										<?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office.'); ?>
 
-								</p>
-							</dd>
-							<dt class="item">
-								<em><?php echo $this->localize('cheese'); ?></em>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('Content management system for nacho'); ?> (2011) &sdot;
-									<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
-								</p>
-								<p class="expandable">
-									<?php echo $this->localize('Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner.'); ?>
-								</p>
-							</dd>
-							<dt class="item">
-								<em><?php echo $this->localize('AskMe'); ?></em>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Ask and answer questions'); ?> (2011) &sdot;
-									<a href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-								</p>
-							</dd>
-							<dt class="item">
-								<em><?php echo $this->localize('Dialogues'); ?></em>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Multi-format instant messaging dialogues'); ?> (2011) &sdot;
-									<a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-								</p>
-							</dd>
-							<dt class="item">
-								<em><?php echo $this->localize('Scraper'); ?></em>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Library for scraping product catalogues'); ?> (2010) &sdot;
-									<a href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-								</p>
-							</dd>
-							<dt class="item">
-								<a href="http://projects.simsab.net/names/" title="<?php echo $this->localize('Filtering names'); ?>"><?php echo $this->localize('Filtering names'); ?></a>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Filtering names by configurable patterns'); ?> (2010)
-								</p>
-							</dd>
-							<dt class="item">
-								<a href="http://projects.simsab.net/trend/" title="<?php echo $this->localize('Trend'); ?>"><?php echo $this->localize('Trend'); ?></a>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Der nächste musikalische Trend'); ?> (2009)
-								</p>
-							</dd>
-							<dt class="item">
-								<a href="http://projects.simsab.net/beerball-simulator/" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('One-day project'); ?>: <?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &sdot;
-									<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-								</p>
-							</dd>
-						</dl>
+									</p>
+								</dd>
+								<dt class="item">
+									<em><?php echo $this->localize('cheese'); ?></em>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Content management system for nacho'); ?> (2011) &sdot;
+										<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
+										<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									</p>
+									<p class="expandable">
+										<?php echo $this->localize('Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner.'); ?>
+									</p>
+								</dd>
+							</dl>
+						</div>
+						<div class="sub-section one-day-projects">
+							<h2>
+								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('one-day-projects'); ?>" name="<?php echo $this->localize('one-day-projects'); ?>" title="<?php echo $this->localize('One-Day Projects'); ?>"><?php echo $this->localize('One-Day Projects'); ?></a>
+							</h2>
+							<dl>
+								<dt class="item">
+									<em><?php echo $this->localize('AskMe'); ?></em>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Ask and answer questions'); ?> (2011) &sdot;
+										<a href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<em><?php echo $this->localize('Dialogues'); ?></em>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Multi-format instant messaging dialogues'); ?> (2011) &sdot;
+										<a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<em><?php echo $this->localize('Scraper'); ?></em>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Library for scraping product catalogues'); ?> (2010) &sdot;
+										<a href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<a href="http://projects.simsab.net/names/" title="<?php echo $this->localize('Filtering names'); ?>"><?php echo $this->localize('Filtering names'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Filtering names by configurable patterns'); ?> (2010)
+									</p>
+								</dd>
+								<dt class="item">
+									<a href="http://projects.simsab.net/trend/" title="<?php echo $this->localize('Trend'); ?>"><?php echo $this->localize('Trend'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Der nächste musikalische Trend'); ?> (2009)
+									</p>
+								</dd>
+								<dt class="item">
+									<a href="http://projects.simsab.net/beerball-simulator/" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &sdot;
+										<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+							</dl>
+						</div>
+						<div class="clear"><!--  --></div>
 					</div>
 					<div class="section work-experience">
 						<h2>
@@ -334,7 +345,15 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content. We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers.'); ?>
+									<?php echo $this->localize('I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content.'); ?>
+
+								</p>
+								<p>
+									<?php echo $this->localize('I developed Motivado\'s %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany\'s Federal Ministry for Economy and Technology.', array('<a href="' . $this->getConfiguration('basePath') . $this->localize('en') . '#' . $this->localize('motivado-projects') . '">', '</a>')); ?>
+
+								</p>
+								<p>
+									<?php echo $this->localize('We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers.'); ?>
 
 								</p>
 							</dd>
@@ -344,10 +363,10 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Web and software development'); ?>
-
+									<?php echo $this->localize('Web and software development'); ?> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
-								<p>
+								<p class="expandable">
 									<?php echo $this->localize('My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
 
 								</p>
@@ -378,17 +397,17 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Core and feature development for the startup <em>mytourclips AG</em>:'); ?>
-
+									<?php echo $this->localize('Core and feature development for the startup <em>mytourclips AG</em>'); ?> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
-								<p>
+								<p class="expandable">
 									<span><?php echo $this->localize('Multimedia, video streaming'); ?>,</span>
 									<span><?php echo $this->localize('social network/community'); ?>,</span>
 									<span><?php echo $this->localize('editiorially maintainable and user-generated content'); ?>,</span>
 									<span><?php echo $this->localize('internationalization, scaling, high availability'); ?>,</span>
 									<span><?php echo $this->localize('affiliating, booking engines und content aggregation'); ?></span>
 								</p>
-								<p>
+								<p class="expandable">
 									<?php echo $this->localize('In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product.'); ?>
 
 								</p>
