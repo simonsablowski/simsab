@@ -137,6 +137,10 @@ a.collapse, a.expand, a.external {
 	white-space: nowrap;
 }
 
+#body .programming .frameworks, #body .projects .motivado-projects, #body .projects .one-day-projects {
+	padding-top: 10px;
+}
+
 #body .programming-languages li, #body .frameworks li, #body .contact-me li {
 	display: inline;
 	float: left;
@@ -157,8 +161,12 @@ a.collapse, a.expand, a.external {
 	margin-left: 150px;
 }
 
-#body .work-experience .item, #body .work-experience .description, #body .projects .item, #body .projects .description {
+#body .work-experience .item, #body .work-experience .description {
 	padding-bottom: 15px;
+}
+
+#body .projects .item, #body .projects .description {
+	padding-bottom: 10px;
 }
 
 #body .work-experience .item, #body .projects .item {

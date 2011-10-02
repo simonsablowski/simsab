@@ -301,13 +301,7 @@ msgstr "frameworks"
 msgid "Frameworks and Auxiliary Tools"
 msgstr "Frameworks und Tools"
 
-#projects
-
-msgid "Motivado Projects"
-msgstr "Motivado-Projekte"
-
-msgid "motivado-projects"
-msgstr "motivado-projekte"
+#long-term-projects
 
 msgid "Long-Term Projects"
 msgstr "Langzeitprojekte"
@@ -359,6 +353,46 @@ msgstr "Content-Management-System für nacho"
 
 msgid "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
 msgstr "Außer nützlicher <em>Events-basierter Frontend-Funktionalität</em>, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese sichere Mechanismen für <em>Authentifizierung</em> sowie hochflexible <em>CRUD-Interfaces</em>, die auf clevere MVC-Weise konfiguriert werden können."
+
+#motivado-projects
+
+msgid "Motivado Projects"
+msgstr "Motivado-Projekte"
+
+msgid "motivado-projects"
+msgstr "motivado-projekte"
+
+msgid "Coaching Preview"
+msgstr "Coaching-Vorschau"
+
+msgid "Configure and test coaching elements (2011)"
+msgstr "Coaching-Elemente konfigurieren und testen (2011)"
+
+msgid "Coaching Import"
+msgstr "Coaching-Import"
+
+msgid "Import coaching models into database (2011)"
+msgstr "Coaching-Modelle in die Datenbank importieren (2011)"
+
+msgid "Coaching Test"
+msgstr "Coaching-Test"
+
+msgid "Test coachings before deployment (2011)"
+msgstr "Coachings vor dem Deployment testen (2011)"
+
+msgid "Coaching API"
+msgstr "Coaching-API"
+
+msgid "API for Motivado's coaching content (2011)"
+msgstr "API für Motivados Coaching-Inhalte (2011)"
+
+msgid "Coaching UI"
+msgstr "Coaching-UI"
+
+msgid "Communication between frontend and API (2011)"
+msgstr "Kommunikation zwischen Frontend und API (2011)"
+
+#one-day-projects
 
 msgid "One-Day Projects"
 msgstr "Eintagesprojekte"
