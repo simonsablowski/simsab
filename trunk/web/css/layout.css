@@ -128,7 +128,6 @@ a.collapse, a.expand, a.external {
 }
 
 #body .sub-section {
-	float: left;
 	overflow: hidden;
 	width: 323px;
 }
