@@ -492,11 +492,11 @@ msgstr "redaktionell gepflegte Inhalte sowie User-Generated Content"
 msgid "internationalization, scaling, high availability"
 msgstr "Internationalisierung, Skalierung, High Availability"
 
-msgid "affiliating, booking engines und content aggregation"
+msgid "affiliating, booking engines and content aggregation"
 msgstr "Affiliating, Buchungssysteme und Content-Aggregation"
 
-msgid "In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
-msgstr "Im Juni 2007 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
+msgid "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
+msgstr "Im Juni 2008 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
 
 msgid "07/2006 - 10/2007"
 msgstr "07/2006 - 10/2007"

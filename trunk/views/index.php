@@ -457,10 +457,10 @@
 									<span><?php echo $this->localize('social network/community'); ?>,</span>
 									<span><?php echo $this->localize('editiorially maintainable and user-generated content'); ?>,</span>
 									<span><?php echo $this->localize('internationalization, scaling, high availability'); ?>,</span>
-									<span><?php echo $this->localize('affiliating, booking engines und content aggregation'); ?></span>
+									<span><?php echo $this->localize('affiliating, booking engines and content aggregation'); ?></span>
 								</p>
 								<p class="expandable">
-									<?php echo $this->localize('In June 2007 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product.'); ?>
+									<?php echo $this->localize('In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product.'); ?>
 
 								</p>
 							</dd>
