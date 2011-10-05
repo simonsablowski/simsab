@@ -2,6 +2,9 @@ ErrorDocument 404 index.php
 
 RewriteEngine on
 
+RewriteCond %{HTTP_HOST} simsab\.de$ [NC]
+RewriteRule ^(.*)$ http://www.simsab.net/de
+
 RewriteRule ^$ index.php [L]
 RewriteRule ^(impressum|legal-notice)$ impressum.html [L]
 RewriteRule ^([a-z]{2})/?$ index.php?localization=$1
