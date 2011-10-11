@@ -331,7 +331,7 @@
 							</h2>
 							<dl>
 								<dt class="item">
-									<em><?php echo $this->localize('AskMe'); ?></em>
+									<a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('AskMe'); ?>"><?php echo $this->localize('AskMe'); ?></a>
 								</dt>
 								<dd class="description">
 									<p>
