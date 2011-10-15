@@ -79,7 +79,7 @@
 	text-align: left;
 }
 
-#body .projects .item, #body .work-experience .item {
+#body .projects .item, #body .work-experience .item, #body .projects .description, #body .work-experience .description {
 	clear: none;
 	float: none;
 	padding-bottom: 0;

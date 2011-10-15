@@ -487,6 +487,7 @@
 								</p>
 							</dd>
 						</dl>
+						<div class="clear"><!--  --></div>
 					</div>
 					<div class="section contact-me">
 						<h2>

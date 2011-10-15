@@ -156,22 +156,26 @@ a.collapse, a.expand, a.external {
 	font-size: 85%;
 }
 
-#body .work-experience .description, #body .projects .description {
-	margin-left: 150px;
-}
-
-#body .work-experience .description {
-	padding-bottom: 26px;
-}
-
 #body .projects .item, #body .projects .description {
 	padding-bottom: 10px;
 }
 
-#body .work-experience .item, #body .projects .item {
-	clear: left;
+#body .projects .item, #body .projects .description, #body .work-experience .item, #body .work-experience .description {
 	float: left;
+}
+
+#body .projects .item , #body .work-experience .item{
+	clear: left;
 	width: 150px;
+}
+
+#body .projects .description, #body .work-experience .description {
+	margin-left: 0;
+	width: 496px;
+}
+
+#body .work-experience .item, #body .work-experience .description {
+	padding-bottom: 15px;
 }
 
 #body .work-experience .item .sub-line {
