@@ -160,8 +160,8 @@ a.collapse, a.expand, a.external {
 	margin-left: 150px;
 }
 
-#body .work-experience .item, #body .work-experience .description {
-	padding-bottom: 15px;
+#body .work-experience .description {
+	padding-bottom: 26px;
 }
 
 #body .projects .item, #body .projects .description {
