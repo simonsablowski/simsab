@@ -499,7 +499,7 @@
 						</p>
 						<p class="options">
 							<a href="mailto:<?php echo $this->localize('contact@simsab.net'); ?>" title="<?php echo $this->localize('Contact me via e-mail'); ?>"><?php echo $this->localize('contact@simsab.net'); ?></a> <?php echo $this->localize('(via e-mail)'); ?><br/>
-							<a href="skype:simonsablowski?call" title="<?php echo $this->localize('Contact me via Skype'); ?>">simonsablowski</a> <?php echo $this->localize('(via Skype)'); ?>
+							<a href="skype:simonsablowski" title="<?php echo $this->localize('Contact me via Skype'); ?>">simonsablowski</a> <?php echo $this->localize('(via Skype)'); ?>
 						</p>
 						<p>
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
