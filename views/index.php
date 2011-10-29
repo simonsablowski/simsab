@@ -392,26 +392,9 @@
 						</h2>
 						<dl>
 							<dt class="item">
-								<?php echo $this->localize('since 08/2009'); ?>
-
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content.'); ?>
-
-								</p>
-								<p>
-									<?php echo $this->localize('I developed Motivado\'s %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany\'s Federal Ministry for Economy and Technology.', array('<a href="' . $this->getConfiguration('basePath') . $this->localize('en') . '#' . $this->localize('motivado-projects') . '">', '</a>')); ?>
-
-								</p>
-								<p>
-									<?php echo $this->localize('We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers.'); ?>
-
-								</p>
-							</dd>
-							<dt class="item">
 								<?php echo $this->localize('since 1999'); ?>
 
+								<span class="sub-line"><?php echo $this->localize('%d years', date('Y') - 1999); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
@@ -420,6 +403,29 @@
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
+
+								</p>
+							</dd>
+							<dt class="item">
+								<?php echo $this->localize('08/2009 - 10/2011'); ?>
+
+								<span class="sub-line"><?php echo $this->localize('2 years, 3 months'); ?></span>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>'); ?> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content.'); ?>
+
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('I developed Motivado\'s %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany\'s Federal Ministry for Economy and Technology.', array('<a href="' . $this->getConfiguration('basePath') . $this->localize('en') . '#' . $this->localize('motivado-projects') . '">', '</a>')); ?>
+
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers.'); ?>
 
 								</p>
 							</dd>
