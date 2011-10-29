@@ -444,8 +444,17 @@ msgstr "Eintagesprojekte geben Ihnen eine Vorstellung davon, was für einen Tage
 msgid "since 08/2009"
 msgstr "seit 08/2009"
 
-msgid "I am a founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content."
-msgstr "Ich bin Gründer und <em>CTO</em> der <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>. Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
+msgid "08/2009 - 10/2011"
+msgstr "08/2009 - 10/2011"
+
+msgid "2 years, 3 months"
+msgstr "2 Jahre, 3 Monate"
+
+msgid "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>"
+msgstr "Gründer und <em>CTO</em> der <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>"
+
+msgid "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content."
+msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
 
 msgid "I developed Motivado's %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
 msgstr "Motivados %skomplexe Software%s wurde von mir mit Unterstützung eines agilen Teams aus drei bis sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
@@ -455,6 +464,9 @@ msgstr "Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden 
 
 msgid "since 1999"
 msgstr "seit 1999"
+
+msgid "%d years"
+msgstr "%d Jahre"
 
 msgid "Web and software development"
 msgstr "Web- und Software-Entwicklung"
