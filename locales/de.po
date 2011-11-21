@@ -424,6 +424,12 @@ msgstr "Bierball-Simulator"
 msgid "Simulation of a Beerball match"
 msgstr "Simulation eines Spiels Bierball"
 
+msgid "readosaur"
+msgstr "readosaur"
+
+msgid "Manage and read your favourite RSS feeds"
+msgstr "Die persönlichen RSS-Feeds verwalten und lesen"
+
 msgid "AskMe"
 msgstr "AskMe"
 

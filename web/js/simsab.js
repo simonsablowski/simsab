@@ -12,7 +12,7 @@ function initializeExternalLinks() {
 function initializeExpandableElements() {
 	$('.expandable').hide();
 	
-	$('a.expand, a.collapse').click(function(event) {
+	$('.expand, .collapse').click(function(event) {
 		$(this).toggleClass('expand').toggleClass('collapse');
 		$(this).parent().siblings('.expandable').slideToggle(400);
 		event.preventDefault();
