@@ -430,8 +430,8 @@ msgstr "readosaur"
 msgid "Manage and read your favourite RSS feeds"
 msgstr "Die persönlichen RSS-Feeds verwalten und lesen"
 
-msgid "AskMe"
-msgstr "AskMe"
+msgid "ask.me"
+msgstr "ask.me"
 
 msgid "Ask and answer questions"
 msgstr "Fragen stellen und beantworten"

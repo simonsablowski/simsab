@@ -340,7 +340,7 @@
 									</p>
 								</dd>
 								<dt class="item">
-									<a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('AskMe'); ?>"><?php echo $this->localize('AskMe'); ?></a>
+									<a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('ask.me'); ?>"><?php echo $this->localize('AskMe'); ?></a>
 								</dt>
 								<dd class="description">
 									<p>
