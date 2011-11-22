@@ -1,4 +1,4 @@
-ErrorDocument 404 /
+ErrorDocument 404 http://www.simsab.net
 
 RewriteEngine on
 
