@@ -418,7 +418,7 @@
 									<?php echo $this->localize('<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?>
 								</p>
 								<p>
-									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating weekly launches of high-traffic e-commerce projects and managing more than 50 software developers, project managers and system administrators.'); ?>
+									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating weekly launches of worldwide e-commerce projects and managing more than 50 software developers, project managers and system administrators.'); ?>
 
 								</p>
 							</dd>
