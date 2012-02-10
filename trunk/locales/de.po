@@ -424,6 +424,12 @@ msgstr "Bierball-Simulator"
 msgid "Simulation of a Beerball match"
 msgstr "Simulation eines Spiels Bierball"
 
+msgid "Avatar Rating"
+msgstr "Avatar-Bewertung"
+
+msgid "Rate a selection of avatar images"
+msgstr "Eine Auswahl Avatar-Bilder bewerten"
+
 msgid "readosaur"
 msgstr "readosaur"
 
@@ -447,14 +453,26 @@ msgstr "Eintagesprojekte geben Ihnen eine Vorstellung davon, was für einen Tage
 
 #work-experience
 
-msgid "since 08/2009"
-msgstr "seit 08/2009"
+msgid "since 12/2011"
+msgstr "seit 12/2011"
 
-msgid "08/2009 - 10/2011"
-msgstr "08/2009 - 10/2011"
+msgid "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
+msgstr "<em>Projekt-CTO</em> bei der <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
 
-msgid "2 years, 3 months"
-msgstr "2 Jahre, 3 Monate"
+msgid "11/2011 - 11/2011"
+msgstr "11/2011 - 11/2011"
+
+msgid "1 month"
+msgstr "1 Monat"
+
+msgid "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
+msgstr "Senior Developer und Teamleiter bei der <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
+
+msgid "08/2009 - 11/2011"
+msgstr "08/2009 - 11/2011"
+
+msgid "2 years, 4 months"
+msgstr "2 Jahre, 4 Monate"
 
 msgid "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>"
 msgstr "Gründer und <em>CTO</em> der <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>"

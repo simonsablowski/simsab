@@ -331,6 +331,15 @@
 							</h2>
 							<dl>
 								<dt class="item">
+									<a href="http://projects.simsab.net/avatars/" title="<?php echo $this->localize('Avatar Rating'); ?>"><?php echo $this->localize('Avatar Rating'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Rate a selection of avatar images'); ?> (2012) &sdot;
+										<a href="http://code.google.com/p/avatar-rating/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
 									<a href="http://projects.simsab.net/readosaur/" title="<?php echo $this->localize('readosaur'); ?>"><?php echo $this->localize('readosaur'); ?></a>
 								</dt>
 								<dd class="description">
@@ -401,6 +410,16 @@
 						</h2>
 						<dl>
 							<dt class="item">
+								<?php echo $this->localize('since 12/2011'); ?>
+
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?>
+
+								</p>
+							</dd>
+							<dt class="item">
 								<?php echo $this->localize('since 1999'); ?>
 
 								<span class="sub-line"><?php echo $this->localize('%d years', date('Y') - 1999); ?></span>
@@ -416,9 +435,20 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<?php echo $this->localize('08/2009 - 10/2011'); ?>
+								<?php echo $this->localize('11/2011 - 11/2011'); ?>
 
-								<span class="sub-line"><?php echo $this->localize('2 years, 3 months'); ?></span>
+								<span class="sub-line"><?php echo $this->localize('1 month'); ?></span>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?>
+
+								</p>
+							</dd>
+							<dt class="item">
+								<?php echo $this->localize('08/2009 - 11/2011'); ?>
+
+								<span class="sub-line"><?php echo $this->localize('2 years, 4 months'); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
