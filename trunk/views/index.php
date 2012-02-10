@@ -415,10 +415,9 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?> &sdot;
-									<a class="collapse" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<?php echo $this->localize('<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?>
 								</p>
-								<p class="expandable">
+								<p>
 									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating weekly launches of high-traffic e-commerce projects and managing more than 50 software developers, project managers and system administrators.'); ?>
 
 								</p>
