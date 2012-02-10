@@ -419,7 +419,7 @@
 									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
-									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating weekly launches of high-traffic e-commerce projects and managing more than 50 software developers.'); ?>
+									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating weekly launches of high-traffic e-commerce projects and managing more than 50 software developers, project managers and system administrators.'); ?>
 
 								</p>
 							</dd>
