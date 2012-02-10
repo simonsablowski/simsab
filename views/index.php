@@ -430,10 +430,9 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Web and software development'); ?> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<?php echo $this->localize('Web and software development'); ?>
 								</p>
-								<p class="expandable">
+								<p>
 									<?php echo $this->localize('My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
 
 								</p>
