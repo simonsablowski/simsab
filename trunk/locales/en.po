@@ -459,6 +459,9 @@ msgstr "since 12/2011"
 msgid "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
 msgstr "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
 
+msgid "At Rocket Internet, I am in charge of coordinating weekly launches of high-traffic e-commerce projects and managing more than 50 software developers, project managers and system administrators."
+msgstr "At Rocket Internet, I am in charge of coordinating weekly launches of high-traffic e-commerce projects and managing more than 50 software developers, project managers and system administrators."
+
 msgid "11/2011 - 11/2011"
 msgstr "11/2011 - 11/2011"
 
