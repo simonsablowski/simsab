@@ -479,10 +479,14 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Freelance work as a senior web developer for the online agencies'); ?>
+									<?php echo $this->localize('Freelance work as a senior web developer'); ?> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('Online agencies:'); ?>
 
 								</p>
-								<ul>
+								<ul class="expandable">
 									<li>
 										<a href="http://compuccino.com" title="compuccino">compuccino</a>
 									</li>
