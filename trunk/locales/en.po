@@ -424,6 +424,12 @@ msgstr "Beerball Simulator"
 msgid "Simulation of a Beerball match"
 msgstr "Simulation of a Beerball match"
 
+msgid "Beat 'em up"
+msgstr "Beat 'em up"
+
+msgid "JavaScript-based Mortal Kombat tribute"
+msgstr "JavaScript-based Mortal Kombat tribute"
+
 msgid "Avatar Rating"
 msgstr "Avatar Rating"
 

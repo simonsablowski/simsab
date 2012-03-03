@@ -244,6 +244,7 @@
 									</p>
 									<p class="expandable">
 										<?php echo $this->localize('Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:'); ?>
+
 										<span><?php echo $this->localize('Reflection'); ?>,</span>
 										<span><?php echo $this->localize('magic methods'); ?>,</span>
 										<span><?php echo $this->localize('error backtracking'); ?>,</span>
@@ -269,6 +270,7 @@
 									</p>
 									<p class="expandable">
 										<?php echo $this->localize('Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner.'); ?>
+
 									</p>
 								</dd>
 							</dl>
@@ -330,6 +332,15 @@
 								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('one-day-projects'); ?>" name="<?php echo $this->localize('one-day-projects'); ?>" title="<?php echo $this->localize('One-Day Projects'); ?>"><?php echo $this->localize('One-Day Projects'); ?></a>
 							</h2>
 							<dl>
+								<dt class="item">
+									<a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('Beat \'em up'); ?>"><?php echo $this->localize('Beat \'em up'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('JavaScript-based Mortal Kombat tribute'); ?> (2012) &sdot;
+										<a href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/avatars/" title="<?php echo $this->localize('Avatar Rating'); ?>"><?php echo $this->localize('Avatar Rating'); ?></a>
 								</dt>
@@ -416,6 +427,7 @@
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?>
+
 								</p>
 								<p>
 									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating weekly launches of worldwide e-commerce projects and managing more than 50 software developers, project managers and system administrators.'); ?>
@@ -552,6 +564,7 @@
 						<p class="options">
 							<a href="mailto:<?php echo $this->localize('contact@simsab.net'); ?>" title="<?php echo $this->localize('Contact me via e-mail'); ?>"><?php echo $this->localize('contact@simsab.net'); ?></a> <?php echo $this->localize('(via e-mail)'); ?><br/>
 							<a href="skype:simonsablowski" title="<?php echo $this->localize('Contact me via Skype'); ?>">simonsablowski</a> <?php echo $this->localize('(via Skype)'); ?>
+
 						</p>
 						<p>
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
@@ -576,9 +589,11 @@
 							<li>
 								<a href="http://www.youtube.com/user/simbobwe" title="<?php echo $this->localize('Simon Sablowski at %s', 'YouTube'); ?>">YouTube</a>
 							</li>
-							<?/*li>
+<? /*
+							<li>
 								<a href="http://www.imdb.com/mymovies/list?l=47109736" title="<?php echo $this->localize('Simon Sablowski at %s', 'IMDb'); ?>">IMDb</a>
-							</li*/?>
+							</li>
+*/ ?>
 						</ul>
 					</div>
 				</div>
