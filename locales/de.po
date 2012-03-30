@@ -552,8 +552,11 @@ msgstr "07/2006 - 10/2007"
 msgid "1 year, 4 months"
 msgstr "1 Jahr, 4 Monate"
 
-msgid "Animation, background/character clean up and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
-msgstr "Animation, Background sowie Character Clean Up und Compositing-Assistenz beim Zeichentrickfilm <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> von <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
+msgid "Animation, background/character clean up"
+msgstr "Animation, Background sowie Character Clean Up"
+
+msgid "and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
+msgstr " und Compositing-Assistenz beim Zeichentrickfilm <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> von <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
 
 msgid "06/2000 - 12/2008"
 msgstr "06/2000 - 12/2008"
@@ -561,8 +564,11 @@ msgstr "06/2000 - 12/2008"
 msgid "8 years, 7 months"
 msgstr "8 Jahre, 7 Monate"
 
-msgid "Software development and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches"
-msgstr "Software-Entwicklung und Betreuung der Webpräsenzen für die 111 Group und die Tochterunternehmen in den Sparten Immobilien und Touristik"
+msgid "Software development"
+msgstr "Software-Entwicklung"
+
+msgid "and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches"
+msgstr "und Betreuung der Webpräsenzen für die 111 Group und die Tochterunternehmen in den Sparten Immobilien und Touristik"
 
 #contact-me
 

@@ -535,7 +535,11 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Animation, background/character clean up and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>'); ?>
+									<?php echo $this->localize('Animation, background/character clean up'); ?> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>'); ?>
 
 								</p>
 							</dd>
@@ -546,7 +550,11 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Software development and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches'); ?>
+									<?php echo $this->localize('Software development'); ?> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches'); ?>
 
 								</p>
 							</dd>
