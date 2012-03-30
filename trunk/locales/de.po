@@ -532,7 +532,7 @@ msgid "Core and feature development"
 msgstr "Core und Feature Development"
 
 msgid "for the startup <em>mytourclips AG</em> which covered:"
-msgstr "für das Startup <em>mytourclips AG</em> im Bereich:"
+msgstr "für das Startup <em>mytourclips AG</em> in den Bereichen:"
 
 msgid "Multimedia, video streaming"
 msgstr "Multimedia, Video-Streaming"
