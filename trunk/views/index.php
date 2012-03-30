@@ -513,15 +513,18 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Core and feature development for the startup <em>mytourclips AG</em>'); ?> &sdot;
+									<?php echo $this->localize('Core and feature development'); ?> &sdot;
 									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('for the startup <em>mytourclips AG</em> which covered:'); ?></span>
 								</p>
 								<p class="expandable">
 									<span><?php echo $this->localize('Multimedia, video streaming'); ?>,</span>
 									<span><?php echo $this->localize('social network/community'); ?>,</span>
 									<span><?php echo $this->localize('editiorially maintainable and user-generated content'); ?>,</span>
 									<span><?php echo $this->localize('internationalization, scaling, high availability'); ?>,</span>
-									<span><?php echo $this->localize('affiliating, booking engines and content aggregation'); ?></span>
+									<span><?php echo $this->localize('affiliating, booking engines and content aggregation'); ?>.</span>
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product.'); ?>

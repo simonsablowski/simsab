@@ -525,8 +525,11 @@ msgstr "08/2007 - 01/2009"
 msgid "1 year, 6 months"
 msgstr "1 year, 6 months"
 
-msgid "Core and feature development for the startup <em>mytourclips AG</em>"
-msgstr "Core and feature development for the startup <em>mytourclips AG</em>"
+msgid "Core and feature development"
+msgstr "Core and feature development"
+
+msgid "for the startup <em>mytourclips AG</em> which covered:"
+msgstr "for the startup <em>mytourclips AG</em> which covered:"
 
 msgid "Multimedia, video streaming"
 msgstr "Multimedia, video streaming"
