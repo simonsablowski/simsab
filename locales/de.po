@@ -477,7 +477,7 @@ msgstr "1 Monat"
 msgid "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
 msgstr "Senior Developer und Teamleiter bei der <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
 
-msgid "Application architecture and development lead for Rocket\'s new e-commerce core component"
+msgid "Application architecture and development lead for Rocket's new e-commerce core component"
 msgstr "Anwendungsarchitektur und Leitung der Entwicklung von Rockets neuer E-Commerce-Core-Komponente"
 
 msgid "08/2009 - 11/2011"
