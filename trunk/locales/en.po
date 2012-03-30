@@ -516,8 +516,8 @@ msgstr "8 months"
 msgid "Freelance work as a senior web developer"
 msgstr "Freelance work as a senior web developer"
 
-msgid "for the online agencies:"
-msgstr "for the online agencies:"
+msgid "for the online agencies"
+msgstr "for the online agencies"
 
 msgid "08/2007 - 01/2009"
 msgstr "08/2007 - 01/2009"

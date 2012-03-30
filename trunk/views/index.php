@@ -494,7 +494,7 @@
 									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
-									<?php echo $this->localize('for the online agencies:'); ?>
+									<?php echo $this->localize('for the online agencies'); ?>
 
 								</p>
 								<ul class="expandable">
