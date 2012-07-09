@@ -32,7 +32,7 @@ abbr, acronym {
 	text-shadow: 0 1px 0 #370;
 }
 
-#body .work-experience .item .sub-line, #copyright, #copyright a {
+#body .projects .item .sub-line, #body .career .item .sub-line, #copyright, #copyright a {
 	color: #999;
 }
 
