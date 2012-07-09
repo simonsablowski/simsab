@@ -167,7 +167,7 @@
                                 <span><strong><?php echo $this->localize('Leadership'); ?></strong></span>
                             </p>
 					    </div>
-						<div class="sub-section programming">
+						<!--<div class="sub-section programming">
 							<h2>
 								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('programming'); ?>" name="<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming Languages and Technologies'); ?>"><?php echo $this->localize('Programming Languages and Technologies'); ?></a>
 							</h2>
@@ -221,7 +221,7 @@
 								<li>Google Analytics</li>
 								<li class="wide">Google Website Optimizer</li>
 							</ul>
-						</div>
+						</div>-->
 						<div class="clear"><!--  --></div>
 					</div>
 					<div class="section projects">

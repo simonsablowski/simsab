@@ -21,10 +21,10 @@ msgstr "ueber-mich"
 msgid "About Me"
 msgstr "Über mich"
 
-msgid "professional-skills"
+msgid "skills"
 msgstr "kompetenzen"
 
-msgid "Professional Skills"
+msgid "Skills"
 msgstr "Kompetenzen"
 
 msgid "programming"
@@ -79,7 +79,7 @@ msgstr "Im Laufe meiner Karriere habe ich Erfahrung gesammelt mit kurzfristigen 
 msgid "In my spare time I enjoy different kinds of art and culture. I particularly like life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>."
 msgstr "In meiner Freizeit beschäftige ich mich gern mit Kunst und Kultur jeglicher Facette. Ich zeichne Akte, Porträts und Comics, spiele Gitarre und experimentiere mit digitaler Produktion akustischer und visueller Art. <a title="Filippo Baraccani" href="http://fbrccn.com">Filippo Baraccani</a> und ich stellen unsere Arbeit auf <a title="notmybiz.com" href="http://notmybiz.com">notmybiz.com</a> aus."
 
-#professional-skills
+skills
 
 msgid "Web Development"
 msgstr "Web-Entwicklung"

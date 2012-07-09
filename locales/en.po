@@ -316,10 +316,10 @@ msgid "projects-2011"
 msgstr "projects-2011"
 
 msgid "Older Projects"
-msgstr "Older Projekte"
+msgstr "Older Projects"
 
 msgid "older-projects"
-msgstr "older-projekte"
+msgstr "older-projects"
 
 msgid "nacho"
 msgstr "nacho"
