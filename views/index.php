@@ -34,16 +34,13 @@
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
 					</li>
 					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('professional-skills'); ?>" title="<?php echo $this->localize('Professional Skills'); ?>"><?php echo $this->localize('Professional Skills'); ?></a>
-					</li>
-					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming'); ?>"><?php echo $this->localize('Programming'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('skills'); ?>" title="<?php echo $this->localize('Skills'); ?>"><?php echo $this->localize('Skills'); ?></a>
 					</li>
 					<li class="item">
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
 					</li>
 					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Work Experience'); ?>"><?php echo $this->localize('Work Experience'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Career'); ?>"><?php echo $this->localize('Career'); ?></a>
 					</li>
 					<li class="item">
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('contact-me'); ?>" title="<?php echo $this->localize('Contact Me'); ?>"><?php echo $this->localize('Contact Me'); ?></a>
@@ -82,95 +79,95 @@
 
 						</p>
 					</div>
-					<div class="section professional-skills">
-						<h2>
-							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('professional-skills'); ?>" name="<?php echo $this->localize('professional-skills'); ?>" title="<?php echo $this->localize('Professional Skills'); ?>"><?php echo $this->localize('Professional Skills'); ?></a>
-						</h2>
-						<p>
-							<span><strong><?php echo $this->localize('Web Development'); ?></strong>,</span>
-							<span><?php echo $this->localize('Backend Development'); ?>,</span>
-							<span><?php echo $this->localize('Webserver Configuration'); ?>,</span>
-							<span><?php echo $this->localize('Accessibility'); ?>,</span>
-							<span><strong><?php echo $this->localize('Rapid Prototyping'); ?></strong>,</span>
-							<span><?php echo $this->localize('Usability'); ?>,</span>
-							
-							<span><?php echo $this->localize('Code Generation'); ?>,</span>
-							<span><?php echo $this->localize('Standards Compliance'); ?>,</span>
-							<span><strong><?php echo $this->localize('Technical Conception'); ?></strong>,</span>
-							<span><?php echo $this->localize('Data Modeling'); ?>,</span>
-							<span><?php echo $this->localize('Internationalization'); ?>,</span>
-							
-							<span><?php echo $this->localize('Continuous Integration'); ?>,</span>
-							<span><?php echo $this->localize('Unit Testing'); ?>,</span>
-							<span><?php echo $this->localize('Social Networks'); ?>,</span>
-							<span><?php echo $this->localize('Affiliate Systems'); ?>,</span>
-							<span><?php echo $this->localize('Scrum'); ?>,</span>
-							<span><?php echo $this->localize('Application Monitoring'); ?>,</span>
-							
-							<span><?php echo $this->localize('Outsourcing'); ?>,</span>
-							<span><strong><?php echo $this->localize('Object-Oriented Programming'); ?></strong>,</span>
-							<span><?php echo $this->localize('Relational Database Management Systems'); ?>,</span>
-							<span><?php echo $this->localize('Scalability'); ?>,</span>
-							
-							<span><?php echo $this->localize('Entity Relationship Models'); ?>,</span>
-							<span><?php echo $this->localize('Communication Gateways'); ?>,</span>
-							<span><?php echo $this->localize('Object-Relational Mapping'); ?>,</span>
-							<span><strong><?php echo $this->localize('Regular Expressions'); ?></strong>,</span>
-							
-							<span><?php echo $this->localize('Scaffolding'); ?>,</span>
-							<span><?php echo $this->localize('Quality Control'); ?>,</span>
-							<span><strong><?php echo $this->localize('Framework Development'); ?></strong>,</span>
-							<span><?php echo $this->localize('User-Generated Content'); ?>,</span>
-							<span><?php echo $this->localize('Web-Crawling'); ?>,</span>
-							<span><?php echo $this->localize('Refactoring'); ?>,</span>
-							
-							<span><?php echo $this->localize('Web Services'); ?>,</span>
-							<span><?php echo $this->localize('Booking Engines'); ?>,</span>
-							<span><?php echo $this->localize('E-Learning'); ?>,</span>
-							<span><?php echo $this->localize('Pair Programming'); ?>,</span>
-							<span><strong><?php echo $this->localize('Entrepreneurship'); ?></strong>,</span>
-							<span><?php echo $this->localize('Programming Paradigms'); ?>,</span>
-							
-							<span><?php echo $this->localize('Frontend Development'); ?>,</span>
-							<span><strong><?php echo $this->localize('Agile Development'); ?></strong>,</span>
-							<span><?php echo $this->localize('Kanban'); ?>,</span>
-							<span><?php echo $this->localize('Content Management Systems'); ?>,</span>
-							<span><?php echo $this->localize('User Experience Design'); ?>,</span>
-							
-							<span><?php echo $this->localize('Artificial Intelligence'); ?>,</span>
-							<span><?php echo $this->localize('Data Migration'); ?>,</span>
-							<span><?php echo $this->localize('Offshoring'); ?>,</span>
-							<span><?php echo $this->localize('APIs'); ?>,</span>
-							<span><strong><?php echo $this->localize('Search Engine Optimization'); ?></strong>,</span>
-							<span><?php echo $this->localize('Web-Based Training'); ?>,</span>
-							
-							<span><strong><?php echo $this->localize('Web Application Architecture'); ?></strong>,</span>
-							<span><?php echo $this->localize('Model-View-Controller Design Pattern'); ?>,</span>
-							<span><?php echo $this->localize('Test-Driven Software Development'); ?>,</span>
-							
-							<span><?php echo $this->localize('Database Design'); ?>,</span>
-							<span><?php echo $this->localize('Content Syndication'); ?>,</span>
-							<span><strong><?php echo $this->localize('Performance Optimization'); ?></strong>,</span>
-							<span><?php echo $this->localize('Load Balancing'); ?>,</span>
-							<span><?php echo $this->localize('Database Conversion'); ?>,</span>
-							
-							<span><?php echo $this->localize('Caching'); ?>,</span>
-							<span><?php echo $this->localize('Scraping'); ?>,</span>
-							<span><?php echo $this->localize('Web 2.0'); ?>,</span>
-							<span><?php echo $this->localize('Version Control'); ?>,</span>
-							<span><?php echo $this->localize('Cross-Browser Compatibility'); ?>,</span>
-							<span><?php echo $this->localize('Semantic Web'); ?>,</span>
-							<span><?php echo $this->localize('E-Commerce'); ?>,</span>
-							
-							<span><?php echo $this->localize('Open Source Software'); ?>,</span>
-							<span><?php echo $this->localize('Deployment Strategies'); ?>,</span>
-							<span><?php echo $this->localize('Product Development'); ?>,</span>
-							<span><?php echo $this->localize('Design-Lead Planning'); ?>,</span>
-							<span><strong><?php echo $this->localize('Leadership'); ?></strong></span>
-						</p>
-					</div>
-					<div class="section programming">
-						<div class="sub-section programming-languages">
+					<div class="section skills">
+                        <div class="sub-section general">
+                            <h2>
+                                <a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('skills'); ?>" name="<?php echo $this->localize('skills'); ?>" title="<?php echo $this->localize('Skills'); ?>"><?php echo $this->localize('Skills'); ?></a>
+                            </h2>
+                            <p>
+                                <span><strong><?php echo $this->localize('Web Development'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Backend Development'); ?>,</span>
+                                <span><?php echo $this->localize('Webserver Configuration'); ?>,</span>
+                                <span><?php echo $this->localize('Accessibility'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Rapid Prototyping'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Usability'); ?>,</span>
+
+                                <span><?php echo $this->localize('Code Generation'); ?>,</span>
+                                <span><?php echo $this->localize('Standards Compliance'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Technical Conception'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Data Modeling'); ?>,</span>
+                                <span><?php echo $this->localize('Internationalization'); ?>,</span>
+
+                                <span><?php echo $this->localize('Continuous Integration'); ?>,</span>
+                                <span><?php echo $this->localize('Unit Testing'); ?>,</span>
+                                <span><?php echo $this->localize('Social Networks'); ?>,</span>
+                                <span><?php echo $this->localize('Affiliate Systems'); ?>,</span>
+                                <span><?php echo $this->localize('Scrum'); ?>,</span>
+                                <span><?php echo $this->localize('Application Monitoring'); ?>,</span>
+
+                                <span><?php echo $this->localize('Outsourcing'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Object-Oriented Programming'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Relational Database Management Systems'); ?>,</span>
+                                <span><?php echo $this->localize('Scalability'); ?>,</span>
+
+                                <span><?php echo $this->localize('Entity Relationship Models'); ?>,</span>
+                                <span><?php echo $this->localize('Communication Gateways'); ?>,</span>
+                                <span><?php echo $this->localize('Object-Relational Mapping'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Regular Expressions'); ?></strong>,</span>
+
+                                <span><?php echo $this->localize('Scaffolding'); ?>,</span>
+                                <span><?php echo $this->localize('Quality Control'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Framework Development'); ?></strong>,</span>
+                                <span><?php echo $this->localize('User-Generated Content'); ?>,</span>
+                                <span><?php echo $this->localize('Web-Crawling'); ?>,</span>
+                                <span><?php echo $this->localize('Refactoring'); ?>,</span>
+
+                                <span><?php echo $this->localize('Web Services'); ?>,</span>
+                                <span><?php echo $this->localize('Booking Engines'); ?>,</span>
+                                <span><?php echo $this->localize('E-Learning'); ?>,</span>
+                                <span><?php echo $this->localize('Pair Programming'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Entrepreneurship'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Programming Paradigms'); ?>,</span>
+
+                                <span><?php echo $this->localize('Frontend Development'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Agile Development'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Kanban'); ?>,</span>
+                                <span><?php echo $this->localize('Content Management Systems'); ?>,</span>
+                                <span><?php echo $this->localize('User Experience Design'); ?>,</span>
+
+                                <span><?php echo $this->localize('Artificial Intelligence'); ?>,</span>
+                                <span><?php echo $this->localize('Data Migration'); ?>,</span>
+                                <span><?php echo $this->localize('Offshoring'); ?>,</span>
+                                <span><?php echo $this->localize('APIs'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Search Engine Optimization'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Web-Based Training'); ?>,</span>
+
+                                <span><strong><?php echo $this->localize('Web Application Architecture'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Model-View-Controller Design Pattern'); ?>,</span>
+                                <span><?php echo $this->localize('Test-Driven Software Development'); ?>,</span>
+
+                                <span><?php echo $this->localize('Database Design'); ?>,</span>
+                                <span><?php echo $this->localize('Content Syndication'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Performance Optimization'); ?></strong>,</span>
+                                <span><?php echo $this->localize('Load Balancing'); ?>,</span>
+                                <span><?php echo $this->localize('Database Conversion'); ?>,</span>
+
+                                <span><?php echo $this->localize('Caching'); ?>,</span>
+                                <span><?php echo $this->localize('Scraping'); ?>,</span>
+                                <span><?php echo $this->localize('Web 2.0'); ?>,</span>
+                                <span><?php echo $this->localize('Version Control'); ?>,</span>
+                                <span><?php echo $this->localize('Cross-Browser Compatibility'); ?>,</span>
+                                <span><?php echo $this->localize('Semantic Web'); ?>,</span>
+                                <span><?php echo $this->localize('E-Commerce'); ?>,</span>
+
+                                <span><?php echo $this->localize('Open Source Software'); ?>,</span>
+                                <span><?php echo $this->localize('Deployment Strategies'); ?>,</span>
+                                <span><?php echo $this->localize('Product Development'); ?>,</span>
+                                <span><?php echo $this->localize('Design-Lead Planning'); ?>,</span>
+                                <span><strong><?php echo $this->localize('Leadership'); ?></strong></span>
+                            </p>
+					    </div>
+						<div class="sub-section programming">
 							<h2>
 								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('programming'); ?>" name="<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming Languages and Technologies'); ?>"><?php echo $this->localize('Programming Languages and Technologies'); ?></a>
 							</h2>
@@ -228,186 +225,220 @@
 						<div class="clear"><!--  --></div>
 					</div>
 					<div class="section projects">
-						<div class="sub-section long-term-projects">
-							<h2>
-								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" name="<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Long-Term Projects'); ?>"><?php echo $this->localize('Long-Term Projects'); ?></a>
-							</h2>
-							<dl>
-								<dt class="item">
-									<em><?php echo $this->localize('nacho'); ?></em>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('Web application framework (2011)'); ?> &sdot;
-										<a href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
-										<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
-									</p>
-									<p class="expandable">
-										<?php echo $this->localize('Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:'); ?>
+                        <div class="sub-section projects-2012">
+                            <h2>
+                                <a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects-2012'); ?>" name="<?php echo $this->localize('projects-2012'); ?>" title="<?php echo $this->localize('Projects 2012'); ?>"><?php echo $this->localize('Projects 2012'); ?></a>
+                            </h2>
+                            <dl>
+                                <dt class="item">
+                                    <a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('Beat \'em up'); ?>"><?php echo $this->localize('Beat \'em up'); ?></a>
 
-										<span><?php echo $this->localize('Reflection'); ?>,</span>
-										<span><?php echo $this->localize('magic methods'); ?>,</span>
-										<span><?php echo $this->localize('error backtracking'); ?>,</span>
-										<span><?php echo $this->localize('class abstraction'); ?>,</span>
-										<span><?php echo $this->localize('namespaces'); ?>,</span>
-										<span><?php echo $this->localize('type hinting'); ?></span> <?php echo $this->localize('and'); ?>
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('JavaScript-based Mortal Kombat tribute'); ?> &sdot;
+                                        <a href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+                                    </p>
+                                </dd>
+                                <dt class="item">
+                                    <a href="http://projects.simsab.net/avatars/" title="<?php echo $this->localize('Avatar Rating'); ?>"><?php echo $this->localize('Avatar Rating'); ?></a>
 
-										<span><?php echo $this->localize('autoloading'); ?>.</span>
-									</p>
-									<p class="expandable">
-										<?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office.'); ?>
-
-									</p>
-								</dd>
-								<dt class="item">
-									<em><?php echo $this->localize('cheese'); ?></em>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('Content management system for nacho'); ?> (2011) &sdot;
-										<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
-										<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
-									</p>
-									<p class="expandable">
-										<?php echo $this->localize('Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner.'); ?>
-
-									</p>
-								</dd>
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('Rate a selection of avatar images'); ?> &sdot;
+                                        <a href="http://code.google.com/p/avatar-rating/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+                                    </p>
+                                </dd>
 							</dl>
 						</div>
-						<div class="sub-section motivado-projects">
+						<div class="sub-section projects-2011">
 							<h2>
-								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('motivado-projects'); ?>" name="<?php echo $this->localize('motivado-projects'); ?>" title="<?php echo $this->localize('Motivado Projects'); ?>"><?php echo $this->localize('Motivado Projects'); ?></a>
+								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects-2011'); ?>" name="<?php echo $this->localize('projects-2011'); ?>" title="<?php echo $this->localize('Motivado Projects'); ?>"><?php echo $this->localize('Motivado Projects'); ?></a>
 							</h2>
 							<dl>
+                                <dt class="item">
+                                    <a href="http://projects.simsab.net/readosaur/" title="<?php echo $this->localize('readosaur'); ?>"><?php echo $this->localize('readosaur'); ?></a>
+
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('Manage and read your favourite RSS feeds'); ?> &sdot;
+                                        <a href="http://code.google.com/p/readosaur/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+                                    </p>
+                                </dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/motivado/coaching-preview/" title="<?php echo $this->localize('Coaching Preview'); ?>"><?php echo $this->localize('Coaching Preview'); ?></a>
+
+                                    <span class="sub-line"><?php echo $this->localize('2 months'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('Configure and test coaching elements (2011)'); ?> &sdot;
+										<?php echo $this->localize('Configure and test Motivado\'s coaching elements'); ?> &sdot;
 										<a href="http://code.google.com/p/coaching-preview/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/motivado/coaching-import/index" title="<?php echo $this->localize('Coaching Import'); ?>"><?php echo $this->localize('Coaching Import'); ?></a>
+
+                                    <span class="sub-line"><?php echo $this->localize('5 months'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('Import coaching models into database (2011)'); ?> &sdot;
+										<?php echo $this->localize('Import Motivado\'s coaching models into database'); ?> &sdot;
 										<a href="http://code.google.com/p/motivado-importer/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/motivado/coaching-test" title="<?php echo $this->localize('Coaching Test'); ?>"><?php echo $this->localize('Coaching Test'); ?></a>
+
+                                    <span class="sub-line"><?php echo $this->localize('2 months'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('Test coachings before deployment (2011)'); ?> &sdot;
+										<?php echo $this->localize('Test Motivado\'s coachings before deployment'); ?> &sdot;
 										<a href="http://code.google.com/p/coaching-test/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
 								<dt class="item">
 									<em><?php echo $this->localize('Coaching API'); ?></em>
+
+                                    <span class="sub-line"><?php echo $this->localize('7 months'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('API for Motivado\'s coaching content (2011)'); ?> &sdot;
+										<?php echo $this->localize('API for Motivado\'s coaching content'); ?> &sdot;
 										<a href="http://code.google.com/p/motivado-api/source/browse" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
 								<dt class="item">
 									<em><?php echo $this->localize('Coaching UI'); ?></em>
+
+                                    <span class="sub-line"><?php echo $this->localize('1 month'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('Communication between frontend and API (2011)'); ?> &sdot;
+										<?php echo $this->localize('Communication between Motivado\'s frontend and API'); ?> &sdot;
 										<a href="http://code.google.com/p/motivado-ui/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
+                                <dt class="item">
+                                    <em><?php echo $this->localize('nacho'); ?></em>
+
+                                    <span class="sub-line"><?php echo $this->localize('11 months'); ?></span>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('Web application framework'); ?> &sdot;
+                                        <a href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
+                                        <a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+                                    </p>
+                                    <p class="expandable">
+                                        <?php echo $this->localize('Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:'); ?>
+
+                                        <span><?php echo $this->localize('Reflection'); ?>,</span>
+                                        <span><?php echo $this->localize('magic methods'); ?>,</span>
+                                        <span><?php echo $this->localize('error backtracking'); ?>,</span>
+                                        <span><?php echo $this->localize('class abstraction'); ?>,</span>
+                                        <span><?php echo $this->localize('namespaces'); ?>,</span>
+                                        <span><?php echo $this->localize('type hinting'); ?></span> <?php echo $this->localize('and'); ?>
+
+                                        <span><?php echo $this->localize('autoloading'); ?>.</span>
+                                    </p>
+                                    <p class="expandable">
+                                        <?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office.'); ?>
+
+                                    </p>
+                                </dd>
+                                <dt class="item">
+                                    <em><?php echo $this->localize('cheese'); ?></em>
+
+                                    <span class="sub-line"><?php echo $this->localize('10 months'); ?></span>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('Content management system for nacho'); ?> (2011) &sdot;
+                                        <a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
+                                        <a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+                                    </p>
+                                    <p class="expandable">
+                                        <?php echo $this->localize('Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner.'); ?>
+
+                                    </p>
+                                </dd>
+                                <dt class="item">
+                                    <a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('ask.me'); ?>"><?php echo $this->localize('ask.me'); ?></a>
+
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('Ask and answer questions'); ?> &sdot;
+                                        <a href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+                                    </p>
+                                </dd>
+                                <dt class="item">
+                                    <em><?php echo $this->localize('Dialogues'); ?></em>
+
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('Multi-format instant messaging dialogues'); ?> &sdot;
+                                        <a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+                                    </p>
+                                </dd>
 							</dl>
 						</div>
-						<div class="sub-section one-day-projects">
+						<div class="sub-section older-projects">
 							<h2>
-								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('one-day-projects'); ?>" name="<?php echo $this->localize('one-day-projects'); ?>" title="<?php echo $this->localize('One-Day Projects'); ?>"><?php echo $this->localize('One-Day Projects'); ?></a>
+								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('older-projects'); ?>" name="<?php echo $this->localize('older-projects'); ?>" title="<?php echo $this->localize('Older Projects'); ?>"><?php echo $this->localize('Older Projects'); ?></a>
 							</h2>
 							<dl>
 								<dt class="item">
-									<a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('Beat \'em up'); ?>"><?php echo $this->localize('Beat \'em up'); ?></a>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('JavaScript-based Mortal Kombat tribute'); ?> (2012) &sdot;
-										<a href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-									</p>
-								</dd>
-								<dt class="item">
-									<a href="http://projects.simsab.net/avatars/" title="<?php echo $this->localize('Avatar Rating'); ?>"><?php echo $this->localize('Avatar Rating'); ?></a>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('Rate a selection of avatar images'); ?> (2012) &sdot;
-										<a href="http://code.google.com/p/avatar-rating/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-									</p>
-								</dd>
-								<dt class="item">
-									<a href="http://projects.simsab.net/readosaur/" title="<?php echo $this->localize('readosaur'); ?>"><?php echo $this->localize('readosaur'); ?></a>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('Manage and read your favourite RSS feeds'); ?> (2011) &sdot;
-										<a href="http://code.google.com/p/readosaur/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-									</p>
-								</dd>
-								<dt class="item">
-									<a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('ask.me'); ?>"><?php echo $this->localize('ask.me'); ?></a>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('Ask and answer questions'); ?> (2011) &sdot;
-										<a href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-									</p>
-								</dd>
-								<dt class="item">
-									<em><?php echo $this->localize('Dialogues'); ?></em>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('Multi-format instant messaging dialogues'); ?> (2011) &sdot;
-										<a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-									</p>
-								</dd>
-								<dt class="item">
 									<em><?php echo $this->localize('Scraper'); ?></em>
+
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('Library for scraping product catalogues'); ?> (2010) &sdot;
+										<?php echo $this->localize('Library for scraping product catalogues'); ?> &sdot;
 										<a href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/names/" title="<?php echo $this->localize('Filtering names'); ?>"><?php echo $this->localize('Filtering names'); ?></a>
+
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('Filtering names by configurable patterns'); ?> (2010)
+										<?php echo $this->localize('Filtering names by configurable patterns'); ?>
 									</p>
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/trend/" title="<?php echo $this->localize('Trend'); ?>"><?php echo $this->localize('Trend'); ?></a>
+
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('Der nächste musikalische Trend'); ?> (2009)
+										<?php echo $this->localize('Der nächste musikalische Trend'); ?>
+
+                                        <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 									</p>
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/beerball-simulator/" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a>
+
+                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
-										<?php echo $this->localize('Simulation of a Beerball match'); ?> (2009) &sdot;
+										<?php echo $this->localize('Simulation of a Beerball match'); ?> &sdot;
 										<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
@@ -415,9 +446,9 @@
 						</div>
 						<div class="clear"><!--  --></div>
 					</div>
-					<div class="section work-experience">
+					<div class="section career">
 						<h2>
-							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" name="<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Work Experience'); ?>"><?php echo $this->localize('Work Experience'); ?></a>
+							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" name="<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Career'); ?>"><?php echo $this->localize('Career'); ?></a>
 						</h2>
 						<dl>
 							<dt class="item">
@@ -442,7 +473,7 @@
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Web and software development'); ?> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
@@ -457,7 +488,7 @@
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('Application architecture and development lead for Rocket\'s new e-commerce core component'); ?>
@@ -474,14 +505,14 @@
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>'); ?> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content.'); ?>
 
 								</p>
 								<p class="expandable">
-									<?php echo $this->localize('I developed Motivado\'s %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany\'s Federal Ministry for Economy and Technology.', array('<a href="' . $this->getConfiguration('basePath') . $this->localize('en') . '#' . $this->localize('motivado-projects') . '">', '</a>')); ?>
+									<?php echo $this->localize('I developed Motivado\'s %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany\'s Federal Ministry for Economy and Technology.', array('<a href="' . $this->getConfiguration('basePath') . $this->localize('en') . '#' . $this->localize('projects-2011') . '">', '</a>')); ?>
 
 								</p>
 								<p class="expandable">
@@ -497,7 +528,7 @@
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Freelance work as a senior web developer'); ?> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('for the online agencies'); ?>
@@ -520,7 +551,7 @@
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Core and feature development'); ?> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('for the startup <em>mytourclips AG</em> which covered:'); ?></span>
@@ -545,7 +576,7 @@
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Animation, background/character clean up'); ?> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>'); ?>
@@ -560,7 +591,7 @@
 							<dd class="description">
 								<p>
 									<?php echo $this->localize('Software development'); ?> &sdot;
-									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('work-experience'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches'); ?>

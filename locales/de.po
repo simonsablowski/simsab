@@ -39,11 +39,11 @@ msgstr "projekte"
 msgid "Projects"
 msgstr "Projekte"
 
-msgid "work-experience"
-msgstr "berufserfahrung"
+msgid "career"
+msgstr "karriere"
 
-msgid "Work Experience"
-msgstr "Berufserfahrung"
+msgid "Career"
+msgstr "Karriere"
 
 msgid "contact-me"
 msgstr "kontakt"
@@ -288,7 +288,7 @@ msgstr "Produktentwicklung"
 msgid "Design-Lead Planning"
 msgstr "Design-Lead Planning"
 
-#programming-languages
+#programming
 
 msgid "Programming Languages and Technologies"
 msgstr "Programmiersprachen und Technologien"
@@ -301,13 +301,25 @@ msgstr "frameworks"
 msgid "Frameworks and Auxiliary Tools"
 msgstr "Frameworks und Tools"
 
-#long-term-projects
+#projects
 
-msgid "Long-Term Projects"
-msgstr "Langzeitprojekte"
+msgid "Projects 2012"
+msgstr "Projekte 2012"
 
-msgid "long-term-projects"
-msgstr "langzeitprojekte"
+msgid "projects-2012"
+msgstr "projekte-2012"
+
+msgid "Projects 2011"
+msgstr "Projekte 2011"
+
+msgid "projects-2011"
+msgstr "projekte-2011"
+
+msgid "Older Projects"
+msgstr "Ältere Projekte"
+
+msgid "older-projects"
+msgstr "aeltere-projekte"
 
 msgid "nacho"
 msgstr "nacho"
@@ -354,31 +366,23 @@ msgstr "Content-Management-System für nacho"
 msgid "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
 msgstr "Außer nützlicher <em>Events-basierter Frontend-Funktionalität</em>, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese sichere Mechanismen für <em>Authentifizierung</em> sowie hochflexible <em>CRUD-Interfaces</em>, die auf clevere MVC-Weise konfiguriert werden können."
 
-#motivado-projects
-
-msgid "Motivado Projects"
-msgstr "Motivado-Projekte"
-
-msgid "motivado-projects"
-msgstr "motivado-projekte"
-
 msgid "Coaching Preview"
 msgstr "Coaching-Vorschau"
 
-msgid "Configure and test coaching elements (2011)"
-msgstr "Coaching-Elemente konfigurieren und testen (2011)"
+msgid "Configure and test Motivado's coaching elements (2011)"
+msgstr "Motivados Coaching-Elemente konfigurieren und testen (2011)"
 
 msgid "Coaching Import"
 msgstr "Coaching-Import"
 
-msgid "Import coaching models into database (2011)"
-msgstr "Coaching-Modelle in die Datenbank importieren (2011)"
+msgid "Import Motivado's coaching models into database (2011)"
+msgstr "Motivados Coaching-Modelle in die Datenbank importieren (2011)"
 
 msgid "Coaching Test"
 msgstr "Coaching-Test"
 
-msgid "Test coachings before deployment (2011)"
-msgstr "Coachings vor dem Deployment testen (2011)"
+msgid "Test Motivado's coachings before deployment (2011)"
+msgstr "Motivados Coachings vor dem Deployment testen (2011)"
 
 msgid "Coaching API"
 msgstr "Coaching-API"
@@ -389,16 +393,8 @@ msgstr "API für Motivados Coaching-Inhalte (2011)"
 msgid "Coaching UI"
 msgstr "Coaching-UI"
 
-msgid "Communication between frontend and API (2011)"
-msgstr "Kommunikation zwischen Frontend und API (2011)"
-
-#one-day-projects
-
-msgid "One-Day Projects"
-msgstr "Eintagesprojekte"
-
-msgid "one-day-projects"
-msgstr "eintagesprojekte"
+msgid "Communication between Motivado's frontend and API (2011)"
+msgstr "Kommunikation zwischen Motivados Frontend und API (2011)"
 
 msgid "Scraper"
 msgstr "Scraper"
@@ -454,10 +450,7 @@ msgstr "Dialoge"
 msgid "Multi-format instant messaging dialogues"
 msgstr "Chat-Dialoge in verschiedenen Formaten"
 
-msgid "One-day projects give you an impression of what is realizable for a day's rate."
-msgstr "Eintagesprojekte geben Ihnen eine Vorstellung davon, was für einen Tagessatz realisierbar ist."
-
-#work-experience
+#career
 
 msgid "since 12/2011"
 msgstr "seit 12/2011"
