@@ -360,7 +360,7 @@
                                 </dt>
                                 <dd class="description">
                                     <p>
-                                        <?php echo $this->localize('Content management system for nacho'); ?> (2011) &sdot;
+                                        <?php echo $this->localize('Content management system for nacho'); ?> &sdot;
                                         <a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a> &sdot;
                                         <a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
                                     </p>
