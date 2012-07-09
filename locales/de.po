@@ -327,8 +327,8 @@ msgstr "nacho"
 msgid "Source code"
 msgstr "Quellcode"
 
-msgid "Web application framework (2011)"
-msgstr "Web Application Framework (2011)"
+msgid "Web application framework"
+msgstr "Web Application Framework"
 
 msgid "Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:"
 msgstr "Die Prinzipien <em>Rapid Development</em> und <em>Convention Over Configuration</em> sind im MVC-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten und viele <em>PHP 5.3</em>-Features wurden integriert, unter anderem:"
@@ -369,32 +369,32 @@ msgstr "Außer nützlicher <em>Events-basierter Frontend-Funktionalität</em>, w
 msgid "Coaching Preview"
 msgstr "Coaching-Vorschau"
 
-msgid "Configure and test Motivado's coaching elements (2011)"
-msgstr "Motivados Coaching-Elemente konfigurieren und testen (2011)"
+msgid "Configure and test Motivado's coaching elements"
+msgstr "Motivados Coaching-Elemente konfigurieren und testen"
 
 msgid "Coaching Import"
 msgstr "Coaching-Import"
 
-msgid "Import Motivado's coaching models into database (2011)"
-msgstr "Motivados Coaching-Modelle in die Datenbank importieren (2011)"
+msgid "Import Motivado's coaching models into database"
+msgstr "Motivados Coaching-Modelle in die Datenbank importieren"
 
 msgid "Coaching Test"
 msgstr "Coaching-Test"
 
-msgid "Test Motivado's coachings before deployment (2011)"
-msgstr "Motivados Coachings vor dem Deployment testen (2011)"
+msgid "Test Motivado's coachings before deployment"
+msgstr "Motivados Coachings vor dem Deployment testen"
 
 msgid "Coaching API"
 msgstr "Coaching-API"
 
-msgid "API for Motivado's coaching content (2011)"
-msgstr "API für Motivados Coaching-Inhalte (2011)"
+msgid "API for Motivado's coaching content"
+msgstr "API für Motivados Coaching-Inhalte"
 
 msgid "Coaching UI"
 msgstr "Coaching-UI"
 
-msgid "Communication between Motivado's frontend and API (2011)"
-msgstr "Kommunikation zwischen Motivados Frontend und API (2011)"
+msgid "Communication between Motivado's frontend and API"
+msgstr "Kommunikation zwischen Motivados Frontend und API"
 
 msgid "Scraper"
 msgstr "Scraper"
