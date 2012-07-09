@@ -23,7 +23,7 @@ a.collapse, a.expand, a.external {
 	border-bottom-left-radius: 15px;
 	padding: 10px 0;
 	position: fixed;
-	top: 169px;
+	top: 139px;
 	width: 160px;
 }
 
@@ -50,11 +50,15 @@ a.collapse, a.expand, a.external {
 }
 
 #content {
-	-moz-border-radius: 15px;
-	-khtml-border-radius: 15px;
-	-webkit-border-radius: 15px;
-	border-radius: 15px;
-	margin: 30px 0 30px 160px;
+	-moz-border-radius-bottomleft: 15px;
+    -moz-border-radius-bottomright: 15px;
+	-khtml-border-radius-bottomleft: 15px;
+    -khtml-border-radius-bottomright: 15px;
+	-webkit-border-radius-bottomleft: 15px;
+    -webkit-border-radius-bottomright: 15px;
+	border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+	margin: 0 0 30px 160px;
 	width: 698px;
 }
 
