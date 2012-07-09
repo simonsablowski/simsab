@@ -321,6 +321,15 @@ msgstr "Ältere Projekte"
 msgid "older-projects"
 msgstr "aeltere-projekte"
 
+msgid "1 day"
+msgstr "1 Tag"
+
+msgid "1 month"
+msgstr "1 Monat"
+
+msgid "%d months"
+msgstr "%d Monate"
+
 msgid "nacho"
 msgstr "nacho"
 
