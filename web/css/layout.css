@@ -152,10 +152,6 @@ a.collapse, a.expand, a.external {
 	width: 214px;
 }
 
-#body .projects .item .sub-line, #body .projects .footnote {
-	font-size: 85%;
-}
-
 #body .projects .item, #body .projects .description {
 	padding-bottom: 10px;
 }
@@ -174,13 +170,13 @@ a.collapse, a.expand, a.external {
 	width: 496px;
 }
 
-#body .career .item, #body .career .description {
-	padding-bottom: 15px;
+#body .projects .item .sub-line, #body .career .item .sub-line {
+    display: block;
+    font-size: 85%;
 }
 
-#body .career .item .sub-line {
-	display: block;
-	font-size: 85%;
+#body .career .item, #body .career .description {
+	padding-bottom: 15px;
 }
 
 #body .contact-me .options {

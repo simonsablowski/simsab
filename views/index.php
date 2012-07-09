@@ -256,7 +256,7 @@
 						</div>
 						<div class="sub-section projects-2011">
 							<h2>
-								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects-2011'); ?>" name="<?php echo $this->localize('projects-2011'); ?>" title="<?php echo $this->localize('Motivado Projects'); ?>"><?php echo $this->localize('Motivado Projects'); ?></a>
+								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects-2011'); ?>" name="<?php echo $this->localize('projects-2011'); ?>" title="<?php echo $this->localize('Projects 2011'); ?>"><?php echo $this->localize('Projects 2011'); ?></a>
 							</h2>
 							<dl>
                                 <dt class="item">
