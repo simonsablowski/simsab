@@ -140,7 +140,7 @@ a.collapse, a.expand, a.external {
 	white-space: nowrap;
 }
 
-#body .skills .frameworks, #body .projects .sub-section, #body .projects .sub-section {
+#body .skills .frameworks {
 	padding-top: 10px;
 }
 
