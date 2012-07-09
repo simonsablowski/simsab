@@ -132,15 +132,15 @@ a.collapse, a.expand, a.external {
 	width: 323px;
 }
 
-#body .professional-skills span, #body .projects span {
+#body .skills span, #body .projects span {
 	white-space: nowrap;
 }
 
-#body .programming .frameworks, #body .projects .motivado-projects, #body .projects .one-day-projects {
+#body .skills .frameworks, #body .projects .sub-section, #body .projects .sub-section {
 	padding-top: 10px;
 }
 
-#body .programming-languages li, #body .frameworks li, #body .contact-me li {
+#body .programming li, #body .frameworks li, #body .contact-me li {
 	display: inline;
 	float: left;
 	list-style-type: none;
@@ -148,7 +148,7 @@ a.collapse, a.expand, a.external {
 	width: 107px;
 }
 
-#body .programming-languages li.wide, #body .frameworks li.wide, #body .contact-me li.wide {
+#body .programming li.wide, #body .frameworks li.wide, #body .contact-me li.wide {
 	width: 214px;
 }
 
@@ -160,25 +160,25 @@ a.collapse, a.expand, a.external {
 	padding-bottom: 10px;
 }
 
-#body .projects .item, #body .projects .description, #body .work-experience .item, #body .work-experience .description {
+#body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
 	float: left;
 }
 
-#body .projects .item , #body .work-experience .item{
+#body .projects .item , #body .career .item{
 	clear: left;
 	width: 150px;
 }
 
-#body .projects .description, #body .work-experience .description {
+#body .projects .description, #body .career .description {
 	margin-left: 0;
 	width: 496px;
 }
 
-#body .work-experience .item, #body .work-experience .description {
+#body .career .item, #body .career .description {
 	padding-bottom: 15px;
 }
 
-#body .work-experience .item .sub-line {
+#body .career .item .sub-line {
 	display: block;
 	font-size: 85%;
 }
