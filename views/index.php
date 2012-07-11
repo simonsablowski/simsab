@@ -167,7 +167,8 @@
                                 <span><strong><?php echo $this->localize('Leadership'); ?></strong></span>
                             </p>
 					    </div>
-						<!--<div class="sub-section programming">
+<?php /*
+						<div class="sub-section programming">
 							<h2>
 								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('programming'); ?>" name="<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming Languages and Technologies'); ?>"><?php echo $this->localize('Programming Languages and Technologies'); ?></a>
 							</h2>
@@ -221,7 +222,8 @@
 								<li>Google Analytics</li>
 								<li class="wide">Google Website Optimizer</li>
 							</ul>
-						</div>-->
+						</div>
+ */ ?>
 						<div class="clear"><!--  --></div>
 					</div>
 					<div class="section projects">
@@ -635,7 +637,7 @@
 							<li>
 								<a href="http://www.youtube.com/user/simbobwe" title="<?php echo $this->localize('Simon Sablowski at %s', 'YouTube'); ?>">YouTube</a>
 							</li>
-<? /*
+<?php /*
 							<li>
 								<a href="http://www.imdb.com/mymovies/list?l=47109736" title="<?php echo $this->localize('Simon Sablowski at %s', 'IMDb'); ?>">IMDb</a>
 							</li>
