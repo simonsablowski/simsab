@@ -27,12 +27,6 @@ msgstr "professional-skills"
 msgid "Professional Skills"
 msgstr "Professional Skills"
 
-msgid "programming"
-msgstr "programming"
-
-msgid "Programming"
-msgstr "Programming"
-
 msgid "projects"
 msgstr "projects"
 
@@ -288,19 +282,6 @@ msgstr "Product Development"
 msgid "Design-Lead Planning"
 msgstr "Design-Lead Planning"
 
-#programming-languages
-
-msgid "Programming Languages and Technologies"
-msgstr "Programming Languages and Technologies"
-
-#frameworks
-
-msgid "frameworks"
-msgstr "frameworks"
-
-msgid "Frameworks and Auxiliary Tools"
-msgstr "Frameworks and Auxiliary Tools"
-
 #projects
 
 msgid "Projects 2012"
@@ -320,15 +301,6 @@ msgstr "Older Projects"
 
 msgid "older-projects"
 msgstr "older-projects"
-
-msgid "1 day"
-msgstr "1 day"
-
-msgid "1 month"
-msgstr "1 month"
-
-msgid "%d months"
-msgstr "%d months"
 
 msgid "nacho"
 msgstr "nacho"
@@ -461,8 +433,23 @@ msgstr "Multi-format instant messaging dialogues"
 
 #career
 
-msgid "since 12/2011"
-msgstr "since 12/2011"
+msgid "1 month"
+msgstr "1 month"
+
+msgid "%d months"
+msgstr "%d months"
+
+msgid "1 year"
+msgstr "1 year"
+
+msgid "%d years"
+msgstr "%d years"
+
+msgid "since %s"
+msgstr "since %s"
+
+msgid "%s - %s"
+msgstr "%s - %s"
 
 msgid "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
 msgstr "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
@@ -470,23 +457,11 @@ msgstr "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocke
 msgid "At Rocket Internet, I am in charge of coordinating weekly launches of worldwide e-commerce projects and managing more than 50 software developers, project managers and system administrators."
 msgstr "At Rocket Internet, I am in charge of coordinating weekly launches of worldwide e-commerce projects and managing more than 50 software developers, project managers and system administrators."
 
-msgid "11/2011 - 11/2011"
-msgstr "11/2011 - 11/2011"
-
-msgid "1 month"
-msgstr "1 month"
-
 msgid "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
 msgstr "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
 
 msgid "Application architecture and development lead for Rocket's new e-commerce core component"
 msgstr "Application architecture and development lead for Rocket's new e-commerce core component"
-
-msgid "08/2009 - 11/2011"
-msgstr "08/2009 - 11/2011"
-
-msgid "2 years, 4 months"
-msgstr "2 years, 4 months"
 
 msgid "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>"
 msgstr "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>"
@@ -500,35 +475,17 @@ msgstr "I developed Motivado's %scomplex software%s  with the support of an agil
 msgid "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
 msgstr "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
 
-msgid "since 1999"
-msgstr "since 1999"
-
-msgid "%d years"
-msgstr "%d years"
-
 msgid "Web and software development"
 msgstr "Web and software development"
 
 msgid "My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design."
 msgstr "My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design."
 
-msgid "01/2009 - 08/2009"
-msgstr "01/2009 - 08/2009"
-
-msgid "8 months"
-msgstr "8 months"
-
 msgid "Freelance work as a senior web developer"
 msgstr "Freelance work as a senior web developer"
 
 msgid "for the online agencies"
 msgstr "for the online agencies"
-
-msgid "08/2007 - 01/2009"
-msgstr "08/2007 - 01/2009"
-
-msgid "1 year, 6 months"
-msgstr "1 year, 6 months"
 
 msgid "Core and feature development"
 msgstr "Core and feature development"
@@ -554,23 +511,11 @@ msgstr "Affiliating, booking engines and content aggregation"
 msgid "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
 msgstr "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
 
-msgid "07/2006 - 10/2007"
-msgstr "07/2006 - 10/2007"
-
-msgid "1 year, 4 months"
-msgstr "1 year, 4 months"
-
 msgid "Animation, background/character clean up"
 msgstr "Animation, background/character clean up"
 
 msgid "and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
 msgstr "and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
-
-msgid "06/2000 - 12/2008"
-msgstr "06/2000 - 12/2008"
-
-msgid "8 years, 7 months"
-msgstr "8 years, 7 months"
 
 msgid "Software development"
 msgstr "Software development"

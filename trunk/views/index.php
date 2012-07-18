@@ -9,7 +9,6 @@
 		<meta name="description" content="<?php echo $this->localize('Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design.'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
-		<!-- Mobile device detection by Bushido Designs: BushidoDesigns.net -->
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css"/>
 		<style type="text/css" media="screen and (min-width: 860px)">
 		<!--
@@ -167,63 +166,6 @@
                                 <span><strong><?php echo $this->localize('Leadership'); ?></strong></span>
                             </p>
 					    </div>
-<?php /*
-						<div class="sub-section programming">
-							<h2>
-								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('programming'); ?>" name="<?php echo $this->localize('programming'); ?>" title="<?php echo $this->localize('Programming Languages and Technologies'); ?>"><?php echo $this->localize('Programming Languages and Technologies'); ?></a>
-							</h2>
-							<ul>
-								<li>PHP</li>
-								<li>MySQL</li>
-								<li>PCRE</li>
-								<li>Python</li>
-								<li>JavaScript</li>
-								<li>ActionScript</li>
-								<li>XHTML</li>
-								<li>CSS</li>
-								<li>XML</li>
-								<li>XSLT</li>
-								<li>AJAX</li>
-								<li>MXML</li>
-							</ul>
-						</div>
-						<div class="sub-section frameworks">
-							<h2>
-								<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('frameworks'); ?>" name="<?php echo $this->localize('frameworks'); ?>" title="<?php echo $this->localize('Frameworks and Auxiliary Tools'); ?>"><?php echo $this->localize('Frameworks and Auxiliary Tools'); ?></a>
-							</h2>
-							<ul>
-								<li>Magento</li>
-								<li>Zend</li>
-								<li>Drupal</li>
-								<li>WordPress</li>
-								<li>CakePHP</li>
-								<li>CodeIgniter</li>
-								<li>Apache</li>
-								<li>nginx</li>
-								<li>lighttp</li>
-								<li>varnish</li>
-								<li>pound</li>
-								<li>munin</li>
-								<li>Memcache</li>
-								<li>eAccelerator</li>
-								<li>APC</li>
-								<li>XCache</li>
-								<li>XDebug</li>
-								<li>Phing</li>
-								<li>Subversion</li>
-								<li>PHPUnit</li>
-								<li>Selenium</li>
-								<li>Bamboo</li>
-								<li>JIRA</li>
-								<li>trac</li>
-								<li>jQuery</li>
-								<li>mootools</li>
-								<li>Firebug</li>
-								<li>Google Analytics</li>
-								<li class="wide">Google Website Optimizer</li>
-							</ul>
-						</div>
- */ ?>
 						<div class="clear"><!--  --></div>
 					</div>
 					<div class="section projects">
@@ -234,8 +176,6 @@
                             <dl>
                                 <dt class="item">
                                     <a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('Beat \'em up'); ?>"><?php echo $this->localize('Beat \'em up'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
                                 </dt>
                                 <dd class="description">
                                     <p>
@@ -245,8 +185,6 @@
                                 </dd>
                                 <dt class="item">
                                     <a href="http://projects.simsab.net/avatars/" title="<?php echo $this->localize('Avatar Rating'); ?>"><?php echo $this->localize('Avatar Rating'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
                                 </dt>
                                 <dd class="description">
                                     <p>
@@ -263,8 +201,6 @@
 							<dl>
                                 <dt class="item">
                                     <a href="http://projects.simsab.net/readosaur/" title="<?php echo $this->localize('readosaur'); ?>"><?php echo $this->localize('readosaur'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
                                 </dt>
                                 <dd class="description">
                                     <p>
@@ -274,8 +210,6 @@
                                 </dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/motivado/coaching-preview/" title="<?php echo $this->localize('Coaching Preview'); ?>"><?php echo $this->localize('Coaching Preview'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('%d months', 2); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -285,8 +219,6 @@
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/motivado/coaching-import/index" title="<?php echo $this->localize('Coaching Import'); ?>"><?php echo $this->localize('Coaching Import'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('%d months', 5); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -296,8 +228,6 @@
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/motivado/coaching-test" title="<?php echo $this->localize('Coaching Test'); ?>"><?php echo $this->localize('Coaching Test'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('%d months', 2); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -307,8 +237,6 @@
 								</dd>
 								<dt class="item">
 									<em><?php echo $this->localize('Coaching API'); ?></em>
-
-                                    <span class="sub-line"><?php echo $this->localize('%d months', 7); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -318,8 +246,6 @@
 								</dd>
 								<dt class="item">
 									<em><?php echo $this->localize('Coaching UI'); ?></em>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 month'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -329,8 +255,6 @@
 								</dd>
                                 <dt class="item">
                                     <em><?php echo $this->localize('nacho'); ?></em>
-
-                                    <span class="sub-line"><?php echo $this->localize('%d months', 11); ?></span>
                                 </dt>
                                 <dd class="description">
                                     <p>
@@ -357,8 +281,6 @@
                                 </dd>
                                 <dt class="item">
                                     <em><?php echo $this->localize('cheese'); ?></em>
-
-                                    <span class="sub-line"><?php echo $this->localize('%d months', 10); ?></span>
                                 </dt>
                                 <dd class="description">
                                     <p>
@@ -373,8 +295,6 @@
                                 </dd>
                                 <dt class="item">
                                     <a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('ask.me'); ?>"><?php echo $this->localize('ask.me'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
                                 </dt>
                                 <dd class="description">
                                     <p>
@@ -384,8 +304,6 @@
                                 </dd>
                                 <dt class="item">
                                     <em><?php echo $this->localize('Dialogues'); ?></em>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
                                 </dt>
                                 <dd class="description">
                                     <p>
@@ -402,8 +320,6 @@
 							<dl>
 								<dt class="item">
 									<em><?php echo $this->localize('Scraper'); ?></em>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -413,8 +329,6 @@
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/names/" title="<?php echo $this->localize('Filtering names'); ?>"><?php echo $this->localize('Filtering names'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -423,8 +337,6 @@
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/trend/" title="<?php echo $this->localize('Trend'); ?>"><?php echo $this->localize('Trend'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -433,8 +345,6 @@
 								</dd>
 								<dt class="item">
 									<a href="http://projects.simsab.net/beerball-simulator/" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a>
-
-                                    <span class="sub-line"><?php echo $this->localize('1 day'); ?></span>
 								</dt>
 								<dd class="description">
 									<p>
@@ -452,7 +362,7 @@
 						</h2>
 						<dl>
 							<dt class="item">
-								<?php echo $this->localize('since 12/2011'); ?>
+								<?php echo $this->localize('since %s', '12/2011'); ?>
 
 							</dt>
 							<dd class="description">
@@ -466,7 +376,7 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<?php echo $this->localize('since 1999'); ?>
+								<?php echo $this->localize('since %s', '1999'); ?>
 
 								<span class="sub-line"><?php echo $this->localize('%d years', date('Y') - 1999); ?></span>
 							</dt>
@@ -481,7 +391,7 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<?php echo $this->localize('11/2011 - 11/2011'); ?>
+								<?php echo $this->localize('%s - %s', array('11/2011', '11/2011')); ?>
 
 								<span class="sub-line"><?php echo $this->localize('1 month'); ?></span>
 							</dt>
@@ -498,9 +408,9 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<?php echo $this->localize('08/2009 - 11/2011'); ?>
+								<?php echo $this->localize('%s - %s', array('08/2009', '11/2011')); ?>
 
-								<span class="sub-line"><?php echo $this->localize('2 years, 4 months'); ?></span>
+								<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('%d years', 2), $this->localize('%d months', 4)); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
@@ -521,9 +431,9 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<?php echo $this->localize('01/2009 - 08/2009'); ?>
+								<?php echo $this->localize('%s - %s', array('01/2009', '08/2009')); ?>
 
-								<span class="sub-line"><?php echo $this->localize('8 months'); ?></span>
+								<span class="sub-line"><?php echo $this->localize('%d months', 8); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
@@ -544,9 +454,9 @@
 								</ul>
 							</dd>
 							<dt class="item">
-								<?php echo $this->localize('08/2007 - 01/2009'); ?>
+								<?php echo $this->localize('%s - %s', array('08/2007', '01/2009')); ?>
 
-								<span class="sub-line"><?php echo $this->localize('1 year, 6 months'); ?></span>
+								<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('1 year'), $this->localize('%d months', 6)); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
@@ -569,9 +479,9 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<?php echo $this->localize('07/2006 - 10/2007'); ?>
+								<?php echo $this->localize('%s - %s', array('07/2006', '10/2007')); ?>
 
-								<span class="sub-line"><?php echo $this->localize('1 year, 4 months'); ?></span>
+								<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('1 year'), $this->localize('%d months', 4)); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
@@ -584,9 +494,9 @@
 								</p>
 							</dd>
 							<dt class="item">
-								<?php echo $this->localize('06/2000 - 12/2008'); ?>
+								<?php echo $this->localize('%s - %s', array('06/2000', '12/2008')); ?>
 
-								<span class="sub-line"><?php echo $this->localize('8 years, 7 months'); ?></span>
+								<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('%d years', 8), $this->localize('%d months', 7)); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
@@ -637,11 +547,6 @@
 							<li>
 								<a href="http://www.youtube.com/user/simbobwe" title="<?php echo $this->localize('Simon Sablowski at %s', 'YouTube'); ?>">YouTube</a>
 							</li>
-<?php /*
-							<li>
-								<a href="http://www.imdb.com/mymovies/list?l=47109736" title="<?php echo $this->localize('Simon Sablowski at %s', 'IMDb'); ?>">IMDb</a>
-							</li>
-*/ ?>
 						</ul>
 					</div>
 				</div>
