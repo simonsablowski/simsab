@@ -371,7 +371,7 @@
 
 								</p>
 								<p>
-									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating weekly launches of worldwide e-commerce projects and managing more than 50 software developers, project managers and system administrators.'); ?>
+									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating the launches of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts.'); ?>
 
 								</p>
 							</dd>
