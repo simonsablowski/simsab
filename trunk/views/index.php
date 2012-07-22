@@ -275,7 +275,7 @@
                                         <span><?php echo $this->localize('autoloading'); ?>.</span>
                                     </p>
                                     <p class="expandable">
-                                        <?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office.'); ?>
+                                        <?php echo $this->localize('Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering, database abstraction and user input validation.'); ?>
 
                                     </p>
                                 </dd>
