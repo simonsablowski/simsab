@@ -338,8 +338,8 @@ msgstr "Namensräume"
 msgid "and"
 msgstr "und"
 
-msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering and user input validation. The implemented <em>database abstraction layer</em> is outstanding, supporting database systems from SQL to MS Office."
-msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering sowie User-Input-Validierung. Der <em>Database Abstraction Layer</em> ist herausragend und unterstützt Datenbanksysteme von SQL bis MS Office."
+msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering, database abstraction and user input validation."
+msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering, Datenbankabstraktion sowie User-Input-Validierung."
 
 msgid "Content management system for nacho"
 msgstr "Content-Management-System für nacho"
