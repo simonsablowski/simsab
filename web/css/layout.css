@@ -90,8 +90,8 @@ a.collapse, a.expand, a.external {
 	border-bottom: 15px solid;
 	border-left: 15px solid;
 	display: none;
-	height: 270px;
-	width: 308px;
+	height: 308px;
+	width: 270px;
 }
 
 #logo {
