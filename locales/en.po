@@ -445,20 +445,20 @@ msgstr "since %s"
 msgid "%s - %s"
 msgstr "%s - %s"
 
-msgid "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
-msgstr "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
+msgid "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
+msgstr "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
 
 msgid "At Rocket Internet, I am in charge of coordinating the launches of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
 msgstr "At Rocket Internet, I am in charge of coordinating the launches of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
 
-msgid "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
-msgstr "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>"
+msgid "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
+msgstr "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
 
 msgid "Application architecture and development lead for Rocket's new e-commerce core component"
 msgstr "Application architecture and development lead for Rocket's new e-commerce core component"
 
-msgid "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>"
-msgstr "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>"
+msgid "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado</a>"
+msgstr "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado</a>"
 
 msgid "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content."
 msgstr "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content."
@@ -484,8 +484,8 @@ msgstr "for the online agencies"
 msgid "Core and feature development"
 msgstr "Core and feature development"
 
-msgid "for the startup <em>mytourclips AG</em> which covered:"
-msgstr "for the startup <em>mytourclips AG</em> which covered:"
+msgid "for the startup <em>mytourclips</em> which covered:"
+msgstr "for the startup <em>mytourclips</em> which covered:"
 
 msgid "Multimedia, video streaming"
 msgstr "Multimedia, video streaming"
