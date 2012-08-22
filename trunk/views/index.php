@@ -359,7 +359,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?>
+									<?php echo $this->localize('<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>'); ?>
 
 								</p>
 								<p>
@@ -389,7 +389,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet GmbH</a>'); ?> &sdot;
+									<?php echo $this->localize('Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>'); ?> &sdot;
 									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
@@ -406,7 +406,7 @@
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado GmbH</a>'); ?> &sdot;
+									<?php echo $this->localize('Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado</a>'); ?> &sdot;
 									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
@@ -456,7 +456,7 @@
 									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
-									<?php echo $this->localize('for the startup <em>mytourclips AG</em> which covered:'); ?></span>
+									<?php echo $this->localize('for the startup <em>mytourclips</em> which covered:'); ?></span>
 								</p>
 								<p class="expandable">
 									<span><?php echo $this->localize('Multimedia, video streaming'); ?>,</span>
