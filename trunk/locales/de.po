@@ -61,17 +61,11 @@ msgstr "Simon Sablowski"
 
 #about-me
 
-msgid "I am a passionate developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects."
-msgstr "Ich bin leidenschaftlicher Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Meine Expertise und Kreativität habe ich in mehr als 100 aufregende Projekte eingebracht."
+msgid "I am a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have gained experience working in both small agencies and established international companies. Also I have founded a startup company and have run it profitably for several years together with other industry experts."
+msgstr "Ich bin ein Web Professional mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien. Im Laufe meiner Karriere habe ich in kleinen Agenturen sowie in etablierten internationalen Unternehmen Erfahrung gesammelt. Außerdem habe ich ein Startup gegründet und zusammen mit weiteren Branchenexperten über mehrere Jahre profitabel betrieben."
 
-msgid "While specializing in the use of <em>PHP</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized."
-msgstr "Spezialisiert habe ich mich auf den Einsatz von <em>PHP</em>. Dabei lege ich Wert auf Effizienz, Wartbarkeit und Wiederverwendbarkeit meiner Software. Meine Arbeit richtet sich nach Design Patterns, ist redundanzfrei, modular und Performance-optimiert."
-
-msgid "Throughout my career I have gained experience working on short-term projects with different agencies as well as on long-term projects in startups and established companies. I am an experienced and talented team leader and have a strong entrepreneurial spirit."
-msgstr "Im Laufe meiner Karriere habe ich Erfahrung gesammelt mit kurzfristigen Projekten in verschiedenen Agenturen sowie mit langfristigen Projekten in Startups und etablierten Unternehmen. Ich bin erfahrener und talentierter Teamleiter und habe einen ausgeprägten unternehmerischen Geist."
-
-msgid "In my spare time I enjoy different kinds of art and culture. I particularly like life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>."
-msgstr "In meiner Freizeit beschäftige ich mich gern mit Kunst und Kultur jeglicher Facette. Ich zeichne Akte, Porträts und Comics, spiele Gitarre und experimentiere mit digitaler Produktion akustischer und visueller Art. <a title="Filippo Baraccani" href="http://fbrccn.com">Filippo Baraccani</a> und ich stellen unsere Arbeit auf <a title="notmybiz.com" href="http://notmybiz.com">notmybiz.com</a> aus."
+msgid "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. Currently I am working for <a href="http://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a>, the internationally leading online venture builder and accelerator."
+msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Aktuell arbeite ich für <a href="http://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a>, den international führenden Inkubator für Online-Geschäfte."
 
 skills
 

@@ -62,19 +62,11 @@
 							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('about-me'); ?>" name="<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
 						</h2>
 						<p>
-							<?php echo $this->localize('I am a passionate developer and architect for web applications with more than ten years of experience and have contributed my expertise and creativity to more than 100 exciting projects.'); ?>
+							<?php echo $this->localize('I am a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have gained experience working in both small agencies and established international companies. Also I have founded a startup company and have run it profitably for several years together with other industry experts.'); ?>
 
 						</p>
 						<p>
-							<?php echo $this->localize('While specializing in the use of <em>PHP</em>, I strive to maintain the highest standards in terms of efficiency, manageability and reusability of my software. My work follows design patterns, is redundancy-free, modular and performance-optimized.'); ?>
-
-						</p>
-						<p>
-							<?php echo $this->localize('Throughout my career I have gained experience working on short-term projects with different agencies as well as on long-term projects in startups and established companies. I am an experienced and talented team leader and have a strong entrepreneurial spirit.'); ?>
-
-						</p>
-						<p>
-							<?php echo $this->localize('In my spare time I enjoy different kinds of art and culture. I particularly like life drawing, drawing portraits and comics, playing the guitar and experimenting with digital production of acoustic and visual material. <a href="http://fbrccn.com" title="Filippo Baraccani">Filippo Baraccani</a> and I present our work at <a href="http://notmybiz.com" title="notmybiz.com">notmybiz.com</a>.'); ?>
+							<?php echo $this->localize('During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. Currently I am working for <a href="http://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a>, the internationally leading online venture builder and accelerator.'); ?>
 
 						</p>
 					</div>
