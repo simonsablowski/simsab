@@ -167,6 +167,15 @@
                             </h2>
                             <dl>
                                 <dt class="item">
+                                    <a href="http://projects.simsab.net/getitdone/" title="<?php echo $this->localize('Get it done'); ?>"><?php echo $this->localize('Get it done'); ?></a>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('Task planner with drag and drop functionality'); ?> &sdot;
+                                        <a href="http://code.google.com/p/task-planner/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+                                    </p>
+                                </dd>
+                                <dt class="item">
                                     <a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('Beat \'em up'); ?>"><?php echo $this->localize('Beat \'em up'); ?></a>
                                 </dt>
                                 <dd class="description">
@@ -363,7 +372,7 @@
 
 								</p>
 								<p>
-									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating the launches of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts.'); ?>
+									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts.'); ?>
 
 								</p>
 							</dd>
