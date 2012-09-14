@@ -401,6 +401,12 @@ msgstr "Beat 'em up"
 msgid "JavaScript-based Mortal Kombat tribute"
 msgstr "JavaScript-based Mortal Kombat tribute"
 
+msgid "Get it done"
+msgstr "Get it done"
+
+msgid "Task planner with drag and drop functionality"
+msgstr "Task planner with drag and drop functionality"
+
 msgid "Avatar Rating"
 msgstr "Avatar Rating"
 
@@ -448,8 +454,8 @@ msgstr "%s - %s"
 msgid "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
 msgstr "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
 
-msgid "At Rocket Internet, I am in charge of coordinating the launches of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
-msgstr "At Rocket Internet, I am in charge of coordinating the launches of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
+msgid "At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
+msgstr "At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
 
 msgid "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
 msgstr "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
