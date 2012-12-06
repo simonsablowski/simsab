@@ -167,6 +167,14 @@
                             </h2>
                             <dl>
                                 <dt class="item">
+                                    <a href="http://projects.simsab.net/hitori/" title="<?php echo $this->localize('Hitori'); ?>"><?php echo $this->localize('Hitori'); ?></a>
+                                </dt>
+                                <dd class="description">
+                                    <p>
+                                        <?php echo $this->localize('Simple Hitori game based on PHP and JavaScript'); ?>
+                                    </p>
+                                </dd>
+                                <dt class="item">
                                     <a href="http://projects.simsab.net/getitdone/" title="<?php echo $this->localize('Get it done'); ?>"><?php echo $this->localize('Get it done'); ?></a>
                                 </dt>
                                 <dd class="description">
