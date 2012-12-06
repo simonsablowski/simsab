@@ -407,6 +407,12 @@ msgstr "Get it done"
 msgid "Task planner with drag and drop functionality"
 msgstr "Task planner with drag and drop functionality"
 
+msgid "Hitori"
+msgstr "Hitori"
+
+msgid "Simple Hitori game based on PHP and JavaScript"
+msgstr "Simple Hitori game based on PHP and JavaScript"
+
 msgid "Avatar Rating"
 msgstr "Avatar Rating"
 

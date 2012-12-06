@@ -401,6 +401,12 @@ msgstr "Beat 'em up"
 msgid "JavaScript-based Mortal Kombat tribute"
 msgstr "JavaScript-basierte Homage an Mortal Kombat"
 
+msgid "Hitori"
+msgstr "Hitori"
+
+msgid "Simple Hitori game based on PHP and JavaScript"
+msgstr "Simples Hitori-Spiel auf Basis von PHP und JavaScript"
+
 msgid "Get it done"
 msgstr "Get it done"
 
