@@ -66,7 +66,7 @@
 
 						</p>
 						<p>
-							<?php echo $this->localize('During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. Currently I am working for <a href="http://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a>, the internationally leading online venture builder and accelerator.'); ?>
+							<?php echo $this->localize('During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. Currently I am working for <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>, the fastest growing online food delivery service globally.'); ?>
 
 						</p>
 					</div>
