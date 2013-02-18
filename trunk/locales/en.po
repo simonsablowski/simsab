@@ -457,14 +457,20 @@ msgstr "since %s"
 msgid "%s - %s"
 msgstr "%s - %s"
 
-msgid "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
-msgstr "<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
+msgid "<em>Global CTO</em> at <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>"
+msgstr "<em>Global CTO</em> at <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>"
+
+msgid "Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, we are currently operating in Asia, Europe, Latin America, Africa and Middle-East."
+msgstr "Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, we are currently operating in Asia, Europe, Latin America, Africa and Middle-East."
+
+msgid "<em>Director Software Engineering</em> at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
+msgstr "<em>Director Software Engineering</em> at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
 
 msgid "At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
 msgstr "At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
 
-msgid "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
-msgstr "Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>"
+msgid "Senior developer and team leader at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
+msgstr "Senior developer and team leader at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
 
 msgid "Application architecture and development lead for Rocket's new e-commerce core component"
 msgstr "Application architecture and development lead for Rocket's new e-commerce core component"
