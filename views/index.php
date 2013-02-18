@@ -371,16 +371,14 @@
 						</h2>
 						<dl>
 							<dt class="item">
-								<?php echo $this->localize('since %s', '12/2011'); ?>
-
+								<?php echo $this->localize('since %s', '11/2012'); ?>
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('<em>Project CTO</em> at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>'); ?>
-
+									<?php echo $this->localize('<em>Global CTO</em> at <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>'); ?>
 								</p>
 								<p>
-									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts.'); ?>
+									<?php echo $this->localize('Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, we are currently operating in Asia, Europe, Latin America, Africa and Middle-East.'); ?>
 
 								</p>
 							</dd>
@@ -400,13 +398,28 @@
 								</p>
 							</dd>
 							<dt class="item">
+								<?php echo $this->localize('%s - %s', array('12/2011', '02/2013')); ?>
+
+								<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('1 year'), $this->localize('%d months', 3)); ?></span>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('<em>Director Software Engineering</em> at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>'); ?> &sdot;
+									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts.'); ?>
+
+								</p>
+							</dd>
+							<dt class="item">
 								<?php echo $this->localize('%s - %s', array('11/2011', '11/2011')); ?>
 
 								<span class="sub-line"><?php echo $this->localize('1 month'); ?></span>
 							</dt>
 							<dd class="description">
 								<p>
-									<?php echo $this->localize('Senior developer and team leader at <a href="http://rocket-internet.de" title="Rocket Internet">Rocket Internet</a>'); ?> &sdot;
+									<?php echo $this->localize('Senior developer and team leader at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>'); ?> &sdot;
 									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
