@@ -216,7 +216,7 @@
                                     </p>
                                 </dd>
 								<dt class="item">
-									<a href="http://projects.simsab.net/motivado/coaching-preview/" title="<?php echo $this->localize('Coaching Preview'); ?>"><?php echo $this->localize('Coaching Preview'); ?></a>
+									<a href="http://preview.motivado.de" title="<?php echo $this->localize('Coaching Preview'); ?>"><?php echo $this->localize('Coaching Preview'); ?></a>
 								</dt>
 								<dd class="description">
 									<p>
@@ -225,7 +225,7 @@
 									</p>
 								</dd>
 								<dt class="item">
-									<a href="http://projects.simsab.net/motivado/coaching-import/index" title="<?php echo $this->localize('Coaching Import'); ?>"><?php echo $this->localize('Coaching Import'); ?></a>
+									<a href="http://import.motivado.de" title="<?php echo $this->localize('Coaching Import'); ?>"><?php echo $this->localize('Coaching Import'); ?></a>
 								</dt>
 								<dd class="description">
 									<p>
@@ -234,7 +234,7 @@
 									</p>
 								</dd>
 								<dt class="item">
-									<a href="http://projects.simsab.net/motivado/coaching-test" title="<?php echo $this->localize('Coaching Test'); ?>"><?php echo $this->localize('Coaching Test'); ?></a>
+									<a href="http://test.motivado.de" title="<?php echo $this->localize('Coaching Test'); ?>"><?php echo $this->localize('Coaching Test'); ?></a>
 								</dt>
 								<dd class="description">
 									<p>
