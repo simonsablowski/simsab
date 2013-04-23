@@ -1,14 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo $this->localize('en'); ?>">
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-		<meta http-equiv="Content-Language" content="<?php echo $this->localize('en'); ?>"/>
 		<title><?php echo $this->localize('simsab'); ?></title>
-		<link rel="canonical" href="<?php echo $this->localize('http://www.simsab.net/en'); ?>"/>
-		<meta name="dc.title" content="<?php echo $this->localize('simsab'); ?>"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 		<meta name="description" content="<?php echo $this->localize('Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design.'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
+		<link rel="canonical" href="<?php echo $this->localize('http://www.simsab.net/en'); ?>"/>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css"/>
 		<style type="text/css" media="screen and (min-width: 860px)">
 		<!--
@@ -426,8 +424,6 @@
 									<?php echo $this->localize('Application architecture and development lead for Rocket\'s new e-commerce core component'); ?>
 
 								</p>
-
-								</p>
 							</dd>
 							<dt class="item">
 								<?php echo $this->localize('%s - %s', array('08/2009', '11/2011')); ?>
@@ -486,7 +482,7 @@
 									<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('career'); ?>" title="<?php echo $this->localize('Details'); ?>"><?php echo $this->localize('Details'); ?></a>
 								</p>
 								<p class="expandable">
-									<?php echo $this->localize('for the startup <em>mytourclips</em> which covered:'); ?></span>
+									<?php echo $this->localize('for the startup <em>mytourclips</em> which covered:'); ?>
 								</p>
 								<p class="expandable">
 									<span><?php echo $this->localize('Multimedia, video streaming'); ?>,</span>
