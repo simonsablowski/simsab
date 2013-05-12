@@ -376,7 +376,7 @@
 									<?php echo $this->localize('<em>Global CTO</em> at <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>'); ?>
 								</p>
 								<p>
-									<?php echo $this->localize('Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, we are currently operating in Asia, Europe, Latin America, Africa and Middle-East.'); ?>
+									<?php echo $this->localize('Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, the company focuses especially on emerging markets, operates together with its affiliated brand Hellofood in Asia, Europe, Latin America, Africa and Middle-East and reaches three billion people worldwide.'); ?>
 
 								</p>
 							</dd>
