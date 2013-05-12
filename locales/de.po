@@ -470,7 +470,7 @@ msgid "At Rocket Internet, I am in charge of coordinating launches and maintenan
 msgstr "Bei Rocket Internet koordiniere ich Inbetriebnahme und Instandhaltung von weltweiten E-Commerce-Projekten und leite ein Team aus rund 100 Software-Entwicklern, Projektmanagern und Testanalysten."
 
 msgid "Senior developer and team leader at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
-msgstr "Senior Developer und Teamleiter bei der <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
+msgstr "Senior Developer und Teamleiter bei <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
 
 msgid "Application architecture and development lead for Rocket's new e-commerce core component"
 msgstr "Anwendungsarchitektur und Leitung der Entwicklung von Rockets neuer E-Commerce-Core-Komponente"
