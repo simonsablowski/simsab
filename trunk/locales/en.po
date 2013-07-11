@@ -89,23 +89,11 @@ msgstr "Coach for agile and lean methodologies, increased many software engineer
 
 #projects
 
-msgid "Projects 2012"
-msgstr "Projects 2012"
+msgid "Projects"
+msgstr "Projects"
 
-msgid "projects-2012"
-msgstr "projects-2012"
-
-msgid "Projects 2011"
-msgstr "Projects 2011"
-
-msgid "projects-2011"
-msgstr "projects-2011"
-
-msgid "Older Projects"
-msgstr "Older Projects"
-
-msgid "older-projects"
-msgstr "older-projects"
+msgid "projects"
+msgstr "projects"
 
 msgid "nacho"
 msgstr "nacho"
