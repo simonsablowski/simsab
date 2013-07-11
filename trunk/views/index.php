@@ -51,8 +51,6 @@
 				<div id="head">
 					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>" title="<?php echo $this->localize('simsab'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.gif" alt="<?php echo $this->localize('simsab'); ?>" title="<?php echo $this->localize('simsab'); ?>"/></a>
 					<img id="photo" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
-					<img id="large-photo" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski-large.jpg" alt="<?php echo $this->localize('Simon Sablowski'); ?>" title="<?php echo $this->localize('Simon Sablowski'); ?>"/>
-					<div id="magnifier"><!--  --></div>
 				</div>
 				<div id="body">
 					<div class="section about-me">
@@ -487,7 +485,7 @@
 							<?php echo $this->localize('You are welcome to visit my profile in the following social networks:'); ?>
 
 						</p>
-						<ul>
+						<ul class="options">
 							<li>
 								<a href="http://www.linkedin.com/in/simonsablowski" title="<?php echo $this->localize('Simon Sablowski at %s', 'LinkedIn'); ?>">LinkedIn</a>
 							</li>
@@ -506,6 +504,7 @@
 							<li>
 								<a href="http://www.youtube.com/user/simbobwe" title="<?php echo $this->localize('Simon Sablowski at %s', 'YouTube'); ?>">YouTube</a>
 							</li>
+							<div class="clear"><!--  --></div>
 						</ul>
 						<p>
 							<?php echo $this->localize('Feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:'); ?>
