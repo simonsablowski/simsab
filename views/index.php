@@ -302,6 +302,7 @@
 								</p>
 							</dd>
 						</dl>
+						<div class="clear"><!--  --></div>
 					</div>
 					<div class="section career">
 						<h2>
