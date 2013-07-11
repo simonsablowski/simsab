@@ -76,7 +76,7 @@ msgid "Skilled software engineer with %d years of experience of developing and m
 msgstr "Erfahrener Software-Entwickler mit %d Jahren Erfahrung in der Entwicklung und Wartung von kleinen und großen Web-Anwendungen"
 
 msgid "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders and clients"
-msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit and Berichterstattung an Stakeholder und Kunden"
+msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder und Kunden"
 
 msgid "Strong entrepreneurial spirit and experience with founding and running startups and launching countless projects, many of which were able to reach market leadership"
 msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung und dem Betrieb von Startups und der Inbetriebnahme von unzähligen Projekten, von denen viele Marktführerschaft erreichen konnten"
