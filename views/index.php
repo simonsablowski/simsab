@@ -31,7 +31,7 @@
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('about-me'); ?>" title="<?php echo $this->localize('About Me'); ?>"><?php echo $this->localize('About Me'); ?></a>
 					</li>
 					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('skills'); ?>" title="<?php echo $this->localize('Skills'); ?>"><?php echo $this->localize('Skills'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('qualities'); ?>" title="<?php echo $this->localize('Qualities'); ?>"><?php echo $this->localize('Qualities'); ?></a>
 					</li>
 					<li class="item">
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Projects'); ?>"><?php echo $this->localize('Projects'); ?></a>
@@ -68,95 +68,36 @@
 
 						</p>
 					</div>
-					<div class="section skills">
-                        <div class="sub-section general">
-                            <h2>
-                                <a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('skills'); ?>" name="<?php echo $this->localize('skills'); ?>" title="<?php echo $this->localize('Skills'); ?>"><?php echo $this->localize('Skills'); ?></a>
-                            </h2>
-                            <p>
-                                <span><strong><?php echo $this->localize('Web Development'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Backend Development'); ?>,</span>
-                                <span><?php echo $this->localize('Webserver Configuration'); ?>,</span>
-                                <span><?php echo $this->localize('Accessibility'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Rapid Prototyping'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Usability'); ?>,</span>
+					<div class="section qualities">
+						<h2>
+							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('qualities'); ?>" name="<?php echo $this->localize('qualities'); ?>" title="<?php echo $this->localize('Qualities'); ?>"><?php echo $this->localize('Qualities'); ?></a>
+						</h2>
+						<p>
+							<?php echo $this->localize('My qualities in summary:'); ?>
 
-                                <span><?php echo $this->localize('Code Generation'); ?>,</span>
-                                <span><?php echo $this->localize('Standards Compliance'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Technical Conception'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Data Modeling'); ?>,</span>
-                                <span><?php echo $this->localize('Internationalization'); ?>,</span>
+						</p>
+						<ul>
+							<li>
+								<?php echo $this->localize('Skilled software engineer with %d years of experience of developing and maintaining small and large-scale web applications', date('Y') - 1999); ?>
 
-                                <span><?php echo $this->localize('Continuous Integration'); ?>,</span>
-                                <span><?php echo $this->localize('Unit Testing'); ?>,</span>
-                                <span><?php echo $this->localize('Social Networks'); ?>,</span>
-                                <span><?php echo $this->localize('Affiliate Systems'); ?>,</span>
-                                <span><?php echo $this->localize('Scrum'); ?>,</span>
-                                <span><?php echo $this->localize('Application Monitoring'); ?>,</span>
+							</li>
+							<li>
+								<?php echo $this->localize('Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders and clients'); ?>
 
-                                <span><?php echo $this->localize('Outsourcing'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Object-Oriented Programming'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Relational Database Management Systems'); ?>,</span>
-                                <span><?php echo $this->localize('Scalability'); ?>,</span>
+							</li>
+							<li>
+								<?php echo $this->localize('Strong entrepreneurial spirit and experience with founding and running startups and launching countless projects, many of which were able to reach market leadership'); ?>
 
-                                <span><?php echo $this->localize('Entity Relationship Models'); ?>,</span>
-                                <span><?php echo $this->localize('Communication Gateways'); ?>,</span>
-                                <span><?php echo $this->localize('Object-Relational Mapping'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Regular Expressions'); ?></strong>,</span>
+							</li>
+							<li>
+								<?php echo $this->localize('Excellent people and communication skills, proven by successfully assembling and managing multinational and multicultural teams of up to 100 specialists'); ?>
 
-                                <span><?php echo $this->localize('Scaffolding'); ?>,</span>
-                                <span><?php echo $this->localize('Quality Control'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Framework Development'); ?></strong>,</span>
-                                <span><?php echo $this->localize('User-Generated Content'); ?>,</span>
-                                <span><?php echo $this->localize('Web-Crawling'); ?>,</span>
-                                <span><?php echo $this->localize('Refactoring'); ?>,</span>
+							</li>
+							<li>
+								<?php echo $this->localize('Coach for agile and lean methodologies, increased many software engineering teams\' efficiency and output noticeably'); ?>
 
-                                <span><?php echo $this->localize('Web Services'); ?>,</span>
-                                <span><?php echo $this->localize('Booking Engines'); ?>,</span>
-                                <span><?php echo $this->localize('E-Learning'); ?>,</span>
-                                <span><?php echo $this->localize('Pair Programming'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Entrepreneurship'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Programming Paradigms'); ?>,</span>
-
-                                <span><?php echo $this->localize('Frontend Development'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Agile Development'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Kanban'); ?>,</span>
-                                <span><?php echo $this->localize('Content Management Systems'); ?>,</span>
-                                <span><?php echo $this->localize('User Experience Design'); ?>,</span>
-
-                                <span><?php echo $this->localize('Artificial Intelligence'); ?>,</span>
-                                <span><?php echo $this->localize('Data Migration'); ?>,</span>
-                                <span><?php echo $this->localize('Offshoring'); ?>,</span>
-                                <span><?php echo $this->localize('APIs'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Search Engine Optimization'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Web-Based Training'); ?>,</span>
-
-                                <span><strong><?php echo $this->localize('Web Application Architecture'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Model-View-Controller Design Pattern'); ?>,</span>
-                                <span><?php echo $this->localize('Test-Driven Software Development'); ?>,</span>
-
-                                <span><?php echo $this->localize('Database Design'); ?>,</span>
-                                <span><?php echo $this->localize('Content Syndication'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Performance Optimization'); ?></strong>,</span>
-                                <span><?php echo $this->localize('Load Balancing'); ?>,</span>
-                                <span><?php echo $this->localize('Database Conversion'); ?>,</span>
-
-                                <span><?php echo $this->localize('Caching'); ?>,</span>
-                                <span><?php echo $this->localize('Scraping'); ?>,</span>
-                                <span><?php echo $this->localize('Web 2.0'); ?>,</span>
-                                <span><?php echo $this->localize('Version Control'); ?>,</span>
-                                <span><?php echo $this->localize('Cross-Browser Compatibility'); ?>,</span>
-                                <span><?php echo $this->localize('Semantic Web'); ?>,</span>
-                                <span><?php echo $this->localize('E-Commerce'); ?>,</span>
-
-                                <span><?php echo $this->localize('Open Source Software'); ?>,</span>
-                                <span><?php echo $this->localize('Deployment Strategies'); ?>,</span>
-                                <span><?php echo $this->localize('Product Development'); ?>,</span>
-                                <span><?php echo $this->localize('Design-Lead Planning'); ?>,</span>
-                                <span><strong><?php echo $this->localize('Leadership'); ?></strong></span>
-                            </p>
-					    </div>
-						<div class="clear"><!--  --></div>
+							</li>
+						</ul>
 					</div>
 					<div class="section projects">
                         <div class="sub-section projects-2012">
@@ -566,6 +507,13 @@
 								<a href="http://www.youtube.com/user/simbobwe" title="<?php echo $this->localize('Simon Sablowski at %s', 'YouTube'); ?>">YouTube</a>
 							</li>
 						</ul>
+						<p>
+							<?php echo $this->localize('Moreover, feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:'); ?>
+
+						</p>
+						<p class="options">
+							<a href="http://www.notmybiz.com" title="notmybiz.com">notmybiz.com</a>
+						</p>
 					</div>
 				</div>
 				<div id="foot">
