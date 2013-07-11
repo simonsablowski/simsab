@@ -298,6 +298,24 @@
 										<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
+								<dt class="item">
+									<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz.com'); ?>"><?php echo $this->localize('notmybiz.com'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Personal online portfolio'); ?> &sdot;
+										<a href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<a href="http://backend.notmybiz.com" title="<?php echo $this->localize('notmybiz.com Backend'); ?>"><?php echo $this->localize('notmybiz.com Backend'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Gallery administration backend'); ?> &sdot;
+										<a href="http://code.google.com/p/notmybiz-backend/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
 							</dl>
 						</div>
 						<div class="clear"><!--  --></div>
@@ -511,7 +529,7 @@
 
 						</p>
 						<p class="options">
-							<a href="http://www.notmybiz.com" title="notmybiz.com">notmybiz.com</a>
+							<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz.com'); ?>"><?php echo $this->localize('notmybiz.com'); ?></a>
 						</p>
 					</div>
 				</div>
