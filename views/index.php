@@ -299,7 +299,7 @@
 									</p>
 								</dd>
 								<dt class="item">
-									<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz.com'); ?>"><?php echo $this->localize('notmybiz.com'); ?></a>
+									<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz'); ?>"><?php echo $this->localize('notmybiz'); ?></a>
 								</dt>
 								<dd class="description">
 									<p>
@@ -308,7 +308,7 @@
 									</p>
 								</dd>
 								<dt class="item">
-									<a href="http://backend.notmybiz.com" title="<?php echo $this->localize('notmybiz.com Backend'); ?>"><?php echo $this->localize('notmybiz.com Backend'); ?></a>
+									<a href="http://backend.notmybiz.com" title="<?php echo $this->localize('notmybiz Backend'); ?>"><?php echo $this->localize('notmybiz Backend'); ?></a>
 								</dt>
 								<dd class="description">
 									<p>

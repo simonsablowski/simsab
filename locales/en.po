@@ -248,14 +248,14 @@ msgstr "Dialogues"
 msgid "Multi-format instant messaging dialogues"
 msgstr "Multi-format instant messaging dialogues"
 
-msgid "notmybiz.com"
-msgstr "notmybiz.com"
+msgid "notmybiz"
+msgstr "notmybiz"
 
 msgid "Personal online portfolio"
 msgstr "Personal online portfolio"
 
-msgid "notmybiz.com Backend"
-msgstr "notmybiz.com Backend"
+msgid "notmybiz Backend"
+msgstr "notmybiz Backend"
 
 msgid "Gallery administration backend"
 msgstr "Gallery administration backend"
@@ -389,6 +389,9 @@ msgstr "Simon Sablowski at %s"
 
 msgid "Feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:"
 msgstr "Feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:"
+
+msgid "notmybiz.com"
+msgstr "notmybiz.com"
 
 #copyright
 
