@@ -21,11 +21,11 @@ msgstr "ueber-mich"
 msgid "About Me"
 msgstr "Über mich"
 
-msgid "skills"
-msgstr "kompetenzen"
+msgid "qualities"
+msgstr "qualitaeten"
 
-msgid "Skills"
-msgstr "Kompetenzen"
+msgid "Qualities"
+msgstr "Qualitäten"
 
 msgid "projects"
 msgstr "projekte"
@@ -67,214 +67,25 @@ msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwickl
 msgid "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. Currently I am working for <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>, the fastest growing online food delivery service globally."
 msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Aktuell arbeite ich für <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>, den am schnellsten wachsenden Online-Essenslieferdienst weltweit."
 
-skills
+#qualities
 
-msgid "Web Development"
-msgstr "Web-Entwicklung"
+msgid "My qualities in summary:"
+msgstr "Meine Qualitäten zusammengefasst:"
 
-msgid "Rapid Prototyping"
-msgstr "Rapid Prototyping"
+msgid "Skilled software engineer with %d years of experience of developing and maintaining small and large-scale web applications"
+msgstr "Erfahrener Software-Entwickler mit %d Jahren Erfahrung in der Entwicklung und Wartung von kleinen und großen Web-Anwendungen"
 
-msgid "Technical Conception"
-msgstr "Technische Konzeption"
+msgid "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders and clients"
+msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit and Berichterstattung an Stakeholder und Kunden"
 
-msgid "Backend Development"
-msgstr "Backend-Entwicklung"
+msgid "Strong entrepreneurial spirit and experience with founding and running startups and launching countless projects, many of which were able to reach market leadership"
+msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung und dem Betrieb von Startups und der Inbetriebnahme von unzähligen Projekten, von denen viele Marktführerschaft erreichen konnten"
 
-msgid "Webserver Configuration"
-msgstr "Webserver-Konfiguration"
+msgid "Excellent people and communication skills, proven by successfully assembling and managing multinational and multicultural teams of up to 100 specialists"
+msgstr "Ausgezeichnete soziale und kommunikative Fähigkeiten, bewiesen durch die erfolgreiche Zusammenstellung und Führung von multinationalen und multikulturellen Teams von bis zu 100 Spezialisten"
 
-msgid "Shell Scripting"
-msgstr "Shell Scripting"
-
-msgid "Scaffolding"
-msgstr "Scaffolding"
-
-msgid "Database Design"
-msgstr "Datenbank-Design"
-
-msgid "Content Syndication"
-msgstr "Content Syndication"
-
-msgid "Accessibility"
-msgstr "Accessibility"
-
-msgid "Database Conversion"
-msgstr "Datenbankkonvertierung"
-
-msgid "Entity Relationship Models"
-msgstr "Entity Relationship Models"
-
-msgid "Data Modeling"
-msgstr "Datenmodellierung"
-
-msgid "Object-Oriented Programming"
-msgstr "Objektorientierte Programmierung"
-
-msgid "Performance Optimization"
-msgstr "Performance-Optimierung"
-
-msgid "Scraping"
-msgstr "Scraping"
-
-msgid "Standards Compliance"
-msgstr "Standards Compliance"
-
-msgid "Code Generation"
-msgstr "Code-Generierung"
-
-msgid "Internationalization"
-msgstr "Internationalisierung"
-
-msgid "Caching"
-msgstr "Caching"
-
-msgid "Application Monitoring"
-msgstr "Anwendungsüberwachung"
-
-msgid "Unit Testing"
-msgstr "Unit Testing"
-
-msgid "Object-Relational Mapping"
-msgstr "Object-Relational Mapping"
-
-msgid "Relational Database Management Systems"
-msgstr "Relational Database Management Systems"
-
-msgid "Scrum"
-msgstr "Scrum"
-
-msgid "Usability"
-msgstr "Usability"
-
-msgid "Communication Gateways"
-msgstr "Kommunikationsschnittstellen"
-
-msgid "E-Commerce"
-msgstr "E-Commerce"
-
-msgid "Scalability"
-msgstr "Skalierung"
-
-msgid "Regular Expressions"
-msgstr "Reguläre Ausdrücke"
-
-msgid "Outsourcing"
-msgstr "Outsourcing"
-
-msgid "Affiliate Systems"
-msgstr "Affiliate-Systeme"
-
-msgid "Framework Development"
-msgstr "Framework-Entwicklung"
-
-msgid "User-Generated Content"
-msgstr "User-Generated Content"
-
-msgid "Web 2.0"
-msgstr "Web 2.0"
-
-msgid "Cross-Browser Compatibility"
-msgstr "Cross-Browser-Kompatibilität"
-
-msgid "Semantic Web"
-msgstr "Semantic Web"
-
-msgid "Quality Control"
-msgstr "Qualitätskontrolle"
-
-msgid "Web-Crawling"
-msgstr "Web-Crawling"
-
-msgid "Social Networks"
-msgstr "Social Networks"
-
-msgid "Entrepreneurship"
-msgstr "Entrepreneurship"
-
-msgid "APIs"
-msgstr "APIs"
-
-msgid "Refactoring"
-msgstr "Refactoring"
-
-msgid "Version Control"
-msgstr "Versionskontrolle"
-
-msgid "Frontend Development"
-msgstr "Frontend-Entwicklung"
-
-msgid "Web Application Architecture"
-msgstr "Web Application Architecture"
-
-msgid "User Experience Design"
-msgstr "User Experience Design"
-
-msgid "Content Management Systems"
-msgstr "Content-Management-Systeme"
-
-msgid "Programming Paradigms"
-msgstr "Programmierparadigmen"
-
-msgid "Artificial Intelligence"
-msgstr "Künstliche Intelligenz"
-
-msgid "Pair Programming"
-msgstr "Pair Programming"
-
-msgid "Test-Driven Software Development"
-msgstr "Test-Driven Software Development"
-
-msgid "Search Engine Optimization"
-msgstr "Suchmaschinenoptimierung"
-
-msgid "Web-Based Training"
-msgstr "Web-Based Training"
-
-msgid "Model-View-Controller Design Pattern"
-msgstr "Model-View-Controller Design Pattern"
-
-msgid "Booking Engines"
-msgstr "Buchungssysteme"
-
-msgid "Web Services"
-msgstr "Web Services"
-
-msgid "E-Learning"
-msgstr "E-Learning"
-
-msgid "Data Migration"
-msgstr "Datenmigration"
-
-msgid "Open Source Software"
-msgstr "Open-Source-Software"
-
-msgid "Leadership"
-msgstr "Personalführung"
-
-msgid "Offshoring"
-msgstr "Offshoring"
-
-msgid "Kanban"
-msgstr "Kanban"
-
-msgid "Continuous Integration"
-msgstr "Kontinuierliche Integration"
-
-msgid "Agile Development"
-msgstr "Agile Entwicklung"
-
-msgid "Deployment Strategies"
-msgstr "Deployment-Strategien"
-
-msgid "Load Balancing"
-msgstr "Load Balancing"
-
-msgid "Product Development"
-msgstr "Produktentwicklung"
-
-msgid "Design-Lead Planning"
-msgstr "Design-Lead Planning"
+msgid "Coach for agile and lean methodologies, increased many software engineering teams' efficiency and output noticeably"
+msgstr "Coach für Agile- und Lean-Methodologien, Steigerung der Effizienz und des Outputs von vielen Teams von Software-Entwicklern"
 
 #projects
 
@@ -561,23 +372,11 @@ msgstr "(via Skype)"
 msgid "You are welcome to visit my profile in the following social networks:"
 msgstr "Gern können Sie außerdem meine Profile in den folgenden sozialen Netzwerken besuchen:"
 
-msgid "Simon Sablowski at LinkedIn"
-msgstr "Simon Sablowski bei LinkedIn"
+msgid "Simon Sablowski at %s"
+msgstr "Simon Sablowski bei %s"
 
-msgid "Simon Sablowski at XING"
-msgstr "Simon Sablowski bei XING"
-
-msgid "Simon Sablowski at Facebook"
-msgstr "Simon Sablowski bei Facebook"
-
-msgid "Simon Sablowski at Last.fm"
-msgstr "Simon Sablowski bei Last.fm"
-
-msgid "Simon Sablowski at YouTube"
-msgstr "Simon Sablowski bei YouTube"
-
-msgid "Simon Sablowski at IMDb"
-msgstr "Simon Sablowski bei IMDb"
+msgid "Moreover, feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:"
+msgstr "Des Weiteren können Sie gern mein Online-Portfolio für Aktzeichnung, Charakter-Design, Portraits und Karikaturen besuchen:"
 
 #copyright
 
