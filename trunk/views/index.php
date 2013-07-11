@@ -508,7 +508,7 @@
 							</li>
 						</ul>
 						<p>
-							<?php echo $this->localize('Moreover, feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:'); ?>
+							<?php echo $this->localize('Feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:'); ?>
 
 						</p>
 						<p class="options">
