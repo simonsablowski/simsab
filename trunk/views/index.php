@@ -239,6 +239,24 @@
 
                                     </p>
                                 </dd>
+								<dt class="item">
+									<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz'); ?>"><?php echo $this->localize('notmybiz'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Personal online portfolio'); ?> &sdot;
+										<a href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
+								<dt class="item">
+									<a href="http://backend.notmybiz.com" title="<?php echo $this->localize('notmybiz Backend'); ?>"><?php echo $this->localize('notmybiz Backend'); ?></a>
+								</dt>
+								<dd class="description">
+									<p>
+										<?php echo $this->localize('Gallery administration backend'); ?> &sdot;
+										<a href="http://code.google.com/p/notmybiz-backend/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+									</p>
+								</dd>
                                 <dt class="item">
                                     <a href="http://projects.simsab.net/askme/" title="<?php echo $this->localize('ask.me'); ?>"><?php echo $this->localize('ask.me'); ?></a>
                                 </dt>
@@ -296,24 +314,6 @@
 									<p>
 										<?php echo $this->localize('Simulation of a Beerball match'); ?> &sdot;
 										<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-									</p>
-								</dd>
-								<dt class="item">
-									<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz'); ?>"><?php echo $this->localize('notmybiz'); ?></a>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('Personal online portfolio'); ?> &sdot;
-										<a href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
-									</p>
-								</dd>
-								<dt class="item">
-									<a href="http://backend.notmybiz.com" title="<?php echo $this->localize('notmybiz Backend'); ?>"><?php echo $this->localize('notmybiz Backend'); ?></a>
-								</dt>
-								<dd class="description">
-									<p>
-										<?php echo $this->localize('Gallery administration backend'); ?> &sdot;
-										<a href="http://code.google.com/p/notmybiz-backend/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 									</p>
 								</dd>
 							</dl>
