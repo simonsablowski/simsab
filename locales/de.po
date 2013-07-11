@@ -89,23 +89,11 @@ msgstr "Coach für Agile- und Lean-Methodologien, Steigerung der Effizienz und d
 
 #projects
 
-msgid "Projects 2012"
-msgstr "Projekte 2012"
+msgid "Projects"
+msgstr "Projekte"
 
-msgid "projects-2012"
-msgstr "projekte-2012"
-
-msgid "Projects 2011"
-msgstr "Projekte 2011"
-
-msgid "projects-2011"
-msgstr "projekte-2011"
-
-msgid "Older Projects"
-msgstr "Ältere Projekte"
-
-msgid "older-projects"
-msgstr "aeltere-projekte"
+msgid "projects"
+msgstr "projekte"
 
 msgid "nacho"
 msgstr "nacho"
