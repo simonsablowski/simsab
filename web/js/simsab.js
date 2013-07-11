@@ -19,17 +19,6 @@ function initializeExpandableElements() {
 	});
 }
 
-function initializePhotoMagnifier() {
-	$('#photo').mouseenter(function() {
-		$('#large-photo').fadeIn(400);
-		$('#magnifier').fadeOut(400);
-	});
-	$('#large-photo').mouseleave(function() {
-		$('#large-photo').fadeOut(100);
-		$('#magnifier').fadeIn(100);
-	});
-}
-
 function initializeTogglingSections() {
 	$('.section').hide();
 	
@@ -65,7 +54,6 @@ function initializeIeFix() {
 $(document).ready(function() {
 	initializeExternalLinks();
 	initializeExpandableElements();
-	initializePhotoMagnifier();
 	initializeTogglingSections();
 	initializeIeFix();
 });
