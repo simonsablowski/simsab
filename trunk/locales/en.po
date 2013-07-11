@@ -248,6 +248,18 @@ msgstr "Dialogues"
 msgid "Multi-format instant messaging dialogues"
 msgstr "Multi-format instant messaging dialogues"
 
+msgid "notmybiz.com"
+msgstr "notmybiz.com"
+
+msgid "Personal online portfolio"
+msgstr "Personal online portfolio"
+
+msgid "notmybiz.com Backend"
+msgstr "notmybiz.com Backend"
+
+msgid "Gallery administration backend"
+msgstr "Gallery administration backend"
+
 #career
 
 msgid "1 month"
