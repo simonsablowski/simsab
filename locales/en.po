@@ -375,8 +375,8 @@ msgstr "You are welcome to visit my profile in the following social networks:"
 msgid "Simon Sablowski at %s"
 msgstr "Simon Sablowski at %s"
 
-msgid "Moreover, feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:"
-msgstr "Moreover, feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:"
+msgid "Feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:"
+msgstr "Feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:"
 
 #copyright
 
