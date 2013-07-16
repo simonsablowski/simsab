@@ -48,12 +48,9 @@
 
 #photo {
 	height: 110px;
-	width: 96px;
-}
-
-#photo, #large-photo {
 	right: 0;
 	top: 0;
+	width: 96px;
 }
 
 #magnifier {

@@ -68,13 +68,10 @@ a.collapse, a.expand, a.external {
 }
 
 #photo {
+	height: 138px;
 	position: absolute;
 	right: 25px;
 	top: 0;
-}
-
-#photo {
-	height: 138px;
 	width: 121px;
 }
 
