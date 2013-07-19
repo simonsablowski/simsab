@@ -103,19 +103,19 @@
 						</h2>
 						<ul class="tags">
 							<li class="tag personal">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Personal'); ?>"><?php echo $this->localize('Personal (%d)', 3); ?></a>
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Personal'); ?>"><?php echo $this->localize('Personal (%d)', 4); ?></a>
 							</li>
 							<li class="tag frameworks">
 								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Frameworks'); ?>"><?php echo $this->localize('Frameworks (%d)', 2); ?></a>
 							</li>
 							<li class="tag tools">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Tools'); ?>"><?php echo $this->localize('Tools (%d)', 5); ?></a>
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Tools'); ?>"><?php echo $this->localize('Tools (%d)', 9); ?></a>
 							</li>
 							<li class="tag motivado">
 								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Motivado'); ?>"><?php echo $this->localize('Motivado (%d)', 5); ?></a>
 							</li>
-							<li class="tag games">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Games'); ?>"><?php echo $this->localize('Games (%d)', 4); ?></a>
+							<li class="tag interactive">
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Interactive'); ?>"><?php echo $this->localize('Interactive (%d)', 5); ?></a>
 							</li>
 							<li class="tag experimental">
 								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Experimental'); ?>"><?php echo $this->localize('Experimental (%d)', 5); ?></a>
@@ -132,7 +132,7 @@
 									<a href="http://code.google.com/p/shorten-url/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
-							<dt class="item games">
+							<dt class="item interactive">
 								<a href="http://projects.simsab.net/hitori/" title="<?php echo $this->localize('Hitori'); ?>"><?php echo $this->localize('Hitori'); ?></a>
 							</dt>
 							<dd class="description">
@@ -140,7 +140,7 @@
 									<?php echo $this->localize('Simple Hitori game based on PHP and JavaScript'); ?>
 								</p>
 							</dd>
-							<dt class="item tools">
+							<dt class="item tools interactive">
 								<a href="http://projects.simsab.net/getitdone/" title="<?php echo $this->localize('Get it done'); ?>"><?php echo $this->localize('Get it done'); ?></a>
 							</dt>
 							<dd class="description">
@@ -149,7 +149,7 @@
 									<a href="http://code.google.com/p/task-planner/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
-							<dt class="item games">
+							<dt class="item interactive">
 								<a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('Beat \'em up'); ?>"><?php echo $this->localize('Beat \'em up'); ?></a>
 							</dt>
 							<dd class="description">
@@ -167,7 +167,7 @@
 									<a href="http://code.google.com/p/avatar-rating/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
-							<dt class="item tools">
+							<dt class="item tools personal">
 								<a href="http://projects.simsab.net/readosaur/" title="<?php echo $this->localize('readosaur'); ?>"><?php echo $this->localize('readosaur'); ?></a>
 							</dt>
 							<dd class="description">
@@ -176,7 +176,7 @@
 									<a href="http://code.google.com/p/readosaur/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
-							<dt class="item motivado">
+							<dt class="item motivado tools">
 								<a href="http://preview.motivado.de" title="<?php echo $this->localize('Coaching Preview'); ?>"><?php echo $this->localize('Coaching Preview'); ?></a>
 							</dt>
 							<dd class="description">
@@ -185,7 +185,7 @@
 									<a href="http://code.google.com/p/coaching-preview/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
-							<dt class="item motivado">
+							<dt class="item motivado tools">
 								<a href="http://import.motivado.de" title="<?php echo $this->localize('Coaching Import'); ?>"><?php echo $this->localize('Coaching Import'); ?></a>
 							</dt>
 							<dd class="description">
@@ -194,7 +194,7 @@
 									<a href="http://code.google.com/p/motivado-importer/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
-							<dt class="item motivado">
+							<dt class="item motivado tools">
 								<a href="http://test.motivado.de" title="<?php echo $this->localize('Coaching Test'); ?>"><?php echo $this->localize('Coaching Test'); ?></a>
 							</dt>
 							<dd class="description">
@@ -270,7 +270,7 @@
 									<a href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
 								</p>
 							</dd>
-							<dt class="item personal">
+							<dt class="item personal tools">
 								<a href="http://backend.notmybiz.com" title="<?php echo $this->localize('notmybiz Backend'); ?>"><?php echo $this->localize('notmybiz Backend'); ?></a>
 							</dt>
 							<dd class="description">
@@ -314,7 +314,7 @@
 									<?php echo $this->localize('Filtering names by configurable patterns'); ?>
 								</p>
 							</dd>
-							<dt class="item experimental games">
+							<dt class="item experimental interactive">
 								<a href="http://projects.simsab.net/trend/" title="<?php echo $this->localize('Trend'); ?>"><?php echo $this->localize('Trend'); ?></a>
 							</dt>
 							<dd class="description">
@@ -322,7 +322,7 @@
 									<?php echo $this->localize('Der nächste musikalische Trend'); ?>
 								</p>
 							</dd>
-							<dt class="item experimental games">
+							<dt class="item experimental interactive">
 								<a href="http://projects.simsab.net/beerball-simulator/" title="<?php echo $this->localize('Beerball Simulator'); ?>"><?php echo $this->localize('Beerball Simulator'); ?></a>
 							</dt>
 							<dd class="description">
