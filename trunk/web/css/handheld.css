@@ -69,10 +69,6 @@
 	width: auto !important;
 }
 
-#body .section .frameworks {
-	padding-top: 26px;
-}
-
 #body .projects .item, #body .career .item, #body .projects .description, #body .career .description {
 	clear: none;
 	float: none;

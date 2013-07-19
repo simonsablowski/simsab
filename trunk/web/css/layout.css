@@ -117,15 +117,11 @@ a.collapse, a.expand, a.external {
 	width: 323px;
 }
 
-#body .skills span, #body .projects span {
+#body .projects span {
 	white-space: nowrap;
 }
 
-#body .skills .frameworks {
-	padding-top: 10px;
-}
-
-#body .projects li, #body .programming li, #body .frameworks li, #body .contact-me li {
+#body .projects li, #body .contact-me li {
 	display: inline;
 	float: left;
 	list-style-type: none;
@@ -133,7 +129,7 @@ a.collapse, a.expand, a.external {
 	width: 107px;
 }
 
-#body .programming li.wide, #body .frameworks li.wide, #body .contact-me li.wide {
+#body .contact-me li.wide {
 	width: 214px;
 }
 

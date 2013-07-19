@@ -73,7 +73,7 @@ msgid "My qualities in summary:"
 msgstr "Meine Qualitäten zusammengefasst:"
 
 msgid "Skilled software engineer with %d years of experience of developing and maintaining small and large-scale web applications"
-msgstr "Erfahrener Software-Entwickler mit %d Jahren Erfahrung in der Entwicklung und Wartung von kleinen und großen Web-Anwendungen"
+msgstr "Begabter Software-Entwickler mit %d Jahren Erfahrung in der Entwicklung und Wartung von kleinen und großen Web-Anwendungen"
 
 msgid "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders and clients"
 msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder und Kunden"
@@ -94,6 +94,42 @@ msgstr "Projekte"
 
 msgid "projects"
 msgstr "projekte"
+
+msgid "Personal"
+msgstr "Persönlich"
+
+msgid "Personal (%d)"
+msgstr "Persönlich (%d)"
+
+msgid "Frameworks"
+msgstr "Frameworks"
+
+msgid "Frameworks (%d)"
+msgstr "Frameworks (%d)"
+
+msgid "Tools"
+msgstr "Tools"
+
+msgid "Tools (%d)"
+msgstr "Tools (%d)"
+
+msgid "Motivado"
+msgstr "Motivado"
+
+msgid "Motivado (%d)"
+msgstr "Motivado (%d)"
+
+msgid "Games"
+msgstr "Spiele"
+
+msgid "Games (%d)"
+msgstr "Spiele (%d)"
+
+msgid "Experimental"
+msgstr "Experimentell"
+
+msgid "Experimental (%d)"
+msgstr "Experimentell (%d)"
 
 msgid "nacho"
 msgstr "nacho"
