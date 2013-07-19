@@ -96,10 +96,10 @@ msgid "projects"
 msgstr "projects"
 
 msgid "Projects"
-msgstr "Projekte"
+msgstr "Projects"
 
 msgid "projects"
-msgstr "projekte"
+msgstr "projects"
 
 msgid "Personal"
 msgstr "Personal"
