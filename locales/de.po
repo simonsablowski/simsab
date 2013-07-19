@@ -119,11 +119,11 @@ msgstr "Motivado"
 msgid "Motivado (%d)"
 msgstr "Motivado (%d)"
 
-msgid "Games"
-msgstr "Spiele"
+msgid "Interactive"
+msgstr "Interaktiv"
 
-msgid "Games (%d)"
-msgstr "Spiele (%d)"
+msgid "Interactive (%d)"
+msgstr "Interaktiv (%d)"
 
 msgid "Experimental"
 msgstr "Experimentell"
