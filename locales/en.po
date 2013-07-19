@@ -206,12 +206,6 @@ msgstr "Get it done"
 msgid "Task planner with drag and drop functionality"
 msgstr "Task planner with drag and drop functionality"
 
-msgid "Hitori"
-msgstr "Hitori"
-
-msgid "Simple Hitori game based on PHP and JavaScript"
-msgstr "Simple Hitori game based on PHP and JavaScript"
-
 msgid "Avatar Rating"
 msgstr "Avatar Rating"
 
@@ -236,6 +230,12 @@ msgstr "Dialogues"
 msgid "Multi-format instant messaging dialogues"
 msgstr "Multi-format instant messaging dialogues"
 
+msgid "Hitori"
+msgstr "Hitori"
+
+msgid "Simple Hitori game based on PHP and JavaScript"
+msgstr "Simple Hitori game based on PHP and JavaScript"
+
 msgid "notmybiz"
 msgstr "notmybiz"
 
@@ -247,6 +247,12 @@ msgstr "notmybiz Backend"
 
 msgid "Gallery administration backend"
 msgstr "Gallery administration backend"
+
+msgid "shrtn"
+msgstr "shrtn"
+
+msgid "URL shortener based on PHP, MySQL and Memcache"
+msgstr "URL shortener based on PHP, MySQL and Memcache"
 
 #career
 
