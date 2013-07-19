@@ -200,12 +200,6 @@ msgstr "Beat 'em up"
 msgid "JavaScript-based Mortal Kombat tribute"
 msgstr "JavaScript-basierte Homage an Mortal Kombat"
 
-msgid "Hitori"
-msgstr "Hitori"
-
-msgid "Simple Hitori game based on PHP and JavaScript"
-msgstr "Simples Hitori-Spiel auf Basis von PHP und JavaScript"
-
 msgid "Get it done"
 msgstr "Get it done"
 
@@ -236,6 +230,12 @@ msgstr "Dialoge"
 msgid "Multi-format instant messaging dialogues"
 msgstr "Chat-Dialoge in verschiedenen Formaten"
 
+msgid "Hitori"
+msgstr "Hitori"
+
+msgid "Simple Hitori game based on PHP and JavaScript"
+msgstr "Simples Hitori-Spiel auf Basis von PHP und JavaScript"
+
 msgid "notmybiz"
 msgstr "notmybiz"
 
@@ -247,6 +247,12 @@ msgstr "notmybiz-Backend"
 
 msgid "Gallery administration backend"
 msgstr "Backend für Galerieadministration"
+
+msgid "shrtn"
+msgstr "shrtn"
+
+msgid "URL shortener based on PHP, MySQL and Memcache"
+msgstr "URL-Kürzer auf Basis von PHP, MySQL und Memcache"
 
 #career
 

@@ -103,6 +103,15 @@
 						</h2>
 						<dl>
 							<dt class="item">
+								<a href="http://projects.simsab.net/shrtn/" title="<?php echo $this->localize('shrtn'); ?>"><?php echo $this->localize('shrtn'); ?></a>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('URL shortener based on PHP, MySQL and Memcache'); ?> &sdot;
+									<a href="http://code.google.com/p/shorten-url/source/browse/trunk" title="<?php echo $this->localize('Source code'); ?>"><?php echo $this->localize('Source code'); ?></a>
+								</p>
+							</dd>
+							<dt class="item">
 								<a href="http://projects.simsab.net/hitori/" title="<?php echo $this->localize('Hitori'); ?>"><?php echo $this->localize('Hitori'); ?></a>
 							</dt>
 							<dd class="description">
