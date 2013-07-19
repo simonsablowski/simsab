@@ -9,6 +9,27 @@ function initializeExternalLinks() {
 	});
 }
 
+function initializeTagElements() {
+	$('.tag a').click(function(event) {
+		$(this).toggleClass('active').toggleClass('inactive');
+		
+		if ($(this).hasClass('active')) {
+			var items = $(this).parents('.tags').siblings('.items').children(':visible');
+			items.hide();
+			var tag = $(this).parent().attr('class').split(/\s+/).filter(function(className) {
+				return className != 'tag';
+			})[0];
+			items.filter(function(i, item) {
+				return $(item).hasClass(tag) || $(item).prev().hasClass(tag);
+			}).fadeIn(400);
+		} else {
+			$('.tag a').removeClass('active').addClass('inactive');
+			$(this).parents('.tags').siblings('.items').children(':hidden').fadeIn(400);
+		}
+		event.preventDefault();
+	});
+}
+
 function initializeExpandableElements() {
 	$('.expandable').hide();
 	
@@ -53,6 +74,7 @@ function initializeIeFix() {
 
 $(document).ready(function() {
 	initializeExternalLinks();
+	initializeTagElements();
 	initializeExpandableElements();
 	initializeTogglingSections();
 	initializeIeFix();

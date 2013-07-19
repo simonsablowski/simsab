@@ -36,6 +36,14 @@ abbr, acronym {
 	color: #999;
 }
 
+#body .projects .tag .inactive {
+	color: #999;
+}
+
+#body .projects .tag .active {
+	color: #390;
+}
+
 #menu {
 	background-color: #390;
 }
