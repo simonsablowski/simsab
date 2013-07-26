@@ -103,22 +103,22 @@
 						</h2>
 						<ul class="tags">
 							<li class="tag personal">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Personal'); ?>"><?php echo $this->localize('Personal (%d)', 4); ?></a>
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Personal'); ?>"><?php echo $this->localize('Personal'); ?></a>
 							</li>
 							<li class="tag frameworks">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Frameworks'); ?>"><?php echo $this->localize('Frameworks (%d)', 2); ?></a>
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Frameworks'); ?>"><?php echo $this->localize('Frameworks'); ?></a>
 							</li>
 							<li class="tag tools">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Tools'); ?>"><?php echo $this->localize('Tools (%d)', 9); ?></a>
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Tools'); ?>"><?php echo $this->localize('Tools'); ?></a>
 							</li>
 							<li class="tag motivado">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Motivado'); ?>"><?php echo $this->localize('Motivado (%d)', 5); ?></a>
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Motivado'); ?>"><?php echo $this->localize('Motivado'); ?></a>
 							</li>
 							<li class="tag interactive">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Interactive'); ?>"><?php echo $this->localize('Interactive (%d)', 5); ?></a>
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Interactive'); ?>"><?php echo $this->localize('Interactive'); ?></a>
 							</li>
 							<li class="tag experimental">
-								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Experimental'); ?>"><?php echo $this->localize('Experimental (%d)', 5); ?></a>
+								<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('en'); ?>#<?php echo $this->localize('projects'); ?>" title="<?php echo $this->localize('Experimental'); ?>"><?php echo $this->localize('Experimental'); ?></a>
 							</li>
 							<div class="clear"><!--  --></div>
 						</ul>

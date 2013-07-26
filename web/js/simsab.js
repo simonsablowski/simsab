@@ -9,6 +9,35 @@ function initializeExternalLinks() {
 	});
 }
 
+function getTagFromElement(element) {
+	return $(element).attr('class').split(/\s+/).filter(function(className) {
+		return className != 'tag';
+	})[0];
+}
+
+function filterItemsByTag(items, tag, neighbours) {
+	neighbours = typeof neighbours !== 'undefined' ? neighbours : true;
+	return items.filter(function(i, item) {
+		return $(item).hasClass(tag) || (neighbours && $(item).prev().hasClass(tag));
+	});
+}
+
+function initializeTagCounters() {
+	$('.tag').each(function(i, element) {
+		$(element).show();
+		var items = $(element).parents('.tags').siblings('.items').children(':visible');
+		var count = filterItemsByTag(items, getTagFromElement(element), false).length;
+		var name = $(this).text();
+		var position = name.indexOf(' (');
+		var appendix = ' (' + count + ')';
+		name = position == -1 ? name + appendix : name.substring(0, position) + appendix;
+		$(element).children('a').text(name);
+		if (count == 0) {
+			$(element).hide();
+		}
+	});
+}
+
 function initializeTagElements() {
 	$('.tag a').click(function(event) {
 		$(this).toggleClass('active').toggleClass('inactive');
@@ -16,16 +45,14 @@ function initializeTagElements() {
 		if ($(this).hasClass('active')) {
 			var items = $(this).parents('.tags').siblings('.items').children(':visible');
 			items.hide();
-			var tag = $(this).parent().attr('class').split(/\s+/).filter(function(className) {
-				return className != 'tag';
-			})[0];
-			items.filter(function(i, item) {
-				return $(item).hasClass(tag) || $(item).prev().hasClass(tag);
-			}).fadeIn(400);
+			var tag = getTagFromElement($(this).parent());
+			filterItemsByTag(items, tag).fadeIn(400);
 		} else {
 			$('.tag a').removeClass('active').addClass('inactive');
 			$(this).parents('.tags').siblings('.items').children(':hidden').fadeIn(400);
 		}
+		
+		initializeTagCounters();
 		event.preventDefault();
 	});
 }
@@ -74,6 +101,7 @@ function initializeIeFix() {
 
 $(document).ready(function() {
 	initializeExternalLinks();
+	initializeTagCounters();
 	initializeTagElements();
 	initializeExpandableElements();
 	initializeTogglingSections();
