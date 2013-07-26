@@ -98,38 +98,20 @@ msgstr "projekte"
 msgid "Personal"
 msgstr "Persönlich"
 
-msgid "Personal (%d)"
-msgstr "Persönlich (%d)"
-
 msgid "Frameworks"
 msgstr "Frameworks"
-
-msgid "Frameworks (%d)"
-msgstr "Frameworks (%d)"
 
 msgid "Tools"
 msgstr "Tools"
 
-msgid "Tools (%d)"
-msgstr "Tools (%d)"
-
 msgid "Motivado"
 msgstr "Motivado"
-
-msgid "Motivado (%d)"
-msgstr "Motivado (%d)"
 
 msgid "Interactive"
 msgstr "Interaktiv"
 
-msgid "Interactive (%d)"
-msgstr "Interaktiv (%d)"
-
 msgid "Experimental"
 msgstr "Experimentell"
-
-msgid "Experimental (%d)"
-msgstr "Experimentell (%d)"
 
 msgid "nacho"
 msgstr "nacho"
