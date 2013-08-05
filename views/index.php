@@ -411,7 +411,7 @@
 
 								</p>
 								<p class="expandable">
-									<?php echo $this->localize('I developed Motivado\'s %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany\'s Federal Ministry for Economy and Technology.', array('<a href="' . $this->getConfiguration('basePath') . $this->localize('en') . '#' . $this->localize('projects-2011') . '">', '</a>')); ?>
+									<?php echo $this->localize('I developed Motivado\'s %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany\'s Federal Ministry for Economy and Technology.', array('<a href="' . $this->getConfiguration('basePath') . $this->localize('en') . '#' . $this->localize('projects') . '">', '</a>')); ?>
 
 								</p>
 								<p class="expandable">
