@@ -62,7 +62,7 @@
 
 						</p>
 						<p>
-							<?php echo $this->localize('During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. Currently I am working for <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>, the fastest growing online food delivery service globally.'); ?>
+							<?php echo $this->localize('During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership.'); ?>
 
 						</p>
 					</div>
@@ -340,18 +340,6 @@
 						</h2>
 						<dl class="items">
 							<dt class="item">
-								<?php echo $this->localize('since %s', '11/2012'); ?>
-							</dt>
-							<dd class="description">
-								<p>
-									<?php echo $this->localize('<em>CTO</em> at <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>'); ?>
-								</p>
-								<p>
-									<?php echo $this->localize('Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, the company focuses especially on emerging markets, operates together with its affiliated brand Hellofood in Asia, Europe, Latin America, Africa and Middle-East and reaches three billion people worldwide.'); ?>
-
-								</p>
-							</dd>
-							<dt class="item">
 								<?php echo $this->localize('since %s', '1999'); ?>
 
 								<span class="sub-line"><?php echo $this->localize('%d years', date('Y') - 1999); ?></span>
@@ -363,6 +351,20 @@
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design.'); ?>
+
+								</p>
+							</dd>
+							<dt class="item">
+								<?php echo $this->localize('%s - %s', array('11/2012', '09/2013')); ?>
+
+								<span class="sub-line"><?php echo $this->localize('%d months', 11); ?></span>
+							</dt>
+							<dd class="description">
+								<p>
+									<?php echo $this->localize('<em>CTO</em> at <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>'); ?>
+								</p>
+								<p>
+									<?php echo $this->localize('Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, the company focuses especially on emerging markets, operates together with its affiliated brand Hellofood in Asia, Europe, Latin America, Africa and Middle-East and reaches three billion people worldwide.'); ?>
 
 								</p>
 							</dd>
