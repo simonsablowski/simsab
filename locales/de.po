@@ -64,8 +64,8 @@ msgstr "Simon Sablowski"
 msgid "I am a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have gained experience working in both small agencies and established companies. Also I have founded a startup company and have run it profitably for several years together with other industry experts."
 msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien. Im Laufe meiner Karriere habe ich in kleinen Agenturen sowie in etablierten Unternehmen Erfahrung gesammelt. Außerdem habe ich ein Startup gegründet und zusammen mit weiteren Branchenexperten über mehrere Jahre profitabel betrieben."
 
-msgid "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. Currently I am working for <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>, the fastest growing online food delivery service globally."
-msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Aktuell arbeite ich für <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>, den am schnellsten wachsenden Online-Essenslieferdienst weltweit."
+msgid "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership."
+msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
 
 #qualities
 
