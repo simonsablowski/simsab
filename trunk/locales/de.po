@@ -1,417 +1,351 @@
-msgid "en"
-msgstr "de"
+#head
 
-msgid "simsab"
+msgid "document-title"
 msgstr "simsab"
 
-msgid "http://www.simsab.net/en"
+msgid "photo-title"
+msgstr "Simon Sablowski"
+
+msgid "document-language"
+msgstr "de"
+
+msgid "canonical-url"
 msgstr "http://www.simsab.net/de"
 
-msgid "Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design."
+msgid "meta-description"
 msgstr "Simon Sablowski ist Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Schwerpunktmäßig arbeitet er im Bereich Core- und Backend-Entwicklung, Software-Architektur, technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
 
-msgid "simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc"
+msgid "meta-keywords"
 msgstr "simon sablowski, sablowski, berlin, web-entwicklung, software-architektur, technische konzeption, prototyping, refactoring, datenbank-design, php, mysql, oop, mvc"
 
 #menu
 
-msgid "about-me"
+msgid "about-me-path"
 msgstr "ueber-mich"
 
-msgid "About Me"
+msgid "about-me-title"
 msgstr "Über mich"
 
-msgid "qualities"
+msgid "qualities-path"
 msgstr "qualitaeten"
 
-msgid "Qualities"
+msgid "qualities-title"
 msgstr "Qualitäten"
 
-msgid "projects"
+msgid "projects-path"
 msgstr "projekte"
 
-msgid "Projects"
+msgid "projects-title"
 msgstr "Projekte"
 
-msgid "career"
+msgid "career-path"
 msgstr "karriere"
 
-msgid "Career"
+msgid "career-title"
 msgstr "Karriere"
 
-msgid "contact-me"
+msgid "contact-me-path"
 msgstr "kontakt"
 
-msgid "Contact Me"
+msgid "contact-me-title"
 msgstr "Kontakt"
 
-msgid "de"
+msgid "translate-path"
 msgstr "en"
 
-msgid "Deutsche Version"
+msgid "translate-title"
 msgstr "English version"
-
-#head
-
-msgid "en"
-msgstr "de"
-
-msgid "Simon Sablowski"
-msgstr "Simon Sablowski"
 
 #about-me
 
-msgid "I am a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have gained experience working in both small agencies and established companies. Also I have founded a startup company and have run it profitably for several years together with other industry experts."
+msgid "about-me-paragraph1"
 msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien. Im Laufe meiner Karriere habe ich in kleinen Agenturen sowie in etablierten Unternehmen Erfahrung gesammelt. Außerdem habe ich ein Startup gegründet und zusammen mit weiteren Branchenexperten über mehrere Jahre profitabel betrieben."
 
-msgid "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership."
+msgid "about-me-paragraph2"
 msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
 
 #qualities
 
-msgid "My qualities in summary:"
+msgid "qualities-paragraph1"
 msgstr "Meine Qualitäten zusammengefasst:"
 
-msgid "Skilled software engineer with %d years of experience of developing and maintaining small and large-scale web applications"
-msgstr "Begabter Software-Entwickler mit %d Jahren Erfahrung in der Entwicklung und Wartung von kleinen und großen Web-Anwendungen"
+msgid "qualities-bullet1"
+msgstr "Begabter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von kleinen und großen Web-Anwendungen"
 
-msgid "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders and clients"
+msgid "qualities-bullet2"
 msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder und Kunden"
 
-msgid "Strong entrepreneurial spirit and experience with founding and running startups and launching countless projects, many of which were able to reach market leadership"
+msgid "qualities-bullet3"
 msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung und dem Betrieb von Startups und der Inbetriebnahme von unzähligen Projekten, von denen viele Marktführerschaft erreichen konnten"
 
-msgid "Excellent people and communication skills, proven by successfully assembling and managing multinational and multicultural teams of up to 100 specialists"
+msgid "qualities-bullet4"
 msgstr "Ausgezeichnete soziale und kommunikative Fähigkeiten, bewiesen durch die erfolgreiche Zusammenstellung und Führung von multinationalen und multikulturellen Teams von bis zu 100 Spezialisten"
 
-msgid "Coach for agile and lean methodologies, increased many software engineering teams' efficiency and output noticeably"
+msgid "qualities-bullet5"
 msgstr "Coach für Agile- und Lean-Methodologien, Steigerung der Effizienz und des Outputs von vielen Teams von Software-Entwicklern"
 
 #projects
 
-msgid "Projects"
-msgstr "Projekte"
-
-msgid "projects"
-msgstr "projekte"
-
-msgid "Personal"
-msgstr "Persönlich"
-
-msgid "Frameworks"
-msgstr "Frameworks"
-
-msgid "Tools"
-msgstr "Tools"
-
-msgid "Motivado"
-msgstr "Motivado"
-
-msgid "Interactive"
-msgstr "Interaktiv"
-
-msgid "Experimental"
-msgstr "Experimentell"
-
-msgid "nacho"
-msgstr "nacho"
-
-msgid "Source code"
+msgid "source-code-title"
 msgstr "Quellcode"
 
-msgid "Web application framework"
-msgstr "Web Application Framework"
+msgid "details-title"
+msgstr "Details"
 
-msgid "Combining the principles of <em>rapid development</em> and <em>convention over configuration</em>, the MVC-based web application framework nacho is both lightweight and extremely powerful. Many <em>PHP 5.3</em> features have been utilized in the development of nacho, among others:"
-msgstr "Die Prinzipien <em>Rapid Development</em> und <em>Convention Over Configuration</em> sind im MVC-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten und viele <em>PHP 5.3</em>-Features wurden integriert, unter anderem:"
+msgid "personal-title"
+msgstr "Persönlich"
 
-msgid "Reflection"
-msgstr "Reflection"
+msgid "frameworks-title"
+msgstr "Frameworks"
 
-msgid "magic methods"
-msgstr "Magic Methods"
+msgid "tools-title"
+msgstr "Tools"
 
-msgid "autoloading"
-msgstr "Autoloading"
+msgid "motivado-title"
+msgstr "Motivado"
 
-msgid "class abstraction"
-msgstr "Klassenabstraktion"
+msgid "interactive-title"
+msgstr "Interaktiv"
 
-msgid "type hinting"
-msgstr "Type Hinting"
+msgid "experimental-title"
+msgstr "Experimentell"
 
-msgid "error backtracking"
-msgstr "Error Backtracking"
-
-msgid "namespaces"
-msgstr "Namensräume"
-
-msgid "and"
-msgstr "und"
-
-msgid "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering, database abstraction and user input validation."
-msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering, Datenbankabstraktion sowie User-Input-Validierung."
-
-msgid "Content management system for nacho"
-msgstr "Content-Management-System für nacho"
-
-msgid "Apart from useful <em>events-based frontend functionality</em> that supports common user interaction patterns, cheese provides secure <em>authentication</em> mechanisms as well as highly flexible <em>CRUD interfaces</em> that can be configured in a clever MVC manner."
-msgstr "Außer nützlicher <em>Events-basierter Frontend-Funktionalität</em>, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese sichere Mechanismen für <em>Authentifizierung</em> sowie hochflexible <em>CRUD-Interfaces</em>, die auf clevere MVC-Weise konfiguriert werden können."
-
-msgid "Coaching Preview"
-msgstr "Coaching-Vorschau"
-
-msgid "Configure and test Motivado's coaching elements"
-msgstr "Motivados Coaching-Elemente konfigurieren und testen"
-
-msgid "Coaching Import"
-msgstr "Coaching-Import"
-
-msgid "Import Motivado's coaching models into database"
-msgstr "Motivados Coaching-Modelle in die Datenbank importieren"
-
-msgid "Coaching Test"
-msgstr "Coaching-Test"
-
-msgid "Test Motivado's coachings before deployment"
-msgstr "Motivados Coachings vor dem Deployment testen"
-
-msgid "Coaching API"
-msgstr "Coaching-API"
-
-msgid "API for Motivado's coaching content"
-msgstr "API für Motivados Coaching-Inhalte"
-
-msgid "Coaching UI"
-msgstr "Coaching-UI"
-
-msgid "Communication between Motivado's frontend and API"
-msgstr "Kommunikation zwischen Motivados Frontend und API"
-
-msgid "Scraper"
-msgstr "Scraper"
-
-msgid "Library for scraping product catalogues"
-msgstr "Library für das Scrapen von Produktkatalogen"
-
-msgid "Filtering names"
-msgstr "Vornamen filtern"
-
-msgid "Filtering names by configurable patterns"
-msgstr "Vornamen nach konfigurierbaren Mustern filtern"
-
-msgid "Trend"
-msgstr "Trend"
-
-msgid "Der nächste musikalische Trend"
-msgstr "Der nächste musikalische Trend"
-
-msgid "Beerball Simulator"
+msgid "beerball-simulator-title"
 msgstr "Bierball-Simulator"
 
-msgid "Simulation of a Beerball match"
+msgid "beerball-simulator-description"
 msgstr "Simulation eines Spiels Bierball"
 
-msgid "Beat 'em up"
-msgstr "Beat 'em up"
+msgid "trend-title"
+msgstr "Trend"
 
-msgid "JavaScript-based Mortal Kombat tribute"
-msgstr "JavaScript-basierte Homage an Mortal Kombat"
+msgid "trend-description"
+msgstr "Der nächste musikalische Trend"
 
-msgid "Get it done"
-msgstr "Get it done"
+msgid "names-title"
+msgstr "Vornamen filtern"
 
-msgid "Task planner with drag and drop functionality"
-msgstr "Aufgabenplaner mit Drag-and-Drop-Funktionalität"
+msgid "names-description"
+msgstr "Vornamen nach konfigurierbaren Mustern filtern"
 
-msgid "Avatar Rating"
-msgstr "Avatar-Bewertung"
+msgid "scraper-title"
+msgstr "Scraper"
 
-msgid "Rate a selection of avatar images"
-msgstr "Eine Auswahl Avatar-Bilder bewerten"
+msgid "scraper-description"
+msgstr "Bibliothek für das Scrapen von Produktkatalogen"
 
-msgid "readosaur"
-msgstr "readosaur"
-
-msgid "Manage and read your favourite RSS feeds"
-msgstr "Die persönlichen RSS-Feeds verwalten und lesen"
-
-msgid "ask.me"
-msgstr "ask.me"
-
-msgid "Ask and answer questions"
-msgstr "Fragen stellen und beantworten"
-
-msgid "Dialogues"
+msgid "dialogues-title"
 msgstr "Dialoge"
 
-msgid "Multi-format instant messaging dialogues"
+msgid "dialogues-description"
 msgstr "Chat-Dialoge in verschiedenen Formaten"
 
-msgid "Hitori"
-msgstr "Hitori"
+msgid "askme-title"
+msgstr "ask.me"
 
-msgid "Simple Hitori game based on PHP and JavaScript"
-msgstr "Simples Hitori-Spiel auf Basis von PHP und JavaScript"
+msgid "askme-description"
+msgstr "Fragen stellen und beantworten"
 
-msgid "notmybiz"
-msgstr "notmybiz"
-
-msgid "Personal online portfolio"
-msgstr "Persönliches Online-Portfolio"
-
-msgid "notmybiz Backend"
+msgid "notmybiz-backend-title"
 msgstr "notmybiz-Backend"
 
-msgid "Gallery administration backend"
+msgid "notmybiz-backend-description"
 msgstr "Backend für Galerieadministration"
 
-msgid "shrtn"
+msgid "notmybiz-title"
+msgstr "notmybiz"
+
+msgid "notmybiz-description"
+msgstr "Persönliches Online-Portfolio"
+
+msgid "cheese-title"
+msgstr "cheese"
+
+msgid "cheese-description"
+msgstr "Content-Management-System für nacho"
+
+msgid "cheese-details-paragraph1"
+msgstr "Außer nützlicher Events-basierter Frontend-Funktionalität, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese sichere Mechanismen für Authentifizierung sowie hochflexible CRUD-Interfaces, die auf clevere MVC-Weise konfiguriert werden können."
+
+msgid "nacho-title"
+msgstr "nacho"
+
+msgid "nacho-description"
+msgstr "Web Application Framework"
+
+msgid "nacho-details-paragraph1"
+msgstr "Die Prinzipien Rapid Development und Convention Over Configuration sind im MVC-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten und viele PHP 5.3-Features wurden integriert, unter anderem: Reflection, Magic Methods, Error Backtracking, Klassenabstraktion, Namensräume, Type Hinting und Autoloading."
+
+msgid "nacho-details-paragraph2"
+msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering, Datenbankabstraktion sowie User-Input-Validierung."
+
+msgid "coaching-ui-title"
+msgstr "Coaching-UI"
+
+msgid "coaching-ui-description"
+msgstr "Kommunikation zwischen Motivados Frontend und API"
+
+msgid "coaching-api-title"
+msgstr "Coaching-API"
+
+msgid "coaching-api-description"
+msgstr "API für Motivados Coaching-Inhalte"
+
+msgid "coaching-test-title"
+msgstr "Coaching-Test"
+
+msgid "coaching-test-description"
+msgstr "Motivados Coachings vor dem Deployment testen"
+
+msgid "coaching-import-title"
+msgstr "Coaching-Import"
+
+msgid "coaching-import-description"
+msgstr "Motivados Coaching-Modelle in die Datenbank importieren"
+
+msgid "coaching-preview-title"
+msgstr "Coaching-Vorschau"
+
+msgid "coaching-preview-description"
+msgstr "Motivados Coaching-Elemente konfigurieren und testen"
+
+msgid "readosaur-title"
+msgstr "readosaur"
+
+msgid "readosaur-description"
+msgstr "Die persönlichen RSS-Feeds verwalten und lesen"
+
+msgid "avatar-rating-title"
+msgstr "Avatar-Bewertung"
+
+msgid "avatar-rating-description"
+msgstr "Eine Auswahl Avatar-Bilder bewerten"
+
+msgid "beatemup-title"
+msgstr "Beat 'em up"
+
+msgid "beatemup-description"
+msgstr "JavaScript-basierte Homage an Mortal Kombat"
+
+msgid "getitdone-title"
+msgstr "Get it done"
+
+msgid "getitdone-description"
+msgstr "Aufgabenplaner mit Drag-and-Drop-Funktionalität"
+
+msgid "hitori-title"
+msgstr "Hitori"
+
+msgid "hitori-description"
+msgstr "Simples Hitori-Spiel auf Basis von PHP und JavaScript"
+
+msgid "shrtn-title"
 msgstr "shrtn"
 
-msgid "URL shortener based on PHP, MySQL and Memcache"
+msgid "shrtn-description"
 msgstr "URL-Kürzer auf Basis von PHP, MySQL und Memcache"
 
 #career
 
-msgid "1 month"
-msgstr "1 Monat"
-
-msgid "%d months"
-msgstr "%d Monate"
-
-msgid "1 year"
-msgstr "1 Jahr"
-
-msgid "%d years"
-msgstr "%d Jahre"
-
-msgid "since %s"
-msgstr "seit %s"
-
-msgid "%s - %s"
+msgid "from-until"
 msgstr "%s - %s"
 
-msgid "<em>CTO</em> at <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>"
-msgstr "<em>CTO</em> bei <a href="http://foodpanda.com" title="Foodpanda">Foodpanda</a>"
+msgid "one-year"
+msgstr "1 Monat"
 
-msgid "Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, the company focuses especially on emerging markets, operates together with its affiliated brand Hellofood in Asia, Europe, Latin America, Africa and Middle-East and reaches three billion people worldwide."
-msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Katalysiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte, operiert zusammen mit seiner Schwestermarke Hellofood in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
+msgid "several-months"
+msgstr "%d Monate"
 
-msgid "<em>Director Software Engineering</em> at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
-msgstr "<em>Director Software Engineering</em> bei <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
+msgid "one-year"
+msgstr "1 Jahr"
 
-msgid "At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
-msgstr "Bei Rocket Internet koordiniere ich Inbetriebnahme und Instandhaltung von weltweiten E-Commerce-Projekten und leite ein Team aus rund 100 Software-Entwicklern, Projektmanagern und Testanalysten."
+msgid "several-years"
+msgstr "%d Jahre"
 
-msgid "Senior developer and team leader at <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
-msgstr "Senior Developer und Teamleiter bei <a href="http://rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
+msgid "freelance-title"
+msgstr "Freiberufliche Web- und Software-Entwicklung"
 
-msgid "Application architecture and development lead for Rocket's new e-commerce core component"
-msgstr "Anwendungsarchitektur und Leitung der Entwicklung von Rockets neuer E-Commerce-Core-Komponente"
-
-msgid "Founder and <em>CTO</em> of <a href="http://motivado.de" title="Motivado">Motivado</a>"
-msgstr "Gründer und <em>CTO</em> von <a href="http://motivado.de" title="Motivado">Motivado</a>"
-
-msgid "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content."
-msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
-
-msgid "I developed Motivado's %scomplex software%s with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
-msgstr "Motivados %skomplexe Software%s wurde von mir mit Unterstützung eines agilen Teams aus drei bis sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
-
-msgid "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
-msgstr "Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden Hunderte von Produkten in Premiumqualität."
-
-msgid "Web and software development"
-msgstr "Web- und Software-Entwicklung"
-
-msgid "My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design."
+msgid "freelance-description"
 msgstr "Schwerpunktmäßig arbeite ich im Bereich Software-Architektur, Core- und Backend-Entwicklung, technische Konzeption, Prototyping, Refactoring und Datenbank-Design. Darüber hinaus verfüge ich über weitreichende Kenntnisse zu Benutzerfreundlichkeit und Suchmaschinenoptimierung und habe ein Auge für gutes Design."
 
-msgid "Freelance work as a senior web developer"
-msgstr "Freie Mitarbeit als Senior Web Developer"
+msgid "111-job-title"
+msgstr "Software-Entwicklung bei 111 Group"
 
-msgid "for the online agencies"
-msgstr "für die Online-Agenturen"
+msgid "111-job-details-paragraph1"
+msgstr "Software-Entwicklung und Betreuung der Webpräsenzen für die 111 Group und die Tochterunternehmen in den Sparten Immobilien und Touristik"
 
-msgid "Core and feature development"
-msgstr "Core und Feature Development"
+msgid "mytourclips-job-title"
+msgstr "Core- und Feature-Entwicklung bei mytourclips"
 
-msgid "for the startup <em>mytourclips</em> which covered:"
-msgstr "für das Startup <em>mytourclips</em> in den Bereichen:"
+msgid "mytourclips-job-details-paragraph1"
+msgstr "Themenbereiche: Multimedia, Video-Streaming, Social Network/Community, redaktionell gepflegte Inhalte sowie User-Generated Content, Internationalisierung, Skalierung, High Availability, Affiliating, Buchungssysteme und Content-Aggregation."
 
-msgid "Multimedia, video streaming"
-msgstr "Multimedia, Video-Streaming"
-
-msgid "social network/community"
-msgstr "Social Network/Community"
-
-msgid "editiorially maintainable and user-generated content"
-msgstr "redaktionell gepflegte Inhalte sowie User-Generated Content"
-
-msgid "internationalization, scaling, high availability"
-msgstr "Internationalisierung, Skalierung, High Availability"
-
-msgid "affiliating, booking engines and content aggregation"
-msgstr "Affiliating, Buchungssysteme und Content-Aggregation"
-
-msgid "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
+msgid "mytourclips-job-details-paragraph2"
 msgstr "Im Juni 2008 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
 
-msgid "Animation, background/character clean up"
-msgstr "Animation, Background sowie Character Clean Up"
+msgid "motivado-job-title"
+msgstr "Gründer und CTO bei %sMotivado%s"
 
-msgid "and compositing assistance for the cartoon <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> by <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
-msgstr " und Compositing-Assistenz beim Zeichentrickfilm <a href="http://judasandjesus.com" title="Judas &amp; Jesus">Judas &amp; Jesus</a> von <a href="http://inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>"
+msgid "motivado-job-details-paragraph1"
+msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
 
-msgid "Software development"
-msgstr "Software-Entwicklung"
+msgid "motivado-job-details-paragraph2"
+msgstr "Motivados %skomplexe Software%s wurde von mir mit Unterstützung eines agilen Teams aus drei bis sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
 
-msgid "and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches"
-msgstr "und Betreuung der Webpräsenzen für die 111 Group und die Tochterunternehmen in den Sparten Immobilien und Touristik"
+msgid "motivado-job-details-paragraph3"
+msgstr "Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden Hunderte von Produkten in Premiumqualität."
+
+msgid "rocket-internet-title"
+msgstr "Rocket Internet"
+
+msgid "rocket-internet-job-title"
+msgstr "Director Software Engineering bei %sRocket Internet%s"
+
+msgid "rocket-internet-job-details-paragraph1"
+msgstr "Bei Rocket Internet koordiniere ich Inbetriebnahme und Instandhaltung von weltweiten E-Commerce-Projekten und leite ein Team aus rund 100 Software-Entwicklern, Projektmanagern und Testanalysten."
+
+msgid "foodpanda-title"
+msgstr "Foodpanda"
+
+msgid "foodpanda-job-title"
+msgstr "CTO bei %sFoodpanda%s"
+
+msgid "foodpanda-job-details-paragraph1"
+msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Katalysiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte, operiert zusammen mit seiner Schwestermarke Hellofood in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
 
 #contact-me
 
-msgid "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
+msgid "contact-me-paragraph1"
 msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert. Gern sende ich Ihnen Arbeitsproben oder detailliertere Projektbeschreibungen zu. Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
 
-msgid "contact@simsab.net"
+msgid "e-mail-address"
 msgstr "kontakt@simsab.net"
 
-msgid "Contact me"
-msgstr "Kontaktieren Sie mich"
-
-msgid "Contact me via e-mail"
+msgid "via-e-email-title"
 msgstr "Kontaktieren Sie mich via E-Mail"
 
-msgid "(via e-mail)"
+msgid "via-e-email-description"
 msgstr "(via E-Mail)"
 
-msgid "Contact me via Skype"
+msgid "via-skype-title"
 msgstr "Kontaktieren Sie mich via Skype"
 
-msgid "(via Skype)"
+msgid "via-skype-description"
 msgstr "(via Skype)"
 
-msgid "You are welcome to visit my profile in the following social networks:"
+msgid "contact-me-paragraph2"
 msgstr "Gern können Sie außerdem meine Profile in den folgenden sozialen Netzwerken besuchen:"
 
-msgid "Simon Sablowski at %s"
-msgstr "Simon Sablowski bei %s"
-
-msgid "Feel free to visit my online portfolio for life drawing, character design, portraits and caricatures:"
+msgid "contact-me-paragraph3"
 msgstr "Besuchen Sie auch mein Online-Portfolio für Aktzeichnung, Charakter-Design, Portraits und Karikaturen:"
-
-msgid "notmybiz.com"
-msgstr "notmybiz.com"
 
 #copyright
 
-msgid "&copy; 1999-%d Simon Sablowski"
+msgid "document-copyright"
 msgstr "&copy; 1999-%d Simon Sablowski"
 
-msgid "legal-notice"
+msgid "legal-notice-path"
 msgstr "impressum"
 
-msgid "Legal notice"
+msgid "legal-notice-title"
 msgstr "Impressum"
