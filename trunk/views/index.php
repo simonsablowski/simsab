@@ -345,6 +345,14 @@
 									<?php echo $this->localize('foodpanda-job-details-paragraph1'); ?>
 
 								</p>
+								<p class="expandable">
+									<?php echo $this->localize('foodpanda-job-details-paragraph2'); ?>
+
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('foodpanda-job-details-paragraph3'); ?>
+
+								</p>
 							</dd>
 							<dt class="item">
 								<?php echo $this->localize('from-until', array('11/2011', '10/2012')); ?>
@@ -358,6 +366,14 @@
 								</p>
 								<p class="expandable">
 									<?php echo $this->localize('rocket-internet-job-details-paragraph1'); ?>
+
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('rocket-internet-job-details-paragraph2'); ?>
+
+								</p>
+								<p class="expandable">
+									<?php echo $this->localize('rocket-internet-job-details-paragraph3'); ?>
 
 								</p>
 							</dd>

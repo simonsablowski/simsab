@@ -13,7 +13,7 @@ msgid "canonical-url"
 msgstr "http://www.simsab.net/en"
 
 msgid "meta-description"
-msgstr "Simon Sablowski is a developer and architect for web applications with more than ten years of experience. His main focus lies with core and backend development, software architecture, technical conception, prototyping, refactoring and database design."
+msgstr "Simon Sablowski is a web professional with many years of experience in software engineering, project management and agile methodologies."
 
 msgid "meta-keywords"
 msgstr "simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc"
@@ -59,10 +59,10 @@ msgstr "Deutsche Version"
 #about-me
 
 msgid "about-me-paragraph1"
-msgstr "I am a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have gained experience working in both small agencies and established companies. Also I have founded a startup company and have run it profitably for several years together with other industry experts."
+msgstr "I am a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have gained experience working in several online startups and established corporations in various positions ranging from software developer to CTO."
 
 msgid "about-me-paragraph2"
-msgstr "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership."
+msgstr "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. I am looking forward to exciting new adventures!"
 
 #qualities
 
@@ -266,7 +266,7 @@ msgid "freelance-title"
 msgstr "Freelance web and software development"
 
 msgid "freelance-description"
-msgstr "My main focus lies with software architecture, core and backend development, technical conception, prototyping, refactoring and database design. In addition, I am well grounded in usability, search engine optimization and I have an eye for good design."
+msgstr "Throughout my career I have gained experience working in advertising agencies, e-commerce startups and established online business corporations. My main focus lay with software architecture, core and backend development, technical conception, prototyping, refactoring and database design."
 
 msgid "111-job-title"
 msgstr "Software developer at 111 Group"
@@ -278,7 +278,7 @@ msgid "mytourclips-job-title"
 msgstr "Core and feature development at mytourclips"
 
 msgid "mytourclips-job-details-paragraph1"
-msgstr "Relevant areas: Multimedia, video streaming, social network/community, editiorially maintainable and user-generated content, internationalization, scaling, high availability, affiliating, booking engines and content aggregation."
+msgstr "Relevant areas: Multimedia, video streaming, social network/community, editiorially maintainable and user-generated content, internationalization, scaling, high availability, affiliating, booking engines and automated content aggregation."
 
 msgid "mytourclips-job-details-paragraph2"
 msgstr "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
@@ -287,10 +287,10 @@ msgid "motivado-job-title"
 msgstr "Founder and CTO at %sMotivado%s"
 
 msgid "motivado-job-details-paragraph1"
-msgstr "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with our approach of mass customization for coaching content."
+msgstr "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with an approach of mass customization for coaching content."
 
 msgid "motivado-job-details-paragraph2"
-msgstr "I developed Motivado's %scomplex software%s  with the support of an agile team of three to seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
+msgstr "I developed Motivado's %scomplex software%s with the support of an agile team of around seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
 
 msgid "motivado-job-details-paragraph3"
 msgstr "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
@@ -302,7 +302,13 @@ msgid "rocket-internet-job-title"
 msgstr "Director Software Engineering at %sRocket Internet%s"
 
 msgid "rocket-internet-job-details-paragraph1"
-msgstr "At Rocket Internet, I am in charge of coordinating launches and maintenance of worldwide e-commerce projects and managing around 100 software engineers, project managers and test analysts."
+msgstr "Rocket Internet is the world's largest online business incubator with hundreds of successful e-commerce projects and tens of thousands of employees on all continents."
+
+msgid "rocket-internet-job-details-paragraph2"
+msgstr "At Rocket Internet, I was in charge of all newly launched projects, heading a team of around 100 software engineers, project managers and test analysts in Berlin and interfacing with Rocket Internet's international technology centres."
+
+msgid "rocket-internet-job-details-paragraph3"
+msgstr "My main tasks were technical supervision, establishing processes and workflows as well as recruiting, training and leading engineering teams. I also acted as a mentor for the engineering teams of some of Rocket Internet's matured ventures."
 
 msgid "foodpanda-title"
 msgstr "Foodpanda"
@@ -311,7 +317,13 @@ msgid "foodpanda-job-title"
 msgstr "CTO at %sFoodpanda%s"
 
 msgid "foodpanda-job-details-paragraph1"
-msgstr "Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, the company focuses especially on emerging markets, operates together with its affiliated brand Hellofood in Asia, Europe, Latin America, Africa and Middle-East and reaches three billion people worldwide."
+msgstr "Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, the company focuses especially on emerging markets. Together with its affiliated brand Hellofood Foodpanda operates in Asia, Europe, Latin America, Africa and Middle-East reaching three billion people worldwide."
+
+msgid "foodpanda-job-details-paragraph2"
+msgstr "I was responsible for assembling and leading a team of 30+ software engineers, product managers and test analysts to successfully run our service in 30+ countries. The main challenge was to ensure an excellent user experience and frequent product improvements and feature releases while maintaining the existing projects. Together, we managed to establish solid processes and perform weekly deployments while continuously optimized our software and systems with regard to scalability, performance and security."
+
+msgid "foodpanda-job-details-paragraph3"
+msgstr "Apart from customer frontends for desktop and mobile browsers, Android and iOS platforms, the software engineers developed a rich backend application for managing orders, vendors and promotions and implemented individual integrations for partner restaurants' point of sale systems."
 
 #contact-me
 
