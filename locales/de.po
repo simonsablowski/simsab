@@ -13,7 +13,7 @@ msgid "canonical-url"
 msgstr "http://www.simsab.net/de"
 
 msgid "meta-description"
-msgstr "Simon Sablowski ist Entwickler und Architekt für Web-Anwendungen mit mehr als zehn Jahren Erfahrung. Schwerpunktmäßig arbeitet er im Bereich Core- und Backend-Entwicklung, Software-Architektur, technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
+msgstr "Simon Sablowski ist ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien."
 
 msgid "meta-keywords"
 msgstr "simon sablowski, sablowski, berlin, web-entwicklung, software-architektur, technische konzeption, prototyping, refactoring, datenbank-design, php, mysql, oop, mvc"
@@ -59,10 +59,10 @@ msgstr "English version"
 #about-me
 
 msgid "about-me-paragraph1"
-msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien. Im Laufe meiner Karriere habe ich in kleinen Agenturen sowie in etablierten Unternehmen Erfahrung gesammelt. Außerdem habe ich ein Startup gegründet und zusammen mit weiteren Branchenexperten über mehrere Jahre profitabel betrieben."
+msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in verschiedenen Positionen von Software-Entwickler bis CTO Erfahrung gesammelt."
 
 msgid "about-me-paragraph2"
-msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
+msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Ich freue mich auf spannende neue Abenteuer!"
 
 #qualities
 
@@ -266,7 +266,7 @@ msgid "freelance-title"
 msgstr "Freiberufliche Web- und Software-Entwicklung"
 
 msgid "freelance-description"
-msgstr "Schwerpunktmäßig arbeite ich im Bereich Software-Architektur, Core- und Backend-Entwicklung, technische Konzeption, Prototyping, Refactoring und Datenbank-Design. Darüber hinaus verfüge ich über weitreichende Kenntnisse zu Benutzerfreundlichkeit und Suchmaschinenoptimierung und habe ein Auge für gutes Design."
+msgstr "Im Laufe meiner Karriere habe ich in Werbeagenturen, E-Commerce-Startups und etablierten Online-Unternehmen Erfahrung gesammelt. Meine Schwerpunkte waren dabei Software-Architektur, Core- und Backend-Entwicklung, technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
 
 msgid "111-job-title"
 msgstr "Software-Entwicklung bei 111 Group"
@@ -290,7 +290,7 @@ msgid "motivado-job-details-paragraph1"
 msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
 
 msgid "motivado-job-details-paragraph2"
-msgstr "Motivados %skomplexe Software%s wurde von mir mit Unterstützung eines agilen Teams aus drei bis sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
+msgstr "Motivados %skomplexe Software%s wurde von mir mit Unterstützung eines agilen Teams aus rund sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
 
 msgid "motivado-job-details-paragraph3"
 msgstr "Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden Hunderte von Produkten in Premiumqualität."
@@ -302,7 +302,13 @@ msgid "rocket-internet-job-title"
 msgstr "Director Software Engineering bei %sRocket Internet%s"
 
 msgid "rocket-internet-job-details-paragraph1"
-msgstr "Bei Rocket Internet koordiniere ich Inbetriebnahme und Instandhaltung von weltweiten E-Commerce-Projekten und leite ein Team aus rund 100 Software-Entwicklern, Projektmanagern und Testanalysten."
+msgstr "Rocket Internet ist der weltgrößte Katalysator für Online-Geschäfte mit Hunderten von erfolgreichen E-Commerce-Projekten und Zehntausenden Mitarbeitern auf allen Kontinenten."
+
+msgid "rocket-internet-job-details-paragraph2"
+msgstr "Bei Rocket Internet war ich verantwortlich für sämtliche neu gestarteten Projekte, außerdem Leiter eines Team von rund 100 Software-Entwicklern, Projektmanagern und Testanalysten in Berlin und Schnittstelle für Rocket Internets internationale Technologiezentren."
+
+msgid "rocket-internet-job-details-paragraph3"
+msgstr "Meine Hauptaufgaben waren die technische Leitung, das Etablieren von Prozessen und Abläufen sowie die Rekrutierung, das Training und die Führung von Entwicklungs-Teams. Außerdem war ich Mentor für die Entwicklungs-Teams von manchen von Rocket Internets weiterentwickelten Projekten."
 
 msgid "foodpanda-title"
 msgstr "Foodpanda"
@@ -311,7 +317,13 @@ msgid "foodpanda-job-title"
 msgstr "CTO bei %sFoodpanda%s"
 
 msgid "foodpanda-job-details-paragraph1"
-msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Katalysiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte, operiert zusammen mit seiner Schwestermarke Hellofood in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
+msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Katalysiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte. Zusammen mit seiner Schwestermarke Hellofood operiert Foodpanda in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
+
+msgid "foodpanda-job-details-paragraph2"
+msgstr "Ich war verantwortlich für die Zusammenstellung und Führung eines Teams von 30+ Software-Entwicklern, Produktmanagern und Testanalysten und die Verwaltung unserer Projekte in 30+ Ländern. Die große Herausforderung war es dabei ein ausgezeichnetes Kundenerlebnis, häufige Produktverbesserungen und Feature-Veröffentlichungen zu gewährleisten und gleichzeitig die existierenden Projekte zu betreuen. Zusammen haben wir solide Prozesse eingeführt, wöchentliche Updates durchgeführt und kontiunierlich unsere Software und Systemlandschaft in Bezug auf Skalierbarkeit, Performance und Sicherheit optimiert."
+
+msgid "foodpanda-job-details-paragraph3"
+msgstr "Abgesehen von Kundenanwendungen für Desktop- und Mobile-Browser, Android- und iOS-Plattformen haben die Software-Entwickler eine komplexe Backend-Anwendung entwickelt, mit der Bestellungen, Anbieter und Promotions verwaltet werden können, und individuelle Integrationen für die Kassensysteme der Partner-Restaurants entwickelt."
 
 #contact-me
 
