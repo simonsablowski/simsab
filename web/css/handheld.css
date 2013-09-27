@@ -1,5 +1,9 @@
 @import 'screen.css';
 
+html {
+	background-color: transparent;
+}
+
 #document, #content {
 	padding: 0;
 	width: auto;
@@ -29,15 +33,16 @@
 
 #menu {
 	top: 82px;
+	width: 140px;
 }
 
 #content {
 	border: 0 none;
-	margin: 0 0 0 160px;
+	margin: 0 0 0 140px;
 }
 
 #head {
-	margin-left: -160px;
+	margin-left: -140px;
 }
 
 #logo {
