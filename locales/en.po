@@ -320,10 +320,10 @@ msgid "foodpanda-job-details-paragraph1"
 msgstr "Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, the company focuses especially on emerging markets. Together with its affiliated brand Hellofood Foodpanda operates in Asia, Europe, Latin America, Africa and Middle-East reaching three billion people worldwide."
 
 msgid "foodpanda-job-details-paragraph2"
-msgstr "I was responsible for assembling and leading a team of 30+ software engineers, product managers and test analysts to successfully run our service in 30+ countries. The main challenge was to ensure an excellent user experience and frequent product improvements and feature releases while maintaining the existing projects. Together, we managed to establish solid processes and perform weekly deployments while continuously optimized our software and systems with regard to scalability, performance and security."
+msgstr "I was responsible for assembling and leading a team of 30+ software engineers, product managers and test analysts to successfully run our service in 30+ countries. The main challenge was to ensure an excellent user experience and frequent product improvements and feature releases while maintaining the existing projects. Together, we managed to establish solid agile development processes and perform weekly deployments while continuously optimized our software and systems with regard to scalability, performance and security."
 
 msgid "foodpanda-job-details-paragraph3"
-msgstr "Apart from customer frontends for desktop and mobile browsers, Android and iOS platforms, the software engineers developed a rich backend application for managing orders, vendors and promotions and implemented individual integrations for partner restaurants' point of sale systems."
+msgstr "Apart from client applications for desktop and mobile browsers, Android and iOS platforms, the software engineers developed a rich backend application for managing orders, vendors and promotions and implemented individual integrations for partner restaurants' point of sale systems."
 
 #contact-me
 
