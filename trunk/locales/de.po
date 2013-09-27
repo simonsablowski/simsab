@@ -59,7 +59,7 @@ msgstr "English version"
 #about-me
 
 msgid "about-me-paragraph1"
-msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in verschiedenen Positionen von Software-Entwickler bis CTO Erfahrung gesammelt."
+msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in verschiedenen Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> Erfahrung gesammelt."
 
 msgid "about-me-paragraph2"
 msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Ich freue mich auf spannende neue Abenteuer!"
@@ -70,7 +70,7 @@ msgid "qualities-paragraph1"
 msgstr "Meine Qualitäten zusammengefasst:"
 
 msgid "qualities-bullet1"
-msgstr "Begabter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von kleinen und großen Web-Anwendungen"
+msgstr "Begabter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von kleinen und großen Web-Anwendungen (hauptsächlich <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> Stack)"
 
 msgid "qualities-bullet2"
 msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder und Kunden"
@@ -165,7 +165,7 @@ msgid "cheese-description"
 msgstr "Content-Management-System für nacho"
 
 msgid "cheese-details-paragraph1"
-msgstr "Außer nützlicher Events-basierter Frontend-Funktionalität, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese sichere Mechanismen für Authentifizierung sowie hochflexible CRUD-Interfaces, die auf clevere MVC-Weise konfiguriert werden können."
+msgstr "Außer nützlicher Events-basierter Frontend-Funktionalität, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese sichere Mechanismen für Authentifizierung sowie hochflexible <abbr title="Create Retrieve Update Delete">CRUD</abbr>-Interfaces, die auf clevere <abbr title="Mobel View Controller">MVC</abbr>-Weise konfiguriert werden können."
 
 msgid "nacho-title"
 msgstr "nacho"
@@ -174,22 +174,22 @@ msgid "nacho-description"
 msgstr "Web Application Framework"
 
 msgid "nacho-details-paragraph1"
-msgstr "Die Prinzipien Rapid Development und Convention Over Configuration sind im MVC-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten und viele PHP 5.3-Features wurden integriert, unter anderem: Reflection, Magic Methods, Error Backtracking, Klassenabstraktion, Namensräume, Type Hinting und Autoloading."
+msgstr "Die Prinzipien Rapid Development und Convention Over Configuration sind im <abbr title="Mobel View Controller">MVC</abbr>-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten und viele PHP 5.3-Features wurden integriert, unter anderem: Reflection, Magic Methods, Error Backtracking, Klassenabstraktion, Namensräume, Type Hinting und Autoloading."
 
 msgid "nacho-details-paragraph2"
 msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering, Datenbankabstraktion sowie User-Input-Validierung."
 
 msgid "coaching-ui-title"
-msgstr "Coaching-UI"
+msgstr "Coaching-<abbr title="User Interface">UI</abbr>"
 
 msgid "coaching-ui-description"
-msgstr "Kommunikation zwischen Motivados Frontend und API"
+msgstr "Kommunikation zwischen Motivados Frontend und <abbr title="Application Programming Interface">API</abbr>"
 
 msgid "coaching-api-title"
-msgstr "Coaching-API"
+msgstr "Coaching-<abbr title="Application Programming Interface">API</abbr>"
 
 msgid "coaching-api-description"
-msgstr "API für Motivados Coaching-Inhalte"
+msgstr "<abbr title="Application Programming Interface">API</abbr> für Motivados Coaching-Inhalte"
 
 msgid "coaching-test-title"
 msgstr "Coaching-Test"
@@ -213,7 +213,7 @@ msgid "readosaur-title"
 msgstr "readosaur"
 
 msgid "readosaur-description"
-msgstr "Die persönlichen RSS-Feeds verwalten und lesen"
+msgstr "Die persönlichen <abbr title="Rich Site Summary">RSS</abbr>-Feeds verwalten und lesen"
 
 msgid "avatar-rating-title"
 msgstr "Avatar-Bewertung"
@@ -284,7 +284,7 @@ msgid "mytourclips-job-details-paragraph2"
 msgstr "Im Juni 2008 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
 
 msgid "motivado-job-title"
-msgstr "Gründer und CTO bei %sMotivado%s"
+msgstr "Gründer und <abbr title="Chief Technology Officer">CTO</abbr> bei %sMotivado%s"
 
 msgid "motivado-job-details-paragraph1"
 msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
@@ -314,7 +314,7 @@ msgid "foodpanda-title"
 msgstr "Foodpanda"
 
 msgid "foodpanda-job-title"
-msgstr "CTO bei %sFoodpanda%s"
+msgstr "<abbr title="Chief Technology Officer">CTO</abbr> bei %sFoodpanda%s"
 
 msgid "foodpanda-job-details-paragraph1"
 msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Katalysiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte. Zusammen mit seiner Schwestermarke Hellofood operiert Foodpanda in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
