@@ -1,5 +1,9 @@
 @import 'screen.css';
 
+abbr {
+	border-color: transparent;
+}
+
 #document {
 	width: auto;
 }
@@ -64,6 +68,10 @@
 
 #body a.external:after {
 	content: " <"attr(href)">";
+}
+
+#body .section, #body .section .items .description .expandable {
+	display: block !important;
 }
 
 #body .sub-section {
