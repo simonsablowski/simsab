@@ -41,11 +41,14 @@
 }
 
 #logo {
-	top: 0;
+	height: 30px;
+	width: 242px;
 }
 
 #photo {
+	height: 110px;
 	top: 0;
+	width: 96px;
 }
 
 #body {
