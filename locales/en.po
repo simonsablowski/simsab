@@ -70,19 +70,22 @@ msgid "qualities-paragraph1"
 msgstr "My qualities in summary:"
 
 msgid "qualities-bullet1"
-msgstr "Skilled software engineer with more than 10 years of experience of professionally developing and maintaining small and large-scale web applications (primarily <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> stack)"
+msgstr "Avid software engineer with more than 10 years of experience of professionally developing and maintaining high quality web applications (primarily <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> stack)"
 
 msgid "qualities-bullet2"
-msgstr "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders and clients"
+msgstr "Strong leader with excellent people and communication skills, proven by successfully assembling and managing multinational and multicultural teams of up to 100 specialists"
 
 msgid "qualities-bullet3"
-msgstr "Strong entrepreneurial spirit and experience with founding and running startups and launching countless projects, many of which were able to reach market leadership"
+msgstr "Highly motivated and enthusiastic coach for agile and lean methodologies, continuously increasing engineering teams' efficiency and output noticeably"
 
 msgid "qualities-bullet4"
-msgstr "Excellent people and communication skills, proven by successfully assembling and managing multinational and multicultural teams of up to 100 specialists"
+msgstr "Strong entrepreneurial spirit and experience with founding startups and launching numerous projects, passionate about growth and innovation"
 
 msgid "qualities-bullet5"
-msgstr "Coach for agile and lean methodologies, increased many software engineering teams' efficiency and output noticeably"
+msgstr "Focused on delivering results on time and in line with the budget, always strictly following priorities and concerned about the optimization of business metrics"
+
+msgid "qualities-bullet6"
+msgstr "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders, investors and clients"
 
 #projects
 
