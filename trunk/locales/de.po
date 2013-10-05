@@ -70,19 +70,22 @@ msgid "qualities-paragraph1"
 msgstr "Meine Qualitäten zusammengefasst:"
 
 msgid "qualities-bullet1"
-msgstr "Begabter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von kleinen und großen Web-Anwendungen (hauptsächlich <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> Stack)"
+msgstr "Begeisterter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von hochqualitativen Web-Anwendungen (hauptsächlich <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> Stack)"
 
 msgid "qualities-bullet2"
-msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder und Kunden"
+msgstr "Starker Anführer mit ausgezeichneten sozialen und kommunikativen Fähigkeiten, erfolgreiche Zusammenstellung und Leitung von multinationalen und multikulturellen Teams von bis zu 100 Spezialisten"
 
 msgid "qualities-bullet3"
-msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung und dem Betrieb von Startups und der Inbetriebnahme von unzähligen Projekten, von denen viele Marktführerschaft erreichen konnten"
+msgstr "Hochmotivierter and enthusiastischer Coach für Agile- und Lean-Methodologien, kontinuierliche Steigerung der Effizienz und des Outputs von Entwicklungs-Teams"
 
 msgid "qualities-bullet4"
-msgstr "Ausgezeichnete soziale und kommunikative Fähigkeiten, bewiesen durch die erfolgreiche Zusammenstellung und Führung von multinationalen und multikulturellen Teams von bis zu 100 Spezialisten"
+msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung von Startups und der Inbetriebnahme von zahlreichen Projekten, Leidenschaft für Wachstum und Innovation"
 
 msgid "qualities-bullet5"
-msgstr "Coach für Agile- und Lean-Methodologien, Steigerung der Effizienz und des Outputs von vielen Teams von Software-Entwicklern"
+msgstr "Fokus auf die Lieferung von Ergebnissen termingerecht und im Budgetrahmen, stets streng Prioritäten verfolgend and beschäftigt mit der Optimierung von Geschäftsmetriken"
+
+msgid "qualities-bullet6"
+msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder, Investoren und Kunden"
 
 #projects
 

@@ -95,6 +95,10 @@
 								<?php echo $this->localize('qualities-bullet5'); ?>
 
 							</li>
+							<li>
+								<?php echo $this->localize('qualities-bullet6'); ?>
+
+							</li>
 						</ul>
 					</div>
 					<div class="section projects">
