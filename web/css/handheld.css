@@ -42,7 +42,7 @@ html {
 }
 
 #head {
-	margin-left: -140px;
+	margin: 15px 0 0 -140px;
 }
 
 #logo {
@@ -59,7 +59,7 @@ html {
 }
 
 #body {
-	padding: 48px 0 48px 20px;
+	padding: 32px 0 32px 20px;
 	text-align: left;
 	width: auto;
 }
