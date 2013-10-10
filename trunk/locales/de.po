@@ -62,7 +62,7 @@ msgid "about-me-paragraph1"
 msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement und agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in verschiedenen Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> Erfahrung gesammelt."
 
 msgid "about-me-paragraph2"
-msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Aktuell bin ich offen für neue Angebote!"
+msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Ich bin offen für neue Angebote!"
 
 #qualities
 

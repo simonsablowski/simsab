@@ -1,3 +1,7 @@
+body {
+	font-size: 14px;
+}
+
 li {
 	margin-left: 15px;
 }
@@ -9,7 +13,7 @@ a.collapse, a.expand, a.external {
 #document {
 	margin: auto;
 	position: relative;
-	width: 860px;
+	width: 960px;
 }
 
 #menu {
@@ -21,14 +25,14 @@ a.collapse, a.expand, a.external {
 	-webkit-border-radius-bottomleft: 15px;
 	border-top-left-radius: 15px;
 	border-bottom-left-radius: 15px;
-	padding: 10px 0;
+	padding: 15px 0;
 	position: fixed;
 	top: 95px;
 	width: 160px;
 }
 
 #menu .item {
-	height: 18px;
+	height: 20px;
 	line-height: 2;
 	list-style: none;
 	margin: 0;
@@ -38,7 +42,7 @@ a.collapse, a.expand, a.external {
 
 #menu .item a {
 	display: block;
-	height: 18px;
+	height: 20px;
 	font-weight: bold;
 	text-align: right;
 	text-decoration: none;
@@ -59,11 +63,11 @@ a.collapse, a.expand, a.external {
 	border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 	margin: 0 0 30px 160px;
-	width: 698px;
+	width: 800px;
 }
 
 #head {
-	margin-left: 0;
+	margin: 0;
 	position: relative;
 }
 
@@ -81,7 +85,7 @@ a.collapse, a.expand, a.external {
 }
 
 #body h2 {
-	padding-top: 10px;
+	padding-top: 15px;
 }
 
 #body h2 a {
@@ -105,30 +109,25 @@ a.collapse, a.expand, a.external {
 }
 
 #body .about-me #photo {
-	height: 130px;
+	height: 150px;
 	float: right;
-	margin: 0 0 30px 30px;
-	width: 114px;
+	margin: 9px 0 30px 30px;
+	width: 132px;
 }
 
 #body .projects span {
 	white-space: nowrap;
 }
 
-#body .projects li, #body .contact-me li {
+#body .projects .tags .tag, #body .contact-me .option {
 	display: inline;
 	float: left;
 	list-style-type: none;
-	margin-left: 0;
-	width: 107px;
+	margin: 0 30px 0 0;
 }
 
-#body .contact-me li.wide {
+#body .contact-me .wide {
 	width: 214px;
-}
-
- {
-	padding-bottom: 15px;
 }
 
 #body .projects .item, #body .projects .description {
