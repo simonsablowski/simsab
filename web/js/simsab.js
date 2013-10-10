@@ -93,20 +93,6 @@ function initializeTogglingMenuItems() {
 	$('#menu .item a[href*="' + $('.section:visible a').attr('name') + '"]').removeClass('inactive').addClass('active');
 }
 
-function initializeIeFix() {
-	if ($.browser.msie) {
-		if ($.browser.version < 7) {
-			$('#menu').css('position', 'absolute');
-			var menuOffset = $('#menu').position().top;
-			$(window).scroll(function() {
-				$('#menu').css({
-					'top': menuOffset + $(window).scrollTop() + 'px'
-				});
-			});
-		}
-	}
-}
-
 $(document).ready(function() {
 	initializeExternalLinks();
 	initializeTagCounters();
@@ -114,5 +100,4 @@ $(document).ready(function() {
 	initializeExpandableElements();
 	initializeTogglingSections();
 	initializeTogglingMenuItems();
-	initializeIeFix();
 });
