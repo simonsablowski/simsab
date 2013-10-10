@@ -59,32 +59,29 @@ msgstr "English version"
 #about-me
 
 msgid "about-me-paragraph1"
-msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in verschiedenen Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> Erfahrung gesammelt."
+msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement und agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in verschiedenen Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> Erfahrung gesammelt."
 
 msgid "about-me-paragraph2"
-msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Ich freue mich auf spannende neue Abenteuer!"
+msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Aktuell bin ich offen für neue Angebote!"
 
 #qualities
 
 msgid "qualities-paragraph1"
-msgstr "Meine Qualitäten zusammengefasst:"
-
-msgid "qualities-bullet1"
 msgstr "Begeisterter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von hochqualitativen Web-Anwendungen (hauptsächlich <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> Stack)"
 
-msgid "qualities-bullet2"
+msgid "qualities-paragraph2"
 msgstr "Starker Anführer mit ausgezeichneten sozialen und kommunikativen Fähigkeiten, erfolgreiche Zusammenstellung und Leitung von multinationalen und multikulturellen Teams von bis zu 100 Spezialisten"
 
-msgid "qualities-bullet3"
+msgid "qualities-paragraph3"
 msgstr "Hochmotivierter and enthusiastischer Coach für Agile- und Lean-Methodologien, kontinuierliche Steigerung der Effizienz und des Outputs von Entwicklungs-Teams"
 
-msgid "qualities-bullet4"
+msgid "qualities-paragraph4"
 msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung von Startups und der Inbetriebnahme von zahlreichen Projekten, Leidenschaft für Wachstum und Innovation"
 
-msgid "qualities-bullet5"
+msgid "qualities-paragraph5"
 msgstr "Fokus auf die Lieferung von Ergebnissen termingerecht und im Budgetrahmen, stets streng Prioritäten verfolgend and beschäftigt mit der Optimierung von Geschäftsmetriken"
 
-msgid "qualities-bullet6"
+msgid "qualities-paragraph6"
 msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder, Investoren und Kunden"
 
 #projects
@@ -293,7 +290,7 @@ msgid "motivado-job-details-paragraph1"
 msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
 
 msgid "motivado-job-details-paragraph2"
-msgstr "Motivados %skomplexe Software%s wurde von mir mit Unterstützung eines agilen Teams aus rund sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
+msgstr "Motivados komplexe Software wurde von mir mit Unterstützung eines agilen Teams aus rund sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
 
 msgid "motivado-job-details-paragraph3"
 msgstr "Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden Hunderte von Produkten in Premiumqualität."
@@ -331,15 +328,15 @@ msgstr "Abgesehen von Kundenanwendungen für Desktop- und Mobile-Browser, Androi
 #contact-me
 
 msgid "contact-me-paragraph1"
-msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert. Gern sende ich Ihnen Arbeitsproben oder detailliertere Projektbeschreibungen zu. Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
+msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert.<br/>Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
 
 msgid "e-mail-address"
 msgstr "kontakt@simsab.net"
 
-msgid "via-e-email-title"
+msgid "via-e-mail-title"
 msgstr "Kontaktieren Sie mich via E-Mail"
 
-msgid "via-e-email-description"
+msgid "via-e-mail-description"
 msgstr "(via E-Mail)"
 
 msgid "via-skype-title"

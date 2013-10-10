@@ -62,29 +62,26 @@ msgid "about-me-paragraph1"
 msgstr "I am a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have gained experience working in several online startups and established corporations in various positions ranging from software developer to <abbr title="Chief Technology Officer">CTO</abbr>."
 
 msgid "about-me-paragraph2"
-msgstr "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. I am looking forward to exciting new adventures!"
+msgstr "During the last years I have successfully managed numerous web projects, many of which were able to reach market leadership. Currently I am open for new opportunities!"
 
 #qualities
 
 msgid "qualities-paragraph1"
-msgstr "My qualities in summary:"
-
-msgid "qualities-bullet1"
 msgstr "Avid software engineer with more than 10 years of experience of professionally developing and maintaining high quality web applications (primarily <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> stack)"
 
-msgid "qualities-bullet2"
+msgid "qualities-paragraph2"
 msgstr "Strong leader with excellent people and communication skills, proven by successfully assembling and managing multinational and multicultural teams of up to 100 specialists"
 
-msgid "qualities-bullet3"
+msgid "qualities-paragraph3"
 msgstr "Highly motivated and enthusiastic coach for agile and lean methodologies, continuously increasing engineering teams' efficiency and output noticeably"
 
-msgid "qualities-bullet4"
+msgid "qualities-paragraph4"
 msgstr "Strong entrepreneurial spirit and experience with founding startups and launching numerous projects, passionate about growth and innovation"
 
-msgid "qualities-bullet5"
+msgid "qualities-paragraph5"
 msgstr "Focused on delivering results on time and in line with the budget, always strictly following priorities and concerned about the optimization of business metrics"
 
-msgid "qualities-bullet6"
+msgid "qualities-paragraph6"
 msgstr "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders, investors and clients"
 
 #projects
@@ -293,7 +290,7 @@ msgid "motivado-job-details-paragraph1"
 msgstr "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with an approach of mass customization for coaching content."
 
 msgid "motivado-job-details-paragraph2"
-msgstr "I developed Motivado's %scomplex software%s with the support of an agile team of around seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
+msgstr "I developed Motivado's complex software with the support of an agile team of around seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
 
 msgid "motivado-job-details-paragraph3"
 msgstr "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
@@ -331,15 +328,15 @@ msgstr "Apart from client applications for desktop and mobile browsers, Android 
 #contact-me
 
 msgid "contact-me-paragraph1"
-msgstr "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please send me an email. I will also gladly provide you with sample work or more detailed project descriptions. You can contact me at:"
+msgstr "I am always looking for exciting new challenges and the opportunity to enhance my skills.<br/>If you are interested in a collaboration, please contact me at:"
 
 msgid "e-mail-address"
 msgstr "contact@simsab.net"
 
-msgid "via-e-email-title"
+msgid "via-e-mail-title"
 msgstr "Contact me via e-mail"
 
-msgid "via-e-email-description"
+msgid "via-e-mail-description"
 msgstr "(via e-mail)"
 
 msgid "via-skype-title"

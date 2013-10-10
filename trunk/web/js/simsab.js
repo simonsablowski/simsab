@@ -72,17 +72,25 @@ function initializeTogglingSections() {
 	
 	var url = document.location.toString();
 	if (url.match('#')) {
-		$('.section h2 a[href*="#' + url.split('#')[1] + '"]').parents('.section').show();
+		$('.section a[name*="' + url.split('#')[1] + '"]').parents('.section').show();
+		initializeTogglingMenuItems();
 	} else {
 		$('.section:first').show();
+		initializeTogglingMenuItems();
 	}
 	
-	$('a').not('.expand, .collapse, .external').filter(function() {
+	$('#menu .item a').filter(function() {
 		return this.href.match('#');
 	}).click(function(event) {
 		$('.section:visible').hide();
-		$('.section h2 a[href*="' + $(this).attr('href') + '"]').parents('.section').fadeIn(400);
+		$('.section a[name*="' + $(this).attr('href').split('#')[1] + '"]').parents('.section').fadeIn(400);
+		initializeTogglingMenuItems();
 	});
+}
+
+function initializeTogglingMenuItems() {
+	$('#menu .item a').removeClass('active').addClass('inactive');
+	$('#menu .item a[href*="' + $('.section:visible a').attr('name') + '"]').removeClass('inactive').addClass('active');
 }
 
 function initializeIeFix() {
@@ -105,5 +113,6 @@ $(document).ready(function() {
 	initializeTagElements();
 	initializeExpandableElements();
 	initializeTogglingSections();
+	initializeTogglingMenuItems();
 	initializeIeFix();
 });
