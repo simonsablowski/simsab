@@ -13,10 +13,6 @@
 		@import url("<?php echo $this->getConfiguration('basePath'); ?>css/screen.css");
 		-->
 		</style>
-		<!--[if IE]>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/screen.css" rel="stylesheet" type="text/css" media="screen"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/ie.css" rel="stylesheet" type="text/css" media="screen"/>
-		<![endif]-->
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 859px)"/>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/print.css" rel="stylesheet" type="text/css" media="print"/>
 		<link type="image/x-icon" href="<?php echo $this->getConfiguration('basePath'); ?>img/favicon.ico" rel="shortcut icon"/>
