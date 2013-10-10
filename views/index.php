@@ -28,35 +28,32 @@
 			<div id="sidebar">
 				<ul id="menu" class="items">
 					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-title'); ?>"><?php echo $this->localize('about-me-title'); ?></a>
+						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-title'); ?>"><?php echo $this->localize('about-me-title'); ?></a>
 					</li>
 					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('qualities-path'); ?>" title="<?php echo $this->localize('qualities-title'); ?>"><?php echo $this->localize('qualities-title'); ?></a>
+						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('qualities-path'); ?>" title="<?php echo $this->localize('qualities-title'); ?>"><?php echo $this->localize('qualities-title'); ?></a>
 					</li>
 					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('projects-path'); ?>" title="<?php echo $this->localize('projects-title'); ?>"><?php echo $this->localize('projects-title'); ?></a>
+						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('projects-path'); ?>" title="<?php echo $this->localize('projects-title'); ?>"><?php echo $this->localize('projects-title'); ?></a>
 					</li>
 					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('career-path'); ?>" title="<?php echo $this->localize('career-title'); ?>"><?php echo $this->localize('career-title'); ?></a>
+						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('career-path'); ?>" title="<?php echo $this->localize('career-title'); ?>"><?php echo $this->localize('career-title'); ?></a>
 					</li>
 					<li class="item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('contact-me-path'); ?>" title="<?php echo $this->localize('contact-me-title'); ?>"><?php echo $this->localize('contact-me-title'); ?></a>
-					</li>
-					<li class="language item">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-title'); ?>"><?php echo $this->localize('translate-title'); ?></a>
+						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('contact-me-path'); ?>" title="<?php echo $this->localize('contact-me-title'); ?>"><?php echo $this->localize('contact-me-title'); ?></a>
 					</li>
 				</ul>
 			</div>
 			<div id="content">
 				<div id="head">
 					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.gif" alt="<?php echo $this->localize('document-title'); ?>" title="<?php echo $this->localize('document-title'); ?>"/></a>
-					<img id="photo" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski.jpg" alt="<?php echo $this->localize('photo-title'); ?>" title="<?php echo $this->localize('photo-title'); ?>"/>
 				</div>
 				<div id="body">
 					<div class="section about-me">
 						<h2>
 							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('about-me-path'); ?>" name="<?php echo $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-title'); ?>"><?php echo $this->localize('about-me-title'); ?></a>
 						</h2>
+						<img id="photo" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski.jpg" alt="<?php echo $this->localize('photo-title'); ?>" title="<?php echo $this->localize('photo-title'); ?>"/>
 						<p>
 							<?php echo $this->localize('about-me-paragraph1'); ?>
 
@@ -70,33 +67,29 @@
 						<h2>
 							<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>#<?php echo $this->localize('qualities-path'); ?>" name="<?php echo $this->localize('qualities-path'); ?>" title="<?php echo $this->localize('qualities-title'); ?>"><?php echo $this->localize('qualities-title'); ?></a>
 						</h2>
-						<p>
-							<?php echo $this->localize('qualities-paragraph1'); ?>
-
-						</p>
 						<ul>
 							<li>
-								<?php echo $this->localize('qualities-bullet1'); ?>
+								<?php echo $this->localize('qualities-paragraph1'); ?>
 
 							</li>
 							<li>
-								<?php echo $this->localize('qualities-bullet2'); ?>
+								<?php echo $this->localize('qualities-paragraph2'); ?>
 
 							</li>
 							<li>
-								<?php echo $this->localize('qualities-bullet3'); ?>
+								<?php echo $this->localize('qualities-paragraph3'); ?>
 
 							</li>
 							<li>
-								<?php echo $this->localize('qualities-bullet4'); ?>
+								<?php echo $this->localize('qualities-paragraph4'); ?>
 
 							</li>
 							<li>
-								<?php echo $this->localize('qualities-bullet5'); ?>
+								<?php echo $this->localize('qualities-paragraph5'); ?>
 
 							</li>
 							<li>
-								<?php echo $this->localize('qualities-bullet6'); ?>
+								<?php echo $this->localize('qualities-paragraph6'); ?>
 
 							</li>
 						</ul>
@@ -464,32 +457,38 @@
 							<?php echo $this->localize('contact-me-paragraph1'); ?>
 
 						</p>
-						<p class="options">
-							<a href="mailto:<?php echo $this->localize('e-mail-address'); ?>" title="<?php echo $this->localize('via-e-email-title'); ?>"><?php echo $this->localize('e-mail-address'); ?></a> <?php echo $this->localize('via-e-email-description'); ?><br/>
-							<a href="skype:simonsablowski" title="<?php echo $this->localize('via-skype-title'); ?>">simonsablowski</a> <?php echo $this->localize('via-skype-description'); ?>
+						<ul class="options">
+							<li class="option">
+								<a href="mailto:<?php echo $this->localize('e-mail-address'); ?>" title="<?php echo $this->localize('via-e-mail-title'); ?>"><?php echo $this->localize('e-mail-address'); ?></a> <?php echo $this->localize('via-e-mail-description'); ?>
 
-						</p>
+							</li>
+							<li class="option">
+								<a href="skype:simonsablowski" title="<?php echo $this->localize('via-skype-title'); ?>">simonsablowski</a> <?php echo $this->localize('via-skype-description'); ?>
+
+							</li>
+							<div class="clear"><!--  --></div>
+						</ul>
 						<p>
 							<?php echo $this->localize('contact-me-paragraph2'); ?>
 
 						</p>
 						<ul class="options">
-							<li>
+							<li class="option">
 								<a href="http://www.linkedin.com/in/simonsablowski" title="LinkedIn">LinkedIn</a>
 							</li>
-							<li>
+							<li class="option">
 								<a href="https://www.xing.com/profile/Simon_Sablowski" title="XING">XING</a>
 							</li>
-							<li>
+							<li class="option">
 								<a href="http://www.facebook.com/simon.sablowski" title="Facebook">Facebook</a>
 							</li>
-							<li>
+							<li class="option">
 								<a href="https://plus.google.com/106803691412367539900" title="Google+">Google+</a>
 							</li>
-							<li>
+							<li class="option">
 								<a href="http://www.last.fm/user/gluehbirne" title="Last.fm">Last.fm</a>
 							</li>
-							<li>
+							<li class="option">
 								<a href="http://www.youtube.com/user/simbobwe" title="YouTube">YouTube</a>
 							</li>
 							<div class="clear"><!--  --></div>
@@ -508,6 +507,7 @@
 						<?php date_default_timezone_set('Europe/Berlin'); echo $this->localize('document-copyright', date('Y')); ?>
 
 						<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-title'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-title'); ?>"><?php echo $this->localize('translate-title'); ?></a>
 					</p>
 				</div>
 			</div>

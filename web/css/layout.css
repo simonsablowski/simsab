@@ -23,7 +23,7 @@ a.collapse, a.expand, a.external {
 	border-bottom-left-radius: 15px;
 	padding: 10px 0;
 	position: fixed;
-	top: 139px;
+	top: 95px;
 	width: 160px;
 }
 
@@ -63,28 +63,20 @@ a.collapse, a.expand, a.external {
 }
 
 #head {
-	margin-left: 0px;
+	margin-left: 0;
 	position: relative;
 }
 
-#photo {
-	height: 138px;
-	position: absolute;
-	right: 25px;
-	top: 0;
-	width: 121px;
-}
-
 #logo {
-	height: 61px;
-	padding: 26px 0 0 27px;
-	width: 493px;
+	height: 45px;
+	padding: 20px 30px 0;
+	width: 363px;
 }
 
 #body {
 	clear: both;
 	line-height: 2.0;
-	padding: 47px 26px;
+	padding: 26px 26px 47px;
 	text-align: justify;
 }
 
@@ -112,9 +104,11 @@ a.collapse, a.expand, a.external {
 	padding: 0;
 }
 
-#body .sub-section {
-	overflow: hidden;
-	width: 323px;
+#body .about-me #photo {
+	height: 130px;
+	float: right;
+	margin: 0 0 30px 30px;
+	width: 114px;
 }
 
 #body .projects span {

@@ -1,35 +1,31 @@
-#large-photo {
-	border-color: #fff;
-}
-
-#menu .item a, #print a {
+#menu .item a {
 	color: #fff;
 }
 
-#content {
+#head, #content {
 	background-color: #fff;
 }
 
 html {
-	background-color: #f9f9f9;
+	background-color: #eee;
+}
+
+#body h2, #body h3 {
+	text-shadow: 0 1px 0 #ddd;
 }
 
 #menu .item a:hover, #menu .language a {
-	color: #bda;
-}
-
-#menu, #content {
-	-moz-box-shadow: 0 0 2px #ccc;
-	-webkit-box-shadow: 0 0 2px #ccc;
-	box-shadow: 0 0 2px #ccc;
+	color: #dec;
 }
 
 abbr, acronym {
 	border-color: #ccc;
 }
 
-#menu .item a, #print a {
-	text-shadow: 0 1px 0 #370;
+#menu, #content {
+	-moz-box-shadow: 0 0 1px #bbb;
+	-webkit-box-shadow: 0 0 1px #bbb;
+	box-shadow: 0 0 1px #bbb;
 }
 
 #body .projects .item .sub-line, #body .career .item .sub-line, #copyright, #copyright a {
@@ -44,14 +40,18 @@ abbr, acronym {
 	color: #390;
 }
 
-#menu {
-	background-color: #390;
+#menu .item a {
+	text-shadow: 0 1px 0 #592;
 }
 
-#body h2, #body h3 {
-	text-shadow: 0 1px 0 #ddd;
+#menu {
+	background-color: #5b2;
 }
 
 #body h2, #body h3, #body a, #body em, #body strong {
-	color: #390;
+	color: #5b2;
+}
+
+#menu .item .active {
+	color: #ff0;
 }
