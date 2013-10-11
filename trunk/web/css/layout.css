@@ -73,14 +73,14 @@ a.collapse, a.expand, a.external {
 
 #logo {
 	height: 45px;
-	padding: 20px 30px 0;
+	padding: 20px 47px 26px;
 	width: 364px;
 }
 
 #body {
 	clear: both;
 	line-height: 2.0;
-	padding: 26px 26px 47px;
+	padding: 0 67px 47px 47px;
 	text-align: justify;
 }
 
@@ -145,7 +145,7 @@ a.collapse, a.expand, a.external {
 
 #body .projects .description, #body .career .description {
 	margin-left: 0;
-	width: 496px;
+	width: 536px;
 }
 
 #body .projects .item .sub-line, #body .career .item .sub-line {
