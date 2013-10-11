@@ -10,16 +10,12 @@ html {
 	background-color: #eee;
 }
 
-#body h2, #body h3 {
-	text-shadow: 0 1px 0 #ddd;
-}
-
-#menu .item a:hover, #menu .language a {
+#menu .item a:hover {
 	color: #dec;
 }
 
 abbr, acronym {
-	border-color: #ccc;
+	border-color: #bbb;
 }
 
 #menu, #content {
@@ -28,7 +24,7 @@ abbr, acronym {
 	box-shadow: 0 0 1px #bbb;
 }
 
-#body .projects .item .sub-line, #body .career .item .sub-line, #copyright, #copyright a {
+#body .career .item .sub-line, #foot, #foot a {
 	color: #999;
 }
 
@@ -37,11 +33,7 @@ abbr, acronym {
 }
 
 #body .projects .tag .active {
-	color: #390;
-}
-
-#menu .item a {
-	text-shadow: 0 1px 0 #592;
+	color: #5b2;
 }
 
 #menu {
@@ -50,6 +42,10 @@ abbr, acronym {
 
 #body h2, #body h3, #body a, #body em, #body strong {
 	color: #5b2;
+}
+
+#menu .item a {
+	text-shadow: 0 1px 0 #592;
 }
 
 #menu .item .active {

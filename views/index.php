@@ -42,7 +42,7 @@
 			</div>
 			<div id="content">
 				<div id="head">
-					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.gif" alt="<?php echo $this->localize('document-title'); ?>" title="<?php echo $this->localize('document-title'); ?>"/></a>
+					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.png" alt="<?php echo $this->localize('document-title'); ?>" title="<?php echo $this->localize('document-title'); ?>"/></a>
 				</div>
 				<div id="body">
 					<div class="section about-me">
@@ -499,7 +499,7 @@
 					</div>
 				</div>
 				<div id="foot">
-					<p id="copyright">
+					<p>
 						<?php date_default_timezone_set('Europe/Berlin'); echo $this->localize('document-copyright', date('Y')); ?>
 
 						<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-title'); ?></a>
