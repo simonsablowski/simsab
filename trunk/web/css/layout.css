@@ -74,7 +74,7 @@ a.collapse, a.expand, a.external {
 #logo {
 	height: 45px;
 	padding: 20px 30px 0;
-	width: 363px;
+	width: 364px;
 }
 
 #body {
@@ -157,11 +157,11 @@ a.collapse, a.expand, a.external {
 	padding-bottom: 15px;
 }
 
-#copyright {
+#foot {
 	padding: 0 0 28px;
 	text-align: center;
 }
 
-#copyright a {
+#foot a {
 	margin-left: 26px;
 }
