@@ -100,6 +100,10 @@ body > #document {
 	padding-bottom: 10px;
 }
 
+#body .qualities .bullet {
+	padding-right: 250px;
+}
+
 #body .career .item, #body .career .description, #body .contact-me .options {
 	padding-bottom: 15px;
 }
@@ -108,7 +112,7 @@ body > #document {
 	float: left;
 }
 
-#body .projects .item , #body .career .item{
+#body .projects .item , #body .career .item {
 	clear: left;
 	width: 150px;
 }

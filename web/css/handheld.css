@@ -44,6 +44,10 @@
 	line-height: inherit;
 }
 
+#body .qualities .bullet {
+	padding-right: 0;
+}
+
 #body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
 	clear: none;
 	float: none;
