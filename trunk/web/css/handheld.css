@@ -38,7 +38,7 @@
 	padding: 0 0 80px 0;
 }
 
-#body .title {
+#body .title a {
 	font-size: 150%;
 	height: auto;
 	line-height: inherit;
