@@ -55,6 +55,8 @@ function initializeTagElements() {
 		updateTagCounters();
 		event.preventDefault();
 	});
+	
+	updateTagCounters();
 }
 
 function initializeExpandableElements() {
