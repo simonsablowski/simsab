@@ -1,105 +1,77 @@
+html, body, #document {
+	height: 100%;
+}
+
 body {
 	font-size: 14px;
+	line-height: 2.0;
 }
 
-li {
-	margin-left: 15px;
-}
-
-a.collapse, a.expand, a.external {
-	padding-right: 14px;
-}
-
-#document {
-	margin: auto;
-	position: relative;
-	width: 960px;
-}
-
-#menu {
-	-moz-border-radius-topleft: 15px;
-	-moz-border-radius-bottomleft: 15px;
-	-khtml-border-radius-topleft: 15px;
-	-khtml-border-radius-bottomleft: 15px;
-	-webkit-border-radius-topleft: 15px;
-	-webkit-border-radius-bottomleft: 15px;
-	border-top-left-radius: 15px;
-	border-bottom-left-radius: 15px;
-	padding: 15px 0;
-	position: fixed;
-	top: 96px;
-	width: 160px;
-}
-
-#menu .item {
-	height: 20px;
-	line-height: 2;
-	list-style: none;
-	margin: 0;
-	overflow: hidden;
-	padding: 0 20px 8px 0;
-}
-
-#menu .item a {
-	display: block;
-	height: 20px;
-	font-weight: bold;
-	text-align: right;
+a, em {
 	text-decoration: none;
 	white-space: nowrap;
 }
 
-#menu .language a {
-	font-weight: normal;
+li {
+	list-style: none;
 }
 
-#content {
-	-moz-border-radius-bottomleft: 15px;
-    -moz-border-radius-bottomright: 15px;
-	-khtml-border-radius-bottomleft: 15px;
-    -khtml-border-radius-bottomright: 15px;
-	-webkit-border-radius-bottomleft: 15px;
-    -webkit-border-radius-bottomright: 15px;
-	border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-	margin: 0 0 30px 160px;
-	width: 800px;
-}
-
-#head {
-	margin: 0;
+#document {
+	margin: 0 auto;
+	padding: 0 50px;
 	position: relative;
+	width: 860px;
+}
+
+body > #document {
+	height: auto;
+	min-height: 100%;
+}
+
+#header, #footer {
+	position: relative;
+}
+
+#header {
+	height: 100px;
 }
 
 #logo {
 	height: 45px;
-	padding: 20px 47px 26px;
+	margin: 20px 0;
 	width: 364px;
 }
 
-#body {
-	clear: both;
-	line-height: 2.0;
-	padding: 0 67px 47px 47px;
-	text-align: justify;
+#sidebar {
+	position: fixed;
+	top: 200px;
+	width: 150px;
 }
 
-#body h2 {
-	padding-top: 15px;
+#menu {
+	padding: 0 75px 0 0;
 }
 
-#body h2 a {
+#menu .item {
 	display: block;
-	font-weight: bold;
-	text-decoration: none;
+	padding: 0 0 10px;
+	text-align: right;
 }
 
-#body a, #body em {
-	white-space: nowrap;
+#body {
+	padding: 0 0 100px 150px;
 }
 
-#body .section {
-	padding-bottom: 26px;
+#body .title {
+	font-size: 100%;
+}
+
+#body .title a {
+	font-family: georgia, times new roman, serif;
+	font-size: 250%;
+	font-style: italic;
+	height: 100px;
+	line-height: 100px;
 }
 
 #body .section .clear {
@@ -108,30 +80,28 @@ a.collapse, a.expand, a.external {
 	padding: 0;
 }
 
-#body .about-me #photo {
-	height: 150px;
+#body .about-me .picture {
 	float: right;
+	height: 162px;
 	margin: 9px 0 30px 30px;
-	width: 132px;
-}
-
-#body .projects span {
-	white-space: nowrap;
+	width: 142px;
 }
 
 #body .projects .tags .tag, #body .contact-me .option {
-	display: inline;
 	float: left;
-	list-style-type: none;
 	margin: 0 30px 0 0;
 }
 
-#body .contact-me .wide {
-	width: 214px;
+#body .about-me .paragraph, #body .qualities .bullet, #body .projects .tags, #body .projects .item, #body .projects .description {
+	padding-bottom: 12px;
 }
 
-#body .projects .item, #body .projects .description {
+#body .qualities .bullet, #body .projects .tags, #body .projects .item, #body .projects .description {
 	padding-bottom: 10px;
+}
+
+#body .career .item, #body .career .description, #body .contact-me .options {
+	padding-bottom: 15px;
 }
 
 #body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
@@ -144,24 +114,22 @@ a.collapse, a.expand, a.external {
 }
 
 #body .projects .description, #body .career .description {
-	margin-left: 0;
-	width: 536px;
+	width: 560px;
 }
 
-#body .projects .item .sub-line, #body .career .item .sub-line {
+#body .sub-line {
     display: block;
-    font-size: 85%;
+    font-size: 75%;
 }
 
-#body .projects .tags, #body .career .item, #body .career .description, #body .contact-me .options {
-	padding-bottom: 15px;
+#footer {
+	clear: both;
+	height: 50px;
+	margin: -50px auto 0;
+	padding: 0 0 0 200px;
+	width: 760px;
 }
 
-#foot {
-	padding: 0 0 28px;
-	text-align: center;
-}
-
-#foot a {
-	margin-left: 26px;
+#footer a {
+	margin-left: 30px;
 }

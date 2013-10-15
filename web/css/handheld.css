@@ -1,81 +1,74 @@
 @import 'screen.css';
 
-html {
-	background-color: transparent;
-}
-
-#document, #content {
-	padding: 0;
+#document {
+	padding: 0 20px;
 	width: auto;
 }
 
-#menu, #content {
-	-moz-border-radius-topleft: 0;
-	-moz-border-radius-bottomleft: 0;
-	-moz-border-radius-topright: 0;
-	-moz-border-radius-bottomright: 0;
-	-khtml-border-radius-topleft: 0;
-	-khtml-border-radius-bottomleft: 0;
-	-khtml-border-radius-topright: 0;
-	-khtml-border-radius-bottomright: 0;
-	-webkit-border-radius-topleft: 0;
-	-webkit-border-radius-bottomleft: 0;
-	-webkit-border-radius-topright: 0;
-	-webkit-border-radius-bottomright: 0;
-	border-top-left-radius: 0;
-	border-bottom-left-radius: 0;
-	border-top-right-radius: 0;
-	border-bottom-right-radius: 0;
-	-moz-box-shadow: none;
-	-webkit-box-shadow: none;
-	box-shadow: none;
-}
-
-#menu {
-	top: 82px;
-	width: 140px;
-}
-
-#content {
-	border: 0 none;
-	margin: 0 0 0 140px;
-}
-
-#head {
-	margin: 15px 0 0 -140px;
+#header {
+	height: auto;
 }
 
 #logo {
 	height: 30px;
-	padding: 0 0 0 15px;
-	width: 242px;
+	margin: 20px 0 0;
+	width: 243px;
 }
 
-#photo {
-	height: 110px;
-	right: 0;
+#sidebar {
+	position: relative;
 	top: 0;
-	width: 96px;
+	width: auto;
+}
+
+#menu {
+	display: block;
+	padding: 10px 0 20px;
+	height: auto;
+	width: auto;
+}
+
+#menu .item {
+	display: inline;
+	padding: 0 10px 0 0;
+	text-align: left;
 }
 
 #body {
-	padding: 32px 0 32px 20px;
-	text-align: left;
-	width: auto;
+	padding: 0 0 80px 0;
 }
 
-#body .sub-section {
-	float: none;
-	width: auto !important;
+#body .title {
+	font-size: 150%;
+	height: auto;
+	line-height: inherit;
 }
 
-#body .projects .item, #body .career .item, #body .projects .description, #body .career .description {
+#body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
 	clear: none;
 	float: none;
-	padding-bottom: 0;
 	width: auto;
+}
+
+#body .projects .item, #body .career .item {
+	padding-bottom: 0;
 }
 
 #body .projects .description, #body .career .description {
 	margin-left: 20px;
+	padding-bottom: 10px;
+}
+
+#body .contact-me .option {
+	float: none;
+	display: block;
+}
+
+#footer {
+	padding: 0 20px;
+	width: auto;
+}
+
+#footer a {
+	margin-left: 10px;
 }

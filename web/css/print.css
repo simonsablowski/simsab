@@ -1,5 +1,20 @@
 @import 'screen.css';
 
+html {
+	background-color: transparent;
+	background-image: none;
+	background-repeat: repeat-x;
+	color: #000;
+}
+
+h2 {
+	text-shadow: none;
+}
+
+h2, a, em, strong {
+	color: #000;
+}
+
 abbr {
 	border-color: transparent;
 }
@@ -8,57 +23,16 @@ abbr {
 	width: auto;
 }
 
-#sidebar, #body .projects .tags, #foot {
+#sidebar, #footer {
 	display: none;
 }
 
-#head {
-	padding-top: 0;
-	width: 100%;
-}
-
-#menu, #content {
-	-moz-border-radius-topleft: 0;
-	-moz-border-radius-bottomleft: 0;
-	-moz-border-radius-topright: 0;
-	-moz-border-radius-bottomright: 0;
-	-khtml-border-radius-topleft: 0;
-	-khtml-border-radius-bottomleft: 0;
-	-khtml-border-radius-topright: 0;
-	-khtml-border-radius-bottomright: 0;
-	-webkit-border-radius-topleft: 0;
-	-webkit-border-radius-bottomleft: 0;
-	-webkit-border-radius-topright: 0;
-	-webkit-border-radius-bottomright: 0;
-	border-top-left-radius: 0;
-	border-bottom-left-radius: 0;
-	border-top-right-radius: 0;
-	border-bottom-right-radius: 0;
-	-moz-box-shadow: none;
-	-webkit-box-shadow: none;
-	box-shadow: none;
-}
-
-#content {
-	border: 0 none;
-	margin-left: 0;
-}
-
 #logo {
-	height: 30px;
-	width: 242px;
-}
-
-#photo {
-	height: 110px;
-	top: 0;
-	width: 96px;
+	margin: 0;
 }
 
 #body {
-	border: 0 none;
-	text-align: left;
-	width: auto;
+	padding: 0;
 }
 
 #body a.external {
@@ -70,20 +44,32 @@ abbr {
 	content: " <"attr(href)">";
 }
 
+#body .title {
+	font-size: 100%;
+	font-weight: bold;
+	height: auto;
+	line-height: normal;
+	padding-bottom: 20px;
+}
+
+#body .section {
+	padding-bottom: 40px;
+}
+
 #body .section, #body .section .items .description .expandable {
 	display: block !important;
 }
 
-#body .sub-section {
-	float: none;
-	width: auto !important;
+#body .about-me .paragraph, #body .qualities .bullet, #body .projects .tags, #body .projects .item,
+#body .projects .description, #body .career .item, #body .career .description {
+	padding-bottom: 0;
 }
 
-#body .projects, #body .career {
-	text-align: left;
+#body .projects .tags {
+	display: none;
 }
 
-#body .projects .item, #body .career .item, #body .projects .description, #body .career .description {
+#body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
 	clear: none;
 	float: none;
 	padding-bottom: 0;
@@ -91,10 +77,10 @@ abbr {
 }
 
 #body .projects .description, #body .career .description {
-	margin-left: 20px;
+	margin-left: 40px;
 }
 
-#body .contact-me li {
+#body .contact-me .option {
 	float: none;
 	display: block;
 }
