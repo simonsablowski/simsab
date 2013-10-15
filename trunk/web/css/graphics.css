@@ -1,15 +1,19 @@
-#body li {
-	list-style-image: url('../img/list-item.gif');
+#body li.bullet {
+	list-style-image: url('../img/list-item.png');
+	margin-left: 14px;
 }
 
 #body a.collapse {
-	background: url('../img/collapse.gif') no-repeat right center;
+	background: url('../img/collapse.png') no-repeat right center;
+	padding-right: 14px;
 }
 
 #body a.expand {
-	background: url('../img/expand.gif') no-repeat right center;
+	background: url('../img/expand.png') no-repeat right center;
+	padding-right: 14px;
 }
 
 #body a.external {
-	background: url('../img/external.gif') no-repeat right center;
+	background: url('../img/external.png') no-repeat right center;
+	padding-right: 14px;
 }

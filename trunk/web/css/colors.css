@@ -1,53 +1,35 @@
-#menu .item a {
+html {
+	background-color: #343;
+	background-image: linear-gradient(#121, #343);
+	background-repeat: repeat-x;
 	color: #fff;
 }
 
-#head, #content {
-	background-color: #fff;
+a, em, strong {
+	color: #bea;
 }
 
-html {
-	background-color: #eee;
-}
-
-#menu .item a:hover {
-	color: #dec;
-}
-
-abbr, acronym {
-	border-color: #bbb;
-}
-
-#menu, #content {
-	-moz-box-shadow: 0 0 1px #bbb;
-	-webkit-box-shadow: 0 0 1px #bbb;
-	box-shadow: 0 0 1px #bbb;
-}
-
-#body .career .item .sub-line, #foot, #foot a {
-	color: #999;
-}
-
-#body .projects .tag .inactive {
-	color: #999;
-}
-
-#body .projects .tag .active {
-	color: #5b2;
-}
-
-#menu {
-	background-color: #5b2;
-}
-
-#body h2, #body h3, #body a, #body em, #body strong {
-	color: #5b2;
-}
-
-#menu .item a {
-	text-shadow: 0 1px 0 #592;
+#menu .item a, #body .title a {
+	color: #bea;
+	text-shadow: 0 2px 0 #000;
 }
 
 #menu .item .active {
-	color: #ff0;
+	color: #ffa;
+}
+
+#body .title {
+	color: #bea;
+}
+
+#body .sub-line {
+	color: #cdc;
+}
+
+#body .projects .tag .inactive {
+	color: #cdc;
+}
+
+#body .projects .tag .active {
+	color: #ffa;
 }

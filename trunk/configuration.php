@@ -30,4 +30,5 @@ $configuration['Request'] = array(
 	'aliasQueries' => array()
 );
 
+$configuration['pathSeparator'] = '#';
 $configuration['debugMode'] = FALSE;

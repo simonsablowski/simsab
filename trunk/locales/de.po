@@ -1,4 +1,4 @@
-#head
+#header
 
 msgid "document-title"
 msgstr "simsab"
@@ -23,48 +23,48 @@ msgstr "simon sablowski, sablowski, berlin, web-entwicklung, software-architektu
 msgid "about-me-path"
 msgstr "ueber-mich"
 
-msgid "about-me-title"
+msgid "about-me-menu-title"
 msgstr "Über mich"
 
 msgid "qualities-path"
 msgstr "qualitaeten"
 
-msgid "qualities-title"
+msgid "qualities-menu-title"
 msgstr "Qualitäten"
 
 msgid "projects-path"
 msgstr "projekte"
 
-msgid "projects-title"
+msgid "projects-menu-title"
 msgstr "Projekte"
 
 msgid "career-path"
 msgstr "karriere"
 
-msgid "career-title"
+msgid "career-menu-title"
 msgstr "Karriere"
 
 msgid "contact-me-path"
 msgstr "kontakt"
 
-msgid "contact-me-title"
+msgid "contact-me-menu-title"
 msgstr "Kontakt"
-
-msgid "translate-path"
-msgstr "en"
-
-msgid "translate-title"
-msgstr "English version"
 
 #about-me
 
+msgid "about-me-title"
+msgstr "Ich bin&hellip;"
+
 msgid "about-me-paragraph1"
-msgstr "Ich bin ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement und agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in verschiedenen Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> Erfahrung gesammelt."
+msgstr "&hellip;ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projekt-<br/>management und agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> gearbeitet und zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
 
 msgid "about-me-paragraph2"
-msgstr "In den letzten Jahren habe ich zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten. Ich bin offen für neue Angebote!"
+msgstr "Aktuell bin ich offen für neue Angebote!"
 
 #qualities
+
+msgid "qualities-title"
+msgstr "Meine Qualitäten"
 
 msgid "qualities-paragraph1"
 msgstr "Begeisterter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von hochqualitativen Web-Anwendungen (hauptsächlich <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> Stack)"
@@ -85,6 +85,9 @@ msgid "qualities-paragraph6"
 msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder, Investoren und Kunden"
 
 #projects
+
+msgid "projects-title"
+msgstr "Ausgewählte Projekte"
 
 msgid "source-code-title"
 msgstr "Quellcode"
@@ -247,6 +250,9 @@ msgstr "URL-Kürzer auf Basis von PHP, MySQL und Memcache"
 
 #career
 
+msgid "career-title"
+msgstr "Meine Karriere"
+
 msgid "from-until"
 msgstr "%s - %s"
 
@@ -327,6 +333,9 @@ msgstr "Abgesehen von Kundenanwendungen für Desktop- und Mobile-Browser, Androi
 
 #contact-me
 
+msgid "contact-me-title"
+msgstr "Kontaktieren Sie mich"
+
 msgid "contact-me-paragraph1"
 msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert.<br/>Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
 
@@ -351,7 +360,7 @@ msgstr "Gern können Sie außerdem meine Profile in den folgenden sozialen Netzw
 msgid "contact-me-paragraph3"
 msgstr "Besuchen Sie auch mein Online-Portfolio für Aktzeichnung, Charakter-Design, Portraits und Karikaturen:"
 
-#copyright
+#footer
 
 msgid "document-copyright"
 msgstr "&copy; 1999-%d Simon Sablowski"
@@ -361,3 +370,9 @@ msgstr "impressum"
 
 msgid "legal-notice-title"
 msgstr "Impressum"
+
+msgid "translate-path"
+msgstr "en"
+
+msgid "translate-title"
+msgstr "English version"
