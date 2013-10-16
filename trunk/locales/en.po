@@ -56,7 +56,7 @@ msgid "about-me-title"
 msgstr "I am&hellip;"
 
 msgid "about-me-paragraph1"
-msgstr "&hellip;a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have worked in several online startups and established corporations in positions ranging from software developer to <abbr title="Chief Technology Officer">CTO</abbr> and I have successfully managed numerous web projects, many of which were able to reach market leadership."
+msgstr "&hellip;a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have worked both in online startups and in established corporations, in positions ranging from software developer to <abbr title="Chief Technology Officer">CTO</abbr>. I have successfully managed numerous web projects, many of which were able to reach market leadership."
 
 msgid "about-me-paragraph2"
 msgstr "Currently I am open for new opportunities!"
@@ -67,22 +67,99 @@ msgid "qualities-title"
 msgstr "My qualities"
 
 msgid "qualities-paragraph1"
-msgstr "Avid software engineer with more than 10 years of experience of professionally developing and maintaining high quality web applications (primarily <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> stack)"
-
-msgid "qualities-paragraph2"
 msgstr "Strong leader with excellent people and communication skills, proven by successfully assembling and managing multinational and multicultural teams of up to 100 specialists"
 
+msgid "qualities-paragraph2"
+msgstr "Avid software engineer with more than 10 years experience of professionally developing and maintaining cutting-edge web applications (primarily <abbr title="Linux Apache MySQL PHP">LAMP</abbr> stack)"
+
 msgid "qualities-paragraph3"
-msgstr "Highly motivated and enthusiastic coach for agile and lean methodologies, continuously increasing engineering teams' efficiency and output noticeably"
+msgstr "Highly motivated and enthusiastic coach for agile and lean methodologies, continuously increasing engineering teams' efficiency and output"
 
 msgid "qualities-paragraph4"
 msgstr "Strong entrepreneurial spirit and experience with founding startups and launching numerous projects, passionate about growth and innovation"
 
 msgid "qualities-paragraph5"
-msgstr "Focused on delivering results on time and in line with the budget, always strictly following priorities and concerned about the optimization of business metrics"
+msgstr "Focused on delivering results on time and in line with the budget, in accordance with agreed priorities and with concern for the optimization of business metrics"
 
 msgid "qualities-paragraph6"
 msgstr "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders, investors and clients"
+
+#career
+
+msgid "career-title"
+msgstr "My career"
+
+msgid "from-until"
+msgstr "%s - %s"
+
+msgid "one-year"
+msgstr "1 month"
+
+msgid "several-months"
+msgstr "%d months"
+
+msgid "one-year"
+msgstr "1 year"
+
+msgid "several-years"
+msgstr "%d years"
+
+msgid "freelance-title"
+msgstr "Freelance web and software development"
+
+msgid "freelance-description"
+msgstr "Throughout my career I have gained experience working in advertising agencies, <span class="no-wrap">e-commerce</span> startups and established online business corporations. My main focus lay with software architecture, core and backend development, technical conception, prototyping, refactoring and database design."
+
+msgid "mytourclips-job-title"
+msgstr "Core and feature development at mytourclips"
+
+msgid "mytourclips-job-details-paragraph1"
+msgstr "Relevant areas: Multimedia, video streaming, social network/community, editiorially maintainable and user-generated content, internationalization, scaling, high availability, affiliating, booking engines and automated content aggregation."
+
+msgid "mytourclips-job-details-paragraph2"
+msgstr "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
+
+msgid "motivado-job-title"
+msgstr "Founder and <abbr title="Chief Technology Officer">CTO</abbr> at %sMotivado%s"
+
+msgid "motivado-job-details-paragraph1"
+msgstr "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with an approach of mass customization for coaching content."
+
+msgid "motivado-job-details-paragraph2"
+msgstr "I developed Motivado's complex software with the support of an agile team of around seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
+
+msgid "motivado-job-details-paragraph3"
+msgstr "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
+
+msgid "rocket-internet-title"
+msgstr "Rocket Internet"
+
+msgid "rocket-internet-job-title"
+msgstr "Director Software Engineering at %sRocket Internet%s"
+
+msgid "rocket-internet-job-details-paragraph1"
+msgstr "Rocket Internet is the world's largest online business incubator with hundreds of successful e-commerce projects and tens of thousands of employees on all continents."
+
+msgid "rocket-internet-job-details-paragraph2"
+msgstr "At Rocket Internet, I was in charge of all newly launched projects, heading a team of around 100 software engineers, project managers and test analysts in Berlin and interfacing with Rocket Internet's international technology centres."
+
+msgid "rocket-internet-job-details-paragraph3"
+msgstr "My main tasks were technical supervision, establishing processes and workflows as well as recruiting, training and leading engineering teams. I also acted as a mentor for the engineering teams of some of Rocket Internet's matured ventures."
+
+msgid "foodpanda-title"
+msgstr "Foodpanda"
+
+msgid "foodpanda-job-title"
+msgstr "<abbr title="Chief Technology Officer">CTO</abbr> at %sFoodpanda%s"
+
+msgid "foodpanda-job-details-paragraph1"
+msgstr "Foodpanda is globally the fastest growing online food delivery service. Accelerated by Rocket Internet, the company focuses especially on emerging markets. Together with its affiliated brand Hellofood, Foodpanda operates in Asia, Europe, Latin America, Africa and Middle-East reaching three billion people worldwide."
+
+msgid "foodpanda-job-details-paragraph2"
+msgstr "I was responsible for assembling and leading a team of 30+ software engineers, system engineers, product managers and test analysts to successfully run our service in 30+ countries. The main challenge was to ensure an excellent user experience and frequent product improvements and feature releases while maintaining the existing projects. Together, we managed to establish solid yet agile development processes and perform weekly deployments while continuously optimizing our software and systems with regard to scalability, performance and security."
+
+msgid "foodpanda-job-details-paragraph3"
+msgstr "Apart from client applications for desktop and mobile browsers, Android and iOS platforms, the software engineers developed a rich backend application for managing orders, vendors and promotions and implemented individual integrations for partner restaurants' point of sale systems."
 
 #projects
 
@@ -177,10 +254,10 @@ msgid "nacho-description"
 msgstr "Web application framework"
 
 msgid "nacho-details-paragraph1"
-msgstr "Combining the principles of rapid development and convention over configuration, the <abbr title="Mobel View Controller">MVC</abbr>-based web application framework nacho is both lightweight and extremely powerful. Many PHP 5.3 features have been utilized in the development of nacho, among others: Reflection, magic methods, error backtracking, class abstraction, namespaces, type hinting and autoloading."
+msgstr "Combining the principles of rapid development and convention over configuration, the <abbr title="Mobel View Controller">MVC</abbr>-based web application framework nacho is both lightweight and powerful."
 
 msgid "nacho-details-paragraph2"
-msgstr "Furthermore, the software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering, database abstraction and user input validation."
+msgstr "The software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering, database abstraction and user input validation."
 
 msgid "coaching-ui-title"
 msgstr "Coaching <abbr title="User Interface">UI</abbr>"
@@ -247,89 +324,6 @@ msgstr "shrtn"
 
 msgid "shrtn-description"
 msgstr "URL shortener based on PHP, MySQL and Memcache"
-
-#career
-
-msgid "career-title"
-msgstr "My career"
-
-msgid "from-until"
-msgstr "%s - %s"
-
-msgid "one-year"
-msgstr "1 month"
-
-msgid "several-months"
-msgstr "%d months"
-
-msgid "one-year"
-msgstr "1 year"
-
-msgid "several-years"
-msgstr "%d years"
-
-msgid "freelance-title"
-msgstr "Freelance web and software development"
-
-msgid "freelance-description"
-msgstr "Throughout my career I have gained experience working in advertising agencies, e-commerce startups and established online business corporations. My main focus lay with software architecture, core and backend development, technical conception, prototyping, refactoring and database design."
-
-msgid "111-job-title"
-msgstr "Software developer at 111 Group"
-
-msgid "111-job-details-paragraph1"
-msgstr "Software development and website maintenance for the 111 Group and the subsidiary companies of the real estate and tourism branches"
-
-msgid "mytourclips-job-title"
-msgstr "Core and feature development at mytourclips"
-
-msgid "mytourclips-job-details-paragraph1"
-msgstr "Relevant areas: Multimedia, video streaming, social network/community, editiorially maintainable and user-generated content, internationalization, scaling, high availability, affiliating, booking engines and automated content aggregation."
-
-msgid "mytourclips-job-details-paragraph2"
-msgstr "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
-
-msgid "motivado-job-title"
-msgstr "Founder and <abbr title="Chief Technology Officer">CTO</abbr> at %sMotivado%s"
-
-msgid "motivado-job-details-paragraph1"
-msgstr "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with an approach of mass customization for coaching content."
-
-msgid "motivado-job-details-paragraph2"
-msgstr "I developed Motivado's complex software with the support of an agile team of around seven members. Our innovative technologies have been awarded by Germany's Federal Ministry for Economy and Technology."
-
-msgid "motivado-job-details-paragraph3"
-msgstr "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
-
-msgid "rocket-internet-title"
-msgstr "Rocket Internet"
-
-msgid "rocket-internet-job-title"
-msgstr "Director Software Engineering at %sRocket Internet%s"
-
-msgid "rocket-internet-job-details-paragraph1"
-msgstr "Rocket Internet is the world's largest online business incubator with hundreds of successful e-commerce projects and tens of thousands of employees on all continents."
-
-msgid "rocket-internet-job-details-paragraph2"
-msgstr "At Rocket Internet, I was in charge of all newly launched projects, heading a team of around 100 software engineers, project managers and test analysts in Berlin and interfacing with Rocket Internet's international technology centres."
-
-msgid "rocket-internet-job-details-paragraph3"
-msgstr "My main tasks were technical supervision, establishing processes and workflows as well as recruiting, training and leading engineering teams. I also acted as a mentor for the engineering teams of some of Rocket Internet's matured ventures."
-
-msgid "foodpanda-title"
-msgstr "Foodpanda"
-
-msgid "foodpanda-job-title"
-msgstr "<abbr title="Chief Technology Officer">CTO</abbr> at %sFoodpanda%s"
-
-msgid "foodpanda-job-details-paragraph1"
-msgstr "Foodpanda is the fastest growing online food delivery service globally. Accelerated by Rocket Internet, the company focuses especially on emerging markets. Together with its affiliated brand Hellofood Foodpanda operates in Asia, Europe, Latin America, Africa and Middle-East reaching three billion people worldwide."
-
-msgid "foodpanda-job-details-paragraph2"
-msgstr "I was responsible for assembling and leading a team of 30+ software engineers, product managers and test analysts to successfully run our service in 30+ countries. The main challenge was to ensure an excellent user experience and frequent product improvements and feature releases while maintaining the existing projects. Together, we managed to establish solid yet agile development processes and perform weekly deployments while continuously optimizing our software and systems with regard to scalability, performance and security."
-
-msgid "foodpanda-job-details-paragraph3"
-msgstr "Apart from client applications for desktop and mobile browsers, Android and iOS platforms, the software engineers developed a rich backend application for managing orders, vendors and promotions and implemented individual integrations for partner restaurants' point of sale systems."
 
 #contact-me
 

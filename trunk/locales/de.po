@@ -56,7 +56,7 @@ msgid "about-me-title"
 msgstr "Ich bin&hellip;"
 
 msgid "about-me-paragraph1"
-msgstr "&hellip;ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projekt-<br/>management und agilen Methodologien. Im Laufe meiner Karriere habe ich in diversen Online-Startups sowie in etablierten Unternehmen in Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> gearbeitet und zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
+msgstr "&hellip;ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projekt-<br/>management und agilen Methodologien. Im Laufe meiner Karriere habe ich sowohl in Online-Startups als auch in etablierten Unternehmen in Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> gearbeitet. Ich habe zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
 
 msgid "about-me-paragraph2"
 msgstr "Aktuell bin ich offen für neue Angebote!"
@@ -67,22 +67,99 @@ msgid "qualities-title"
 msgstr "Meine Qualitäten"
 
 msgid "qualities-paragraph1"
-msgstr "Begeisterter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von hochqualitativen Web-Anwendungen (hauptsächlich <abbr title="Linux/Apache/MySQL/PHP">LAMP</abbr> Stack)"
+msgstr "Starker Anführer mit ausgezeichneten sozialen und kommunikativen Fähigkeiten, erfolgreiche Zusammenstellung und Leitung von multinationalen und multikulturellen Teams von bis zu 100 Spezialisten"
 
 msgid "qualities-paragraph2"
-msgstr "Starker Anführer mit ausgezeichneten sozialen und kommunikativen Fähigkeiten, erfolgreiche Zusammenstellung und Leitung von multinationalen und multikulturellen Teams von bis zu 100 Spezialisten"
+msgstr "Begeisterter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von hochmodernen Web-Anwendungen (hauptsächlich <abbr title="Linux Apache MySQL PHP">LAMP</abbr> Stack)"
 
 msgid "qualities-paragraph3"
 msgstr "Hochmotivierter and enthusiastischer Coach für Agile- und Lean-Methodologien, kontinuierliche Steigerung der Effizienz und des Outputs von Entwicklungs-Teams"
 
 msgid "qualities-paragraph4"
-msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung von Startups und der Inbetriebnahme von zahlreichen Projekten, Leidenschaft für Wachstum und Innovation"
+msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung von Startups und der Markteinführung von zahlreichen Projekten, Leidenschaft für Wachstum und Innovation"
 
 msgid "qualities-paragraph5"
-msgstr "Fokus auf die Lieferung von Ergebnissen termingerecht und im Budgetrahmen, stets streng Prioritäten verfolgend and beschäftigt mit der Optimierung von Geschäftsmetriken"
+msgstr "Fokus auf die Lieferung von Ergebnissen termingerecht und im Budgetrahmen, im Einklang mit vereinbarten Prioritäten und mit dem Ziel der Optimierung von Geschäftsmetriken"
 
 msgid "qualities-paragraph6"
-msgstr "Viele Jahre an Erfahrung als Schnittstelle zu verschiedenen Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder, Investoren und Kunden"
+msgstr "Viele Jahre Erfahrung als Schnittstelle zu interdisziplinären Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder, Investoren und Kunden"
+
+#career
+
+msgid "career-title"
+msgstr "Meine Karriere"
+
+msgid "from-until"
+msgstr "%s - %s"
+
+msgid "one-year"
+msgstr "1 Monat"
+
+msgid "several-months"
+msgstr "%d Monate"
+
+msgid "one-year"
+msgstr "1 Jahr"
+
+msgid "several-years"
+msgstr "%d Jahre"
+
+msgid "freelance-title"
+msgstr "Freiberufliche Web- und Software-Entwicklung"
+
+msgid "freelance-description"
+msgstr "Im Laufe meiner Karriere habe ich in Werbeagenturen, E-Commerce-Startups und etablierten Online-Unternehmen Erfahrung gesammelt. Meine Schwerpunkte waren dabei Software-Architektur, Core- und Backend-Entwicklung, technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
+
+msgid "mytourclips-job-title"
+msgstr "Core- und Feature-Entwicklung bei mytourclips"
+
+msgid "mytourclips-job-details-paragraph1"
+msgstr "Themenbereiche: Multimedia, Video-Streaming, Social Network/Community, redaktionell gepflegte Inhalte sowie User-Generated Content, Internationalisierung, Skalierung, High Availability, Affiliating, Buchungssysteme und Content-Aggregation."
+
+msgid "mytourclips-job-details-paragraph2"
+msgstr "Im Juni 2008 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
+
+msgid "motivado-job-title"
+msgstr "Gründer und <abbr title="Chief Technology Officer">CTO</abbr> bei %sMotivado%s"
+
+msgid "motivado-job-details-paragraph1"
+msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
+
+msgid "motivado-job-details-paragraph2"
+msgstr "Motivados komplexe Software wurde von mir mit Unterstützung eines agilen Teams aus rund sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
+
+msgid "motivado-job-details-paragraph3"
+msgstr "Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden Hunderte von Produkten in Premiumqualität."
+
+msgid "rocket-internet-title"
+msgstr "Rocket Internet"
+
+msgid "rocket-internet-job-title"
+msgstr "Director Software Engineering bei %sRocket Internet%s"
+
+msgid "rocket-internet-job-details-paragraph1"
+msgstr "Rocket Internet ist der weltgrößte Inkubator für Online-Geschäfte mit Hunderten von erfolgreichen E-Commerce-Projekten und Zehntausenden Mitarbeitern auf allen Kontinenten."
+
+msgid "rocket-internet-job-details-paragraph2"
+msgstr "Bei Rocket Internet war ich verantwortlich für sämtliche neu gestarteten Projekte, außerdem Leiter eines Team von rund 100 Software-Entwicklern, Projektmanagern und Testanalysten in Berlin und Schnittstelle für Rocket Internets internationale Technologiezentren."
+
+msgid "rocket-internet-job-details-paragraph3"
+msgstr "Meine Hauptaufgaben waren die technische Leitung, das Etablieren von Prozessen und Abläufen sowie die Rekrutierung, das Training und die Führung von Entwicklungs-Teams. Außerdem war ich Mentor für die Entwicklungs-Teams von manchen von Rocket Internets weiterentwickelten Projekten."
+
+msgid "foodpanda-title"
+msgstr "Foodpanda"
+
+msgid "foodpanda-job-title"
+msgstr "<abbr title="Chief Technology Officer">CTO</abbr> bei %sFoodpanda%s"
+
+msgid "foodpanda-job-details-paragraph1"
+msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Inkubiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte. Zusammen mit seiner Schwestermarke Hellofood operiert Foodpanda in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
+
+msgid "foodpanda-job-details-paragraph2"
+msgstr "Ich war verantwortlich für die Zusammenstellung und Führung eines Teams von 30+ Software-Entwicklern, Systemadministratoren, Produktmanagern und Testanalysten und die Verwaltung unserer Projekte in 30+ Ländern. Dabei war die größte Herausforderung ein ausgezeichnetes Kundenerlebnis, häufige Produktverbesserungen und Feature-Veröffentlichungen zu gewährleisten und gleichzeitig die existierenden Projekte zu betreuen. Zusammen haben wir solide und agile Entwicklungsprozesse eingeführt, wöchentliche Updates durchgeführt und kontiunierlich unsere Software und Systemlandschaft in Bezug auf Skalierbarkeit, Performance und Sicherheit optimiert."
+
+msgid "foodpanda-job-details-paragraph3"
+msgstr "Abgesehen von Kundenanwendungen für Desktop- und Mobile-Browser, Android- und iOS-Plattformen haben die Software-Entwickler eine komplexe Backend-Anwendung entwickelt, mit der Bestellungen, Anbieter und Promotions verwaltet werden können, und individuelle Integrationen für die Kassensysteme der Partner-Restaurants entwickelt."
 
 #projects
 
@@ -177,10 +254,10 @@ msgid "nacho-description"
 msgstr "Web Application Framework"
 
 msgid "nacho-details-paragraph1"
-msgstr "Die Prinzipien Rapid Development und Convention Over Configuration sind im <abbr title="Mobel View Controller">MVC</abbr>-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig in seinen Möglichkeiten und viele PHP 5.3-Features wurden integriert, unter anderem: Reflection, Magic Methods, Error Backtracking, Klassenabstraktion, Namensräume, Type Hinting und Autoloading."
+msgstr "Die Prinzipien Rapid Development und Convention Over Configuration sind im <abbr title="Mobel View Controller">MVC</abbr>-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig."
 
 msgid "nacho-details-paragraph2"
-msgstr "Darüber hinaus bietet das Software-Paket umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering, Datenbankabstraktion sowie User-Input-Validierung."
+msgstr "Das Software-Paket bietet umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering, Datenbankabstraktion sowie User-Input-Validierung."
 
 msgid "coaching-ui-title"
 msgstr "Coaching-<abbr title="User Interface">UI</abbr>"
@@ -247,89 +324,6 @@ msgstr "shrtn"
 
 msgid "shrtn-description"
 msgstr "URL-Kürzer auf Basis von PHP, MySQL und Memcache"
-
-#career
-
-msgid "career-title"
-msgstr "Meine Karriere"
-
-msgid "from-until"
-msgstr "%s - %s"
-
-msgid "one-year"
-msgstr "1 Monat"
-
-msgid "several-months"
-msgstr "%d Monate"
-
-msgid "one-year"
-msgstr "1 Jahr"
-
-msgid "several-years"
-msgstr "%d Jahre"
-
-msgid "freelance-title"
-msgstr "Freiberufliche Web- und Software-Entwicklung"
-
-msgid "freelance-description"
-msgstr "Im Laufe meiner Karriere habe ich in Werbeagenturen, E-Commerce-Startups und etablierten Online-Unternehmen Erfahrung gesammelt. Meine Schwerpunkte waren dabei Software-Architektur, Core- und Backend-Entwicklung, technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
-
-msgid "111-job-title"
-msgstr "Software-Entwicklung bei 111 Group"
-
-msgid "111-job-details-paragraph1"
-msgstr "Software-Entwicklung und Betreuung der Webpräsenzen für die 111 Group und die Tochterunternehmen in den Sparten Immobilien und Touristik"
-
-msgid "mytourclips-job-title"
-msgstr "Core- und Feature-Entwicklung bei mytourclips"
-
-msgid "mytourclips-job-details-paragraph1"
-msgstr "Themenbereiche: Multimedia, Video-Streaming, Social Network/Community, redaktionell gepflegte Inhalte sowie User-Generated Content, Internationalisierung, Skalierung, High Availability, Affiliating, Buchungssysteme und Content-Aggregation."
-
-msgid "mytourclips-job-details-paragraph2"
-msgstr "Im Juni 2008 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
-
-msgid "motivado-job-title"
-msgstr "Gründer und <abbr title="Chief Technology Officer">CTO</abbr> bei %sMotivado%s"
-
-msgid "motivado-job-details-paragraph1"
-msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
-
-msgid "motivado-job-details-paragraph2"
-msgstr "Motivados komplexe Software wurde von mir mit Unterstützung eines agilen Teams aus rund sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
-
-msgid "motivado-job-details-paragraph3"
-msgstr "Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden Hunderte von Produkten in Premiumqualität."
-
-msgid "rocket-internet-title"
-msgstr "Rocket Internet"
-
-msgid "rocket-internet-job-title"
-msgstr "Director Software Engineering bei %sRocket Internet%s"
-
-msgid "rocket-internet-job-details-paragraph1"
-msgstr "Rocket Internet ist der weltgrößte Katalysator für Online-Geschäfte mit Hunderten von erfolgreichen E-Commerce-Projekten und Zehntausenden Mitarbeitern auf allen Kontinenten."
-
-msgid "rocket-internet-job-details-paragraph2"
-msgstr "Bei Rocket Internet war ich verantwortlich für sämtliche neu gestarteten Projekte, außerdem Leiter eines Team von rund 100 Software-Entwicklern, Projektmanagern und Testanalysten in Berlin und Schnittstelle für Rocket Internets internationale Technologiezentren."
-
-msgid "rocket-internet-job-details-paragraph3"
-msgstr "Meine Hauptaufgaben waren die technische Leitung, das Etablieren von Prozessen und Abläufen sowie die Rekrutierung, das Training und die Führung von Entwicklungs-Teams. Außerdem war ich Mentor für die Entwicklungs-Teams von manchen von Rocket Internets weiterentwickelten Projekten."
-
-msgid "foodpanda-title"
-msgstr "Foodpanda"
-
-msgid "foodpanda-job-title"
-msgstr "<abbr title="Chief Technology Officer">CTO</abbr> bei %sFoodpanda%s"
-
-msgid "foodpanda-job-details-paragraph1"
-msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Katalysiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte. Zusammen mit seiner Schwestermarke Hellofood operiert Foodpanda in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
-
-msgid "foodpanda-job-details-paragraph2"
-msgstr "Ich war verantwortlich für die Zusammenstellung und Führung eines Teams von 30+ Software-Entwicklern, Produktmanagern und Testanalysten und die Verwaltung unserer Projekte in 30+ Ländern. Die große Herausforderung war es dabei ein ausgezeichnetes Kundenerlebnis, häufige Produktverbesserungen und Feature-Veröffentlichungen zu gewährleisten und gleichzeitig die existierenden Projekte zu betreuen. Zusammen haben wir solide und agile Entwicklungsprozesse eingeführt, wöchentliche Updates durchgeführt und kontiunierlich unsere Software und Systemlandschaft in Bezug auf Skalierbarkeit, Performance und Sicherheit optimiert."
-
-msgid "foodpanda-job-details-paragraph3"
-msgstr "Abgesehen von Kundenanwendungen für Desktop- und Mobile-Browser, Android- und iOS-Plattformen haben die Software-Entwickler eine komplexe Backend-Anwendung entwickelt, mit der Bestellungen, Anbieter und Promotions verwaltet werden können, und individuelle Integrationen für die Kassensysteme der Partner-Restaurants entwickelt."
 
 #contact-me
 

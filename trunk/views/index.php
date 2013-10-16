@@ -33,10 +33,10 @@
 						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('qualities-path'); ?>" title="<?php echo $this->localize('qualities-menu-title'); ?>"><?php echo $this->localize('qualities-menu-title'); ?></a>
 					</li>
 					<li class="item">
-						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('projects-menu-title'); ?>"><?php echo $this->localize('projects-menu-title'); ?></a>
+						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('career-menu-title'); ?>"><?php echo $this->localize('career-menu-title'); ?></a>
 					</li>
 					<li class="item">
-						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('career-menu-title'); ?>"><?php echo $this->localize('career-menu-title'); ?></a>
+						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('projects-menu-title'); ?>"><?php echo $this->localize('projects-menu-title'); ?></a>
 					</li>
 					<li class="item">
 						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('contact-me-path'); ?>" title="<?php echo $this->localize('contact-me-menu-title'); ?>"><?php echo $this->localize('contact-me-menu-title'); ?></a>
@@ -89,25 +89,136 @@
 						</li>
 					</ul>
 				</div>
+				<div class="section career">
+					<h2 class="title">
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" name="<?php echo $this->localize('career-path'); ?>" title="<?php echo $this->localize('career-title'); ?>"><?php echo $this->localize('career-title'); ?></a>
+					</h2>
+					<dl class="items">
+						<dt class="item">
+							<?php echo $this->localize('from-until', array('11/2012', '09/2013')); ?>
+
+							<span class="sub-line"><?php echo $this->localize('several-months', 11); ?></span>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('foodpanda-job-title', array('<a href="http://www.foodpanda.com" title="' . $this->localize('foodpanda-title') . '">', '</a>')); ?> &sdot;
+								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('foodpanda-job-details-paragraph1'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('foodpanda-job-details-paragraph2'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('foodpanda-job-details-paragraph3'); ?>
+
+							</p>
+						</dd>
+						<dt class="item">
+							<?php echo $this->localize('from-until', array('11/2011', '10/2012')); ?>
+
+							<span class="sub-line"><?php echo $this->localize('one-year'); ?></span>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('rocket-internet-job-title', array('<a href="http://www.rocket-internet.com" title="' . $this->localize('rocket-internet-title') . '">', '</a>')); ?> &sdot;
+								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('rocket-internet-job-details-paragraph1'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('rocket-internet-job-details-paragraph2'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('rocket-internet-job-details-paragraph3'); ?>
+
+							</p>
+						</dd>
+						<dt class="item">
+							<?php echo $this->localize('from-until', array('08/2009', '10/2011')); ?>
+
+							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('several-years', 2), $this->localize('several-months', 3)); ?></span>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('motivado-job-title', array('<a href="http://www.motivado.de" title="' . $this->localize('motivado-title') . '">', '</a>')); ?> &sdot;
+								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('motivado-job-details-paragraph1'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('motivado-job-details-paragraph2'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('motivado-job-details-paragraph3'); ?>
+
+							</p>
+						</dd>
+						<dt class="item">
+							<?php echo $this->localize('from-until', array('08/2007', '01/2009')); ?>
+
+							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('one-year'), $this->localize('several-months', 6)); ?></span>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('mytourclips-job-title'); ?> &sdot;
+								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('mytourclips-job-details-paragraph1'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('mytourclips-job-details-paragraph2'); ?>
+
+							</p>
+						</dd>
+						<dt class="item">
+							<?php echo $this->localize('from-until', array('1999', '2009')); ?>
+
+							<span class="sub-line"><?php echo $this->localize('several-years', 10); ?></span>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('freelance-title'); ?> &sdot;
+								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('freelance-description'); ?>
+
+							</p>
+						</dd>
+					</dl>
+					<div class="clear"><!--  --></div>
+				</div>
 				<div class="section projects">
 					<h2 class="title">
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" name="<?php echo $this->localize('projects-path'); ?>" title="<?php echo $this->localize('projects-title'); ?>"><?php echo $this->localize('projects-title'); ?></a>
 					</h2>
 					<ul class="tags">
+						<li class="tag motivado">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('motivado-title'); ?>"><?php echo $this->localize('motivado-title'); ?></a>
+						</li>
 						<li class="tag personal">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('personal-title'); ?>"><?php echo $this->localize('personal-title'); ?></a>
 						</li>
 						<li class="tag frameworks">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('frameworks-title'); ?>"><?php echo $this->localize('frameworks-title'); ?></a>
 						</li>
-						<li class="tag tools">
-							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('tools-title'); ?>"><?php echo $this->localize('tools-title'); ?></a>
-						</li>
-						<li class="tag motivado">
-							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('motivado-title'); ?>"><?php echo $this->localize('motivado-title'); ?></a>
-						</li>
 						<li class="tag interactive">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('interactive-title'); ?>"><?php echo $this->localize('interactive-title'); ?></a>
+						</li>
+						<li class="tag tools">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('tools-title'); ?>"><?php echo $this->localize('tools-title'); ?></a>
 						</li>
 						<li class="tag experimental">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('experimental-title'); ?>"><?php echo $this->localize('experimental-title'); ?></a>
@@ -313,132 +424,6 @@
 							<p>
 								<?php echo $this->localize('beerball-simulator-description'); ?> &sdot;
 								<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
-							</p>
-						</dd>
-					</dl>
-					<div class="clear"><!--  --></div>
-				</div>
-				<div class="section career">
-					<h2 class="title">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" name="<?php echo $this->localize('career-path'); ?>" title="<?php echo $this->localize('career-title'); ?>"><?php echo $this->localize('career-title'); ?></a>
-					</h2>
-					<dl class="items">
-						<dt class="item">
-							<?php echo $this->localize('from-until', array('11/2012', '09/2013')); ?>
-
-							<span class="sub-line"><?php echo $this->localize('several-months', 11); ?></span>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('foodpanda-job-title', array('<a href="http://www.foodpanda.com" title="' . $this->localize('foodpanda-title') . '">', '</a>')); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('foodpanda-job-details-paragraph1'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('foodpanda-job-details-paragraph2'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('foodpanda-job-details-paragraph3'); ?>
-
-							</p>
-						</dd>
-						<dt class="item">
-							<?php echo $this->localize('from-until', array('11/2011', '10/2012')); ?>
-
-							<span class="sub-line"><?php echo $this->localize('one-year'); ?></span>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('rocket-internet-job-title', array('<a href="http://www.rocket-internet.com" title="' . $this->localize('rocket-internet-title') . '">', '</a>')); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('rocket-internet-job-details-paragraph1'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('rocket-internet-job-details-paragraph2'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('rocket-internet-job-details-paragraph3'); ?>
-
-							</p>
-						</dd>
-						<dt class="item">
-							<?php echo $this->localize('from-until', array('08/2009', '10/2011')); ?>
-
-							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('several-years', 2), $this->localize('several-months', 3)); ?></span>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('motivado-job-title', array('<a href="http://www.motivado.de" title="' . $this->localize('motivado-title') . '">', '</a>')); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('motivado-job-details-paragraph1'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('motivado-job-details-paragraph2'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('motivado-job-details-paragraph3'); ?>
-
-							</p>
-						</dd>
-						<dt class="item">
-							<?php echo $this->localize('from-until', array('08/2007', '01/2009')); ?>
-
-							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('one-year'), $this->localize('several-months', 6)); ?></span>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('mytourclips-job-title'); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('mytourclips-job-details-paragraph1'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('mytourclips-job-details-paragraph2'); ?>
-
-							</p>
-						</dd>
-						<dt class="item">
-							<?php echo $this->localize('from-until', array('06/2000', '12/2008')); ?>
-
-							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('several-years', 8), $this->localize('several-months', 7)); ?></span>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('111-job-title'); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('111-job-details-paragraph1'); ?>
-
-							</p>
-						</dd>
-						<dt class="item">
-							<?php echo $this->localize('from-until', array('1999', '2009')); ?>
-
-							<span class="sub-line"><?php echo $this->localize('several-years', 10); ?></span>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('freelance-title'); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('freelance-description'); ?>
-
 							</p>
 						</dd>
 					</dl>
