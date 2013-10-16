@@ -44,7 +44,7 @@ abbr {
 	content: " <"attr(href)">";
 }
 
-#body .title {
+#body .title a {
 	font-size: 100%;
 	font-weight: bold;
 	height: auto;
@@ -63,6 +63,10 @@ abbr {
 #body .about-me .paragraph, #body .qualities .bullet, #body .projects .tags, #body .projects .item,
 #body .projects .description, #body .career .item, #body .career .description {
 	padding-bottom: 0;
+}
+
+#body .qualities .bullet {
+	padding-right: 0;
 }
 
 #body .projects .tags {

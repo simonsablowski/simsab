@@ -127,6 +127,10 @@ body > #document {
     font-size: 75%;
 }
 
+#body .no-wrap {
+    white-space: nowrap;
+}
+
 #footer {
 	clear: both;
 	height: 50px;
