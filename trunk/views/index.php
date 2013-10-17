@@ -6,6 +6,7 @@
 		<meta name="description" content="<?php echo $this->localize('meta-description'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('meta-keywords'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
 		<link rel="canonical" href="<?php echo $this->localize('canonical-url'); ?>"/>
 		<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css"/>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css"/>
