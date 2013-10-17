@@ -243,6 +243,7 @@
 						<dd class="description">
 							<p>
 								<?php echo $this->localize('hitori-description'); ?>
+
 							</p>
 						</dd>
 						<dt class="item tools interactive">
@@ -409,6 +410,7 @@
 						<dd class="description">
 							<p>
 								<?php echo $this->localize('names-description'); ?>
+
 							</p>
 						</dd>
 						<dt class="item experimental interactive">
@@ -417,6 +419,7 @@
 						<dd class="description">
 							<p>
 								<?php echo $this->localize('trend-description'); ?>
+
 							</p>
 						</dd>
 						<dt class="item experimental interactive">
