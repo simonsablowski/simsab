@@ -124,6 +124,12 @@ body > #document {
     white-space: nowrap;
 }
 
+#body .clear {
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+
 #footer {
 	clear: both;
 	height: 50px;
