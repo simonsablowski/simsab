@@ -200,6 +200,7 @@
 							</p>
 						</dd>
 					</dl>
+					<div class="clear"><!--  --></div>
 				</div>
 				<div class="section projects">
 					<h2 class="title">
@@ -430,6 +431,7 @@
 							</p>
 						</dd>
 					</dl>
+					<div class="clear"><!--  --></div>
 				</div>
 				<div class="section contact-me">
 					<h2 class="title">
