@@ -6,7 +6,7 @@
 		<meta name="description" content="<?php echo $this->localize('meta-description'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('meta-keywords'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
-		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 		<link rel="canonical" href="<?php echo $this->localize('canonical-url'); ?>"/>
 		<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css"/>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css"/>
@@ -225,7 +225,7 @@
 						<li class="tag experimental">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('experimental-title'); ?>"><?php echo $this->localize('experimental-title'); ?></a>
 						</li>
-						<div class="clear"><!--  --></div>
+						<li class="clear"><!--  --></li>
 					</ul>
 					<dl class="items">
 						<dt class="item tools">
@@ -448,7 +448,7 @@
 							<a href="skype:simonsablowski" title="<?php echo $this->localize('via-skype-title'); ?>">simonsablowski</a> <?php echo $this->localize('via-skype-description'); ?>
 
 						</li>
-						<div class="clear"><!--  --></div>
+						<li class="clear"><!--  --></li>
 					</ul>
 					<p>
 						<?php echo $this->localize('contact-me-paragraph2'); ?>
@@ -464,7 +464,7 @@
 						<li class="option">
 							<a href="http://www.facebook.com/simon.sablowski" title="Facebook">Facebook</a>
 						</li>
-						<div class="clear"><!--  --></div>
+						<li class="clear"><!--  --></li>
 					</ul>
 					<p>
 						<?php echo $this->localize('contact-me-paragraph3'); ?>
