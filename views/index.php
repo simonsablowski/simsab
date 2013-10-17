@@ -225,7 +225,6 @@
 						<li class="tag experimental">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('experimental-title'); ?>"><?php echo $this->localize('experimental-title'); ?></a>
 						</li>
-						<li class="clear"><!--  --></li>
 					</ul>
 					<dl class="items">
 						<dt class="item tools">
@@ -451,7 +450,6 @@
 							<a href="skype:simonsablowski" title="<?php echo $this->localize('via-skype-title'); ?>">simonsablowski</a> <?php echo $this->localize('via-skype-description'); ?>
 
 						</li>
-						<li class="clear"><!--  --></li>
 					</ul>
 					<p>
 						<?php echo $this->localize('contact-me-paragraph2'); ?>
@@ -467,7 +465,6 @@
 						<li class="option">
 							<a href="http://www.facebook.com/simon.sablowski" title="Facebook">Facebook</a>
 						</li>
-						<li class="clear"><!--  --></li>
 					</ul>
 					<p>
 						<?php echo $this->localize('contact-me-paragraph3'); ?>

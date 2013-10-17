@@ -87,7 +87,7 @@ body > #document {
 }
 
 #body .projects .tags .tag, #body .contact-me .option {
-	float: left;
+	display: inline;
 	margin: 0 30px 0 0;
 }
 
