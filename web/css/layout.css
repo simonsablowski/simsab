@@ -80,12 +80,7 @@ body > #document {
 	width: 142px;
 }
 
-#body .projects .tags .tag, #body .contact-me .option {
-	display: inline;
-	margin: 0 30px 0 0;
-}
-
-#body .about-me .paragraph, #body .qualities .bullet, #body .projects .tags, #body .s .item, #body .projects .description {
+#body .about-me .paragraph, #body .qualities .bullet, #body .projects .tags {
 	padding-bottom: 12px;
 }
 
@@ -101,16 +96,21 @@ body > #document {
 	padding-bottom: 15px;
 }
 
-#body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
+#body .projects .tags .tag, #body .contact-me .option {
+	display: inline;
+	margin: 0 30px 0 0;
+}
+
+#body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
 	float: left;
 }
 
-#body .projects .item , #body .career .item {
+#body .career .item, #body .projects .item {
 	clear: left;
 	width: 150px;
 }
 
-#body .projects .description, #body .career .description {
+#body .career .description, #body .projects .description {
 	margin-left: 0;
 	width: 560px;
 }

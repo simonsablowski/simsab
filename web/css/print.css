@@ -60,8 +60,8 @@ abbr {
 	display: block !important;
 }
 
-#body .about-me .paragraph, #body .qualities .bullet, #body .projects .tags, #body .projects .item,
-#body .projects .description, #body .career .item, #body .career .description {
+#body .about-me .paragraph, #body .qualities .bullet, #body .career .item, #body .career .description,
+#body .projects .tags, #body .projects .item, #body .projects .description {
 	padding-bottom: 0;
 }
 
@@ -73,14 +73,14 @@ abbr {
 	display: none;
 }
 
-#body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
+#body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
 	clear: none;
 	float: none;
 	padding-bottom: 0;
 	width: auto;
 }
 
-#body .projects .description, #body .career .description {
+#body .career .description, #body .projects .description {
 	margin-left: 40px;
 }
 
