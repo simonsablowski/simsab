@@ -44,6 +44,12 @@
 	line-height: inherit;
 }
 
+#body .about-me .picture {
+	height: 122px;
+	margin: 9px 0 10px 10px;
+	width: 107px;
+}
+
 #body .qualities .bullet {
 	padding-right: 0;
 }
@@ -52,17 +58,17 @@
 	margin-right: 10px;
 }
 
-#body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
+#body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
 	clear: none;
 	float: none;
 	width: auto;
 }
 
-#body .projects .item, #body .career .item {
+#body .career .item, #body .projects .item {
 	padding-bottom: 0;
 }
 
-#body .projects .description, #body .career .description {
+#body .career .description, #body .projects .description {
 	margin-left: 20px;
 	padding-bottom: 10px;
 }
