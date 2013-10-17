@@ -48,6 +48,10 @@
 	padding-right: 0;
 }
 
+#body .projects .tags .tag {
+	margin-right: 10px;
+}
+
 #body .projects .item, #body .projects .description, #body .career .item, #body .career .description {
 	clear: none;
 	float: none;
