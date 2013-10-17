@@ -1,8 +1,9 @@
-html, body, #document {
+html, body {
 	height: 100%;
 }
 
 body {
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 14px;
 	line-height: 2.0;
 }
@@ -67,9 +68,7 @@ body > #document {
 }
 
 #body .title a {
-	font-family: georgia, times new roman, serif;
 	font-size: 250%;
-	font-style: italic;
 	height: 100px;
 	line-height: 100px;
 }

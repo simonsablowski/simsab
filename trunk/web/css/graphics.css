@@ -1,3 +1,8 @@
+html {
+	background-image: url('../img/page.png');
+	background-repeat: repeat-x;
+}
+
 #body li.bullet {
 	list-style-image: url('../img/list-item.png');
 	margin-left: 14px;

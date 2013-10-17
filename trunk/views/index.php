@@ -7,6 +7,7 @@
 		<meta name="keywords" content="<?php echo $this->localize('meta-keywords'); ?>"/>
 		<meta name="revisit-after" content="1 day"/>
 		<link rel="canonical" href="<?php echo $this->localize('canonical-url'); ?>"/>
+		<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css"/>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css"/>
 		<style type="text/css" media="screen and (min-width: 960px)">
 		<!--
