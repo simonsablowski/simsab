@@ -7,12 +7,12 @@ a, em, strong {
 	color: #bea;
 }
 
-#menu .item a, #body .title a {
+#sidebar .menu .item a, #body .title a {
 	color: #bea;
 	text-shadow: 0 2px 0 #000;
 }
 
-#menu .item .active {
+#sidebar .menu .item .active {
 	color: #ffa;
 }
 

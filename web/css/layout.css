@@ -49,11 +49,11 @@ body > #document {
 	width: 150px;
 }
 
-#menu {
+#sidebar .menu {
 	padding: 0 75px 0 0;
 }
 
-#menu .item {
+#sidebar .menu .item {
 	display: block;
 	padding: 0 0 10px;
 	text-align: right;
@@ -138,6 +138,7 @@ body > #document {
 	width: 760px;
 }
 
-#footer a {
-	margin-left: 30px;
+#footer .menu .item {
+	display: inline;
+	padding: 0 30px 0 0;
 }
