@@ -27,7 +27,7 @@
 				<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.png" alt="<?php echo $this->localize('document-title'); ?>" title="<?php echo $this->localize('document-title'); ?>"/></a>
 			</div>
 			<div id="sidebar">
-				<ul id="menu" class="items">
+				<ul class="menu items">
 					<li class="item">
 						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-menu-title'); ?>"><?php echo $this->localize('about-me-menu-title'); ?></a>
 					</li>
@@ -477,12 +477,18 @@
 			</div>
 		</div>
 		<div id="footer">
-			<p>
-				<?php date_default_timezone_set('Europe/Berlin'); echo $this->localize('document-copyright', date('Y')); ?>
+			<ul class="menu items">
+				<li class="item">
+					<?php date_default_timezone_set('Europe/Berlin'); echo $this->localize('document-copyright', date('Y')); ?>
 
-				<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-title'); ?></a>
-				<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-title'); ?>"><?php echo $this->localize('translate-title'); ?></a>
-			</p>
+				</li>
+				<li class="item">
+					<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-title'); ?></a>
+				</li>
+				<li class="item">
+					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-title'); ?>"><?php echo $this->localize('translate-title'); ?></a>
+				</li>
+			</ul>
 		</div>
 		<script type="text/javascript">
 		<!--
