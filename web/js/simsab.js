@@ -81,7 +81,7 @@ function initializeSections() {
 		toggleMenuItems();
 	}
 	
-	$('#menu .item a').filter(function() {
+	$('#sidebar .menu .item a').filter(function() {
 		return this.href.match('#');
 	}).click(function(event) {
 		$('.section:visible').hide();
@@ -94,8 +94,8 @@ function initializeSections() {
 }
 
 function toggleMenuItems() {
-	$('#menu .item a').removeClass('active').addClass('inactive');
-	$('#menu .item a[href*="' + $('.section:visible a').attr('name') + '"]').removeClass('inactive').addClass('active');
+	$('#sidebar .menu .item a').removeClass('active').addClass('inactive');
+	$('#sidebar .menu .item a[href*="' + $('.section:visible a').attr('name') + '"]').removeClass('inactive').addClass('active');
 }
 
 $(document).ready(function() {
