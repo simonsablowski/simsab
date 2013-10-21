@@ -13,7 +13,7 @@ msgid "canonical-url"
 msgstr "http://www.simsab.net/en"
 
 msgid "meta-description"
-msgstr "Simon Sablowski is a web professional with many years of experience in software engineering, project management and agile methodologies."
+msgstr "Simon Sablowski is a web professional with many years of experience in software engineering, agile project management and entrepreneurship."
 
 msgid "meta-keywords"
 msgstr "simon sablowski, sablowski, berlin, web development, software architecture, technical conception, prototyping, refactoring, database design, php, mysql, oop, mvc"
@@ -56,7 +56,7 @@ msgid "about-me-title"
 msgstr "I am&hellip;"
 
 msgid "about-me-paragraph1"
-msgstr "&hellip;a web professional with many years of experience in software engineering, project management and agile methodologies. Throughout my career I have worked both in online startups and in established corporations, in positions ranging from software developer to <abbr title="Chief Technology Officer">CTO</abbr>. I have successfully managed numerous web projects, many of which were able to reach market leadership."
+msgstr "&hellip;a web professional with many years of experience in software engineering, agile project management and entrepreneurship. Throughout my career I have worked both in online startups and in established corporations, in positions ranging from software developer to <abbr title="Chief Technology Officer">CTO</abbr>. I have successfully managed numerous web projects, many of which were able to reach market leadership."
 
 msgid "about-me-paragraph2"
 msgstr "Currently I am open for new opportunities!"

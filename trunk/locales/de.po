@@ -13,7 +13,7 @@ msgid "canonical-url"
 msgstr "http://www.simsab.net/de"
 
 msgid "meta-description"
-msgstr "Simon Sablowski ist ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projektmanagement and agilen Methodologien."
+msgstr "Simon Sablowski ist ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, agilem Projektmanagement und Unternehmertum."
 
 msgid "meta-keywords"
 msgstr "simon sablowski, sablowski, berlin, web-entwicklung, software-architektur, technische konzeption, prototyping, refactoring, datenbank-design, php, mysql, oop, mvc"
@@ -56,7 +56,7 @@ msgid "about-me-title"
 msgstr "Ich bin&hellip;"
 
 msgid "about-me-paragraph1"
-msgstr "&hellip;ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, Projekt-<br/>management und agilen Methodologien. Im Laufe meiner Karriere habe ich sowohl in Online-Startups als auch in etablierten Unternehmen in Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> gearbeitet. Ich habe zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
+msgstr "&hellip;ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, agilem Projektmanagement und Unternehmertum. Im Laufe meiner Karriere habe ich sowohl in Online-Startups als auch in etablierten Unternehmen in Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> gearbeitet. Ich habe zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
 
 msgid "about-me-paragraph2"
 msgstr "Aktuell bin ich offen für neue Angebote!"
