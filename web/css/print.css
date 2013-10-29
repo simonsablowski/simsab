@@ -1,22 +1,11 @@
 @import 'screen.css';
 
-html {
-	background-color: transparent;
-	background-image: none;
-	background-repeat: repeat-x;
-	color: #000;
-}
-
-h2 {
-	text-shadow: none;
-}
-
-h2, a, em, strong {
-	color: #000;
-}
-
-abbr {
-	border-color: transparent;
+* {
+	background-color: transparent !important;
+	background-image: none !important;
+	border-color: transparent !important;
+	color: #000 !important;
+	text-shadow: none !important;
 }
 
 #document {
@@ -35,8 +24,16 @@ abbr {
 	padding: 0;
 }
 
-#body a.external {
-	background-image: none;
+#body li.bullet {
+	list-style-image: none;
+	list-style-type: initial;
+}
+
+#body a.collapse, #body a.expand {
+	display: none;
+}
+
+#body a.collapse, #body a.expand, #body a.external {
 	padding-right: 0;
 }
 
