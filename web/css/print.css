@@ -17,6 +17,7 @@
 }
 
 #logo {
+	content: url('../img/logo-print.png');
 	margin: 0;
 }
 
@@ -78,7 +79,7 @@
 }
 
 #body .career .description, #body .projects .description {
-	margin-left: 40px;
+	margin-left: 14px;
 }
 
 #body .contact-me .option {
