@@ -103,8 +103,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('foodpanda-job-title', array('<a href="http://www.foodpanda.com" title="' . $this->localize('foodpanda-title') . '">', '</a>')); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+								<?php echo $this->localize('foodpanda-job-title', array('<a href="http://www.foodpanda.com" title="' . $this->localize('foodpanda-title') . '">', '</a>')); ?>
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
 							<p class="expandable">
 								<?php echo $this->localize('foodpanda-job-details-paragraph1'); ?>
@@ -126,8 +126,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('rocket-internet-job-title', array('<a href="http://www.rocket-internet.com" title="' . $this->localize('rocket-internet-title') . '">', '</a>')); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+								<?php echo $this->localize('rocket-internet-job-title', array('<a href="http://www.rocket-internet.com" title="' . $this->localize('rocket-internet-title') . '">', '</a>')); ?>
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
 							<p class="expandable">
 								<?php echo $this->localize('rocket-internet-job-details-paragraph1'); ?>
@@ -149,8 +149,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('motivado-job-title', array('<a href="http://www.motivado.de" title="' . $this->localize('motivado-title') . '">', '</a>')); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+								<?php echo $this->localize('motivado-job-title', array('<a href="http://www.motivado.de" title="' . $this->localize('motivado-title') . '">', '</a>')); ?>
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
 							<p class="expandable">
 								<?php echo $this->localize('motivado-job-details-paragraph1'); ?>
@@ -172,8 +172,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('mytourclips-job-title'); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+								<?php echo $this->localize('mytourclips-job-title'); ?>
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
 							<p class="expandable">
 								<?php echo $this->localize('mytourclips-job-details-paragraph1'); ?>
@@ -191,8 +191,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('freelance-title'); ?> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+								<?php echo $this->localize('freelance-title'); ?>
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
 							<p class="expandable">
 								<?php echo $this->localize('freelance-description'); ?>
@@ -232,8 +232,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('shrtn-description'); ?> &sdot;
-								<a href="http://code.google.com/p/shorten-url/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('shrtn-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/shorten-url/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item interactive">
@@ -250,8 +250,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('getitdone-description'); ?> &sdot;
-								<a href="http://code.google.com/p/task-planner/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('getitdone-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/task-planner/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item interactive">
@@ -259,8 +259,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('beatemup-description'); ?> &sdot;
-								<a href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('beatemup-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item personal">
@@ -268,8 +268,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('avatar-rating-description'); ?> &sdot;
-								<a href="http://code.google.com/p/avatar-rating/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('avatar-rating-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/avatar-rating/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item tools personal">
@@ -277,8 +277,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('readosaur-description'); ?> &sdot;
-								<a href="http://code.google.com/p/readosaur/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('readosaur-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/readosaur/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item motivado tools">
@@ -286,8 +286,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('coaching-preview-description'); ?> &sdot;
-								<a href="http://code.google.com/p/coaching-preview/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('coaching-preview-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/coaching-preview/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item motivado tools">
@@ -295,8 +295,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('coaching-import-description'); ?> &sdot;
-								<a href="http://code.google.com/p/motivado-importer/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('coaching-import-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/motivado-importer/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item motivado tools">
@@ -304,8 +304,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('coaching-test-description'); ?> &sdot;
-								<a href="http://code.google.com/p/coaching-test/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('coaching-test-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/coaching-test/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item motivado">
@@ -313,8 +313,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('coaching-api-description'); ?> &sdot;
-								<a href="http://code.google.com/p/motivado-api/source/browse" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('coaching-api-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/motivado-api/source/browse" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item motivado">
@@ -322,8 +322,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('coaching-ui-description'); ?> &sdot;
-								<a href="http://code.google.com/p/motivado-ui/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('coaching-ui-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/motivado-ui/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item frameworks">
@@ -331,9 +331,9 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('nacho-description'); ?> &sdot;
-								<a href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+								<?php echo $this->localize('nacho-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
 							<p class="expandable">
 								<?php echo $this->localize('nacho-details-paragraph1'); ?>
@@ -349,9 +349,9 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('cheese-description'); ?> &sdot;
-								<a href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a> &sdot;
-								<a class="expand" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+								<?php echo $this->localize('cheese-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
 							<p class="expandable">
 								<?php echo $this->localize('cheese-details-paragraph1'); ?>
@@ -363,8 +363,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('notmybiz-description'); ?> &sdot;
-								<a href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('notmybiz-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item personal tools">
@@ -372,8 +372,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('notmybiz-backend-description'); ?> &sdot;
-								<a href="http://code.google.com/p/notmybiz-backend/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('notmybiz-backend-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/notmybiz-backend/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item experimental">
@@ -381,8 +381,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('askme-description'); ?> &sdot;
-								<a href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('askme-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/askme/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item experimental">
@@ -390,8 +390,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('dialogues-description'); ?> &sdot;
-								<a href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('dialogues-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/dialogues/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item tools">
@@ -399,8 +399,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('scraper-description'); ?> &sdot;
-								<a href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('scraper-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item experimental tools">
@@ -426,8 +426,8 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('beerball-simulator-description'); ?> &sdot;
-								<a href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<?php echo $this->localize('beerball-simulator-description'); ?>
+								<a class="source-code separated" href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 					</dl>

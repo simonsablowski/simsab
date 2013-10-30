@@ -9,7 +9,12 @@
 }
 
 #document {
+	padding: 0;
 	width: auto;
+}
+
+#header {
+	height: auto;
 }
 
 #sidebar, #footer {
@@ -30,8 +35,8 @@
 	list-style-type: initial;
 }
 
-#body a.collapse, #body a.expand {
-	display: none;
+#body a.details {
+	display: none !important;
 }
 
 #body a.collapse, #body a.expand, #body a.external {
@@ -40,6 +45,15 @@
 
 #body a.external:after {
 	content: " <"attr(href)">";
+}
+
+#body a.separated {
+	display: block;
+}
+
+#body a.separated:before {
+	content: none;
+	margin-right: 0;
 }
 
 #body .title a {
@@ -51,7 +65,7 @@
 }
 
 #body .section {
-	padding-bottom: 40px;
+	padding-top: 40px;
 }
 
 #body .section, #body .section .items .description .expandable {
