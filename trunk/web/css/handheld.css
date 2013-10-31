@@ -23,8 +23,8 @@
 
 #sidebar .menu {
 	display: block;
-	padding: 10px 0 20px;
 	height: auto;
+	padding: 10px 0 20px;
 	width: auto;
 }
 
@@ -35,7 +35,7 @@
 }
 
 #body {
-	padding: 0 0 80px 0;
+	padding: 0 0 80px;
 }
 
 #body .title a {
@@ -54,10 +54,6 @@
 	padding-right: 0;
 }
 
-#body .projects .tags .tag {
-	margin-right: 10px;
-}
-
 #body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
 	clear: none;
 	float: none;
@@ -71,6 +67,10 @@
 #body .career .description, #body .projects .description {
 	margin-left: 20px;
 	padding-bottom: 10px;
+}
+
+#body .projects .tags .tag {
+	margin-right: 10px;
 }
 
 #body .contact-me .option {

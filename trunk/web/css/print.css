@@ -17,72 +17,65 @@
 	height: auto;
 }
 
-#sidebar, #footer {
-	display: none;
-}
-
 #logo {
 	content: url('../img/logo-print.png');
 	margin: 0;
+}
+
+#sidebar {
+	display: none;
 }
 
 #body {
 	padding: 0;
 }
 
-#body li.bullet {
-	list-style-image: none;
-	list-style-type: initial;
-}
-
-#body a.details {
-	display: none !important;
-}
-
-#body a.collapse, #body a.expand, #body a.external {
-	padding-right: 0;
-}
-
-#body a.external:after {
-	content: " <"attr(href)">";
-}
-
-#body a.separated {
-	display: block;
-}
-
-#body a.separated:before {
-	content: none;
-	margin-right: 0;
+#body .section {
+	display: block !important;
+	padding-top: 40px;
 }
 
 #body .title a {
 	font-size: 100%;
-	font-weight: bold;
+	font-weight: 700;
 	height: auto;
 	line-height: normal;
 	padding-bottom: 20px;
 }
 
-#body .section {
-	padding-top: 40px;
-}
-
-#body .section, #body .section .items .description .expandable {
-	display: block !important;
-}
-
-#body .about-me .paragraph, #body .qualities .bullet, #body .career .item, #body .career .description,
-#body .projects .tags, #body .projects .item, #body .projects .description {
-	padding-bottom: 0;
-}
-
-#body .qualities .bullet {
+#body .collapse, #body .expand, #body .external {
 	padding-right: 0;
 }
 
-#body .projects .tags {
-	display: none;
+#body .external:after {
+	content: " <"attr(href)">";
+}
+
+#body .bullet {
+	list-style-image: none;
+	list-style-type: initial;
+	padding-right: 0;
+}
+
+#body .details {
+	display: none !important;
+}
+
+#body .separated {
+	display: block;
+}
+
+#body .separated:before {
+	content: none;
+	margin-right: 0;
+}
+
+#body .section .items .description .expandable {
+	display: block !important;
+}
+
+#body .about-me .paragraph, #body .qualities .bullet, #body .career .item, #body .career .description, #body .projects .tags, #body .projects .item, #body .projects .description {
+	padding-bottom: 0;
 }
 
 #body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
@@ -96,6 +89,14 @@
 	margin-left: 14px;
 }
 
+#body .projects .tags {
+	display: none;
+}
+
 #body .contact-me .option {
 	display: block;
+}
+
+#footer {
+	display: none;
 }
