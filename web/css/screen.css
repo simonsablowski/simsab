@@ -1,4 +1,4 @@
-@import standards.css;
+@import 'standards.css';
 
 html {
 	background-color: #193319;
