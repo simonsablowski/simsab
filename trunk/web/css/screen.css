@@ -1,4 +1,4 @@
-@import 'standards.css';
+@import standards.css;
 
 html {
 	background-color: #193319;
@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	font-family: 'Droid Sans',  sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 	font-size: 14px;
 	height: 100%;
 	line-height: 2.0;
