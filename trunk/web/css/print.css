@@ -1,4 +1,4 @@
-@import screen.css;
+@import 'screen.css';
 
 * {
 	background-color: transparent !important;
