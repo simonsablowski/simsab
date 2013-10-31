@@ -490,6 +490,7 @@
 				</li>
 			</ul>
 		</div>
+<?php if (!is_null($this->getConfiguration('trackerCode'))): ?>
 		<script type="text/javascript">
 		<!--
 		var gaJsHost = 'https:' == document.location.protocol ? 'https://ssl.' : 'http://www.';
@@ -499,7 +500,7 @@
 		<script type="text/javascript">
 		<!--
 		try {
-			var pageTracker = _gat._getTracker('UA-9712670-1');
+			var pageTracker = _gat._getTracker('<?php echo $this->getConfiguration('trackerCode'); ?>');
 			pageTracker._initData();
 			pageTracker._trackPageview();
 		} catch (error) {
@@ -507,5 +508,6 @@
 		}
 		//-->
 		</script>
+<?php endif; ?>
 	</body>
 </html>

@@ -89,10 +89,13 @@ msgstr "Many years of experience interfacing with cross-disciplinary departments
 msgid "career-title"
 msgstr "My career"
 
+msgid "since"
+msgstr "since %s"
+
 msgid "from-until"
 msgstr "%s - %s"
 
-msgid "one-year"
+msgid "one-month"
 msgstr "1 month"
 
 msgid "several-months"

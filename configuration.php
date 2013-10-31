@@ -30,5 +30,6 @@ $configuration['Request'] = array(
 	'aliasQueries' => array()
 );
 
+$configuration['trackerCode'] = 'UA-9712670-1';
 $configuration['pathSeparator'] = '#';
 $configuration['debugMode'] = FALSE;
