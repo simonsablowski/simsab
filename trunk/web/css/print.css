@@ -78,6 +78,10 @@
 	padding-bottom: 0;
 }
 
+#body .qualities .bullet {
+	padding-right: 0;
+}
+
 #body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
 	clear: none;
 	float: none;
