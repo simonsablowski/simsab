@@ -5,20 +5,13 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 		<meta name="description" content="<?php echo $this->localize('meta-description'); ?>"/>
 		<meta name="keywords" content="<?php echo $this->localize('meta-keywords'); ?>"/>
+		<meta name="robots" content="index, follow"/>
 		<meta name="revisit-after" content="1 day"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-		<link rel="canonical" href="<?php echo $this->localize('canonical-url'); ?>"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css"/>
-		<style type="text/css" media="screen and (min-width: 960px)">
-		<!--
-		@import url('<?php echo $this->getConfiguration('basePath'); ?>css/screen.css');
-		-->
-		</style>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 959px)"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/print.css" rel="stylesheet" type="text/css" media="print"/>
-		<link type="image/x-icon" href="<?php echo $this->getConfiguration('basePath'); ?>img/favicon.ico" rel="shortcut icon"/>
-		<script type="text/javascript" src="<?php echo $this->getConfiguration('basePath'); ?>js/jquery-1.4.2.min.js"></script>
-		<script type="text/javascript" src="<?php echo $this->getConfiguration('basePath'); ?>js/simsab.js"></script>
+		<link href="<?php echo $this->localize('canonical-url'); ?>" rel="canonical"/>
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/simsab.css" rel="stylesheet" type="text/css"/>
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>img/simsab.ico" rel="shortcut icon" type="image/x-icon"/>
+		<script src="<?php echo $this->getConfiguration('basePath'); ?>js/simsab.js" type="text/javascript"></script>
 	</head>
 	<body>
 		<div id="document">
@@ -513,5 +506,6 @@
 			</ul>
 		</div>
 <?php echo $this->getConfiguration('trackingCode'); ?>
+
 	</body>
 </html>

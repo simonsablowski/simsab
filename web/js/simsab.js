@@ -1,3 +1,24 @@
+function loadLibrary(url, callback) {
+	var script = document.createElement('script');
+	script.src = url;
+	
+	var head = document.getElementsByTagName('head')[0];
+	var done = false;
+	
+	script.onload = script.onreadystatechange = function() {
+		if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+			done = true;
+			
+			callback();
+			
+			script.onload = script.onreadystatechange = null;
+			head.removeChild(script);
+		}
+	};
+	
+	head.appendChild(script);
+}
+
 function initializeExternalLinks() {
 	$('a').filter(function() {
 		return this.hostname && this.hostname !== location.hostname;
@@ -98,9 +119,11 @@ function toggleMenuItems() {
 	$('#sidebar .menu .item a[href*="' + $('.section:visible a').attr('name') + '"]').removeClass('inactive').addClass('active');
 }
 
-$(document).ready(function() {
-	initializeExternalLinks();
-	initializeTagElements();
-	initializeExpandableElements();
-	initializeSections();
+loadLibrary('http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js', function() {
+	$(document).ready(function() {
+		initializeExternalLinks();
+		initializeTagElements();
+		initializeExpandableElements();
+		initializeSections();
+	});
 });
