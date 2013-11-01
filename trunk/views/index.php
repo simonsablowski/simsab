@@ -8,11 +8,10 @@
 		<meta name="revisit-after" content="1 day"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 		<link rel="canonical" href="<?php echo $this->localize('canonical-url'); ?>"/>
-		<link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css"/>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css"/>
 		<style type="text/css" media="screen and (min-width: 960px)">
 		<!--
-		@import url("<?php echo $this->getConfiguration('basePath'); ?>css/screen.css");
+		@import url('<?php echo $this->getConfiguration('basePath'); ?>css/screen.css');
 		-->
 		</style>
 		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/handheld.css" rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 959px)"/>
@@ -502,7 +501,7 @@
 		<div id="footer">
 			<ul class="menu items">
 				<li class="item">
-					<?php date_default_timezone_set('Europe/Berlin'); echo $this->localize('document-copyright', date('Y')); ?>
+					<?php echo $this->localize('document-copyright', $this->getConfiguration('currentYear')); ?>
 
 				</li>
 				<li class="item">
@@ -513,24 +512,6 @@
 				</li>
 			</ul>
 		</div>
-<?php if (!is_null($this->getConfiguration('trackerCode'))): ?>
-		<script type="text/javascript">
-		<!--
-		var gaJsHost = 'https:' == document.location.protocol ? 'https://ssl.' : 'http://www.';
-		document.write(unescape('%3Cscript src="' + gaJsHost + 'google-analytics.com/ga.js" type="text/javascript"%3E%3C/script%3E'));
-		//-->
-		</script>
-		<script type="text/javascript">
-		<!--
-		try {
-			var pageTracker = _gat._getTracker('<?php echo $this->getConfiguration('trackerCode'); ?>');
-			pageTracker._initData();
-			pageTracker._trackPageview();
-		} catch (error) {
-			
-		}
-		//-->
-		</script>
-<?php endif; ?>
+<?php echo $this->getConfiguration('trackingCode'); ?>
 	</body>
 </html>
