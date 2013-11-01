@@ -65,16 +65,12 @@
 }
 
 #body .career .description, #body .projects .description {
-	margin-left: 20px;
+	margin-left: 14px;
 	padding-bottom: 10px;
 }
 
 #body .projects .tags .tag {
 	margin-right: 10px;
-}
-
-#body .contact-me .option {
-	display: block;
 }
 
 #footer {

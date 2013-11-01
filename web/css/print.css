@@ -74,7 +74,7 @@
 	display: block !important;
 }
 
-#body .about-me .paragraph, #body .qualities .bullet, #body .career .item, #body .career .description, #body .projects .tags, #body .projects .item, #body .projects .description {
+#body .about-me .paragraph, #body .qualities .bullet, #body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
 	padding-bottom: 0;
 }
 
@@ -91,10 +91,6 @@
 
 #body .projects .tags {
 	display: none;
-}
-
-#body .contact-me .option {
-	display: block;
 }
 
 #footer {
