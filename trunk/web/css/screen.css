@@ -141,19 +141,16 @@ body > #document {
 	width: 142px;
 }
 
-#body .about-me .paragraph, #body .qualities .bullet, #body .projects .tags {
+#body .about-me .paragraph {
 	padding-bottom: 12px;
 }
 
-#body .qualities .bullet, #body .projects .tags, #body .projects .item, #body .projects .description {
-	padding-bottom: 10px;
-}
-
 #body .qualities .bullet {
+	padding-bottom: 10px;
 	padding-right: 250px;
 }
 
-#body .career .item, #body .career .description, #body .contact-me .options {
+#body .career .item, #body .career .description {
 	padding-bottom: 15px;
 }
 
@@ -171,7 +168,11 @@ body > #document {
 	width: 560px;
 }
 
-#body .projects .tags .tag, #body .contact-me .option {
+#body .projects .tags, #body .projects .item, #body .projects .description {
+	padding-bottom: 10px;
+}
+
+#body .projects .tags .tag {
 	display: inline;
 	margin: 0 30px 0 0;
 }
@@ -182,6 +183,10 @@ body > #document {
 
 #body .projects .tag .inactive {
 	color: #cdc;
+}
+
+#body .contact-me .options {
+	padding-bottom: 15px;
 }
 
 #footer {
