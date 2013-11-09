@@ -93,6 +93,10 @@ body > #document {
 	text-shadow: 0 2px 0 #000;
 }
 
+#body .details {
+	display: none;
+}
+
 #body .external {
 	background: url(../img/external.png) no-repeat right center;
 	padding-right: 14px;
