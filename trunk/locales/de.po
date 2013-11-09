@@ -336,14 +336,8 @@ msgstr "kontakt@simsab.net"
 msgid "via-e-mail-title"
 msgstr "Kontaktieren Sie mich via E-Mail"
 
-msgid "via-e-mail-description"
-msgstr "(via E-Mail)"
-
 msgid "via-skype-title"
 msgstr "Kontaktieren Sie mich via Skype"
-
-msgid "via-skype-description"
-msgstr "(via Skype)"
 
 msgid "contact-me-paragraph2"
 msgstr "Gern können Sie außerdem meine Profile in den folgenden sozialen Netzwerken besuchen:"
