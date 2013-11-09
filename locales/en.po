@@ -123,7 +123,7 @@ msgid "mytourclips-job-details-paragraph2"
 msgstr "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
 
 msgid "motivado-job-title"
-msgstr "Founder and <abbr title="Chief Technology Officer">CTO</abbr> at %sMotivado%s"
+msgstr "Founder and <abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.motivado.de" title="Motivado">Motivado</a>"
 
 msgid "motivado-job-details-paragraph1"
 msgstr "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with an approach of mass customization for coaching content."
@@ -134,11 +134,8 @@ msgstr "I developed Motivado's complex software with the support of an agile tea
 msgid "motivado-job-details-paragraph3"
 msgstr "We have been live since November 2010 and deliver hundreds of premium quality products to our satisfied customers."
 
-msgid "rocket-internet-title"
-msgstr "Rocket Internet"
-
 msgid "rocket-internet-job-title"
-msgstr "Director Software Engineering at %sRocket Internet%s"
+msgstr "Director Software Engineering at <a href="http://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
 
 msgid "rocket-internet-job-details-paragraph1"
 msgstr "Rocket Internet is the world's largest online business incubator with hundreds of successful e-commerce projects and tens of thousands of employees on all continents."
@@ -149,11 +146,8 @@ msgstr "At Rocket Internet, I was in charge of all newly launched projects, head
 msgid "rocket-internet-job-details-paragraph3"
 msgstr "My main tasks were technical supervision, establishing processes and workflows as well as recruiting, training and leading engineering teams. I also acted as a mentor for the engineering teams of some of Rocket Internet's matured ventures."
 
-msgid "foodpanda-title"
-msgstr "Foodpanda"
-
 msgid "foodpanda-job-title"
-msgstr "<abbr title="Chief Technology Officer">CTO</abbr> at %sFoodpanda%s"
+msgstr "<abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.foodpanda.com" title="Foodpanda">Foodpanda</a>"
 
 msgid "foodpanda-job-details-paragraph1"
 msgstr "Foodpanda is globally the fastest growing online food delivery service. Accelerated by Rocket Internet, the company focuses especially on emerging markets. Together with its affiliated brand Hellofood, Foodpanda operates in Asia, Europe, Latin America, Africa and Middle-East reaching three billion people worldwide."
@@ -365,11 +359,11 @@ msgstr "&copy; 1999-%d Simon Sablowski"
 msgid "legal-notice-path"
 msgstr "legal-notice"
 
-msgid "legal-notice-title"
+msgid "legal-notice-menu-title"
 msgstr "Legal notice"
 
 msgid "translate-path"
 msgstr "de"
 
-msgid "translate-title"
+msgid "translate-menu-title"
 msgstr "Deutsche Version"

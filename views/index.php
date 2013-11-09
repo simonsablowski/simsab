@@ -95,7 +95,7 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('foodpanda-job-title', array('<a href="http://www.foodpanda.com" title="' . $this->localize('foodpanda-title') . '">', '</a>')); ?>
+								<?php echo $this->localize('foodpanda-job-title'); ?>
 
 								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
@@ -119,7 +119,7 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('rocket-internet-job-title', array('<a href="http://www.rocket-internet.com" title="' . $this->localize('rocket-internet-title') . '">', '</a>')); ?>
+								<?php echo $this->localize('rocket-internet-job-title'); ?>
 
 								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
@@ -143,7 +143,7 @@
 						</dt>
 						<dd class="description">
 							<p>
-								<?php echo $this->localize('motivado-job-title', array('<a href="http://www.motivado.de" title="' . $this->localize('motivado-title') . '">', '</a>')); ?>
+								<?php echo $this->localize('motivado-job-title'); ?>
 
 								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
@@ -498,7 +498,7 @@
 
 				</li>
 				<li class="item">
-					<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-title'); ?></a>
+					<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-menu-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-menu-title'); ?></a>
 				</li>
 				<li class="item">
 					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-title'); ?>"><?php echo $this->localize('translate-title'); ?></a>

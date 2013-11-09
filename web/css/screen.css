@@ -189,6 +189,10 @@ body > #document {
 	padding-bottom: 15px;
 }
 
+#body .legal-notice .paragraph {
+	padding-bottom: 12px;
+}
+
 #footer {
 	clear: both;
 	height: 50px;
