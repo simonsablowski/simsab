@@ -82,6 +82,7 @@ function initializeTagElements() {
 
 function initializeExpandableElements() {
 	$('.expandable').hide();
+	$('.details').show();
 	
 	$('.expand, .collapse').click(function(event) {
 		$(this).toggleClass('expand').toggleClass('collapse');
