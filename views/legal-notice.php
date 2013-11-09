@@ -115,24 +115,24 @@
 
 					</h3>
 					<ul>
-						<li>
-							<?php echo $this->localize('legal-notice-block8-bullet1'); ?>
+						<li class="bullet">
+							<?php echo $this->localize('legal-notice-block8-paragraph1'); ?>
 
 						</li>
-						<li>
-							<?php echo $this->localize('legal-notice-block8-bullet2'); ?>
+						<li class="bullet">
+							<?php echo $this->localize('legal-notice-block8-paragraph2'); ?>
 
 						</li>
-						<li>
-							<?php echo $this->localize('legal-notice-block8-bullet3'); ?>
+						<li class="bullet">
+							<?php echo $this->localize('legal-notice-block8-paragraph3'); ?>
 
 						</li>
-						<li>
-							<?php echo $this->localize('legal-notice-block8-bullet4'); ?>
+						<li class="bullet">
+							<?php echo $this->localize('legal-notice-block8-paragraph4'); ?>
 
 						</li>
-						<li>
-							<?php echo $this->localize('legal-notice-block8-bullet5'); ?>
+						<li class="bullet">
+							<?php echo $this->localize('legal-notice-block8-paragraph5'); ?>
 
 						</li>
 					</ul>
