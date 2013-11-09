@@ -430,17 +430,17 @@ msgstr "Sie können die Installation der Cookies durch eine entsprechende Einste
 msgid "legal-notice-block8-title"
 msgstr "<small>Quellen</small>"
 
-msgid "legal-notice-block8-bullet1"
+msgid "legal-notice-block8-paragraph1"
 msgstr "<small>Erstellt durch den <a href="http://www.e-recht24.de">Impressum Generator</a> der Kanzlei Siebert</small>"
 
-msgid "legal-notice-block8-bullet2"
+msgid "legal-notice-block8-paragraph2"
 msgstr "<small><a href="http://www.e-recht24.de/artikel/datenschutz/6590-facebook-like-button-datenschutz-disclaimer.html">Facebook-Disclaimer von eRecht24</a></small>"
 
-msgid "legal-notice-block8-bullet3"
+msgid "legal-notice-block8-paragraph3"
 msgstr "<small><a href="http://www.e-recht24.de/muster-disclaimer.htm">Disclaimer eRecht24</a></small>"
 
-msgid "legal-notice-block8-bullet4"
+msgid "legal-notice-block8-paragraph4"
 msgstr "<small><a href="http://www.google.com/intl/de_ALL/analytics/tos.html">Datenschutzerklärung Google Analytics</a></small>"
 
-msgid "legal-notice-block8-bullet5"
+msgid "legal-notice-block8-paragraph5"
 msgstr "<small><a href="http://www.e-recht24.de/artikel/datenschutz/6635-datenschutz-rechtliche-risiken-bei-der-nutzung-von-google-analytics-und-googleadsense.html">Google Adsense Haftungsausschluss</a></small>"
