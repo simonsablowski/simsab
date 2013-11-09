@@ -458,12 +458,10 @@
 					</p>
 					<ul class="options">
 						<li class="option">
-							<a href="mailto:<?php echo $this->localize('e-mail-address'); ?>" title="<?php echo $this->localize('via-e-mail-title'); ?>"><?php echo $this->localize('e-mail-address'); ?></a> <?php echo $this->localize('via-e-mail-description'); ?>
-
+							<a class="email" href="mailto:<?php echo $this->localize('e-mail-address'); ?>" title="<?php echo $this->localize('via-e-mail-title'); ?>"><?php echo $this->localize('e-mail-address'); ?></a>
 						</li>
 						<li class="option">
-							<a href="skype:simonsablowski" title="<?php echo $this->localize('via-skype-title'); ?>">simonsablowski</a> <?php echo $this->localize('via-skype-description'); ?>
-
+							<a class="skype" href="skype:simonsablowski" title="<?php echo $this->localize('via-skype-title'); ?>">simonsablowski</a>
 						</li>
 					</ul>
 					<p>
@@ -472,22 +470,24 @@
 					</p>
 					<ul class="options">
 						<li class="option">
-							<a href="http://www.linkedin.com/in/simonsablowski" title="LinkedIn">LinkedIn</a>
+							<a class="linkedin" href="http://www.linkedin.com/in/simonsablowski" title="LinkedIn">LinkedIn</a>
 						</li>
 						<li class="option">
-							<a href="https://www.xing.com/profile/Simon_Sablowski" title="XING">XING</a>
+							<a class="xing" href="https://www.xing.com/profile/Simon_Sablowski" title="XING">XING</a>
 						</li>
 						<li class="option">
-							<a href="http://www.facebook.com/simon.sablowski" title="Facebook">Facebook</a>
+							<a class="facebook" href="http://www.facebook.com/simon.sablowski" title="Facebook">Facebook</a>
 						</li>
 					</ul>
 					<p>
 						<?php echo $this->localize('contact-me-paragraph3'); ?>
 
 					</p>
-					<p class="options">
-						<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz-title'); ?>"><?php echo $this->localize('notmybiz-title'); ?></a>
-					</p>
+					<ul class="options">
+						<li class="option">
+							<a class="notmybiz" href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz-title'); ?>"><?php echo $this->localize('notmybiz-title'); ?></a>
+						</li>
+					</ul>
 				</div>
 			</div>
 		</div>

@@ -189,6 +189,36 @@ body > #document {
 	padding-bottom: 15px;
 }
 
+#body .contact-me .options .option .email {
+	background: url(../img/email.png) no-repeat left center;
+	padding-left: 24px;
+}
+
+#body .contact-me .options .option .skype {
+	background: url(../img/skype.png) no-repeat left center;
+	padding-left: 24px;
+}
+
+#body .contact-me .options .option .linkedin {
+	background: url(../img/linkedin.png) no-repeat left center;
+	padding-left: 24px;
+}
+
+#body .contact-me .options .option .xing {
+	background: url(../img/xing.png) no-repeat left center;
+	padding-left: 24px;
+}
+
+#body .contact-me .options .option .facebook {
+	background: url(../img/facebook.png) no-repeat left center;
+	padding-left: 24px;
+}
+
+#body .contact-me .options .option .notmybiz {
+	background: url(../img/notmybiz.png) no-repeat left center;
+	padding-left: 24px;
+}
+
 #body .legal-notice .paragraph {
 	padding-bottom: 12px;
 }
