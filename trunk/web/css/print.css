@@ -97,6 +97,10 @@
 	display: none;
 }
 
+#body .contact-me .options .option .icon {
+	padding-left: 0;
+}
+
 #footer {
 	display: none;
 }
