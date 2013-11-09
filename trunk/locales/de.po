@@ -123,7 +123,7 @@ msgid "mytourclips-job-details-paragraph2"
 msgstr "Im Juni 2008 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
 
 msgid "motivado-job-title"
-msgstr "Gründer und <abbr title="Chief Technology Officer">CTO</abbr> bei %sMotivado%s"
+msgstr "Gründer und <abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.motivado.de" title="Motivado">Motivado</a>"
 
 msgid "motivado-job-details-paragraph1"
 msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
@@ -134,11 +134,8 @@ msgstr "Motivados komplexe Software wurde von mir mit Unterstützung eines agile
 msgid "motivado-job-details-paragraph3"
 msgstr "Seit November 2010 sind wir live und liefern unseren zufriedenen Kunden Hunderte von Produkten in Premiumqualität."
 
-msgid "rocket-internet-title"
-msgstr "Rocket Internet"
-
 msgid "rocket-internet-job-title"
-msgstr "Director Software Engineering bei %sRocket Internet%s"
+msgstr "Director Software Engineering bei <a href="http://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a>"
 
 msgid "rocket-internet-job-details-paragraph1"
 msgstr "Rocket Internet ist der weltgrößte Inkubator für Online-Geschäfte mit Hunderten von erfolgreichen E-Commerce-Projekten und Zehntausenden Mitarbeitern auf allen Kontinenten."
@@ -149,11 +146,8 @@ msgstr "Bei Rocket Internet war ich verantwortlich für sämtliche neu gestartet
 msgid "rocket-internet-job-details-paragraph3"
 msgstr "Meine Hauptaufgaben waren die technische Leitung, das Etablieren von Prozessen und Abläufen sowie die Rekrutierung, das Training und die Führung von Entwicklungs-Teams. Außerdem war ich Mentor für die Entwicklungs-Teams von manchen von Rocket Internets weiterentwickelten Projekten."
 
-msgid "foodpanda-title"
-msgstr "Foodpanda"
-
 msgid "foodpanda-job-title"
-msgstr "<abbr title="Chief Technology Officer">CTO</abbr> bei %sFoodpanda%s"
+msgstr "<abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.foodpanda.com" title="Foodpanda">Foodpanda</a>"
 
 msgid "foodpanda-job-details-paragraph1"
 msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Inkubiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte. Zusammen mit seiner Schwestermarke Hellofood operiert Foodpanda in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
@@ -365,11 +359,88 @@ msgstr "&copy; 1999-%d Simon Sablowski"
 msgid "legal-notice-path"
 msgstr "impressum"
 
-msgid "legal-notice-title"
+msgid "legal-notice-menu-title"
 msgstr "Impressum"
 
 msgid "translate-path"
 msgstr "en"
 
-msgid "translate-title"
+msgid "translate-menu-title"
 msgstr "English version"
+
+#legal-notice
+
+msgid "legal-notice-title"
+msgstr "Impressum"
+
+msgid "legal-notice-block1-title"
+msgstr "Verantwortlich"
+
+msgid "legal-notice-block1-paragraph1"
+msgstr "Simon Sablowski<br/>Kadiner Str. 20a<br/>10243 Berlin"
+
+msgid "legal-notice-block2-title"
+msgstr "Kontakt"
+
+msgid "legal-notice-block2-paragraph1"
+msgstr "Telefon: +49 30 381 011 40<br/>E-Mail: kontakt@simsab.net<br/><small>(Angaben gemäß § 5 TMG)</small>"
+
+msgid "legal-notice-block3-title"
+msgstr "Haftung für Inhalte"
+
+msgid "legal-notice-block3-paragraph1"
+msgstr "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen."
+
+msgid "legal-notice-block4-title"
+msgstr "Haftung für Links"
+
+msgid "legal-notice-block4-paragraph1"
+msgstr "Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen."
+
+msgid "legal-notice-block5-title"
+msgstr "Urheberrecht"
+
+msgid "legal-notice-block5-paragraph1"
+msgstr "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen."
+
+msgid "legal-notice-block6-title"
+msgstr "Datenschutz"
+
+msgid "legal-notice-block6-paragraph1"
+msgstr "Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben."
+
+msgid "legal-notice-block6-paragraph2"
+msgstr "Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich."
+
+msgid "legal-notice-block6-paragraph3"
+msgstr "Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor."
+
+msgid "legal-notice-block7-title"
+msgstr "Datenschutzerklärung für die Nutzung von Google Analytics"
+
+msgid "legal-notice-block7-paragraph1"
+msgstr "Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. ("Google"). Google Analytics verwendet sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert."
+
+msgid "legal-notice-block7-paragraph2"
+msgstr "Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten der Google Inc. in Verbindung bringen."
+
+msgid "legal-notice-block7-paragraph3"
+msgstr "Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden."
+
+msgid "legal-notice-block8-title"
+msgstr "<small>Quellen</small>"
+
+msgid "legal-notice-block8-bullet1"
+msgstr "<small>Erstellt durch den <a href="http://www.e-recht24.de">Impressum Generator</a> der Kanzlei Siebert</small>"
+
+msgid "legal-notice-block8-bullet2"
+msgstr "<small><a href="http://www.e-recht24.de/artikel/datenschutz/6590-facebook-like-button-datenschutz-disclaimer.html">Facebook-Disclaimer von eRecht24</a></small>"
+
+msgid "legal-notice-block8-bullet3"
+msgstr "<small><a href="http://www.e-recht24.de/muster-disclaimer.htm">Disclaimer eRecht24</a></small>"
+
+msgid "legal-notice-block8-bullet4"
+msgstr "<small><a href="http://www.google.com/intl/de_ALL/analytics/tos.html">Datenschutzerklärung Google Analytics</a></small>"
+
+msgid "legal-notice-block8-bullet5"
+msgstr "<small><a href="http://www.e-recht24.de/artikel/datenschutz/6635-datenschutz-rechtliche-risiken-bei-der-nutzung-von-google-analytics-und-googleadsense.html">Google Adsense Haftungsausschluss</a></small>"
