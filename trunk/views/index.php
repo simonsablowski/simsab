@@ -501,7 +501,7 @@
 					<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-menu-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-menu-title'); ?></a>
 				</li>
 				<li class="item">
-					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-title'); ?>"><?php echo $this->localize('translate-title'); ?></a>
+					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-menu-title'); ?>"><?php echo $this->localize('translate-menu-title'); ?></a>
 				</li>
 			</ul>
 		</div>
