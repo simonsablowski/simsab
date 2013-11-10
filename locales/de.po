@@ -348,7 +348,7 @@ msgstr "Besuchen Sie auch mein Online-Portfolio für Aktzeichnung, Charakter-Des
 #footer
 
 msgid "document-copyright"
-msgstr "&copy; 1999-%d Simon Sablowski"
+msgstr "&copy; 1999 - %d Simon Sablowski"
 
 msgid "legal-notice-path"
 msgstr "impressum"

@@ -223,10 +223,6 @@ body > #document {
 	padding-left: 24px;
 }
 
-#body .legal-notice .paragraph {
-	padding-bottom: 12px;
-}
-
 #footer {
 	clear: both;
 	height: 50px;
@@ -239,4 +235,8 @@ body > #document {
 #footer .menu .item {
 	display: inline;
 	padding: 0 30px 0 0;
+}
+
+#body .legal-notice .paragraph {
+	padding-bottom: 12px;
 }
