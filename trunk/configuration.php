@@ -27,7 +27,9 @@ $configuration['Localization'] = array(
 
 $configuration['Request'] = array(
 	'defaultQuery' => 'Static/show/index',
-	'aliasQueries' => array()
+	'aliasQueries' => array(
+		'(legal-notice)' => 'Static/show/$1'
+	)
 );
 
 date_default_timezone_set('Europe/Berlin');
