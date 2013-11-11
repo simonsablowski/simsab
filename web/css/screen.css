@@ -224,11 +224,16 @@ body > #document {
 }
 
 #footer {
+	background-color: #121;
 	clear: both;
-	height: 50px;
-	margin: -50px auto 0;
-	padding: 0 0 0 200px;
+	height: 60px;
+	margin: -60px auto 0;
 	position: relative;
+}
+
+#footer .menu {
+	margin: 0 auto;
+	padding: 15px 0 0 200px;
 	width: 760px;
 }
 
