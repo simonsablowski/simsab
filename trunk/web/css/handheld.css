@@ -74,12 +74,15 @@
 }
 
 #footer {
-	padding: 0 20px;
-	width: auto;
+	background-color: transparent;
+	height: 50px;
+	margin: -50px auto 0;
 }
 
 #footer .menu {
 	line-height: 1.5;
+	padding: 0 20px;
+	width: auto;
 }
 
 #footer .menu .item {
