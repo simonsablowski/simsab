@@ -42,7 +42,7 @@
 					<h2 class="title">
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('about-me-path'); ?>" name="<?php echo $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-title'); ?>"><?php echo $this->localize('about-me-title'); ?></a>
 					</h2>
-					<img class="picture" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski.jpg" alt="<?php echo $this->localize('photo-title'); ?>" title="<?php echo $this->localize('photo-title'); ?>"/>
+					<img class="picture" src="<?php echo $this->getConfiguration('basePath'); ?>img/simon-sablowski.jpg" alt="<?php echo $this->localize('about-me-photo-title'); ?>" title="<?php echo $this->localize('about-me-photo-title'); ?>"/>
 					<p class="paragraph">
 						<?php echo $this->localize('about-me-paragraph1'); ?>
 

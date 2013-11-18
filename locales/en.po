@@ -3,9 +3,6 @@
 msgid "document-title"
 msgstr "simsab"
 
-msgid "photo-title"
-msgstr "Simon Sablowski"
-
 msgid "document-language"
 msgstr "en"
 
@@ -54,6 +51,9 @@ msgstr "Contact me"
 
 msgid "about-me-title"
 msgstr "I am&hellip;"
+
+msgid "about-me-photo-title"
+msgstr "Simon Sablowski"
 
 msgid "about-me-paragraph1"
 msgstr "&hellip;a web professional with many years of experience in software engineering, agile project management and entrepreneurship. Throughout my career I have worked both in online startups and in established corporations, in positions ranging from software developer to <abbr title="Chief Technology Officer">CTO</abbr>. I have successfully managed numerous web projects, many of which were able to reach market leadership."
@@ -186,6 +186,12 @@ msgstr "Interactive"
 
 msgid "experimental-title"
 msgstr "Experimental"
+
+msgid "php-title"
+msgstr "PHP"
+
+msgid "javascript-title"
+msgstr "JavaScript"
 
 msgid "beerball-simulator-title"
 msgstr "Beerball Simulator"

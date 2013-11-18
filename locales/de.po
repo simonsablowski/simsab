@@ -3,9 +3,6 @@
 msgid "document-title"
 msgstr "simsab"
 
-msgid "photo-title"
-msgstr "Simon Sablowski"
-
 msgid "document-language"
 msgstr "de"
 
@@ -54,6 +51,9 @@ msgstr "Kontakt"
 
 msgid "about-me-title"
 msgstr "Ich bin&hellip;"
+
+msgid "about-me-photo-title"
+msgstr "Simon Sablowski"
 
 msgid "about-me-paragraph1"
 msgstr "&hellip;ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, agilem Projektmanagement und Unternehmertum. Im Laufe meiner Karriere habe ich sowohl in Online-Startups als auch in etablierten Unternehmen in Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> gearbeitet. Ich habe zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."

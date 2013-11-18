@@ -5,13 +5,14 @@ html {
 	background-image: url(../img/page.png);
 	background-repeat: repeat-x;
 	color: #fff;
-	height: 100%;
+	min-height: 100%;
+	position: relative;
 }
 
 body {
 	font-family: 'Droid Sans', sans-serif;
 	font-size: 14px;
-	height: 100%;
+	margin: 0 0 50px;
 	line-height: 2.0;
 }
 
@@ -33,11 +34,6 @@ li {
 	padding: 0 50px;
 	position: relative;
 	width: 860px;
-}
-
-body > #document {
-	height: auto;
-	min-height: 100%;
 }
 
 #header {
@@ -77,7 +73,7 @@ body > #document {
 }
 
 #body {
-	padding: 0 0 100px 150px;
+	padding: 0 0 30px 150px;
 }
 
 #body .title {
@@ -224,16 +220,16 @@ body > #document {
 }
 
 #footer {
-	background-color: #121;
-	clear: both;
-	height: 60px;
-	margin: -60px auto 0;
-	position: relative;
+	background-color: #142914;
+	bottom: 0;
+	height: 50px;
+	position: absolute;
+	width: 100%;
 }
 
 #footer .menu {
 	margin: 0 auto;
-	padding: 15px 0 0 200px;
+	padding: 10px 0 0 200px;
 	width: 760px;
 }
 
