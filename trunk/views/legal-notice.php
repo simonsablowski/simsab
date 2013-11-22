@@ -1,20 +1,20 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo $this->localize('document-language'); ?>">
+<html lang="<?php echo $this->localize('document-language'); ?>">
 	<head>
 		<title><?php echo $this->localize('document-title'); ?></title>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-		<meta name="robots" content="noindex, nofollow"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-		<link href="<?php echo $this->localize('canonical-url'); ?>" rel="canonical"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/simsab.css" rel="stylesheet" type="text/css"/>
-		<link href="<?php echo $this->getConfiguration('basePath'); ?>img/simsab.ico" rel="shortcut icon" type="image/x-icon"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="robots" content="noindex, nofollow">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<link href="<?php echo $this->localize('canonical-url'); ?>" rel="canonical">
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>css/simsab.css" rel="stylesheet" type="text/css">
+		<link href="<?php echo $this->getConfiguration('basePath'); ?>img/simsab.ico" rel="shortcut icon" type="image/x-icon">
 	</head>
 	<body>
 		<div id="document">
-			<div id="header">
-				<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.png" alt="<?php echo $this->localize('document-title'); ?>" title="<?php echo $this->localize('document-title'); ?>"/></a>
-			</div>
-			<div id="sidebar">
+			<header id="header">
+				<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.png" alt="<?php echo $this->localize('document-title'); ?>" title="<?php echo $this->localize('document-title'); ?>"></a>
+			</header>
+			<nav id="sidebar">
 				<ul class="menu items">
 					<li class="item">
 						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-menu-title'); ?>"><?php echo $this->localize('about-me-menu-title'); ?></a>
@@ -32,10 +32,10 @@
 						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('contact-me-path'); ?>" title="<?php echo $this->localize('contact-me-menu-title'); ?>"><?php echo $this->localize('contact-me-menu-title'); ?></a>
 					</li>
 				</ul>
-			</div>
-			<div id="body">
-				<div class="section legal-notice">
-					<h2 class="title">
+			</nav>
+			<article id="body">
+				<section class="section legal-notice">
+					<h2 id="<?php echo $this->localize('legal-notice-path'); ?>" class="title">
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-title'); ?></a>
 					</h2>
 					<h3 class="title">
@@ -136,8 +136,8 @@
 
 						</li>
 					</ul>
-				</div>
-			</div>
+				</section>
+			</article>
 		</div>
 	</body>
 </html>
