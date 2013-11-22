@@ -1,10 +1,14 @@
 @import url('http://fonts.googleapis.com/css?family=Droid+Sans');
 
+* {
+	margin: 0;
+	padding: 0;
+}
+
 html {
 	background-color: #193319;
 	background-image: url(../img/page.png);
 	background-repeat: repeat-x;
-	color: #fff;
 	min-height: 100%;
 	position: relative;
 }
@@ -16,17 +20,32 @@ body {
 	line-height: 2.0;
 }
 
+a, em, strong {
+	color: #bea;
+	font-style: normal;
+	font-weight: normal;
+	white-space: nowrap;
+}
+
 a {
+	outline-style: none;
 	text-decoration: none;
 }
 
-a, em, strong {
-	color: #bea;
-	white-space: nowrap;
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+img {
+	border: 0 none;
 }
 
 li {
 	list-style: none;
+}
+
+abbr {
+	border-bottom: 1px dotted;
 }
 
 #document {
@@ -73,6 +92,7 @@ li {
 }
 
 #body {
+	color: #fff;
 	padding: 0 0 30px 150px;
 }
 
@@ -234,6 +254,7 @@ li {
 }
 
 #footer .menu .item {
+	color: #fff;
 	display: inline;
 	padding: 0 30px 0 0;
 }

@@ -1,4 +1,3 @@
-@import 'standards.css';
 @import 'handheld.css';
 @import 'screen.css' screen and (min-width: 960px);
 @import 'handheld.css' handheld, only screen and (max-device-width: 959px);
