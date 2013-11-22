@@ -96,7 +96,7 @@ function initializeSections() {
 	
 	var url = document.location.toString();
 	if (url.match('#')) {
-		$('.section a[name*="' + url.split('#')[1] + '"]').parents('.section').show();
+		$('.section #' + url.split('#')[1]).parents('.section').show();
 		toggleMenuItems();
 	} else {
 		$('.section:first').show();
@@ -107,7 +107,7 @@ function initializeSections() {
 		return this.href.match('#');
 	}).click(function(event) {
 		$('.section:visible').hide();
-		$('.section a[name*="' + $(this).attr('href').split('#')[1] + '"]').parents('.section').fadeIn(400);
+		$('.section #' + $(this).attr('href').split('#')[1]).parents('.section').fadeIn(400);
 		toggleMenuItems();
 		event.preventDefault();
 		window.location = $(this).attr('href');
@@ -117,7 +117,7 @@ function initializeSections() {
 
 function toggleMenuItems() {
 	$('#sidebar .menu .item a').removeClass('active').addClass('inactive');
-	$('#sidebar .menu .item a[href*="' + $('.section:visible a').attr('name') + '"]').removeClass('inactive').addClass('active');
+	$('#sidebar .menu .item a[href*="' + $('.section:visible .title').attr('id') + '"]').removeClass('inactive').addClass('active');
 }
 
 loadLibrary('http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js', function() {
