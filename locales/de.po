@@ -13,7 +13,7 @@ msgid "meta-description"
 msgstr "Simon Sablowski ist ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, agilem Projektmanagement und Unternehmertum."
 
 msgid "meta-keywords"
-msgstr "simon sablowski, sablowski, berlin, web-entwicklung, software-architektur, technische konzeption, prototyping, refactoring, datenbank-design, php, mysql, oop, mvc"
+msgstr "simon sablowski, sablowski, simsab, berlin, web-entwicklung, software-entwicklung, projektmanagement, software-architektur, agile entwicklung, unternehmertum, cto, startup, php, javascript"
 
 #menu
 
