@@ -224,6 +224,16 @@
 						</li>
 					</ul>
 					<dl class="items">
+						<dt class="item interactive">
+							<a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('beatemup-title'); ?>"><?php echo $this->localize('beatemup-title'); ?></a>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('beatemup-description'); ?>
+
+								<a class="source-code separated" href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+							</p>
+						</dd>
 						<dt class="item tools">
 							<a href="http://projects.simsab.net/shrtn/" title="<?php echo $this->localize('shrtn-title'); ?>"><?php echo $this->localize('shrtn-title'); ?></a>
 						</dt>
@@ -251,16 +261,6 @@
 								<?php echo $this->localize('getitdone-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/task-planner/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
-							</p>
-						</dd>
-						<dt class="item interactive">
-							<a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('beatemup-title'); ?>"><?php echo $this->localize('beatemup-title'); ?></a>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('beatemup-description'); ?>
-
-								<a class="source-code separated" href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item personal">
