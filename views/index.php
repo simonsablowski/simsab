@@ -234,6 +234,16 @@
 								<a class="source-code separated" href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
+						<dt class="item personal">
+							<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz-title'); ?>"><?php echo $this->localize('notmybiz-title'); ?></a>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('notmybiz-description'); ?>
+
+								<a class="source-code separated" href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+							</p>
+						</dd>
 						<dt class="item tools">
 							<a href="http://projects.simsab.net/shrtn/" title="<?php echo $this->localize('shrtn-title'); ?>"><?php echo $this->localize('shrtn-title'); ?></a>
 						</dt>
@@ -365,16 +375,6 @@
 							<p class="expandable">
 								<?php echo $this->localize('cheese-details-paragraph1'); ?>
 
-							</p>
-						</dd>
-						<dt class="item personal">
-							<a href="http://www.notmybiz.com" title="<?php echo $this->localize('notmybiz-title'); ?>"><?php echo $this->localize('notmybiz-title'); ?></a>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('notmybiz-description'); ?>
-
-								<a class="source-code separated" href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item personal tools">
