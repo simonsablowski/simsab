@@ -59,7 +59,7 @@ msgid "about-me-paragraph1"
 msgstr "&hellip;a web professional with many years of experience in software engineering, agile project management and entrepreneurship. Throughout my career I have worked both in online startups and in established corporations, in positions ranging from software developer to <abbr title="Chief Technology Officer">CTO</abbr>. I have successfully managed numerous web projects, many of which were able to reach market leadership."
 
 msgid "about-me-paragraph2"
-msgstr "Currently I am open for new opportunities!"
+msgstr "Currently I am working as <abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.campanda.com" title="Campanda">Campanda</a>."
 
 #qualities
 
@@ -157,6 +157,12 @@ msgstr "I was responsible for assembling and leading a team of 30+ software engi
 
 msgid "foodpanda-job-details-paragraph3"
 msgstr "Apart from client applications for desktop and mobile browsers, Android and iOS platforms, the software engineers developed a rich backend application for managing orders, vendors and promotions and implemented individual integrations for partner restaurants' point of sale systems."
+
+msgid "campanda-job-title"
+msgstr "<abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.campanda.com" title="Campanda">Campanda</a>"
+
+msgid "campanda-job-details-paragraph1"
+msgstr "Campanda is the exclusive marketplace for renting recreational vehicles worldwide."
 
 #projects
 

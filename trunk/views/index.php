@@ -89,6 +89,20 @@
 					</h2>
 					<dl class="items">
 						<dt class="item">
+							<?php echo $this->localize('since', array('01/2013')); ?>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('campanda-job-title'); ?>
+
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('campanda-job-details-paragraph1'); ?>
+
+							</p>
+						</dd>
+						<dt class="item">
 							<?php echo $this->localize('from-until', array('11/2012', '09/2013')); ?>
 
 							<span class="sub-line"><?php echo $this->localize('several-months', 11); ?></span>
