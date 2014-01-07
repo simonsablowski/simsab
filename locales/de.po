@@ -59,7 +59,7 @@ msgid "about-me-paragraph1"
 msgstr "&hellip;ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, agilem Projektmanagement und Unternehmertum. Im Laufe meiner Karriere habe ich sowohl in Online-Startups als auch in etablierten Unternehmen in Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> gearbeitet. Ich habe zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
 
 msgid "about-me-paragraph2"
-msgstr "Aktuell bin ich offen für neue Angebote!"
+msgstr "Aktuell arbeite ich als <abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.campanda.com" title="Campanda">Campanda</a>."
 
 #qualities
 
@@ -157,6 +157,12 @@ msgstr "Ich war verantwortlich für die Zusammenstellung und Führung eines Team
 
 msgid "foodpanda-job-details-paragraph3"
 msgstr "Abgesehen von Kundenanwendungen für Desktop- und Mobile-Browser, Android- und iOS-Plattformen haben die Software-Entwickler eine komplexe Backend-Anwendung entwickelt, mit der Bestellungen, Anbieter und Promotions verwaltet werden können, und individuelle Integrationen für die Kassensysteme der Partner-Restaurants entwickelt."
+
+msgid "campanda-job-title"
+msgstr "<abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.campanda.com" title="Campanda">Campanda</a>"
+
+msgid "campanda-job-details-paragraph1"
+msgstr "Campanda ist der exklusive Marktplatz für das weltweite Mieten von Wohnmobilen und Wohnwagen."
 
 #projects
 
