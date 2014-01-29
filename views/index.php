@@ -95,9 +95,8 @@
 							<p>
 								<?php echo $this->localize('campanda-job-title'); ?>
 
-								<a class="collapse details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
-							<p class="expandable">
+							<p>
 								<?php echo $this->localize('campanda-job-details-paragraph1'); ?>
 
 							</p>
