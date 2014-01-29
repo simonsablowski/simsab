@@ -162,7 +162,7 @@ msgid "campanda-job-title"
 msgstr "<abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.campanda.com" title="Campanda">Campanda</a>"
 
 msgid "campanda-job-details-paragraph1"
-msgstr "Campanda ist der exklusive Marktplatz für das weltweite Mieten von Wohnmobilen und Wohnwagen."
+msgstr "Campanda ist der exklusive Marktplatz für das weltweite Mieten von Wohnmobilen und Wohnwagen. Zehntausende Fahrzeuge werden angeboten in Europa, Ozeanien, Nord- und Südamerika sowie Afrika."
 
 #projects
 
