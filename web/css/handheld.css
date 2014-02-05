@@ -9,29 +9,32 @@
 	height: auto;
 }
 
-#logo {
-	height: 30px;
-	margin: 20px 0 0;
-	width: 243px;
-}
-
-#sidebar {
-	position: relative;
-	top: 0;
+#logo-container {
+	padding: 20px 20px 0;	
 	width: auto;
 }
 
-#sidebar .menu {
+#logo {
+	font-size: 300%;
+}
+
+#header .menu-container {
+	display: block;
+	margin: 0;
+}
+
+#header .menu {
 	display: block;
 	height: auto;
-	padding: 10px 0 20px;
-	width: auto;
+	padding: 5px 0;
 }
 
-#sidebar .menu .item {
-	display: inline;
+#header .menu .item {
 	padding: 0 10px 0 0;
-	text-align: left;
+}
+
+#header .menu .item .active {
+	color: #9c0;
 }
 
 #body {
@@ -41,7 +44,11 @@
 #body .title a {
 	font-size: 150%;
 	height: auto;
-	line-height: inherit;
+	line-height: 70px;
+}
+
+#body .about-me {
+	padding-right: 0;
 }
 
 #body .about-me .picture {
@@ -51,6 +58,7 @@
 }
 
 #body .qualities .bullet {
+	padding-bottom: 5px;
 	padding-right: 0;
 }
 
@@ -74,12 +82,12 @@
 }
 
 #footer {
-	background-color: transparent;
+	height: auto;
 }
 
 #footer .menu {
 	line-height: 1.5;
-	padding: 0 20px;
+	padding: 5px 20px;
 	width: auto;
 }
 

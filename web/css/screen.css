@@ -1,4 +1,5 @@
-@import url('http://fonts.googleapis.com/css?family=Droid+Sans');
+@import url('http://fonts.googleapis.com/css?family=Roboto');
+@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
 
 * {
 	margin: 0;
@@ -6,22 +7,20 @@
 }
 
 html {
-	background-color: #193319;
-	background-image: url(../img/page.png);
-	background-repeat: repeat-x;
+	background-color: #580;
 	min-height: 100%;
 	position: relative;
 }
 
 body {
-	font-family: 'Droid Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	margin: 0 0 50px;
 	line-height: 2.0;
 }
 
 a, em, strong {
-	color: #bea;
+	color: #dfc;
 	font-style: normal;
 	font-weight: normal;
 	white-space: nowrap;
@@ -56,44 +55,61 @@ abbr {
 }
 
 #header {
-	height: 100px;
+	background-color: #fff;
+	height: auto;
 	position: relative;
 }
 
+#logo-container {			
+	margin: 0 auto;
+	padding: 20px 0;
+	width: 860px;
+}
+
 #logo {
-	height: 45px;
-	margin: 20px 0;
-	width: 364px;
+	display: inline;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 400%;
+	height: auto;
+	line-height: 1;
+	text-shadow: 0 1px 0 #ccc;
+	width: auto;
 }
 
-#sidebar {
-	position: fixed;
-	top: 200px;
-	width: 150px;
+#logo a {
+	color: #580;
 }
 
-#sidebar .menu {
-	padding: 0 75px 0 0;
+#header .menu-container {
+	display: inline;
+	margin: 40px 0 0 100px;
 }
 
-#sidebar .menu .item {
-	display: block;
-	padding: 0 0 10px;
-	text-align: right;
+#header .menu {
+	display: inline;
+	margin: 0 auto;
+	padding: 0;
+	width: auto;
 }
 
-#sidebar .menu .item a {
-	color: #bea;
-	text-shadow: 0 2px 0 #000;
+#header .menu .item {
+	display: inline;
+	padding: 0 30px 0 0;
 }
 
-#sidebar .menu .item .active {
-	color: #ffa;
+#header .menu .item a {
+	color: #666;
+	text-shadow: 0 1px 0 #ccc;
+}
+
+#header .menu .item .active {
+	color: #9c0;;
 }
 
 #body {
 	color: #fff;
-	padding: 0 0 30px 150px;
+	padding: 0 0 30px 0;
+	text-shadow: 0 1px 0 #999;
 }
 
 #body .title {
@@ -102,11 +118,11 @@ abbr {
 }
 
 #body .title a {
-	color: #bea;
+	color: #dfc;
 	font-size: 250%;
 	height: 100px;
 	line-height: 100px;
-	text-shadow: 0 2px 0 #000;
+	text-shadow: 0 1px 0 #666;
 }
 
 #body .details {
@@ -154,6 +170,10 @@ abbr {
 	padding: 0;
 }
 
+#body .about-me {
+	padding-right: 150px;
+}
+
 #body .about-me .picture {
 	float: right;
 	height: 162px;
@@ -198,11 +218,11 @@ abbr {
 }
 
 #body .projects .tag .active {
-	color: #ffa;
+	color: #ff8;
 }
 
 #body .projects .tag .inactive {
-	color: #cdc;
+	color: #ffc;
 }
 
 #body .contact-me .options {
@@ -240,23 +260,27 @@ abbr {
 }
 
 #footer {
-	background-color: #142914;
+	background-color: #fff;
 	bottom: 0;
-	height: 50px;
+	height: auto;
 	position: absolute;
 	width: 100%;
 }
 
 #footer .menu {
 	margin: 0 auto;
-	padding: 10px 0 0 200px;
-	width: 760px;
+	padding: 10px 0 20px 0;
+	width: 860px;
 }
 
 #footer .menu .item {
-	color: #fff;
+	color: #000;
 	display: inline;
 	padding: 0 30px 0 0;
+}
+
+#footer .menu .item a {
+	color: #666;
 }
 
 #body .legal-notice .paragraph {

@@ -14,29 +14,33 @@
 		<script src="<?php echo $this->getConfiguration('basePath'); ?>js/simsab.js" type="text/javascript"></script>
 	</head>
 	<body>
+		<header id="header">
+			<div id="logo-container">
+				<h1 id="logo">
+					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><?php echo $this->localize('document-title'); ?></a>
+				</h1>
+				<nav class="menu-container">
+					<ul class="menu items">
+						<li class="item">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-menu-title'); ?>"><?php echo $this->localize('about-me-menu-title'); ?></a>
+						</li>
+						<li class="item">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('qualities-path'); ?>" title="<?php echo $this->localize('qualities-menu-title'); ?>"><?php echo $this->localize('qualities-menu-title'); ?></a>
+						</li>
+						<li class="item">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('career-menu-title'); ?>"><?php echo $this->localize('career-menu-title'); ?></a>
+						</li>
+						<li class="item">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('projects-menu-title'); ?>"><?php echo $this->localize('projects-menu-title'); ?></a>
+						</li>
+						<li class="item">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('contact-me-path'); ?>" title="<?php echo $this->localize('contact-me-menu-title'); ?>"><?php echo $this->localize('contact-me-menu-title'); ?></a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
 		<div id="document">
-			<header id="header">
-				<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><img id="logo" src="<?php echo $this->getConfiguration('basePath'); ?>img/logo.png" alt="<?php echo $this->localize('document-title'); ?>" title="<?php echo $this->localize('document-title'); ?>"></a>
-			</header>
-			<nav id="sidebar">
-				<ul class="menu items">
-					<li class="item">
-						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-menu-title'); ?>"><?php echo $this->localize('about-me-menu-title'); ?></a>
-					</li>
-					<li class="item">
-						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('qualities-path'); ?>" title="<?php echo $this->localize('qualities-menu-title'); ?>"><?php echo $this->localize('qualities-menu-title'); ?></a>
-					</li>
-					<li class="item">
-						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('career-menu-title'); ?>"><?php echo $this->localize('career-menu-title'); ?></a>
-					</li>
-					<li class="item">
-						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('projects-menu-title'); ?>"><?php echo $this->localize('projects-menu-title'); ?></a>
-					</li>
-					<li class="item">
-						<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('contact-me-path'); ?>" title="<?php echo $this->localize('contact-me-menu-title'); ?>"><?php echo $this->localize('contact-me-menu-title'); ?></a>
-					</li>
-				</ul>
-			</nav>
 			<article id="body">
 				<section class="section about-me">
 					<h2 id="<?php echo $this->localize('about-me-path'); ?>" class="title">
@@ -505,18 +509,20 @@
 			</article>
 		</div>
 		<footer id="footer">
-			<ul class="menu items">
-				<li class="item">
-					<?php echo $this->localize('document-copyright', $this->getConfiguration('currentYear')); ?>
+			<nav class="menu-container">
+				<ul class="menu items">
+					<li class="item">
+						<?php echo $this->localize('document-copyright', $this->getConfiguration('currentYear')); ?>
 
-				</li>
-				<li class="item">
-					<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-menu-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-menu-title'); ?></a>
-				</li>
-				<li class="item">
-					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-menu-title'); ?>"><?php echo $this->localize('translate-menu-title'); ?></a>
-				</li>
-			</ul>
+					</li>
+					<li class="item">
+						<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-menu-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-menu-title'); ?></a>
+					</li>
+					<li class="item">
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-menu-title'); ?>"><?php echo $this->localize('translate-menu-title'); ?></a>
+					</li>
+				</ul>
+			</nav>
 		</footer>
 <?php echo $this->getConfiguration('trackingCode'); ?>
 
