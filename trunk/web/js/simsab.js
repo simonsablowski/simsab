@@ -103,7 +103,7 @@ function initializeSections() {
 		toggleMenuItems();
 	}
 	
-	$('#sidebar .menu .item a').filter(function() {
+	$('#header .menu .item a').filter(function() {
 		return this.href.match('#');
 	}).click(function(event) {
 		$('.section:visible').hide();
@@ -116,8 +116,8 @@ function initializeSections() {
 }
 
 function toggleMenuItems() {
-	$('#sidebar .menu .item a').removeClass('active').addClass('inactive');
-	$('#sidebar .menu .item a[href*="' + $('.section:visible .title').attr('id') + '"]').removeClass('inactive').addClass('active');
+	$('#header .menu .item a').removeClass('active').addClass('inactive');
+	$('#header .menu .item a[href*="' + $('.section:visible .title').attr('id') + '"]').removeClass('inactive').addClass('active');
 }
 
 loadLibrary('http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js', function() {
