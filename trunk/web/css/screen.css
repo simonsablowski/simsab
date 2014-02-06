@@ -127,7 +127,7 @@ abbr {
 }
 
 #body .external {
-	background: url(../img/external.png) no-repeat right center;
+	background: url(../img/external.png) no-repeat right 6px;
 	padding-right: 14px;
 }
 
@@ -137,12 +137,12 @@ abbr {
 }
 
 #body .collapse {
-	background: url(../img/collapse.png) no-repeat right center;
+	background: url(../img/collapse.png) no-repeat right 6px;
 	padding-right: 14px;
 }
 
 #body .expand {
-	background: url(../img/expand.png) no-repeat right center;
+	background: url(../img/expand.png) no-repeat right 6px;
 	padding-right: 14px;
 }
 
@@ -221,12 +221,18 @@ abbr {
 	margin: 0 30px 0 0;
 }
 
-#body .projects .tag .active {
-	color: #ff8;
+#body .projects .tags .tag a {
+	color: #ffc;
 }
 
-#body .projects .tag .inactive {
-	color: #ffc;
+#body .projects .tags .tag .active {
+	background: url(../img/tag-active.png) no-repeat right 6px;
+	padding-right: 14px;
+}
+
+#body .projects .tags .tag .inactive {
+	background: url(../img/tag-inactive.png) no-repeat right 6px;
+	padding-right: 14px;
 }
 
 #body .contact-me {

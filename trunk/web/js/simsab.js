@@ -43,16 +43,11 @@ function filterItemsByTag(items, tag, neighbours) {
 	});
 }
 
-function updateTagCounters() {
+function updateTagList() {
 	$('.tag').each(function(i, element) {
 		$(element).show();
 		var items = $(element).parents('.tags').siblings('.items').children(':visible');
 		var count = filterItemsByTag(items, getTagFromElement(element), false).length;
-		var name = $(this).text();
-		var position = name.indexOf(' (');
-		var appendix = ' (' + count + ')';
-		name = position == -1 ? name + appendix : name.substring(0, position) + appendix;
-		$(element).children('a').text(name);
 		if (count == 0) {
 			$(element).hide();
 		}
@@ -73,11 +68,11 @@ function initializeTagElements() {
 			$(this).parents('.tags').siblings('.items').children(':hidden').fadeIn(400);
 		}
 		
-		updateTagCounters();
+		updateTagList();
 		event.preventDefault();
 	});
 	
-	updateTagCounters();
+	updateTagList();
 }
 
 function initializeExpandableElements() {
