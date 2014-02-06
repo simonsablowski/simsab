@@ -52,7 +52,7 @@ body {
 }
 
 #body .section {
-	width: auto !important;
+	width: auto;
 }
 
 #body .about-me .picture {
