@@ -33,6 +33,7 @@
 #body .section {
 	display: block !important;
 	padding-top: 40px;
+	width: auto !important;
 }
 
 #body .title a {
@@ -54,7 +55,6 @@
 #body .bullet {
 	list-style-image: none;
 	list-style-type: initial;
-	padding-right: 0;
 }
 
 #body .details {
@@ -74,16 +74,8 @@
 	display: block !important;
 }
 
-#body .about-me {
-	padding-right: 0;
-}
-
 #body .about-me .paragraph, #body .qualities .bullet, #body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
 	padding-bottom: 0;
-}
-
-#body .qualities .bullet {
-	padding-right: 0;
 }
 
 #body .career .item, #body .career .description, #body .projects .item, #body .projects .description {

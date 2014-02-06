@@ -168,7 +168,7 @@ abbr {
 }
 
 #body .about-me {
-	padding-right: 150px;
+	width: 700px;
 }
 
 #body .about-me .picture {
@@ -182,9 +182,16 @@ abbr {
 	padding-bottom: 12px;
 }
 
+#body .qualities {
+	width: 600px;
+}
+
 #body .qualities .bullet {
 	padding-bottom: 10px;
-	padding-right: 250px;
+}
+
+#body .career {
+	width: 600px;
 }
 
 #body .career .item, #body .career .description {
@@ -202,7 +209,7 @@ abbr {
 
 #body .career .description, #body .projects .description {
 	margin-left: 0;
-	width: 560px;
+	width: 450px;
 }
 
 #body .projects .tags, #body .projects .item, #body .projects .description {
@@ -220,6 +227,10 @@ abbr {
 
 #body .projects .tag .inactive {
 	color: #ffc;
+}
+
+#body .contact-me {
+	width: 650px;
 }
 
 #body .contact-me .options {

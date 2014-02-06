@@ -51,8 +51,8 @@ body {
 	line-height: 70px;
 }
 
-#body .about-me {
-	padding-right: 0;
+#body .section {
+	width: auto !important;
 }
 
 #body .about-me .picture {
@@ -63,7 +63,6 @@ body {
 
 #body .qualities .bullet {
 	padding-bottom: 5px;
-	padding-right: 0;
 }
 
 #body .career .item, #body .career .description, #body .projects .item, #body .projects .description {

@@ -340,7 +340,7 @@ msgid "contact-me-title"
 msgstr "Contact me"
 
 msgid "contact-me-paragraph1"
-msgstr "I am always looking for exciting new challenges and the opportunity to enhance my skills.<br/>If you are interested in a collaboration, please contact me at:"
+msgstr "I am always looking for exciting new challenges and the opportunity to enhance my skills. If you are interested in a collaboration, please contact me at:"
 
 msgid "e-mail-address"
 msgstr "contact@simsab.net"

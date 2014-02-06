@@ -334,7 +334,7 @@ msgid "contact-me-title"
 msgstr "Kontaktieren Sie mich"
 
 msgid "contact-me-paragraph1"
-msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert.<br/>Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
+msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert. Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
 
 msgid "e-mail-address"
 msgstr "kontakt@simsab.net"
