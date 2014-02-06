@@ -259,14 +259,14 @@ abbr {
 #footer {
 	background-color: #fff;
 	bottom: 0;
-	height: auto;
+	height: 50px;
 	position: absolute;
 	width: 100%;
 }
 
 #footer .menu {
 	margin: 0 auto;
-	padding: 10px 0 20px 0;
+	padding: 10px 0 19px 0;
 	width: 860px;
 }
 

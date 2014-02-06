@@ -1,5 +1,9 @@
 @import 'screen.css';
 
+body {
+	margin: 0 0 30px;
+}
+
 #document {
 	padding: 0 20px;
 	width: auto;
@@ -82,12 +86,12 @@
 }
 
 #footer {
-	height: auto;
+	height: 30px;
 }
 
 #footer .menu {
 	line-height: 1.5;
-	padding: 5px 20px;
+	padding: 4px 20px 5px;
 	width: auto;
 }
 
