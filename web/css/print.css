@@ -13,16 +13,16 @@
 	width: auto;
 }
 
-#header {
-	height: auto;
+#logo-container {
+	padding: 20px 20px 0;	
+	width: auto;
 }
 
 #logo {
-	content: url(../img/logo-print.png);
-	margin: 0;
+	font-size: 300%;
 }
 
-#sidebar {
+#header .menu-container {
 	display: none;
 }
 
