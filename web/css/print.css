@@ -74,6 +74,10 @@
 	display: block !important;
 }
 
+#body .about-me {
+	padding-right: 0;
+}
+
 #body .about-me .paragraph, #body .qualities .bullet, #body .career .item, #body .career .description, #body .projects .item, #body .projects .description {
 	padding-bottom: 0;
 }
