@@ -8,6 +8,9 @@
 
 html {
 	background-color: #580;
+	background-image: url(../img/simsab.jpg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
 	min-height: 100%;
 	position: relative;
 }
@@ -168,7 +171,7 @@ abbr {
 }
 
 #body .about-me {
-	width: 700px;
+	width: 500px;
 }
 
 #body .about-me .picture {
