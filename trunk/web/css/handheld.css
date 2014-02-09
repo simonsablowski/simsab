@@ -1,5 +1,9 @@
 @import 'screen.css';
 
+html {
+	background-image: none;
+}
+
 body {
 	margin: 0 0 30px;
 }
