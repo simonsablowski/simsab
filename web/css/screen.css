@@ -101,11 +101,14 @@ abbr {
 }
 
 #header .menu .item a {
+	border-radius: 5px;
 	color: #666;
+	padding: 5px 10px;
 }
 
 #header .menu .item .active {
-	color: #9c0;;
+	background-color: #9c0;
+	color: #fff;
 }
 
 #body {
