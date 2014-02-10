@@ -93,21 +93,24 @@
 					<dl class="items">
 						<dt class="item">
 							<?php echo $this->localize('since', array('01/2014')); ?>
+
+							<span class="sub-line"><?php echo ($m = date_diff(date_create('2014-01'), date_create())->m) > 1 ? $this->localize('several-months', $m) : $this->localize('one-month', $m); ?></span>
 						</dt>
 						<dd class="description">
 							<p>
 								<?php echo $this->localize('campanda-job-title'); ?>
 
+								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
 							</p>
-							<p>
+							<p class="expandable">
 								<?php echo $this->localize('campanda-job-details-paragraph1'); ?>
 
 							</p>
-							<p>
+							<p class="expandable">
 								<?php echo $this->localize('campanda-job-details-paragraph2'); ?>
 
 							</p>
-							<p>
+							<p class="expandable">
 								<?php echo $this->localize('campanda-job-details-paragraph3'); ?>
 
 							</p>
