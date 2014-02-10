@@ -164,6 +164,12 @@ msgstr "<abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www
 msgid "campanda-job-details-paragraph1"
 msgstr "Campanda is an online marketplace dedicated exclusively to motorhome and caravan rental worldwide. Tens of thousands of vehicles are offered in Europe, Oceania, North and South America as well as Africa."
 
+msgid "campanda-job-details-paragraph2"
+msgstr "Campanda's software is a PHP 5.4 application based on Zend Framework 2, Doctrine and ElasticSearch on the back-end and jQuery, LESS and Bootstrap on the front-end. The application is continuously performance-optimized and designed to scale. Through its service-oriented architecture it integrates well with numerous third-party systems and interfaces."
+
+msgid "campanda-job-details-paragraph3"
+msgstr "The software engineers at Campanda value agile principles and clean code standards. The team's highest priority is to continuously deliver valuable software to satisfied customers. In order to reach our goals, we work together, welcome changing requirements and regularly reflect on how to become more effective while striving to maintain the highest quality standards."
+
 #projects
 
 msgid "projects-title"
