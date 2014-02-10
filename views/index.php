@@ -103,6 +103,14 @@
 								<?php echo $this->localize('campanda-job-details-paragraph1'); ?>
 
 							</p>
+							<p>
+								<?php echo $this->localize('campanda-job-details-paragraph2'); ?>
+
+							</p>
+							<p>
+								<?php echo $this->localize('campanda-job-details-paragraph3'); ?>
+
+							</p>
 						</dd>
 						<dt class="item">
 							<?php echo $this->localize('from-until', array('11/2012', '09/2013')); ?>
