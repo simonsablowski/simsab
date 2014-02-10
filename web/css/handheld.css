@@ -41,7 +41,14 @@ body {
 	padding: 0 10px 0 0;
 }
 
+#header .menu .item a {
+	border-radius: 0;
+	color: #666;
+	padding: 0;
+}
+
 #header .menu .item .active {
+	background-color: transparent;
 	color: #9c0;
 }
 
