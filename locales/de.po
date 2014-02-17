@@ -256,20 +256,11 @@ msgstr "cheese"
 msgid "cheese-description"
 msgstr "Content-Management-System für nacho"
 
-msgid "cheese-details-paragraph1"
-msgstr "Außer nützlicher Events-basierter Frontend-Funktionalität, welche verbreitete User-Interaction-Muster unterstützt, bietet cheese sichere Mechanismen für Authentifizierung sowie hochflexible <abbr title="Create Retrieve Update Delete">CRUD</abbr>-Interfaces, die auf clevere <abbr title="Mobel View Controller">MVC</abbr>-Weise konfiguriert werden können."
-
 msgid "nacho-title"
 msgstr "nacho"
 
 msgid "nacho-description"
 msgstr "Web Application Framework"
-
-msgid "nacho-details-paragraph1"
-msgstr "Die Prinzipien Rapid Development und Convention Over Configuration sind im <abbr title="Mobel View Controller">MVC</abbr>-basierten Web Application Framework nacho kombiniert. Es ist sowohl leichtgewichtig als auch mächtig."
-
-msgid "nacho-details-paragraph2"
-msgstr "Das Software-Paket bietet umfangreiche Funktionalität im Bereich Lokalisierung, Session und Exception Handling, Request Rerouting, Templating, Output Buffering, Datenbankabstraktion sowie User-Input-Validierung."
 
 msgid "coaching-ui-title"
 msgstr "Coaching-<abbr title="User Interface">UI</abbr>"
@@ -307,12 +298,6 @@ msgstr "readosaur"
 msgid "readosaur-description"
 msgstr "Die persönlichen <abbr title="Rich Site Summary">RSS</abbr>-Feeds verwalten und lesen"
 
-msgid "avatar-rating-title"
-msgstr "Avatar-Bewertung"
-
-msgid "avatar-rating-description"
-msgstr "Eine Auswahl Avatar-Bilder bewerten"
-
 msgid "beatemup-title"
 msgstr "Beat 'em up"
 
@@ -324,18 +309,6 @@ msgstr "Get it done"
 
 msgid "getitdone-description"
 msgstr "Aufgabenplaner mit Drag-and-Drop-Funktionalität"
-
-msgid "hitori-title"
-msgstr "Hitori"
-
-msgid "hitori-description"
-msgstr "Simples Hitori-Spiel auf Basis von PHP und JavaScript"
-
-msgid "shrtn-title"
-msgstr "shrtn"
-
-msgid "shrtn-description"
-msgstr "URL-Kürzer auf Basis von PHP, MySQL und Memcache"
 
 #contact-me
 
