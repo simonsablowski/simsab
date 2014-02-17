@@ -85,7 +85,7 @@ abbr {
 
 #header .navigation {
 	display: inline;
-	margin: 40px 0 0 100px;
+	margin-left: 100px;
 }
 
 #header .menu {
