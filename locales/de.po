@@ -1,7 +1,7 @@
 #header
 
 msgid "document-title"
-msgstr "simsab"
+msgstr "Simon Sablowski - Software-Entwickler, Agile-Begeisterter, Unternehmer"
 
 msgid "document-language"
 msgstr "de"
@@ -14,6 +14,9 @@ msgstr "Simon Sablowski ist ein Web-Experte mit vielen Jahren Erfahrung in Softw
 
 msgid "meta-keywords"
 msgstr "simon sablowski, sablowski, simsab, berlin, web-entwicklung, software-entwicklung, projektmanagement, software-architektur, agile entwicklung, unternehmertum, cto, startup, php, javascript"
+
+msgid "logo-title"
+msgstr "simsab"
 
 #menu
 
