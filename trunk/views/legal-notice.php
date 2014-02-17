@@ -11,11 +11,11 @@
 	</head>
 	<body>
 		<header id="header">
-			<div id="logo-container">
+			<div class="box">
 				<h1 id="logo">
-					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><?php echo $this->localize('document-title'); ?></a>
+					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('logo-title'); ?>"><?php echo $this->localize('logo-title'); ?></a>
 				</h1>
-				<nav class="menu-container">
+				<nav class="navigation">
 					<ul class="menu items">
 						<li class="item">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('about-me-path'); ?>" title="<?php echo $this->localize('about-me-menu-title'); ?>"><?php echo $this->localize('about-me-menu-title'); ?></a>
