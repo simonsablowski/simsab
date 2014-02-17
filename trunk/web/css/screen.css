@@ -64,7 +64,7 @@ abbr {
 	position: relative;
 }
 
-#logo-container {			
+#header .box {
 	margin: 0 auto;
 	padding: 20px 0;
 	width: 860px;
@@ -83,7 +83,7 @@ abbr {
 	color: #580;
 }
 
-#header .menu-container {
+#header .navigation {
 	display: inline;
 	margin: 40px 0 0 100px;
 }
