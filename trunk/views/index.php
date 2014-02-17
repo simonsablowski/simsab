@@ -17,7 +17,7 @@
 		<header id="header">
 			<div class="box">
 				<h1 id="logo">
-					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('document-title'); ?>"><?php echo $this->localize('document-title'); ?></a>
+					<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language'); ?>" title="<?php echo $this->localize('logo-title'); ?>"><?php echo $this->localize('logo-title'); ?></a>
 				</h1>
 				<nav class="navigation">
 					<ul class="menu items">
