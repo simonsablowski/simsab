@@ -262,20 +262,11 @@ msgstr "cheese"
 msgid "cheese-description"
 msgstr "Content management system for nacho"
 
-msgid "cheese-details-paragraph1"
-msgstr "Apart from useful events-based frontend functionality that supports common user interaction patterns, cheese provides secure authentication mechanisms as well as highly flexible <abbr title="Create Retrieve Update Delete">CRUD</abbr> interfaces that can be configured in a clever <abbr title="Mobel View Controller">MVC</abbr> manner."
-
 msgid "nacho-title"
 msgstr "nacho"
 
 msgid "nacho-description"
 msgstr "Web application framework"
-
-msgid "nacho-details-paragraph1"
-msgstr "Combining the principles of rapid development and convention over configuration, the <abbr title="Mobel View Controller">MVC</abbr>-based web application framework nacho is both lightweight and powerful."
-
-msgid "nacho-details-paragraph2"
-msgstr "The software package provides extensive functionality in means of localization, session and exception handling, request rerouting, templating, output buffering, database abstraction and user input validation."
 
 msgid "coaching-ui-title"
 msgstr "Coaching <abbr title="User Interface">UI</abbr>"
@@ -313,12 +304,6 @@ msgstr "readosaur"
 msgid "readosaur-description"
 msgstr "Manage and read your favourite <abbr title="Rich Site Summary">RSS</abbr> feeds"
 
-msgid "avatar-rating-title"
-msgstr "Avatar Rating"
-
-msgid "avatar-rating-description"
-msgstr "Rate a selection of avatar images"
-
 msgid "beatemup-title"
 msgstr "Beat 'em up"
 
@@ -330,18 +315,6 @@ msgstr "Get it done"
 
 msgid "getitdone-description"
 msgstr "Task planner with drag and drop functionality"
-
-msgid "hitori-title"
-msgstr "Hitori"
-
-msgid "hitori-description"
-msgstr "Simple Hitori game based on PHP and JavaScript"
-
-msgid "shrtn-title"
-msgstr "shrtn"
-
-msgid "shrtn-description"
-msgstr "URL shortener based on PHP, MySQL and Memcache"
 
 #contact-me
 

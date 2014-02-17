@@ -271,25 +271,6 @@
 								<a class="source-code separated" href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
-						<dt class="item tools">
-							<a href="http://projects.simsab.net/shrtn/" title="<?php echo $this->localize('shrtn-title'); ?>"><?php echo $this->localize('shrtn-title'); ?></a>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('shrtn-description'); ?>
-
-								<a class="source-code separated" href="http://code.google.com/p/shorten-url/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
-							</p>
-						</dd>
-						<dt class="item interactive">
-							<a href="http://projects.simsab.net/hitori/" title="<?php echo $this->localize('hitori-title'); ?>"><?php echo $this->localize('hitori-title'); ?></a>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('hitori-description'); ?>
-
-							</p>
-						</dd>
 						<dt class="item tools interactive">
 							<a href="http://projects.simsab.net/getitdone/" title="<?php echo $this->localize('getitdone-title'); ?>"><?php echo $this->localize('getitdone-title'); ?></a>
 						</dt>
@@ -298,16 +279,6 @@
 								<?php echo $this->localize('getitdone-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/task-planner/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
-							</p>
-						</dd>
-						<dt class="item personal">
-							<a href="http://projects.simsab.net/avatars/" title="<?php echo $this->localize('avatar-rating-title'); ?>"><?php echo $this->localize('avatar-rating-title'); ?></a>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('avatar-rating-description'); ?>
-
-								<a class="source-code separated" href="http://code.google.com/p/avatar-rating/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item tools personal">
@@ -378,15 +349,6 @@
 								<?php echo $this->localize('nacho-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
-								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('nacho-details-paragraph1'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('nacho-details-paragraph2'); ?>
-
 							</p>
 						</dd>
 						<dt class="item frameworks">
@@ -397,11 +359,6 @@
 								<?php echo $this->localize('cheese-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/cheese/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
-								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('cheese-details-paragraph1'); ?>
-
 							</p>
 						</dd>
 						<dt class="item personal tools">
