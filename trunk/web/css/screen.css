@@ -15,6 +15,10 @@ html {
 	position: relative;
 }
 
+html.plain {
+	background-image: none;
+}
+
 body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
@@ -303,6 +307,6 @@ abbr {
 	color: #666;
 }
 
-#body .legal-notice .paragraph {
+#body .disclaimer .paragraph {
 	padding-bottom: 15px;
 }

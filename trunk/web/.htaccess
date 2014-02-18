@@ -6,5 +6,6 @@ RewriteCond %{HTTP_HOST} simsab\.de$ [NC]
 RewriteRule ^(.*)$ http://www.simsab.net/de
 
 RewriteRule ^$ index.php [L]
-RewriteRule ^(legal-notice|impressum)/?$ index.php?query=legal-notice&localization=de [L]
+RewriteRule ^disclaimer/?$ index.php?query=disclaimer&localization=en [L]
+RewriteRule ^impressum/?$ index.php?query=disclaimer&localization=de [L]
 RewriteRule ^([a-z]{2})/?$ index.php?localization=$1

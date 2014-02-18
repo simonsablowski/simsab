@@ -2,7 +2,7 @@
 <html lang="<?php echo $this->localize('document-language'); ?>">
 	<head>
 		<title><?php echo $this->localize('document-title'); ?></title>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="description" content="<?php echo $this->localize('meta-description'); ?>">
 		<meta name="keywords" content="<?php echo $this->localize('meta-keywords'); ?>">
 		<meta name="robots" content="index, follow">
@@ -483,7 +483,7 @@
 
 					</li>
 					<li class="item">
-						<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-menu-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-menu-title'); ?></a>
+						<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('disclaimer-path'); ?>" title="<?php echo $this->localize('disclaimer-menu-title'); ?>" rel="nofollow"><?php echo $this->localize('disclaimer-menu-title'); ?></a>
 					</li>
 					<li class="item">
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-menu-title'); ?>"><?php echo $this->localize('translate-menu-title'); ?></a>
