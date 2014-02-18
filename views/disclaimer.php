@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="<?php echo $this->localize('document-language'); ?>">
+<html lang="<?php echo $this->localize('document-language'); ?>" class="plain">
 	<head>
 		<title><?php echo $this->localize('document-title'); ?></title>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="robots" content="noindex, nofollow">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 		<link href="<?php echo $this->localize('canonical-url'); ?>" rel="canonical">
@@ -38,105 +38,81 @@
 		</header>
 		<div id="document">
 			<article id="body">
-				<section class="section legal-notice">
-					<h2 id="<?php echo $this->localize('legal-notice-path'); ?>" class="title">
-						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('legal-notice-path'); ?>" title="<?php echo $this->localize('legal-notice-title'); ?>" rel="nofollow"><?php echo $this->localize('legal-notice-title'); ?></a>
+				<section class="section disclaimer">
+					<h2 id="<?php echo $this->localize('disclaimer-path'); ?>" class="title">
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('disclaimer-path'); ?>" title="<?php echo $this->localize('disclaimer-title'); ?>" rel="nofollow"><?php echo $this->localize('disclaimer-title'); ?></a>
 					</h2>
 					<h3 class="title">
-						<?php echo $this->localize('legal-notice-block1-title'); ?>
+						<?php echo $this->localize('disclaimer-block1-title'); ?>
 
 					</h3>
 					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block1-paragraph1'); ?>
+						<?php echo $this->localize('disclaimer-block1-paragraph1'); ?>
 
 					</p>
 					<h3 class="title">
-						<?php echo $this->localize('legal-notice-block2-title'); ?>
+						<?php echo $this->localize('disclaimer-block2-title'); ?>
 
 					</h3>
 					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block2-paragraph1'); ?>
+						<?php echo $this->localize('disclaimer-block2-paragraph1'); ?>
 
 					</p>
 					<h3 class="title">
-						<?php echo $this->localize('legal-notice-block3-title'); ?>
+						<?php echo $this->localize('disclaimer-block3-title'); ?>
 
 					</h3>
 					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block3-paragraph1'); ?>
+						<?php echo $this->localize('disclaimer-block3-paragraph1'); ?>
 
 					</p>
 					<h3 class="title">
-						<?php echo $this->localize('legal-notice-block4-title'); ?>
+						<?php echo $this->localize('disclaimer-block4-title'); ?>
 
 					</h3>
 					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block4-paragraph1'); ?>
+						<?php echo $this->localize('disclaimer-block4-paragraph1'); ?>
 
 					</p>
 					<h3 class="title">
-						<?php echo $this->localize('legal-notice-block5-title'); ?>
+						<?php echo $this->localize('disclaimer-block5-title'); ?>
 
 					</h3>
 					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block5-paragraph1'); ?>
+						<?php echo $this->localize('disclaimer-block5-paragraph1'); ?>
 
 					</p>
 					<h3 class="title">
-						<?php echo $this->localize('legal-notice-block6-title'); ?>
+						<?php echo $this->localize('disclaimer-block6-title'); ?>
 
 					</h3>
 					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block6-paragraph1'); ?>
+						<?php echo $this->localize('disclaimer-block6-paragraph1'); ?>
 
 					</p>
 					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block6-paragraph2'); ?>
+						<?php echo $this->localize('disclaimer-block6-paragraph2'); ?>
 
 					</p>
 					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block6-paragraph3'); ?>
+						<?php echo $this->localize('disclaimer-block6-paragraph3'); ?>
+
+					</p>
+					<p class="paragraph">
+						<?php echo $this->localize('disclaimer-block6-paragraph4'); ?>
 
 					</p>
 					<h3 class="title">
-						<?php echo $this->localize('legal-notice-block7-title'); ?>
-
-					</h3>
-					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block7-paragraph1'); ?>
-
-					</p>
-					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block7-paragraph2'); ?>
-
-					</p>
-					<p class="paragraph">
-						<?php echo $this->localize('legal-notice-block7-paragraph3'); ?>
-
-					</p>
-					<h3 class="title">
-						<?php echo $this->localize('legal-notice-block8-title'); ?>
+						<?php echo $this->localize('disclaimer-block7-title'); ?>
 
 					</h3>
 					<ul>
 						<li class="bullet">
-							<?php echo $this->localize('legal-notice-block8-paragraph1'); ?>
+							<?php echo $this->localize('disclaimer-block7-paragraph1'); ?>
 
 						</li>
 						<li class="bullet">
-							<?php echo $this->localize('legal-notice-block8-paragraph2'); ?>
-
-						</li>
-						<li class="bullet">
-							<?php echo $this->localize('legal-notice-block8-paragraph3'); ?>
-
-						</li>
-						<li class="bullet">
-							<?php echo $this->localize('legal-notice-block8-paragraph4'); ?>
-
-						</li>
-						<li class="bullet">
-							<?php echo $this->localize('legal-notice-block8-paragraph5'); ?>
+							<?php echo $this->localize('disclaimer-block7-paragraph2'); ?>
 
 						</li>
 					</ul>

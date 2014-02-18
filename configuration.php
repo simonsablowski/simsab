@@ -28,7 +28,7 @@ $configuration['Localization'] = array(
 $configuration['Request'] = array(
 	'defaultQuery' => 'Static/show/index',
 	'aliasQueries' => array(
-		'(legal-notice)' => 'Static/show/$1'
+		'(disclaimer)' => 'Static/show/$1'
 	)
 );
 
