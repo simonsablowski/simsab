@@ -82,37 +82,29 @@
 						<?php echo $this->localize('disclaimer-block5-paragraph1'); ?>
 
 					</p>
+					<p class="paragraph">
+						<?php echo $this->localize('disclaimer-block5-paragraph2'); ?>
+
+					</p>
+					<p class="paragraph">
+						<?php echo $this->localize('disclaimer-block5-paragraph3'); ?>
+
+					</p>
+					<p class="paragraph">
+						<?php echo $this->localize('disclaimer-block5-paragraph4'); ?>
+
+					</p>
 					<h3 class="title">
 						<?php echo $this->localize('disclaimer-block6-title'); ?>
 
 					</h3>
-					<p class="paragraph">
-						<?php echo $this->localize('disclaimer-block6-paragraph1'); ?>
-
-					</p>
-					<p class="paragraph">
-						<?php echo $this->localize('disclaimer-block6-paragraph2'); ?>
-
-					</p>
-					<p class="paragraph">
-						<?php echo $this->localize('disclaimer-block6-paragraph3'); ?>
-
-					</p>
-					<p class="paragraph">
-						<?php echo $this->localize('disclaimer-block6-paragraph4'); ?>
-
-					</p>
-					<h3 class="title">
-						<?php echo $this->localize('disclaimer-block7-title'); ?>
-
-					</h3>
 					<ul>
 						<li class="bullet">
-							<?php echo $this->localize('disclaimer-block7-paragraph1'); ?>
+							<?php echo $this->localize('disclaimer-block6-paragraph1'); ?>
 
 						</li>
 						<li class="bullet">
-							<?php echo $this->localize('disclaimer-block7-paragraph2'); ?>
+							<?php echo $this->localize('disclaimer-block6-paragraph2'); ?>
 
 						</li>
 					</ul>
