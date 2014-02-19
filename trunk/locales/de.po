@@ -359,52 +359,46 @@ msgid "disclaimer-block1-title"
 msgstr "Verantwortlich gemäß § 5 TMG"
 
 msgid "disclaimer-block1-paragraph1"
-msgstr "Simon Sablowski<br/>Kadiner Str. 20a<br/>10243 Berlin"
+msgstr "Simon Sablowski<br/>Kadiner Str. 20a<br/>10243 Berlin<br/>Telefon: +49 30 381 011 40<br/>E-Mail: kontakt@simsab.net"
 
 msgid "disclaimer-block2-title"
-msgstr "Kontakt"
-
-msgid "disclaimer-block2-paragraph1"
-msgstr "Telefon: +49 30 381 011 40<br/>E-Mail: kontakt@simsab.net"
-
-msgid "disclaimer-block3-title"
 msgstr "Haftungsbeschränkung für eigene Inhalte"
 
-msgid "disclaimer-block3-paragraph1"
+msgid "disclaimer-block2-paragraph1"
 msgstr "Alle Inhalte meines Internetauftritts wurden mit Sorgfalt und nach bestem Gewissen erstellt. Eine Gewähr für die Aktualität, Vollständigkeit und Richtigkeit sämtlicher Seiten kann jedoch nicht übernommen werden. Gemäß § 7 Abs. 1 TMG bin ich als Dienstanbieter für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich, nach den §§ 8 bis 10 TMG jedoch nicht dazu verpflichtet die übermittelten oder gespeicherten fremden Informationen zu überwachen. Eine umgehende Entfernung dieser Inhalte erfolgt ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung und ich hafte nicht vor dem Zeitpunkt der Kenntniserlangung."
 
-msgid "disclaimer-block4-title"
+msgid "disclaimer-block3-title"
 msgstr "Haftungsbeschränkung für externe Links"
 
-msgid "disclaimer-block4-paragraph1"
+msgid "disclaimer-block3-paragraph1"
 msgstr "Meine Webseite enthält sogenannte „externe Links“ (Verknüpfungen zu Webseiten Dritter), auf deren Inhalt ich keinen Einfluss habe und für den ich aus diesem Grund keine Gewähr übernehme. Für die Inhalte und Richtigkeit der Informationen ist der jeweilige Informationsanbieter der verlinkten Webseite verantwortlich. Als die Verlinkung vorgenommen wurde, waren für mich keine Rechtsverstöße erkennbar. Sollte mir eine Rechtsverletzung bekannt werden, wird der jeweilige Link umgehend entfernt."
 
-msgid "disclaimer-block5-title"
+msgid "disclaimer-block4-title"
 msgstr "Urheberrecht"
 
-msgid "disclaimer-block5-paragraph1"
+msgid "disclaimer-block4-paragraph1"
 msgstr "Die auf dieser Webseite veröffentlichten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Jede Art der Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedarf der vorherigen schriftlichen Zustimmung des jeweiligen Urhebers bzw. Autors."
 
-msgid "disclaimer-block6-title"
+msgid "disclaimer-block5-title"
 msgstr "Datenschutz"
 
-msgid "disclaimer-block6-paragraph1"
+msgid "disclaimer-block5-paragraph1"
 msgstr "Durch den Besuch meines Internetauftritts können Informationen über den Zugriff (Datum, Uhrzeit, aufgerufene Seite) auf dem Server gespeichert werden. Dies stellt keine Auswertung personenbezogener Daten (z.B. Name, Anschrift oder E-Mail-Adresse) dar. Sofern personenbezogene Daten erhoben werden, erfolgt dies – sofern möglich – nur mit dem vorherigen Einverständnis des Nutzers der Webseite. Eine Weiterleitung der Daten an Dritte findet ohne ausdrückliche Zustimmung des Nutzers nicht statt. Ich weise ausdrücklich darauf hin, dass die Übertragung von Daten im Internet (z.B. per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff Dritter kann nicht gewährleistet werden. Ich kann keine Haftung für die durch solche Sicherheitslücken entstehenden Schäden übernehmen. Der Verwendung veröffentlichter Kontaktdaten durch Dritte zum Zwecke von Werbung wird ausdrücklich widersprochen. Ich behalte mir rechtliche Schritte für den Fall der unverlangten Zusendung von Werbeinformationen, z.B. durch Spam-Mails, vor."
 
-msgid "disclaimer-block6-paragraph2"
+msgid "disclaimer-block5-paragraph2"
 msgstr "Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sogenannte „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (<a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>) verfügbare Browser-Plugin herunterladen und installieren."
 
-msgid "disclaimer-block6-paragraph3"
+msgid "disclaimer-block5-paragraph3"
 msgstr "Sie können die Erfassung durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, der die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website verhindert: <a href="javascript:gaOptout()">Google Analytics deaktivieren</a>"
 
-msgid "disclaimer-block6-paragraph4"
+msgid "disclaimer-block5-paragraph4"
 msgstr "Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter <a href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a> bzw. unter <a href="http://www.google.com/intl/de/analytics/privacyoverview.html">http://www.google.com/intl/de/analytics/privacyoverview.html</a>. Wir weisen Sie darauf hin, dass auf dieser Website Google Analytics um den Code „gat._anonymizeIp();“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sogenanntes IP-Masking) zu gewährleisten."
 
-msgid "disclaimer-block7-title"
+msgid "disclaimer-block6-title"
 msgstr "<small>Quellen</small>"
 
-msgid "disclaimer-block7-paragraph1"
+msgid "disclaimer-block6-paragraph1"
 msgstr "<small><a href="http://www.mustervorlage.net">mustervorlage.net</a></small>"
 
-msgid "disclaimer-block7-paragraph2"
+msgid "disclaimer-block6-paragraph2"
 msgstr "<small><a href="http://www.datenschutzbeauftragter-info.de">datenschutzbeauftragter-info.de</a></small>"
