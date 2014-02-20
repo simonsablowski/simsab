@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 
-add-apt-repository ppa:ondrej/php5
 apt-get update
-apt-get upgrade 
-apt-get install -y apache2 php5 libapache2-mod-php5 php5-intl
+apt-get upgrade
+apt-get install -y apache2 libapache2-mod-php5 php5
 
 a2enmod rewrite
 
