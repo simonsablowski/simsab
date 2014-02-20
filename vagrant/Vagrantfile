@@ -11,7 +11,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
 config.vm.host_name = "simsab"
 
-config.vm.provision :shell, :path => "packages.sh"
+config.vm.provision :shell, :path => "setup.sh"
 
   # Every Vagrant virtual environment requires a box to build off of.
 
