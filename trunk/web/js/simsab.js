@@ -30,16 +30,15 @@ function initializeExternalLinks() {
 	});
 }
 
-function getTagFromElement(element) {
-	return $(element).attr('class').split(/\s+/).filter(function(className) {
-		return className != 'tag';
-	})[0];
+function elementHasTag(element, tag) {
+	var tags = $(element).attr('data-tags');
+	return tags && tags.indexOf(tag) >= 0;
 }
 
 function filterItemsByTag(items, tag, neighbours) {
 	neighbours = typeof neighbours !== 'undefined' ? neighbours : true;
 	return items.filter(function(i, item) {
-		return $(item).hasClass(tag) || (neighbours && $(item).prev().hasClass(tag));
+		return elementHasTag($(item), tag) || (neighbours && elementHasTag($(item).prev(), tag));
 	});
 }
 
@@ -47,7 +46,7 @@ function updateTagList() {
 	$('.tag').each(function(i, element) {
 		$(element).show();
 		var items = $(element).parents('.tags').siblings('.items').children(':visible');
-		var count = filterItemsByTag(items, getTagFromElement(element), false).length;
+		var count = filterItemsByTag(items, $(element).attr('data-tag'), false).length;
 		if (count == 0) {
 			$(element).hide();
 		}
@@ -61,7 +60,7 @@ function initializeTagElements() {
 		if ($(this).hasClass('active')) {
 			var items = $(this).parents('.tags').siblings('.items').children(':visible');
 			items.hide();
-			var tag = getTagFromElement($(this).parent());
+			var tag = $(this).parent().attr('data-tag');
 			filterItemsByTag(items, tag).fadeIn(400);
 		} else {
 			$('.tag a').removeClass('active').addClass('inactive');
