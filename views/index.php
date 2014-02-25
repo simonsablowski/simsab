@@ -258,7 +258,7 @@
 							<p>
 								<?php echo $this->localize('beatemup-description'); ?>
 
-								<a class="source-code separated" href="http://code.google.com/p/beatemup/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<a class="source-code separated" href="https://github.com/simonsablowski/beatemup" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
 							</p>
 						</dd>
 						<dt class="item" data-tags="personal">
