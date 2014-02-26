@@ -120,7 +120,7 @@ msgid "mytourclips-job-title"
 msgstr "Core and feature development at mytourclips"
 
 msgid "mytourclips-job-details-paragraph1"
-msgstr "Relevant areas: Multimedia, video streaming, social network/community, editiorially maintainable and user-generated content, internationalization, scaling, high availability, affiliating, booking engines and automated content aggregation."
+msgstr "Apart from being an online travel community, mytourclips offered direct trip booking, travel news and multimedia sharing."
 
 msgid "mytourclips-job-details-paragraph2"
 msgstr "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
