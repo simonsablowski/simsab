@@ -483,7 +483,7 @@
 
 					</li>
 					<li class="item">
-						<a class="external" href="<?php echo $this->getConfiguration('basePath') . $this->localize('disclaimer-path'); ?>" title="<?php echo $this->localize('disclaimer-menu-title'); ?>" rel="nofollow"><?php echo $this->localize('disclaimer-menu-title'); ?></a>
+						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('disclaimer-path'); ?>" title="<?php echo $this->localize('disclaimer-menu-title'); ?>" rel="nofollow"><?php echo $this->localize('disclaimer-menu-title'); ?></a>
 					</li>
 					<li class="item">
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('translate-path'); ?>" title="<?php echo $this->localize('translate-menu-title'); ?>"><?php echo $this->localize('translate-menu-title'); ?></a>
