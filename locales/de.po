@@ -316,7 +316,7 @@ msgid "contact-me-title"
 msgstr "Kontaktieren Sie mich"
 
 msgid "contact-me-paragraph1"
-msgstr "Ich bin immer an spannenden Herausforderungen und der Weiterentwicklung meiner Fähigkeiten interessiert. Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
+msgstr "Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
 
 msgid "e-mail-address"
 msgstr "kontakt@simsab.net"
@@ -331,7 +331,7 @@ msgid "contact-me-paragraph2"
 msgstr "Gern können Sie außerdem meine Profile in den folgenden sozialen Netzwerken besuchen:"
 
 msgid "contact-me-paragraph3"
-msgstr "Besuchen Sie auch mein Online-Portfolio für Aktzeichnung, Charakter-Design, Portraits und Karikaturen:"
+msgstr "Besuchen Sie auch mein Online-Portfolio für Aktzeichnung, Illustration und Portraits:"
 
 #footer
 
