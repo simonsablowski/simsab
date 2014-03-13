@@ -96,7 +96,7 @@ body {
 }
 
 #footer {
-	height: 30px;
+	height: auto;
 }
 
 #footer .menu {
