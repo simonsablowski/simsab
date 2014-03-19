@@ -144,10 +144,10 @@ msgid "rocket-internet-job-details-paragraph1"
 msgstr "Rocket Internet is the world's largest online business incubator with hundreds of successful e-commerce projects and tens of thousands of employees on all continents."
 
 msgid "rocket-internet-job-details-paragraph2"
-msgstr "At Rocket Internet, I was in charge of all newly launched projects, heading a team of around 100 software engineers, project managers and test analysts in Berlin and interfacing with Rocket Internet's international technology centres."
+msgstr "At Rocket Internet, I acted as Director Software Engineering and Vice CTO for Rocket Internet's headquarter in Berlin. I was in charge of all newly launched projects, including <a href="http://www.jabong.com" title="Jabong">Jabong</a>, <a href="http://www.lazada.com" title="Lazada">Lazada</a>, <a href="http://www.linio.com" title="Linio">Linio</a> and <a href="http://www.zalora.com" title="Zalora">Zalora</a>, and headed a team of around 100 software engineers, project managers and test analysts."
 
 msgid "rocket-internet-job-details-paragraph3"
-msgstr "My main tasks were technical supervision, establishing processes and workflows as well as recruiting, training and leading engineering teams. I also acted as a mentor for the engineering teams of some of Rocket Internet's matured ventures."
+msgstr "My main tasks were technical supervision, establishing processes and workflows as well as recruiting, training and leading engineering teams. I also acted as a mentor for the engineering teams of some of Rocket Internet's matured ventures and worked closely with representatives of Rocket Internet's international technology centres."
 
 msgid "foodpanda-job-title"
 msgstr "<abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.foodpanda.com" title="Foodpanda">Foodpanda</a>"
