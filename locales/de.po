@@ -168,10 +168,10 @@ msgid "campanda-job-details-paragraph1"
 msgstr "Campanda ist ein Online-Marktplatz für das weltweite Mieten von Wohnmobilen und Wohnwagen. Zehntausende Fahrzeuge werden angeboten in Europa, Ozeanien, Nord- und Südamerika sowie Afrika."
 
 msgid "campanda-job-details-paragraph2"
-msgstr "Campandas Software ist eine PHP 5.4-Anwendung, die auf Zend Framework 2, Doctrine und ElasticSearch im Backend und auf jQuery, LESS und Bootstrap im Frontend basiert. Die Anwendung wird kontinuierlich hinsichtlich der Performance optimiert und ist auf Skalierung ausgelegt. Durch die Service-orientierte Architektur lässt sie sich gut mit allen möglichen Drittanbieter-Systemen und -Interfaces integrieren."
+msgstr "Campandas Software ist eine PHP 5.4-Anwendung, die auf Zend Framework 2, Doctrine und ElasticSearch im Backend und auf jQuery, LESS und Bootstrap im Frontend basiert. Die Anwendung wird kontinuierlich hinsichtlich der Performance optimiert und ist auf Skalierung ausgelegt. Durch die Service-orientierte Architektur lässt sie sich gut mit allen möglichen Drittanbietersystemen und -schnittstellen integrieren."
 
 msgid "campanda-job-details-paragraph3"
-msgstr "The Software-Entwickler bei Campanda schätzen agile Prinzipien und Clean-Code-Standards. Die höchste Priorität des Teams ist die kontinuierliche Auslieferung von wertvoller Software an zufriedene Kunden. Um unsere Ziele zu erreichen, arbeiten wir zusammen, heißen sich verändernde Anforderungen willkommen und reflektieren regelmäßig, wie wir effektiver werden können ohne dabei unsere hohen Qualitätsansprüche zu vernachlässigen."
+msgstr "Die Software-Entwickler bei Campanda schätzen agile Prinzipien und Clean-Code-Standards. Die höchste Priorität des Teams ist die kontinuierliche Auslieferung von wertvoller Software an zufriedene Kunden. Um unsere Ziele zu erreichen, arbeiten wir zusammen, heißen sich verändernde Anforderungen willkommen und reflektieren regelmäßig, wie wir effektiver werden können ohne dabei unsere hohen Qualitätsansprüche zu vernachlässigen."
 
 #projects
 
