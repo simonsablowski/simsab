@@ -284,7 +284,7 @@ msgid "coaching-import-title"
 msgstr "Coaching-Import"
 
 msgid "coaching-import-description"
-msgstr "Motivados Coaching-Modelle in die Datenbank importieren"
+msgstr "Datenbank-Import von Motivados Coaching-Modellen"
 
 msgid "coaching-preview-title"
 msgstr "Coaching-Vorschau"
