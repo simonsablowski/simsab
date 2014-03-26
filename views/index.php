@@ -251,6 +251,15 @@
 						</li>
 					</ul>
 					<dl class="items">
+						<dt class="item" data-tags="experimental tools">
+							<a href="http://projects.simsab.net/names/" title="<?php echo $this->localize('names-title'); ?>"><?php echo $this->localize('names-title'); ?></a>
+						</dt>
+						<dd class="description">
+							<p>
+								<?php echo $this->localize('names-description'); ?>
+
+							</p>
+						</dd>
 						<dt class="item" data-tags="interactive">
 							<a href="http://projects.simsab.net/beatemup/" title="<?php echo $this->localize('beatemup-title'); ?>"><?php echo $this->localize('beatemup-title'); ?></a>
 						</dt>
@@ -399,15 +408,6 @@
 								<?php echo $this->localize('scraper-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/scraping/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
-							</p>
-						</dd>
-						<dt class="item" data-tags="experimental tools">
-							<a href="http://projects.simsab.net/names/" title="<?php echo $this->localize('names-title'); ?>"><?php echo $this->localize('names-title'); ?></a>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('names-description'); ?>
-
 							</p>
 						</dd>
 						<dt class="item" data-tags="experimental interactive">
