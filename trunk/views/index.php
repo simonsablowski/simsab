@@ -231,6 +231,12 @@
 						<a href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('projects-title'); ?>"><?php echo $this->localize('projects-title'); ?></a>
 					</h2>
 					<ul class="tags">
+						<li class="tag" data-tag="interactive">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('interactive-title'); ?>"><?php echo $this->localize('interactive-title'); ?></a>
+						</li>
+						<li class="tag" data-tag="tools">
+							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('tools-title'); ?>"><?php echo $this->localize('tools-title'); ?></a>
+						</li>
 						<li class="tag" data-tag="motivado">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('motivado-title'); ?>"><?php echo $this->localize('motivado-title'); ?></a>
 						</li>
@@ -239,12 +245,6 @@
 						</li>
 						<li class="tag" data-tag="frameworks">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('frameworks-title'); ?>"><?php echo $this->localize('frameworks-title'); ?></a>
-						</li>
-						<li class="tag" data-tag="interactive">
-							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('interactive-title'); ?>"><?php echo $this->localize('interactive-title'); ?></a>
-						</li>
-						<li class="tag" data-tag="tools">
-							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('tools-title'); ?>"><?php echo $this->localize('tools-title'); ?></a>
 						</li>
 						<li class="tag" data-tag="experimental">
 							<a class="inactive" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('projects-path'); ?>" title="<?php echo $this->localize('experimental-title'); ?>"><?php echo $this->localize('experimental-title'); ?></a>
