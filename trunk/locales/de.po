@@ -262,6 +262,12 @@ msgstr "nacho"
 msgid "nacho-description"
 msgstr "Web Application Framework"
 
+msgid "motivado-frontend-title"
+msgstr "Motivado-Frontend"
+
+msgid "motivado-frontend-description"
+msgstr "Shop-Frontend für Motivados Coachings"
+
 msgid "coaching-ui-title"
 msgstr "Coaching-<abbr title="User Interface">UI</abbr>"
 
