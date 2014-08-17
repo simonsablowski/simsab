@@ -309,7 +309,7 @@
 							</p>
 						</dd>
 						<dt class="item" data-tags="motivado tools">
-							<a href="http://preview.motivado.de" title="<?php echo $this->localize('coaching-preview-title'); ?>"><?php echo $this->localize('coaching-preview-title'); ?></a>
+							<a href="http://tools.motivado.de/preview" title="<?php echo $this->localize('coaching-preview-title'); ?>"><?php echo $this->localize('coaching-preview-title'); ?></a>
 						</dt>
 						<dd class="description">
 							<p>
@@ -319,7 +319,7 @@
 							</p>
 						</dd>
 						<dt class="item" data-tags="motivado tools">
-							<a href="http://import.motivado.de" title="<?php echo $this->localize('coaching-import-title'); ?>"><?php echo $this->localize('coaching-import-title'); ?></a>
+							<a href="http://tools.motivado.de/import" title="<?php echo $this->localize('coaching-import-title'); ?>"><?php echo $this->localize('coaching-import-title'); ?></a>
 						</dt>
 						<dd class="description">
 							<p>
@@ -329,7 +329,7 @@
 							</p>
 						</dd>
 						<dt class="item" data-tags="motivado tools">
-							<a href="http://test.motivado.de" title="<?php echo $this->localize('coaching-test-title'); ?>"><?php echo $this->localize('coaching-test-title'); ?></a>
+							<a href="http://tools.motivado.de/test" title="<?php echo $this->localize('coaching-test-title'); ?>"><?php echo $this->localize('coaching-test-title'); ?></a>
 						</dt>
 						<dd class="description">
 							<p>
