@@ -209,7 +209,7 @@ msgid "javascript-title"
 msgstr "JavaScript"
 
 msgid "beerball-simulator-title"
-msgstr "Beerball Simulator"
+msgstr "Beerball simulator"
 
 msgid "beerball-simulator-description"
 msgstr "Simulation of a Beerball match"
@@ -245,7 +245,7 @@ msgid "askme-description"
 msgstr "Ask and answer questions"
 
 msgid "notmybiz-backend-title"
-msgstr "notmybiz Backend"
+msgstr "notmybiz backend"
 
 msgid "notmybiz-backend-description"
 msgstr "Gallery administration backend"
@@ -269,7 +269,7 @@ msgid "nacho-description"
 msgstr "Web application framework"
 
 msgid "motivado-frontend-title"
-msgstr "Motivado Frontend"
+msgstr "Motivado frontend"
 
 msgid "motivado-frontend-description"
 msgstr "Motivado's coaching store frontend"
@@ -287,19 +287,19 @@ msgid "coaching-api-description"
 msgstr "<abbr title="Application Programming Interface">API</abbr> for Motivado's coaching content"
 
 msgid "coaching-test-title"
-msgstr "Coaching Test"
+msgstr "Coaching test"
 
 msgid "coaching-test-description"
 msgstr "Test Motivado's coachings before deployment"
 
 msgid "coaching-import-title"
-msgstr "Coaching Import"
+msgstr "Coaching import"
 
 msgid "coaching-import-description"
 msgstr "Import Motivado's coaching models into database"
 
 msgid "coaching-preview-title"
-msgstr "Coaching Preview"
+msgstr "Coaching preview"
 
 msgid "coaching-preview-description"
 msgstr "Configure and test Motivado's coaching elements"
