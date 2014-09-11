@@ -208,9 +208,9 @@
 							</p>
 						</dd>
 						<dt class="item">
-							<?php echo $this->localize('from-until', array('1999', '2007')); ?>
+							<?php echo $this->localize('from-until', array('1999', '2009')); ?>
 
-							<span class="sub-line"><?php echo $this->localize('several-years', 8); ?></span>
+							<span class="sub-line"><?php echo $this->localize('several-years', 10); ?></span>
 						</dt>
 						<dd class="description">
 							<p>
