@@ -53,16 +53,25 @@ msgstr "Kontakt"
 #about-me
 
 msgid "about-me-title"
-msgstr "Ich bin&hellip;"
+msgstr "Über mich"
 
 msgid "about-me-photo-title"
 msgstr "Simon Sablowski"
 
 msgid "about-me-paragraph1"
-msgstr "&hellip;Simon Sablowski &ndash; ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, agilem Projektmanagement und Unternehmertum. Im Laufe meiner Karriere habe ich für Online-Startups, Digital-Agenturen und etablierte Internet-Unternehmen in Positionen von Software-Entwickler bis <abbr title="Chief Technology Officer">CTO</abbr> gearbeitet. Ich habe zahlreiche Web-Projekte erfolgreich realisiert, von denen viele Marktführerschaft erreichen konnten."
+msgstr "Mein Name ist Simon Sablowski und ich bin ein begeisterter Software-Entwickler, Agile-Faszinierter und fähiger Anführer."
 
 msgid "about-me-paragraph2"
-msgstr "Ich bin verfügbar für neue Projekte ab Oktober 2014!"
+msgstr "Ich habe großen Spaß an Software-Entwicklung, aber ich liebe die Arbeit mit Menschen - und zwar mit solchen, die Leidenschaft haben, eine Vision teilen, Menschen, die Probleme lösen wollen und Veränderung willkommen heißen, um zu brillieren."
+
+msgid "about-me-paragraph3"
+msgstr "Bei meinen vergangenen Projekten habe ich am liebsten Prozesse und die Zusammenarbeit zwischen Teammitgliedern aufgesetzt und kontinuierlich verbessert. Der Grund dafür ist mein Glaube daran, dass Projekte nur dann Erfolg haben, wenn die Menschen, die daran arbeiten, motiviert sind, kooperieren und vor allem effektiv kommunizieren."
+
+msgid "about-me-paragraph4"
+msgstr "Die agilen Prinzipien und Werte sind in meiner DNA und ich halte sie für die Basis für inspirierende Führung. Mein Stil erfordert das Vertrauen in die Fähigkeiten anderer bei gleichzeitigem Fernhalten von unnötiger Belastung. Egal ob Ihr Gebiet E-Commerce, Finanztechnologie oder Mobile Gaming ist: ein ehrgeiziges, inspiriertes and befähigtes Team ist der Schlüssel zum Erfolg - und ich werde mein Bestes geben, um diesen Erfolg zu erreichen."
+
+msgid "about-me-paragraph5"
+msgstr "Ich bin verfügbar für eine neue Herausforderung ab Oktober 2014!"
 
 #qualities
 
@@ -70,22 +79,22 @@ msgid "qualities-title"
 msgstr "Meine Qualitäten"
 
 msgid "qualities-paragraph1"
-msgstr "Starker Anführer mit ausgezeichneten sozialen und kommunikativen Fähigkeiten, erfolgreiche Zusammenstellung und Leitung von multinationalen und multikulturellen Teams von bis zu 100 Spezialisten"
+msgstr "Fähiger Anführer: herausragende kommunikative und soziale Fähigkeiten, fähig mit Druck umzugehen und Konflikte zu lösen, Erfahrung mit der Zusammenstellung, dem Coaching und der Leitung von multikulturellen Teams von 5 bis 100 Personen"
 
 msgid "qualities-paragraph2"
-msgstr "Begeisterter Software-Entwickler mit mehr als 10 Jahren Erfahrung in der professionellen Entwicklung und Wartung von hochmodernen Web-Anwendungen (hauptsächlich <abbr title="Linux Apache MySQL PHP">LAMP</abbr> Stack)"
+msgstr "Begeisterter Software-Entwickler: Architektur, Entwicklung, Deployment und Wartung von Performance-optimierten und skalierenden, hochqualitativen Web-Anwendungen seit 1999 (bevorzugt PHP)"
 
 msgid "qualities-paragraph3"
-msgstr "Hochmotivierter and enthusiastischer Coach für Agile- und Lean-Methodologien, kontinuierliche Steigerung der Effizienz und des Outputs von Entwicklungs-Teams"
+msgstr "Leidenschaftlicher Agile-Coach: Experte in Agile- und Lean-Methodologien, insbesondere Kanban und Scrum, kontinuierliche Steigerung der Effizienz und des Outputs von Teams"
 
 msgid "qualities-paragraph4"
-msgstr "Starker unternehmerischer Geist, Erfahrung mit der Gründung von Startups und der Markteinführung von zahlreichen Projekten, Leidenschaft für Wachstum und Innovation"
+msgstr "Starker unternehmerischer Geist: Erfahrung mit der Gründung von Startups und dem Launch von zahlreichen Projekten, Leidenschaft für Wachstum und Innovation"
 
 msgid "qualities-paragraph5"
-msgstr "Fokus auf die Lieferung von Ergebnissen termingerecht und im Budgetrahmen, im Einklang mit vereinbarten Prioritäten und mit dem Ziel der Optimierung von Geschäftsmetriken"
+msgstr "Ergebnisgetrieben: Lieferung von Ergebnissen termingerecht und im Budgetrahmen bei Einhaltung vereinbarter Prioritäten und zur Optimierung von Geschäftsmetriken"
 
 msgid "qualities-paragraph6"
-msgstr "Viele Jahre Erfahrung als Schnittstelle zu interdisziplinären Abteilungen, Kommunikation mit und Berichterstattung an Stakeholder, Investoren und Kunden"
+msgstr "Qualifizierte Schnittstelle: viele Jahre Erfahrung als Schnittstelle zu interdisziplinären Abteilungen, professionelle Kommunikation mit und Berichterstattung an Stakeholder, Investoren und Kunden"
 
 #career
 
@@ -319,10 +328,10 @@ msgstr "Aufgabenplaner mit Drag-and-Drop-Funktionalität"
 #contact-me
 
 msgid "contact-me-title"
-msgstr "Kontaktieren Sie mich"
+msgstr "Kontakt"
 
 msgid "contact-me-paragraph1"
-msgstr "Falls Sie Interesse an einer Zusammenarbeit mit mir haben, schreiben Sie bitte an:"
+msgstr "Ich bin folgendermaßen erreichbar:"
 
 msgid "e-mail-address"
 msgstr "kontakt@simsab.net"
@@ -334,10 +343,10 @@ msgid "via-skype-title"
 msgstr "Kontaktieren Sie mich via Skype"
 
 msgid "contact-me-paragraph2"
-msgstr "Gern können Sie außerdem meine Profile in den folgenden sozialen Netzwerken besuchen:"
+msgstr "Besuchen Sie mich in den sozialen Netzwerken:"
 
 msgid "contact-me-paragraph3"
-msgstr "Besuchen Sie auch mein Online-Portfolio für Aktzeichnung, Illustration und Portraits:"
+msgstr "Hier mein Portfolio für Aktzeichnung, Illustration und Porträts:"
 
 #footer
 
