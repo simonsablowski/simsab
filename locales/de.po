@@ -123,7 +123,7 @@ msgid "freelance-title"
 msgstr "Freiberufliche Web- und Software-Entwicklung"
 
 msgid "freelance-description"
-msgstr "Im Laufe meiner Karriere habe ich in Werbeagenturen, E-Commerce-Startups und etablierten Online-Unternehmen Erfahrung gesammelt. Meine Schwerpunkte waren dabei Software-Architektur, Core- und Backend-Entwicklung, technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
+msgstr "Im Laufe meiner Karriere habe ich in Werbeagenturen, E-Commerce-Startups und etablierten Online-Unternehmen Erfahrung gesammelt. Meine Schwerpunkte waren dabei Software-Architektur, Core- und Backend-Entwicklung (hauptsächlich PHP), technische Konzeption, Prototyping, Refactoring und Datenbank-Design."
 
 msgid "mytourclips-job-title"
 msgstr "Core- und Feature-Entwicklung bei mytourclips"

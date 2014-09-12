@@ -82,7 +82,7 @@ msgid "qualities-paragraph1"
 msgstr "Capable leader: excellent communication and people skills, able to deal with pressure and solve conflicts, experience with assembling, coaching and leading multicultural teams of 5 to 100 people"
 
 msgid "qualities-paragraph2"
-msgstr "Avid software engineer: Architecture, development, deployment and maintenance of performance-optimized and scalable cutting-edge web applications since 1999 (primarily PHP)"
+msgstr "Avid software engineer: architecture, development, deployment and maintenance of performance-optimized and scalable cutting-edge web applications since 1999 (primarily PHP)"
 
 msgid "qualities-paragraph3"
 msgstr "Enthusiastic Agile coach: expert in Agile and Lean methodologies, especially Kanban and Scrum, striving to continuously increase teams’ efficiency and output"
@@ -91,7 +91,7 @@ msgid "qualities-paragraph4"
 msgstr "Strong entrepreneurial spirit: experience with founding startups and launching numerous projects, passionate about growth and innovation"
 
 msgid "qualities-paragraph5"
-msgstr "Results-driven: Focused on delivering results on time and in line with the budget, in accordance with agreed priorities and for the optimization of business metrics"
+msgstr "Results-driven: focused on delivering results on time and in line with the budget, in accordance with agreed priorities and for the optimization of business metrics"
 
 msgid "qualities-paragraph6"
 msgstr "Qualified interface: many years of experience interfacing with cross-disciplinary departments, professionally communicating with and reporting to stakeholders, investors and clients"
@@ -123,7 +123,7 @@ msgid "freelance-title"
 msgstr "Freelance web and software development"
 
 msgid "freelance-description"
-msgstr "Throughout my career I have gained experience working in advertising agencies, <span class="no-wrap">e-commerce</span> startups and established online business corporations. My main focus lay with software architecture, core and backend development, technical conception, prototyping, refactoring and database design."
+msgstr "Throughout my career I have gained experience working in advertising agencies, <span class="no-wrap">e-commerce</span> startups and established online business corporations. My main focus lay with software architecture, core and backend development (primarily PHP), technical conception, prototyping, refactoring and database design."
 
 msgid "mytourclips-job-title"
 msgstr "Core and feature development at mytourclips"
