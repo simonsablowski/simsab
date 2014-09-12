@@ -54,6 +54,18 @@
 						<?php echo $this->localize('about-me-paragraph2'); ?>
 
 					</p>
+					<p class="paragraph">
+						<?php echo $this->localize('about-me-paragraph3'); ?>
+
+					</p>
+					<p class="paragraph">
+						<?php echo $this->localize('about-me-paragraph4'); ?>
+
+					</p>
+					<p class="paragraph">
+						<?php echo $this->localize('about-me-paragraph5'); ?>
+
+					</p>
 				</section>
 				<section class="section qualities">
 					<h2 id="<?php echo $this->localize('qualities-path'); ?>" class="title">

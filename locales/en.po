@@ -53,16 +53,25 @@ msgstr "Contact me"
 #about-me
 
 msgid "about-me-title"
-msgstr "I am&hellip;"
+msgstr "About me"
 
 msgid "about-me-photo-title"
 msgstr "Simon Sablowski"
 
 msgid "about-me-paragraph1"
-msgstr "&hellip;Simon Sablowski &ndash; a web professional with many years of experience in software engineering, agile project management and entrepreneurship. Throughout my career I have worked for online startups, digital agencies and established internet corporations, in positions ranging from software developer to <abbr title="Chief Technology Officer">CTO</abbr>. I have successfully managed numerous web projects, many of which were able to reach market leadership."
+msgstr "My name is Simon Sablowski and I am an avid software engineer, Agile enthusiast and capable leader."
 
 msgid "about-me-paragraph2"
-msgstr "I will be available for new projects from October 2014 onwards!"
+msgstr "I really enjoy developing software but what I love is working with people - those who have passion, who share a vision, people who want to solve problems and welcome change in order to excel."
+
+msgid "about-me-paragraph3"
+msgstr "What I enjoyed most about my past projects was setting up and continuously improving processes and interactions between team members. The reason is that I believe projects will succeed only if the people working on them are motivated, if they cooperate and especially if they communicate effectively."
+
+msgid "about-me-paragraph4"
+msgstr "The Agile principles and values are in my DNA and I consider them the basis for inspiring leadership. My style requires trusting people with their abilities while keeping unnecessary pressure away from them. Whether your field is e-commerce, finance technology or mobile gaming: an ambitious, inspired and empowered team is the key for your success - and I will do my best to make it happen."
+
+msgid "about-me-paragraph5"
+msgstr "I am available for a new challenge from October 2014 onwards!"
 
 #qualities
 
@@ -70,22 +79,22 @@ msgid "qualities-title"
 msgstr "My qualities"
 
 msgid "qualities-paragraph1"
-msgstr "Strong leader with excellent people and communication skills, proven by successfully assembling and managing multinational and multicultural teams of up to 100 specialists"
+msgstr "Capable leader: excellent communication and people skills, able to deal with pressure and solve conflicts, experience with assembling, coaching and leading multicultural teams of 5 to 100 people"
 
 msgid "qualities-paragraph2"
-msgstr "Avid software engineer with more than 10 years experience of professionally developing and maintaining cutting-edge web applications (primarily <abbr title="Linux Apache MySQL PHP">LAMP</abbr> stack)"
+msgstr "Avid software engineer: Architecture, development, deployment and maintenance of performance-optimized and scalable cutting-edge web applications since 1999 (primarily PHP)"
 
 msgid "qualities-paragraph3"
-msgstr "Highly motivated and enthusiastic coach for agile and lean methodologies, continuously increasing engineering teams' efficiency and output"
+msgstr "Enthusiastic Agile coach: expert in Agile and Lean methodologies, especially Kanban and Scrum, striving to continuously increase teams’ efficiency and output"
 
 msgid "qualities-paragraph4"
-msgstr "Strong entrepreneurial spirit and experience with founding startups and launching numerous projects, passionate about growth and innovation"
+msgstr "Strong entrepreneurial spirit: experience with founding startups and launching numerous projects, passionate about growth and innovation"
 
 msgid "qualities-paragraph5"
-msgstr "Focused on delivering results on time and in line with the budget, in accordance with agreed priorities and with concern for the optimization of business metrics"
+msgstr "Results-driven: Focused on delivering results on time and in line with the budget, in accordance with agreed priorities and for the optimization of business metrics"
 
 msgid "qualities-paragraph6"
-msgstr "Many years of experience interfacing with cross-disciplinary departments, communicating with and reporting to stakeholders, investors and clients"
+msgstr "Qualified interface: many years of experience interfacing with cross-disciplinary departments, professionally communicating with and reporting to stakeholders, investors and clients"
 
 #career
 
@@ -328,7 +337,7 @@ msgid "contact-me-title"
 msgstr "Contact me"
 
 msgid "contact-me-paragraph1"
-msgstr "If you are interested in a collaboration, please contact me at:"
+msgstr "Get in touch with me:"
 
 msgid "e-mail-address"
 msgstr "contact@simsab.net"
@@ -340,10 +349,10 @@ msgid "via-skype-title"
 msgstr "Contact me via Skype"
 
 msgid "contact-me-paragraph2"
-msgstr "You are welcome to visit my profile in the following social networks:"
+msgstr "Visit my social network profiles:"
 
 msgid "contact-me-paragraph3"
-msgstr "Feel free to visit my online portfolio for life drawing, illustration and portraits:"
+msgstr "Check out my portfolio for life drawing, illustration and portraits:"
 
 #footer
 
