@@ -1,7 +1,7 @@
 #header
 
 msgid "document-title"
-msgstr "Simon Sablowski - Software Engineer, Agile Enthusiast, Entrepreneur"
+msgstr "Simon Sablowski - software engineer, Agile enthusiast and capable leader"
 
 msgid "document-language"
 msgstr "en"
@@ -10,7 +10,7 @@ msgid "canonical-url"
 msgstr "http://www.simsab.net/en"
 
 msgid "meta-description"
-msgstr "Simon Sablowski is a web professional with many years of experience in software engineering, agile project management and entrepreneurship."
+msgstr "Simon Sablowski is an avid software engineer, Agile enthusiast and capable leader."
 
 msgid "meta-keywords"
 msgstr "simon sablowski, sablowski, simsab, berlin, web development, software engineering, project management, software architecture, agile development, entrepreneurship, cto, startup, php, javascript"
