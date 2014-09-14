@@ -59,19 +59,19 @@ msgid "about-me-photo-title"
 msgstr "Simon Sablowski"
 
 msgid "about-me-paragraph1"
-msgstr "My name is Simon Sablowski and I am an avid software engineer, Agile enthusiast and capable leader."
+msgstr "My name is Simon Sablowski. I am an avid software engineer, Agile enthusiast and capable leader."
 
 msgid "about-me-paragraph2"
 msgstr "I really enjoy developing software but what I love is working with people - those who have passion, who share a vision, people who want to solve problems and welcome change in order to excel."
 
 msgid "about-me-paragraph3"
-msgstr "What I enjoyed most about my past projects was setting up and continuously improving processes and interactions between team members. The reason is that I believe projects will succeed only if the people working on them are motivated, if they cooperate and especially if they communicate effectively."
+msgstr "What I enjoyed most about my past projects was setting up and continuously improving processes and interactions between team members. I believe that projects will succeed only if the people working on them are motivated, if they cooperate and especially if they communicate effectively. To this end, I encourage people to share their knowledge with each other and organise workshops for the further development of team members."
 
 msgid "about-me-paragraph4"
 msgstr "The Agile principles and values are in my DNA and I consider them the basis for inspiring leadership. My style requires trusting people with their abilities while keeping unnecessary pressure away from them. Whether your field is e-commerce, finance technology or mobile gaming: an ambitious, inspired and empowered team is the key for your success - and I will do my best to make it happen."
 
 msgid "about-me-paragraph5"
-msgstr "I am available for a new challenge from October 2014 onwards!"
+msgstr "I am available for a new challenge from October 2014 onwards."
 
 #qualities
 
@@ -79,7 +79,7 @@ msgid "qualities-title"
 msgstr "My qualities"
 
 msgid "qualities-paragraph1"
-msgstr "Capable leader: excellent communication and people skills, able to deal with pressure and solve conflicts, experience with assembling, coaching and leading multicultural teams of 5 to 100 people"
+msgstr "Capable leader: excellent communication and people skills, able to deal with pressure and solve conflicts, experience with assembling, coaching and leading multinational teams of 5 to 100 people"
 
 msgid "qualities-paragraph2"
 msgstr "Avid software engineer: architecture, development, deployment and maintenance of performance-optimized and scalable cutting-edge web applications since 1999 (primarily PHP)"
@@ -132,10 +132,10 @@ msgid "mytourclips-job-details-paragraph1"
 msgstr "Apart from being an online travel community, mytourclips offered direct trip booking, travel news and multimedia sharing."
 
 msgid "mytourclips-job-details-paragraph2"
-msgstr "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
+msgstr "In June 2008 I managed an extensive refactoring of the existing web application on the basis of my PHP-based web application framework nacho. The goal was to prepare the platform for high traffic and the international establishment of the product."
 
 msgid "motivado-job-title"
-msgstr "Founder and <abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.motivado.de" title="Motivado">Motivado</a>"
+msgstr "Co-founder and <abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.motivado.de" title="Motivado">Motivado</a>"
 
 msgid "motivado-job-details-paragraph1"
 msgstr "Motivado is the first platform for interactive video-coaching and assists people in finding solutions for personal issues and achieving goals. We close the gap between cost-intensive personal coaching and the general guidebook market with an approach of mass customization for coaching content."
