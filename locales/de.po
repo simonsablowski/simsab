@@ -79,7 +79,7 @@ msgid "qualities-title"
 msgstr "Meine Qualitäten"
 
 msgid "qualities-paragraph1"
-msgstr "Fähiger Anführer: herausragende kommunikative und soziale Fähigkeiten, fähig mit Druck umzugehen und Konflikte zu lösen, Erfahrung mit der Zusammenstellung, dem Coaching und der Leitung von multinationalen Teams von 5 bis 100 Personen"
+msgstr "Engagierte Mitarbeiterführung: herausragende kommunikative und soziale Fähigkeiten, fähig Konflikte zu lösen und mit Druck umzugehen, Erfahrung mit der Zusammenstellung, dem Coaching und der Leitung von multinationalen Teams von 5 bis 100 Personen"
 
 msgid "qualities-paragraph2"
 msgstr "Begeisterter Software-Entwickler: Architektur, Entwicklung, Deployment und Wartung von Performance-optimierten und skalierenden, hochqualitativen Web-Anwendungen seit 1999 (bevorzugt PHP)"
@@ -91,7 +91,7 @@ msgid "qualities-paragraph4"
 msgstr "Starker unternehmerischer Geist: Erfahrung mit der Gründung von Startups und dem Launch von zahlreichen Projekten, Leidenschaft für Wachstum und Innovation"
 
 msgid "qualities-paragraph5"
-msgstr "Ergebnisgetrieben: Lieferung von Ergebnissen termingerecht und im Budgetrahmen bei Einhaltung vereinbarter Prioritäten und zur Optimierung von Geschäftsmetriken"
+msgstr "Ergebnisorientiert: Lieferung von Ergebnissen termingerecht und im Budgetrahmen bei Einhaltung vereinbarter Prioritäten und zur Optimierung von Geschäftsmetriken"
 
 msgid "qualities-paragraph6"
 msgstr "Qualifizierte Schnittstelle: viele Jahre Erfahrung als Schnittstelle zu interdisziplinären Abteilungen, professionelle Kommunikation mit und Berichterstattung an Stakeholder, Investoren und Kunden"
@@ -138,7 +138,7 @@ msgid "motivado-job-title"
 msgstr "Mitgründer und <abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.motivado.de" title="Motivado">Motivado</a>"
 
 msgid "motivado-job-details-paragraph1"
-msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
+msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und ihre Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
 
 msgid "motivado-job-details-paragraph2"
 msgstr "Motivados komplexe Software wurde von mir mit Unterstützung eines agilen Teams aus rund sieben Personen entwickelt. Unsere innovativen Technologien wurden vom Bundesministerium für Wirtschaft und Technologie ausgezeichnet."
@@ -156,7 +156,7 @@ msgid "rocket-internet-job-details-paragraph2"
 msgstr "Bei Rocket Internet arbeitete ich als Director Software Engineering und Vice-CTO von Rocket Internets Zentrale in Berlin. Ich war verantwortlich für sämtliche neu gestarteten Projekte, unter anderem <a href="http://www.jabong.com" title="Jabong">Jabong</a>, <a href="http://www.lazada.com" title="Lazada">Lazada</a>, <a href="http://www.linio.com" title="Linio">Linio</a> und <a href="http://www.zalora.com" title="Zalora">Zalora</a>, und leitete ein Team von rund 100 Software-Entwicklern, Projektmanagern und Testanalysten."
 
 msgid "rocket-internet-job-details-paragraph3"
-msgstr "Meine Hauptaufgaben waren die technische Leitung, das Etablieren von Prozessen und Abläufen sowie die Rekrutierung, das Training und die Führung von Entwicklungs-Teams. Außerdem war ich Mentor für die Entwicklungs-Teams von manchen von Rocket Internets weiterentwickelten Projekten und arbeitete eng zusammen mit Rocket Internets internationalen Technologiezentren."
+msgstr "Meine Hauptaufgaben waren die technische Leitung, das Etablieren von Prozessen und Abläufen sowie die Rekrutierung, das Training und die Führung von Entwicklungs-Teams. Außerdem war ich Mentor für die Entwicklungs-Teams von einigen von Rocket Internets weiterentwickelten Projekten und arbeitete eng zusammen mit Rocket Internets internationalen Technologiezentren."
 
 msgid "foodpanda-job-title"
 msgstr "<abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.foodpanda.com" title="Foodpanda">Foodpanda</a>"
@@ -165,7 +165,7 @@ msgid "foodpanda-job-details-paragraph1"
 msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Inkubiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte. Zusammen mit seiner Schwestermarke Hellofood operiert Foodpanda in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
 
 msgid "foodpanda-job-details-paragraph2"
-msgstr "Ich war verantwortlich für die Zusammenstellung und Führung eines Teams von 30+ Software-Entwicklern, Systemadministratoren, Produktmanagern und Testanalysten und die Verwaltung unserer Projekte in 30+ Ländern. Dabei war die größte Herausforderung ein ausgezeichnetes Kundenerlebnis, häufige Produktverbesserungen und Feature-Veröffentlichungen zu gewährleisten und gleichzeitig die existierenden Projekte zu betreuen. Zusammen haben wir solide und agile Entwicklungsprozesse eingeführt, wöchentliche Updates durchgeführt und kontiunierlich unsere Software und Systemlandschaft in Bezug auf Skalierbarkeit, Performance und Sicherheit optimiert."
+msgstr "Ich war verantwortlich für die Zusammenstellung und Führung eines Teams von 30+ Software-Entwicklern, Systemadministratoren, Produktmanagern und Testanalysten und die Verwaltung unserer Projekte in 30+ Ländern. Dabei war die größte Herausforderung ein ausgezeichnetes Kundenerlebnis, häufige Produktverbesserungen und Feature-Veröffentlichungen zu gewährleisten und gleichzeitig die existierenden Projekte zu betreuen. Zusammen haben wir solide und agile Entwicklungsprozesse eingeführt, wöchentliche Updates durchgeführt und kontinuierlich unsere Software und Systemlandschaft in Bezug auf Skalierbarkeit, Performance und Sicherheit optimiert."
 
 msgid "foodpanda-job-details-paragraph3"
 msgstr "Abgesehen von Kundenanwendungen für Desktop- und Mobile-Browser, Android- und iOS-Plattformen haben die Software-Entwickler eine komplexe Backend-Anwendung entwickelt, mit der Bestellungen, Anbieter und Promotions verwaltet werden können, und individuelle Integrationen für die Kassensysteme der Partner-Restaurants entwickelt."
@@ -180,7 +180,7 @@ msgid "campanda-job-details-paragraph2"
 msgstr "Campandas Software ist eine PHP 5.4-Anwendung, die auf Zend Framework 2, Doctrine und ElasticSearch im Backend und auf jQuery, LESS und Bootstrap im Frontend basiert. Die Anwendung wird kontinuierlich hinsichtlich der Performance optimiert und ist auf Skalierung ausgelegt. Durch die Service-orientierte Architektur lässt sie sich gut mit allen möglichen Drittanbietersystemen und -schnittstellen integrieren."
 
 msgid "campanda-job-details-paragraph3"
-msgstr "Die Software-Entwickler bei Campanda schätzen agile Prinzipien und Clean-Code-Standards. Die höchste Priorität des Teams ist die kontinuierliche Auslieferung von wertvoller Software an zufriedene Kunden. Um unsere Ziele zu erreichen, arbeiten wir zusammen, heißen sich verändernde Anforderungen willkommen und reflektieren regelmäßig, wie wir effektiver werden können ohne dabei unsere hohen Qualitätsansprüche zu vernachlässigen."
+msgstr "Die Software-Entwickler bei Campanda schätzen agile Prinzipien und Clean-Code-Standards. Die höchste Priorität des Teams ist die kontinuierliche Auslieferung von wertvoller Software an zufriedene Kunden. Um unsere Ziele zu erreichen, legen wir großen Wert auf Zusammenarbeit, passen uns ständig den sich verändernden Anforderungen an und reflektieren regelmäßig, wie wir effektiver werden können ohne dabei unsere hohen Qualitätsansprüche zu vernachlässigen."
 
 #projects
 
