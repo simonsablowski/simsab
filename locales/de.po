@@ -88,7 +88,7 @@ msgid "qualities-paragraph3"
 msgstr "Leidenschaftlicher Agile-Coach: Experte in Agile- und Lean-Methodologien, insbesondere Kanban und Scrum, kontinuierliche Steigerung der Effizienz und des Outputs von Teams"
 
 msgid "qualities-paragraph4"
-msgstr "Starker unternehmerischer Geist: Erfahrung mit der Gründung von Startups und dem Launch von zahlreichen Projekten, Leidenschaft für Wachstum und Innovation"
+msgstr "Starker unternehmerischer Geist: Erfahrung mit der Gründung von Startups und dem Launch von zahlreichen Projekten, Leidenschaft für Leistung, Wachstum und Innovation"
 
 msgid "qualities-paragraph5"
 msgstr "Ergebnisorientiert: Lieferung von Ergebnissen termingerecht und im Budgetrahmen bei Einhaltung vereinbarter Prioritäten und zur Optimierung von Geschäftsmetriken"
