@@ -1,7 +1,7 @@
 #header
 
 msgid "document-title"
-msgstr "Simon Sablowski - Software-Entwickler, Agile-Begeisterter, Unternehmer"
+msgstr "Simon Sablowski - Software-Entwickler und Agile-Begeisterter mit Führungsqualitäten"
 
 msgid "document-language"
 msgstr "de"
@@ -10,7 +10,7 @@ msgid "canonical-url"
 msgstr "http://www.simsab.net/de"
 
 msgid "meta-description"
-msgstr "Simon Sablowski ist ein Web-Experte mit vielen Jahren Erfahrung in Software-Entwicklung, agilem Projektmanagement und Unternehmertum."
+msgstr "Simon Sablowski ist ein begeisterter Software-Entwickler, fasziniert von Agilität und hat ausgeprägte Führungsqualitäten."
 
 msgid "meta-keywords"
 msgstr "simon sablowski, sablowski, simsab, berlin, web-entwicklung, software-entwicklung, projektmanagement, software-architektur, agile entwicklung, unternehmertum, cto, startup, php, javascript"
