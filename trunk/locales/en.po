@@ -65,7 +65,7 @@ msgid "about-me-paragraph2"
 msgstr "I really enjoy developing software but what I love is working with people - those who have passion, who share a vision, people who want to solve problems and welcome change in order to excel."
 
 msgid "about-me-paragraph3"
-msgstr "What I enjoyed most about my past projects was setting up and continuously improving processes and interactions between team members. I believe that projects will succeed only if the people working on them are motivated, if they cooperate and especially if they communicate effectively. To this end, I encourage people to share their knowledge with each other and organise workshops for the further development of team members."
+msgstr "What I enjoyed most about my past projects was setting up and continuously improving processes and interactions between team members. I believe that projects will succeed only if the people working on them are highly motivated, if they cooperate and especially if they communicate effectively. To this end, I encourage people to share their knowledge with each other and organise workshops for the further development of team members."
 
 msgid "about-me-paragraph4"
 msgstr "The Agile principles and values are in my DNA and I consider them the basis of inspiring leadership. My style requires trusting people with their abilities and supporting them individually while keeping unnecessary pressure away from them. Whether your field is e-commerce, finance technology or mobile gaming: an ambitious, inspired and empowered team is the key for your success - and I will do my best to make it happen."
@@ -88,7 +88,7 @@ msgid "qualities-paragraph3"
 msgstr "Enthusiastic Agile coach: expert in Agile and Lean methodologies, especially Kanban and Scrum, striving to continuously increase teams’ efficiency and output"
 
 msgid "qualities-paragraph4"
-msgstr "Strong entrepreneurial spirit: experience with founding startups and launching numerous projects, passionate about growth and innovation"
+msgstr "Strong entrepreneurial spirit: experience with founding startups and launching numerous projects, passionate about performance, growth and innovation"
 
 msgid "qualities-paragraph5"
 msgstr "Results-driven: focused on delivering results on time and in line with the budget, in accordance with agreed priorities and for the optimization of business metrics"
