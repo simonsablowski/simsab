@@ -217,9 +217,9 @@ abbr {
 	width: 150px;
 }
 
-#body .career .description, #body .projects .description {
+#body .career .description {
 	margin-left: 0;
-	width: 450px;
+	width: 650px;
 }
 
 #body .projects .tags, #body .projects .item, #body .projects .description {
@@ -243,6 +243,11 @@ abbr {
 #body .projects .tags .tag .inactive {
 	background: url(../img/tag-inactive.png) no-repeat right 6px;
 	padding-right: 14px;
+}
+
+#body .projects .description {
+	margin-left: 0;
+	width: 450px;
 }
 
 #body .contact-me {
