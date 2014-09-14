@@ -59,16 +59,16 @@ msgid "about-me-photo-title"
 msgstr "Simon Sablowski"
 
 msgid "about-me-paragraph1"
-msgstr "Mein Name ist Simon Sablowski. Ich bin ein begeisterter Software-Entwickler, Agile-Faszinierter und fähiger Anführer."
+msgstr "Mein Name ist Simon Sablowski. Ich bin ein begeisterter Software-Entwickler, bin fasziniert von Agilität und habe ausgeprägte Führungsqualitäten."
 
 msgid "about-me-paragraph2"
 msgstr "Ich habe großen Spaß an Software-Entwicklung, aber ich liebe die Arbeit mit Menschen - und zwar mit solchen, die Leidenschaft haben, eine Vision teilen, Menschen, die Probleme lösen wollen und Veränderung willkommen heißen, um zu brillieren."
 
 msgid "about-me-paragraph3"
-msgstr "Bei meinen vergangenen Projekten habe ich am liebsten Prozesse und die Zusammenarbeit zwischen Teammitgliedern aufgesetzt und kontinuierlich verbessert. Ich glaube daran, dass Projekte nur dann Erfolg haben, wenn die Menschen, die daran arbeiten, motiviert sind, kooperieren und vor allem effektiv kommunizieren. Dazu ermutige ich Teammitglieder ihr Wissen zu teilen und organisiere Workshops für ihre Weiterentwicklung."
+msgstr "Bei meinen vergangenen Projekten habe ich am liebsten Prozesse und die Zusammenarbeit zwischen Teammitgliedern aufgesetzt und kontinuierlich verbessert. Ich glaube daran, dass Projekte nur dann Erfolg haben, wenn die Menschen, die daran arbeiten, hochmotiviert sind, miteinander kooperieren und vor allem effektiv kommunizieren. Dazu ermutige ich Teammitglieder ihr Wissen zu teilen und organisiere Workshops für ihre Weiterentwicklung."
 
 msgid "about-me-paragraph4"
-msgstr "Die Prinzipien und Werte der Agilität sind in meiner DNA und ich halte sie für die Basis für inspirierende Führung. Mein Stil erfordert das Vertrauen in die Fähigkeiten anderer bei gleichzeitigem Fernhalten von unnötiger Belastung. Egal ob Ihr Gebiet E-Commerce, Finanztechnologie oder Mobile Gaming ist: ein ehrgeiziges, inspiriertes and befähigtes Team ist der Schlüssel zum Erfolg - und ich werde mein Bestes geben, um diesen Erfolg zu erreichen."
+msgstr "Die Prinzipien und Werte der Agilität sind in meiner DNA und ich halte sie für die Basis für inspirierende Führung. Mein persönlicher Stil setzt auf das Vertrauen in die Fähigkeiten anderer bei gleichzeitigem Fernhalten von unnötiger Belastung. Egal ob Ihr Gebiet E-Commerce, Finanztechnologie oder Mobile Gaming ist: ein ehrgeiziges, inspiriertes and befähigtes Team ist der Schlüssel zum Erfolg - und ich werde mein Bestes geben, um diesen Erfolg zu erreichen."
 
 msgid "about-me-paragraph5"
 msgstr "Ich bin verfügbar für eine neue Herausforderung ab Oktober 2014."
