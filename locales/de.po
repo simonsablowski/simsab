@@ -59,19 +59,19 @@ msgid "about-me-photo-title"
 msgstr "Simon Sablowski"
 
 msgid "about-me-paragraph1"
-msgstr "Mein Name ist Simon Sablowski und ich bin ein begeisterter Software-Entwickler, Agile-Faszinierter und fähiger Anführer."
+msgstr "Mein Name ist Simon Sablowski. Ich bin ein begeisterter Software-Entwickler, Agile-Faszinierter und fähiger Anführer."
 
 msgid "about-me-paragraph2"
 msgstr "Ich habe großen Spaß an Software-Entwicklung, aber ich liebe die Arbeit mit Menschen - und zwar mit solchen, die Leidenschaft haben, eine Vision teilen, Menschen, die Probleme lösen wollen und Veränderung willkommen heißen, um zu brillieren."
 
 msgid "about-me-paragraph3"
-msgstr "Bei meinen vergangenen Projekten habe ich am liebsten Prozesse und die Zusammenarbeit zwischen Teammitgliedern aufgesetzt und kontinuierlich verbessert. Der Grund dafür ist mein Glaube daran, dass Projekte nur dann Erfolg haben, wenn die Menschen, die daran arbeiten, motiviert sind, kooperieren und vor allem effektiv kommunizieren."
+msgstr "Bei meinen vergangenen Projekten habe ich am liebsten Prozesse und die Zusammenarbeit zwischen Teammitgliedern aufgesetzt und kontinuierlich verbessert. Ich glaube daran, dass Projekte nur dann Erfolg haben, wenn die Menschen, die daran arbeiten, motiviert sind, kooperieren und vor allem effektiv kommunizieren. Dazu ermutige ich Teammitglieder ihr Wissen zu teilen und organisiere Workshops für ihre Weiterentwicklung."
 
 msgid "about-me-paragraph4"
 msgstr "Die Prinzipien und Werte der Agilität sind in meiner DNA und ich halte sie für die Basis für inspirierende Führung. Mein Stil erfordert das Vertrauen in die Fähigkeiten anderer bei gleichzeitigem Fernhalten von unnötiger Belastung. Egal ob Ihr Gebiet E-Commerce, Finanztechnologie oder Mobile Gaming ist: ein ehrgeiziges, inspiriertes and befähigtes Team ist der Schlüssel zum Erfolg - und ich werde mein Bestes geben, um diesen Erfolg zu erreichen."
 
 msgid "about-me-paragraph5"
-msgstr "Ich bin verfügbar für eine neue Herausforderung ab Oktober 2014!"
+msgstr "Ich bin verfügbar für eine neue Herausforderung ab Oktober 2014."
 
 #qualities
 
@@ -79,7 +79,7 @@ msgid "qualities-title"
 msgstr "Meine Qualitäten"
 
 msgid "qualities-paragraph1"
-msgstr "Fähiger Anführer: herausragende kommunikative und soziale Fähigkeiten, fähig mit Druck umzugehen und Konflikte zu lösen, Erfahrung mit der Zusammenstellung, dem Coaching und der Leitung von multikulturellen Teams von 5 bis 100 Personen"
+msgstr "Fähiger Anführer: herausragende kommunikative und soziale Fähigkeiten, fähig mit Druck umzugehen und Konflikte zu lösen, Erfahrung mit der Zusammenstellung, dem Coaching und der Leitung von multinationalen Teams von 5 bis 100 Personen"
 
 msgid "qualities-paragraph2"
 msgstr "Begeisterter Software-Entwickler: Architektur, Entwicklung, Deployment und Wartung von Performance-optimierten und skalierenden, hochqualitativen Web-Anwendungen seit 1999 (bevorzugt PHP)"
@@ -132,10 +132,10 @@ msgid "mytourclips-job-details-paragraph1"
 msgstr "Abgesehen von der Funktionalität einer Online-Reise-Community bot mytourclips direkte Reisebuchung, Reisenachrichten und das Teilen von Multimedia-Inhalten an."
 
 msgid "mytourclips-job-details-paragraph2"
-msgstr "Im Juni 2008 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
+msgstr "Im Juni 2008 leitete ich ein umfassendes Refactoring der bestehenden Web-Anwendung auf der Basis meines PHP-basierten Web Application Frameworks nacho, das die Plattform auf High Traffic und die internationale Etablierung des Produkts vorbereitete."
 
 msgid "motivado-job-title"
-msgstr "Gründer und <abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.motivado.de" title="Motivado">Motivado</a>"
+msgstr "Mitgründer und <abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.motivado.de" title="Motivado">Motivado</a>"
 
 msgid "motivado-job-details-paragraph1"
 msgstr "Motivado ist die erste Plattform für interaktives Video-Coaching und unterstützt Menschen dabei, persönliche Probleme zu lösen und Ziele zu erreichen. Mit dem Ansatz der Mass Customization für Coaching-Inhalte in Videoformat schließen wir die Lücke zwischen kostenintensivem persönlichem Coaching und dem populären Ratgebermarkt."
