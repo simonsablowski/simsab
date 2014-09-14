@@ -62,7 +62,7 @@ msgid "about-me-paragraph1"
 msgstr "Mein Name ist Simon Sablowski. Ich bin ein begeisterter Software-Entwickler, bin fasziniert von Agilität und habe ausgeprägte Führungsqualitäten."
 
 msgid "about-me-paragraph2"
-msgstr "Ich habe großen Spaß an Software-Entwicklung, aber ich liebe die Arbeit mit Menschen - und zwar mit solchen, die Leidenschaft haben, eine Vision teilen, Menschen, die Probleme lösen wollen und Veränderung willkommen heißen, um zu brillieren."
+msgstr "Ich habe großen Spaß an Software-Entwicklung, aber ich liebe die Arbeit mit Menschen - und zwar mit solchen, die Leidenschaft haben, eine Vision teilen, Menschen, die Probleme lösen wollen und Veränderung willkommen heißen, um Großartiges zu schaffen."
 
 msgid "about-me-paragraph3"
 msgstr "Bei meinen vergangenen Projekten habe ich am liebsten Prozesse und die Zusammenarbeit zwischen Teammitgliedern aufgesetzt und kontinuierlich verbessert. Ich glaube daran, dass Projekte nur dann Erfolg haben, wenn die Menschen, die daran arbeiten, hochmotiviert sind, miteinander kooperieren und vor allem effektiv kommunizieren. Dazu ermutige ich Teammitglieder ihr Wissen zu teilen und organisiere Workshops für ihre Weiterentwicklung."
