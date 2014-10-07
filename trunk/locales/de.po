@@ -269,7 +269,7 @@ msgid "nacho-title"
 msgstr "nacho"
 
 msgid "nacho-description"
-msgstr "Web Application Framework"
+msgstr "PHP-basiertes Web Application Framework"
 
 msgid "motivado-frontend-title"
 msgstr "Motivado-Frontend"
