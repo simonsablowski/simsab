@@ -227,7 +227,7 @@ msgid "trend-title"
 msgstr "Trend"
 
 msgid "trend-description"
-msgstr "The next musical trend (German)"
+msgstr "The next musical trend"
 
 msgid "names-title"
 msgstr "Filtering names"
@@ -283,34 +283,34 @@ msgstr "Motivado frontend"
 msgid "motivado-frontend-description"
 msgstr "Motivado's coaching store frontend"
 
-msgid "coaching-ui-title"
-msgstr "Coaching <abbr title="User Interface">UI</abbr>"
+msgid "motivado-ui-title"
+msgstr "Motivado <abbr title="User Interface">UI</abbr>"
 
-msgid "coaching-ui-description"
+msgid "motivado-ui-description"
 msgstr "Communication between Motivado's frontend and <abbr title="Application Programming Interface">API</abbr>"
 
-msgid "coaching-api-title"
-msgstr "Coaching <abbr title="Application Programming Interface">API</abbr>"
+msgid "motivado-api-title"
+msgstr "Motivado <abbr title="Application Programming Interface">API</abbr>"
 
-msgid "coaching-api-description"
+msgid "motivado-api-description"
 msgstr "<abbr title="Application Programming Interface">API</abbr> for Motivado's coaching content"
 
-msgid "coaching-test-title"
-msgstr "Coaching test"
+msgid "motivado-test-title"
+msgstr "Motivado test"
 
-msgid "coaching-test-description"
+msgid "motivado-test-description"
 msgstr "Test Motivado's coachings before deployment"
 
-msgid "coaching-import-title"
-msgstr "Coaching import"
+msgid "motivado-import-title"
+msgstr "Motivado import"
 
-msgid "coaching-import-description"
+msgid "motivado-import-description"
 msgstr "Import Motivado's coaching models into database"
 
-msgid "coaching-preview-title"
-msgstr "Coaching preview"
+msgid "motivado-preview-title"
+msgstr "Motivado preview"
 
-msgid "coaching-preview-description"
+msgid "motivado-preview-description"
 msgstr "Configure and test Motivado's coaching elements"
 
 msgid "readosaur-title"

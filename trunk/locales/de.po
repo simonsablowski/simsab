@@ -277,34 +277,34 @@ msgstr "Motivado-Frontend"
 msgid "motivado-frontend-description"
 msgstr "Shop-Frontend für Motivados Coachings"
 
-msgid "coaching-ui-title"
-msgstr "Coaching-<abbr title="User Interface">UI</abbr>"
+msgid "motivado-ui-title"
+msgstr "Motivado-<abbr title="User Interface">UI</abbr>"
 
-msgid "coaching-ui-description"
+msgid "motivado-ui-description"
 msgstr "Kommunikation zwischen Motivados Frontend und <abbr title="Application Programming Interface">API</abbr>"
 
-msgid "coaching-api-title"
-msgstr "Coaching-<abbr title="Application Programming Interface">API</abbr>"
+msgid "motivado-api-title"
+msgstr "Motivado-<abbr title="Application Programming Interface">API</abbr>"
 
-msgid "coaching-api-description"
+msgid "motivado-api-description"
 msgstr "<abbr title="Application Programming Interface">API</abbr> für Motivados Coaching-Inhalte"
 
-msgid "coaching-test-title"
-msgstr "Coaching-Test"
+msgid "motivado-test-title"
+msgstr "Motivado-Test"
 
-msgid "coaching-test-description"
+msgid "motivado-test-description"
 msgstr "Motivados Coachings vor dem Deployment testen"
 
-msgid "coaching-import-title"
-msgstr "Coaching-Import"
+msgid "motivado-import-title"
+msgstr "Motivado-Import"
 
-msgid "coaching-import-description"
+msgid "motivado-import-description"
 msgstr "Datenbank-Import von Motivados Coaching-Modellen"
 
-msgid "coaching-preview-title"
-msgstr "Coaching-Vorschau"
+msgid "motivado-preview-title"
+msgstr "Motivado-Vorschau"
 
-msgid "coaching-preview-description"
+msgid "motivado-preview-description"
 msgstr "Motivados Coaching-Elemente konfigurieren und testen"
 
 msgid "readosaur-title"
