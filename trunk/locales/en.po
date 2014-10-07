@@ -323,7 +323,7 @@ msgid "beatemup-title"
 msgstr "Beat 'em up"
 
 msgid "beatemup-description"
-msgstr "HTML5/JavaScript-based Mortal Kombat tribute"
+msgstr "Web-based Mortal Kombat tribute"
 
 msgid "getitdone-title"
 msgstr "Get it done"
