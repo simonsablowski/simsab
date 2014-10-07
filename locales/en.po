@@ -275,7 +275,7 @@ msgid "nacho-title"
 msgstr "nacho"
 
 msgid "nacho-description"
-msgstr "Web application framework"
+msgstr "PHP-based web application framework"
 
 msgid "motivado-frontend-title"
 msgstr "Motivado frontend"
