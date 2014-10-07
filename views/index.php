@@ -269,6 +269,7 @@
 								<?php echo $this->localize('beatemup-description'); ?>
 
 								<a class="source-code separated" href="https://github.com/simonsablowski/beatemup" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">HTML5, JavaScript</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="personal">
@@ -280,6 +281,7 @@
 								<?php echo $this->localize('notmybiz-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/notmybiz/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">PHP, MySQL, JavaScript, ImageMagick, CLI</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="interactive tools">
@@ -291,6 +293,7 @@
 								<?php echo $this->localize('getitdone-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/task-planner/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">JavaScript, jQuery, PHP</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="personal tools">
@@ -302,6 +305,7 @@
 								<?php echo $this->localize('readosaur-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/readosaur/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">PHP, XML, JavaScript, jQuery, MySQL</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="motivado">
@@ -311,6 +315,8 @@
 						<dd class="description">
 							<p>
 								<?php echo $this->localize('motivado-frontend-description'); ?>
+
+								<span class="sub-line">PHP, Magento, varnish, MySQL, JavaScript, jQuery</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="motivado tools">
@@ -322,6 +328,7 @@
 								<?php echo $this->localize('motivado-preview-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/coaching-preview/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">JavaScript, jQuery, PHP</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="motivado tools">
@@ -333,6 +340,7 @@
 								<?php echo $this->localize('motivado-import-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/motivado-importer/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">PHP, XML, MySQL, CLI</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="motivado">
@@ -344,6 +352,7 @@
 								<?php echo $this->localize('motivado-api-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/motivado-api/source/browse" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">PHP, MySQL, JSON</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="personal tools">
@@ -355,6 +364,7 @@
 								<?php echo $this->localize('nacho-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/nacho/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">PHP</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="experimental interactive">
@@ -366,6 +376,7 @@
 								<?php echo $this->localize('beerball-simulator-description'); ?>
 
 								<a class="source-code separated" href="http://code.google.com/p/beerball-simulator/source/browse/trunk" title="<?php echo $this->localize('source-code-title'); ?>"><?php echo $this->localize('source-code-title'); ?></a>
+								<span class="sub-line">PHP</span>
 							</p>
 						</dd>
 						<dt class="item" data-tags="experimental interactive">
@@ -376,6 +387,7 @@
 							<p>
 								<?php echo $this->localize('trend-description'); ?>
 
+								<span class="sub-line">PHP</span>
 							</p>
 						</dd>
 					</dl>
