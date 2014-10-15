@@ -71,7 +71,7 @@ msgid "about-me-paragraph4"
 msgstr "Die Prinzipien und Werte der Agilität sind in meiner DNA und ich halte sie für die Basis inspirierender Führung. Mein Stil setzt auf das Vertrauen in die Fähigkeiten des Teams und individuelle Förderung bei gleichzeitigem Fernhalten von unnötiger Belastung. Egal ob Ihr Gebiet E-Commerce, Finanztechnologie oder Mobile Gaming ist: ein ehrgeiziges, inspiriertes and befähigtes Team ist der Schlüssel zum Erfolg - und ich werde meinen Teil dazu beitragen diesen Erfolg zu erreichen."
 
 msgid "about-me-paragraph5"
-msgstr "Ich bin verfügbar für eine neue Herausforderung ab Oktober 2014."
+msgstr "Ich bin verfügbar für eine neue Herausforderung ab November 2014."
 
 #qualities
 
