@@ -104,9 +104,9 @@
 					</h2>
 					<dl class="items">
 						<dt class="item">
-							<?php echo $this->localize('since', array('01/2014')); ?>
+							<?php echo $this->localize('from-until', array('01/2014', '10/2014')); ?>
 
-							<span class="sub-line"><?php echo ($m = date_diff(date_create('2014-01'), date_create())->m) > 1 ? $this->localize('several-months', $m) : $this->localize('one-month', $m); ?></span>
+							<span class="sub-line"><?php echo $this->localize('several-months', 10); ?></span>
 						</dt>
 						<dd class="description">
 							<p>
