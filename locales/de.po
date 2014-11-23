@@ -336,11 +336,8 @@ msgstr "Ich bin folgendermaßen erreichbar:"
 msgid "e-mail-address"
 msgstr "kontakt@simsab.net"
 
-msgid "via-e-mail-title"
-msgstr "Kontaktieren Sie mich via E-Mail"
-
-msgid "via-skype-title"
-msgstr "Kontaktieren Sie mich via Skype"
+msgid "e-mail"
+msgstr "E-Mail"
 
 msgid "contact-me-paragraph2"
 msgstr "Besuchen Sie mich in den sozialen Netzwerken:"

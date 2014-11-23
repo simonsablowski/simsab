@@ -48,7 +48,7 @@
 	padding-right: 0;
 }
 
-#body .external:after {
+#body .external:after, #body .icon:after {
 	content: " <"attr(href)">";
 }
 

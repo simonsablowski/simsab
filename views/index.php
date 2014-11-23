@@ -403,10 +403,10 @@
 					</p>
 					<ul class="options">
 						<li class="option">
-							<a class="email icon" href="mailto:<?php echo $this->localize('e-mail-address'); ?>" title="<?php echo $this->localize('via-e-mail-title'); ?>"><?php echo $this->localize('e-mail-address'); ?></a>
+							<a class="email icon" href="mailto:<?php echo $this->localize('e-mail-address'); ?>" title="<?php echo $this->localize('e-mail'); ?>"><?php echo $this->localize('e-mail'); ?></a>
 						</li>
 						<li class="option">
-							<a class="skype icon" href="skype:simonsablowski" title="<?php echo $this->localize('via-skype-title'); ?>">simonsablowski</a>
+							<a class="skype icon" href="skype:simonsablowski" title="Skype">Skype</a>
 						</li>
 					</ul>
 					<p>
