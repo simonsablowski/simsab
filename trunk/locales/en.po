@@ -342,11 +342,8 @@ msgstr "Get in touch with me:"
 msgid "e-mail-address"
 msgstr "contact@simsab.net"
 
-msgid "via-e-mail-title"
-msgstr "Contact me via e-mail"
-
-msgid "via-skype-title"
-msgstr "Contact me via Skype"
+msgid "e-mail"
+msgstr "E-mail"
 
 msgid "contact-me-paragraph2"
 msgstr "Visit my social network profiles:"
