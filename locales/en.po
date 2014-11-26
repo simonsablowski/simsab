@@ -71,7 +71,7 @@ msgid "about-me-paragraph4"
 msgstr "The Agile principles and values are in my DNA and I consider them the basis of inspiring leadership. My style requires trusting people with their abilities and supporting them individually while keeping unnecessary pressure away from them. Whether your field is e-commerce, finance technology or mobile gaming: an ambitious, inspired and empowered team is the key for your success - and I will do my best to make it happen."
 
 msgid "about-me-paragraph5"
-msgstr "I am available for a new challenge from November 2014 onwards."
+msgstr "I am available for a new challenge from January 2015 onwards."
 
 #qualities
 
