@@ -100,9 +100,9 @@
 					</h2>
 					<dl class="items">
 						<dt class="item">
-							<?php echo $this->localize('from-until', array('01/2014', '02/2015')); ?>
+							<?php echo $this->localize('from-until', array('01/2014', '01/2015')); ?>
 
-							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('one-year'), $this->localize('several-months', 2)); ?></span>
+							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('one-year'), $this->localize('one-month')); ?></span>
 						</dt>
 						<dd class="description">
 							<p>
