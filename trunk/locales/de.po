@@ -147,16 +147,16 @@ msgid "rocket-internet-job-title"
 msgstr "Project <abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a> und <abbr title="Chief Technology Officer">CTO</abbr> bei <a href="http://www.foodpanda.com" title="Foodpanda">Foodpanda</a>"
 
 msgid "rocket-internet-job-details-paragraph1"
-msgstr "Rocket Internet ist der weltgrößte Inkubator für Online-Geschäfte mit Hunderten von erfolgreichen E-Commerce-Projekten und Zehntausenden Mitarbeitern auf allen Kontinenten."
+msgstr "Rocket Internet ist der weltgrößte Inkubator für Online-Unternehmen im Bereich E-Commerce und Marktplätzen mit Projekten und Mitarbeitern auf allen Kontinenten."
 
 msgid "rocket-internet-job-details-paragraph2"
 msgstr "Bei Rocket Internet arbeitete ich als Project CTO und Vice-CTO von Rocket Internets Zentrale in Berlin. Ich war verantwortlich für sämtliche neu gestarteten Projekte, unter anderem <a href="http://www.jabong.com" title="Jabong">Jabong</a>, <a href="http://www.lazada.com" title="Lazada">Lazada</a>, <a href="http://www.linio.com" title="Linio">Linio</a> und <a href="http://www.zalora.com" title="Zalora">Zalora</a>, und leitete ein Team von rund 100 Software-Entwicklern, Projektmanagern und Testanalysten."
 
 msgid "rocket-internet-job-details-paragraph3"
-msgstr "Meine Hauptaufgaben waren die technische Leitung, das Etablieren von Prozessen und Abläufen sowie die Rekrutierung, das Training und die Führung von Entwicklungs-Teams. Außerdem war ich Mentor für die Entwicklungs-Teams von einigen von Rocket Internets weiterentwickelten Projekten und arbeitete eng zusammen mit Rocket Internets internationalen Technologiezentren."
+msgstr "Zu meinen Hauptaufgaben zählten die technische Leitung, das Etablieren von Prozessen und Abläufen sowie die Rekrutierung, das Training und die Führung von Entwicklungs-Teams. Außerdem war ich Mentor für die Entwicklungs-Teams von einigen von Rocket Internets weiterentwickelten Projekten und arbeitete eng zusammen mit Rocket Internets internationalen Technologiezentren."
 
 msgid "rocket-internet-job-details-paragraph4"
-msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Inkubiert durch Rocket Internet konzentriert sich das Unternehmen insbesondere auf Wachstumsmärkte. Zusammen mit seiner Schwestermarke Hellofood operiert Foodpanda in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
+msgstr "Foodpanda ist der am schnellsten wachsende Online-Essenslieferdienst weltweit. Zusammen mit seiner Schwestermarke Hellofood operiert Foodpanda in Asien, Europa, Lateinamerika, Afrika und Nahost und erreicht drei Milliarden Menschen weltweit."
 
 msgid "rocket-internet-job-details-paragraph5"
 msgstr "Nachdem ich von Rocket Internet zu seinem Prioritätsprojekt Foodpanda wechselte, war ich verantwortlich für die Zusammenstellung und Führung eines Teams von 30+ Software-Entwicklern, Systemadministratoren, Produktmanagern und Testanalysten und die Verfügbarkeit unseres Services in 30+ Ländern. Dabei war die größte Herausforderung ein ausgezeichnetes Kundenerlebnis, häufige Produktverbesserungen und Feature-Veröffentlichungen zu gewährleisten und gleichzeitig die existierenden Plattformen zu betreuen. Zusammen haben wir solide und agile Entwicklungsprozesse eingeführt, wöchentliche Updates durchgeführt und kontinuierlich unsere Software und Systemlandschaft in Bezug auf Skalierbarkeit, Performance und Sicherheit optimiert."
@@ -174,7 +174,7 @@ msgid "campanda-job-details-paragraph2"
 msgstr "Campandas Software ist eine PHP 5.4-Anwendung, die auf Zend Framework 2, Doctrine und ElasticSearch im Backend und auf jQuery, LESS und Bootstrap im Frontend basiert. Die Anwendung wird kontinuierlich hinsichtlich der Performance optimiert und ist auf Skalierung ausgelegt. Durch die Service-orientierte Architektur lässt sie sich gut mit allen möglichen Drittanbietersystemen und -schnittstellen integrieren."
 
 msgid "campanda-job-details-paragraph3"
-msgstr "Die Software-Entwickler bei Campanda schätzen agile Prinzipien und Clean-Code-Standards. Die höchste Priorität des Teams ist die kontinuierliche Auslieferung von wertvoller Software an zufriedene Kunden. Um unsere Ziele zu erreichen, legen wir großen Wert auf Zusammenarbeit, passen uns ständig den sich verändernden Anforderungen an und reflektieren regelmäßig, wie wir effektiver werden können ohne dabei unsere hohen Qualitätsansprüche zu vernachlässigen."
+msgstr "Bei Campanda habe ich ein Team von 5 Software-Entwicklern geleitet und war verantwortlich für die kontinuierliche und häufige Auslieferung von wertvoller Software. Das Team schätzt agile Prinzipien und Clean-Code-Standards, arbeitet zusammen, passt sich verändernden Anforderungen an und reflektiert regelmäßig, wie es effektiver werden kann ohne dabei die hohen Qualitätsansprüche zu vernachlässigen."
 
 msgid "campanda-job-details-paragraph4"
 msgstr "Von April 2014 bis Februar 2015 war ich in Elternzeit."
