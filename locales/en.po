@@ -147,19 +147,19 @@ msgid "rocket-internet-job-title"
 msgstr "Project <abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a> and <abbr title="Chief Technology Officer">CTO</abbr> at <a href="http://www.foodpanda.com" title="Foodpanda">Foodpanda</a>"
 
 msgid "rocket-internet-job-details-paragraph1"
-msgstr "Rocket Internet is the world's largest online business incubator with hundreds of successful e-commerce projects and tens of thousands of employees on all continents."
+msgstr "Rocket Internet is the world's largest online venture builder for e-commerce and online marketplaces with projects and employees on all continents."
 
 msgid "rocket-internet-job-details-paragraph2"
-msgstr "At Rocket Internet, I acted as Project CTO and Vice CTO for Rocket Internet's headquarters in Berlin. I was in charge of all newly launched projects, including <a href="http://www.jabong.com" title="Jabong">Jabong</a>, <a href="http://www.lazada.com" title="Lazada">Lazada</a>, <a href="http://www.linio.com" title="Linio">Linio</a> and <a href="http://www.zalora.com" title="Zalora">Zalora</a>, and headed a team of around 100 software engineers, project managers and test analysts."
+msgstr "At Rocket Internet, I acted as Project CTO and Vice CTO for Rocket Internet's headquarters in Berlin. I was in charge of all newly launched projects, including <a href="http://www.jabong.com" title="Jabong">Jabong</a>, <a href="http://www.lazada.com" title="Lazada">Lazada</a>, <a href="http://www.linio.com" title="Linio">Linio</a> and <a href="http://www.zalora.com" title="Zalora">Zalora</a>, and headed a team of around 100 software engineers, project managers and quality assurance analysts."
 
 msgid "rocket-internet-job-details-paragraph3"
-msgstr "My main tasks were technical supervision, establishing processes and workflows as well as recruiting, training and leading engineering teams. I also acted as a mentor for the engineering teams of some of Rocket Internet's matured ventures and worked closely with representatives of Rocket Internet's international technology centres."
+msgstr "My responsibilities included technical supervision, establishing processes and workflows as well as recruiting, training and leading engineering teams. I also acted as a mentor for the engineering teams of some of Rocket Internet's matured ventures and worked closely with Rocket Internet's international technology centres."
 
 msgid "rocket-internet-job-details-paragraph4"
-msgstr "Foodpanda is globally the fastest growing online food delivery service. Accelerated by Rocket Internet, the company focuses especially on emerging markets. Together with its affiliated brand Hellofood, Foodpanda operates in Asia, Europe, Latin America, Africa and Middle-East reaching three billion people worldwide."
+msgstr "Foodpanda is globally the fastest growing online food delivery service. Together with its affiliated brand Hellofood, Foodpanda operates in Asia, Europe, Latin America, Africa and Middle-East reaching three billion people worldwide."
 
 msgid "rocket-internet-job-details-paragraph5"
-msgstr "After moving from Rocket Internet itself to its priority project Foodpanda, I was responsible for assembling and leading a team of 30+ software engineers, system engineers, product managers and test analysts to successfully deliver our services to 30+ countries. The main challenge was to ensure an excellent user experience and frequent product improvements and feature releases while maintaining the running platforms. Together, we managed to establish solid yet agile development processes and perform weekly deployments while continuously optimizing our software and systems with regard to scalability, performance and security."
+msgstr "After moving from Rocket Internet itself to its priority project Foodpanda, I was responsible for assembling and leading a team of 30+ software engineers, system engineers, product managers and quality assurance analysts to successfully deliver our services to 30+ countries. The main challenge was to ensure an excellent user experience and frequent product improvements and feature releases while maintaining the running platforms. Together, we managed to establish solid yet agile development processes and perform weekly deployments while continuously optimizing our software and systems with regard to scalability, performance and security."
 
 msgid "rocket-internet-job-details-paragraph6"
 msgstr "Apart from client applications for desktop and mobile browsers, Android and iOS platforms, the software engineers developed a rich backend application for managing orders, vendors and promotions and implemented individual integrations for partner restaurants' point of sale systems."
@@ -171,10 +171,10 @@ msgid "campanda-job-details-paragraph1"
 msgstr "Campanda is an online marketplace dedicated exclusively to motorhome and caravan rental worldwide. Tens of thousands of vehicles are offered in Europe, Oceania, North and South America as well as Africa."
 
 msgid "campanda-job-details-paragraph2"
-msgstr "Campanda's software is a PHP 5.4 application based on Zend Framework 2, Doctrine and ElasticSearch on the back-end and jQuery, LESS and Bootstrap on the front-end. The application is continuously performance-optimized and designed to scale. Through its service-oriented architecture it integrates well with all kinds of third-party systems and interfaces."
+msgstr "Campanda's software is a PHP 5.4 application based on Zend Framework 2, Doctrine and ElasticSearch on the back-end and jQuery, LESS and Bootstrap on the front-end. The application is continuously performance-optimized and designed to scale. Through its service-oriented architecture the application integrates well with all kinds of third-party systems and interfaces."
 
 msgid "campanda-job-details-paragraph3"
-msgstr "The software engineers at Campanda value agile principles and clean code standards. The team's highest priority is to continuously deliver valuable software to satisfied customers. In order to reach our goals, we work together, welcome changing requirements and regularly reflect on how to become more effective while striving to maintain the highest quality standards."
+msgstr "At Campanda, I was leading a team of 5 software engineers and responsible for continuous and frequent delivery of valuable software. The team values agile principles and clean code standards, works together, welcomes changing requirements and regularly reflects on how to become more effective while striving to maintain the highest quality standards."
 
 msgid "campanda-job-details-paragraph4"
 msgstr "I was on parental leave from April 2014 until February 2015."
