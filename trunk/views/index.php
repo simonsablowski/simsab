@@ -100,9 +100,9 @@
 					</h2>
 					<dl class="items">
 						<dt class="item">
-							<?php echo $this->localize('from-until', array('01/2014', '10/2014')); ?>
+							<?php echo $this->localize('from-until', array('01/2014', '02/2015')); ?>
 
-							<span class="sub-line"><?php echo $this->localize('several-months', 10); ?></span>
+							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('one-year'), $this->localize('several-months', 2)); ?></span>
 						</dt>
 						<dd class="description">
 							<p>
@@ -122,35 +122,15 @@
 								<?php echo $this->localize('campanda-job-details-paragraph3'); ?>
 
 							</p>
-						</dd>
-						<dt class="item">
-							<?php echo $this->localize('from-until', array('11/2012', '09/2013')); ?>
-
-							<span class="sub-line"><?php echo $this->localize('several-months', 11); ?></span>
-						</dt>
-						<dd class="description">
-							<p>
-								<?php echo $this->localize('foodpanda-job-title'); ?>
-
-								<a class="expand details separated" href="<?php echo $this->getConfiguration('basePath') . $this->localize('document-language') . $this->getConfiguration('pathSeparator') . $this->localize('career-path'); ?>" title="<?php echo $this->localize('details-title'); ?>"><?php echo $this->localize('details-title'); ?></a>
-							</p>
 							<p class="expandable">
-								<?php echo $this->localize('foodpanda-job-details-paragraph1'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('foodpanda-job-details-paragraph2'); ?>
-
-							</p>
-							<p class="expandable">
-								<?php echo $this->localize('foodpanda-job-details-paragraph3'); ?>
+								<?php echo $this->localize('campanda-job-details-paragraph4'); ?>
 
 							</p>
 						</dd>
 						<dt class="item">
-							<?php echo $this->localize('from-until', array('11/2011', '10/2012')); ?>
+							<?php echo $this->localize('from-until', array('11/2011', '09/2013')); ?>
 
-							<span class="sub-line"><?php echo $this->localize('one-year'); ?></span>
+							<span class="sub-line"><?php echo sprintf('%s, %s', $this->localize('one-year'), $this->localize('several-months', 11)); ?></span>
 						</dt>
 						<dd class="description">
 							<p>
@@ -168,6 +148,18 @@
 							</p>
 							<p class="expandable">
 								<?php echo $this->localize('rocket-internet-job-details-paragraph3'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('rocket-internet-job-details-paragraph4'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('rocket-internet-job-details-paragraph5'); ?>
+
+							</p>
+							<p class="expandable">
+								<?php echo $this->localize('rocket-internet-job-details-paragraph6'); ?>
 
 							</p>
 						</dd>
