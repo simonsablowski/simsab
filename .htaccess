@@ -1,0 +1,13 @@
+ErrorDocument 404 http://www.simsab.net
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} simsab\.de$ [NC]
+RewriteRule ^(.*)$ http://www.simsab.net
+
+Redirect permanent /de http://www.simsab.net
+Redirect permanent /en http://www.simsab.net
+Redirect permanent /impressum http://www.simsab.net/disclaimer
+
+RewriteRule ^$ index.html [L]
+RewriteRule ^disclaimer/?$ disclaimer.html [L]

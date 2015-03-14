@@ -1,0 +1,203 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto');
+@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+html {
+	position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+	height: 100%;
+	color: #fff;
+}
+
+a {
+	color: #dfc;
+}
+
+a:focus, a:hover {
+	color: #dfc;
+	text-decoration: none;
+}
+
+h1 {
+	color: #dfc;
+	text-shadow: 2px 2px 0 #333;
+	margin: 20px 0 30px;
+	position: relative;
+}
+
+.navbar-default {
+	background-color: #fff;
+	border-bottom: 1px solid #666;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #666;
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin: 10px 5px;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	color: #608;
+	background-color: transparent;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	color: #fff;
+	background-color: #608;
+}
+
+.navbar {
+	padding: 20px 0;
+	-webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+	-moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+	transition: background .5s ease-in-out, padding .5s ease-in-out;
+}
+
+.top-nav-collapse {
+	padding: 0;
+}
+
+.navbar-default .navbar-brand {
+	color: #608;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 400%;
+	margin: 0;
+	-webkit-transition: font-size .5s ease-in-out;
+	-moz-transition: font-size .5s ease-in-out;
+	transition: font-size .5s ease-in-out;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+	color: #140;
+}
+
+.top-nav-collapse .navbar-brand {
+	font-size: 200%;
+}
+
+article {
+	background-color: #140;
+}
+
+section {
+    padding: 50px 0 100px;
+	position: relative;
+}
+
+section:first-child {
+    padding-top: 250px;
+}
+
+section:last-child {
+    padding-bottom: 150px;
+}
+
+section:nth-of-type(even) {
+	background-color: #251;
+}
+
+section:nth-of-type(odd) {
+	background-color: #140;
+}
+
+.lead {
+	position: relative;
+}
+
+.section-image {
+	position: absolute;
+	bottom: 0;
+	max-height: 80%;
+	left: 60%;
+	max-width: 40%;
+}
+
+.panel {
+	background-color: transparent;
+	box-shadow: none;
+}
+
+.panel-group .panel+.panel {
+	margin-top: 10px;
+}
+
+.panel-default {
+	border: none;
+}
+
+.panel-default .panel-heading {
+	color: #fff;
+	background-color: transparent;
+	border: none;
+	padding: 15px 0;
+}
+
+.panel-title {
+	font-size: 20px;
+}
+
+.panel-default .panel-body {
+	padding: 0;
+}
+
+.list-group-item {
+	background-color: transparent;
+	border: none;
+	margin-bottom: 0;
+	padding: 10px 0;
+}
+
+a.list-group-item, a.list-group-item:focus, a.list-group-item:hover {
+	color: #dfc;
+	background-color: transparent;
+}
+
+.panel>.list-group .list-group-item, .panel>.panel-collapse>.list-group .list-group-item {
+	border-width: 0 0;
+}
+
+.panel-group .panel-heading+.panel-collapse>.list-group, .panel-group .panel-heading+.panel-collapse>.panel-body {
+	border: none;
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+	border: none;
+}
+
+.panel-default .panel-body {
+	background-color: transparent;
+}
+
+.separated {
+	margin-left: 1em;
+}
+
+footer {
+	width: 100%;
+	height: 60px;
+	border-top: 1px solid #666;
+}
+
+footer .container {
+	padding: 15px;
+	background-color: #fff;
+}
+
+footer .container p {
+	color: #333;
+}
+
+footer .container p a {
+	color: #666;
+}
+
+footer .container p a:focus, footer .container p a:hover {
+	color: #608;
+}
