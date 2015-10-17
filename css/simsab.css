@@ -4,8 +4,8 @@
 
 html {
 	position: relative;
-    width: 100%;
-    height: 100%;
+        width: 100%;
+        height: 100%;
 }
 
 body {
@@ -13,19 +13,20 @@ body {
 	width: 100%;
 	height: 100%;
 	color: #fff;
+	line-height: 1.5;
 }
 
 a {
-	color: #dfc;
+	color: #ffc;
 }
 
 a:focus, a:hover {
-	color: #dfc;
+	color: #ffc;
 	text-decoration: none;
 }
 
 h1 {
-	color: #dfc;
+	color: #ffc;
 	text-shadow: 2px 2px 0 #333;
 	margin: 20px 0 30px;
 	position: relative;
@@ -44,13 +45,13 @@ h1 {
 }
 
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
-	color: #608;
+	color: #951;
 	background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
 	color: #fff;
-	background-color: #608;
+	background-color: #951;
 }
 
 .navbar {
@@ -65,7 +66,7 @@ h1 {
 }
 
 .navbar-default .navbar-brand {
-	color: #608;
+	color: #951;
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 400%;
 	margin: 0;
@@ -87,24 +88,24 @@ article {
 }
 
 section {
-    padding: 50px 0 100px;
+        padding: 50px 0 100px;
 	position: relative;
 }
 
 section:first-child {
-    padding-top: 250px;
+        padding-top: 250px;
 }
 
 section:last-child {
-    padding-bottom: 150px;
+        padding-bottom: 150px;
 }
 
 section:nth-of-type(even) {
-	background-color: #251;
+	background-color: #230;
 }
 
 section:nth-of-type(odd) {
-	background-color: #140;
+	background-color: #120;
 }
 
 .lead {
@@ -114,9 +115,9 @@ section:nth-of-type(odd) {
 .section-image {
 	position: absolute;
 	bottom: 0;
-	max-height: 80%;
-	left: 60%;
-	max-width: 40%;
+	max-height: 82%;
+	left: 52%;
+	max-width: 48%;
 }
 
 .panel {
@@ -155,7 +156,7 @@ section:nth-of-type(odd) {
 }
 
 a.list-group-item, a.list-group-item:focus, a.list-group-item:hover {
-	color: #dfc;
+	color: #ffc;
 	background-color: transparent;
 }
 
@@ -199,5 +200,5 @@ footer .container p a {
 }
 
 footer .container p a:focus, footer .container p a:hover {
-	color: #608;
+	color: #951;
 }
