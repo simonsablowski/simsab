@@ -1,0 +1,39 @@
+@import 'simsab.css';
+
+header {
+	display: none;
+}
+
+h1 {
+	font-size: 200%;
+	margin: 20px 0;
+}
+
+p {
+	padding: 0;
+}
+
+section {
+	padding: 0;
+}
+
+section:first-child {
+	padding-top: 0;
+}
+
+section:last-child {
+	padding-bottom: 0;
+}
+
+#accordion .panel-heading {
+	padding: 0;
+}
+
+.fa-plus {
+	display: none;
+}
+
+.collapse {
+	display: block !important;
+	visibility: visible !important;
+}
