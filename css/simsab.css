@@ -70,7 +70,7 @@ h1.title {
 }
 
 .top-nav-collapse {
-	padding: 0;
+	padding: 0 0 10px;
 }
 
 .navbar-default .navbar-brand {
@@ -78,9 +78,9 @@ h1.title {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 400%;
 	margin: 0;
-	-webkit-transition: font-size .3s ease-in-out;
-	-moz-transition: font-size .3s ease-in-out;
-	transition: font-size .3s ease-in-out;
+	-webkit-transition: margin .3s ease-in-out, font-size .3s ease-in-out;
+	-moz-transition: margin .3s ease-in-out, font-size .3s ease-in-out;
+	transition: margin .3s ease-in-out, font-size .3s ease-in-out;
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
@@ -88,7 +88,8 @@ h1.title {
 }
 
 .top-nav-collapse .navbar-brand {
-	font-size: 200%;
+	font-size: 300%;
+	margin-top: 6px;
 }
 
 .navbar-toggle {
@@ -103,7 +104,7 @@ h1.title {
 }
 
 .navbar-nav {
-	margin: 0 -15px;
+	margin: 15px -15px 0;
 }
 
 article {
