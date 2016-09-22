@@ -25,6 +25,10 @@ a:focus, a:hover {
 	text-decoration: none;
 }
 
+p {
+	margin: 0 0 15px;
+}
+
 h1 {
 	color: #ffc;
 	text-shadow: 2px 2px 0 #333;
@@ -60,6 +64,13 @@ h1.title {
 
 .navbar {
 	padding: 20px 0;
+	-webkit-transition: padding .3s ease-in-out;
+	-moz-transition: padding .3s ease-in-out;
+	transition: padding .3s ease-in-out;
+}
+
+.top-nav-collapse {
+	padding: 0;
 }
 
 .navbar-default .navbar-brand {
@@ -67,10 +78,17 @@ h1.title {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 400%;
 	margin: 0;
+	-webkit-transition: font-size .3s ease-in-out;
+	-moz-transition: font-size .3s ease-in-out;
+	transition: font-size .3s ease-in-out;
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
 	color: #140;
+}
+
+.top-nav-collapse .navbar-brand {
+	font-size: 200%;
 }
 
 .navbar-toggle {
@@ -93,7 +111,7 @@ article {
 }
 
 section {
-	padding: 50px 0 100px;
+	padding: 60px 0 100px;
 	position: relative;
 }
 
@@ -114,7 +132,7 @@ section:nth-of-type(odd) {
 	background-color: #120;
 }
 
-.section-image {
+.img-responsive {
 	max-height: 100%;
 	max-width: 100%;
 }
@@ -173,14 +191,6 @@ a.list-group-item, a.list-group-item:focus, a.list-group-item:hover {
 
 .panel-default .panel-body {
 	background-color: transparent;
-}
-
-.separated {
-	margin-left: 1em;
-}
-
-.width-160 {
-	width: 160px;
 }
 
 footer {
