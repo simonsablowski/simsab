@@ -116,12 +116,12 @@ footer .container p a {
 
 @media print {
 	h1 {
-		font-size: 200%;
-		margin: 20px 0;
+		margin-top: 20px;
 	}
 
-	h1.title {
-		margin-top: 20px;
+	h2 {
+		font-size: 200%;
+		margin: 20px 0;
 	}
 
 	p {
@@ -131,25 +131,16 @@ footer .container p a {
 	section {
 		padding: 0;
 	}
-
-	section:first-child {
-		padding-top: 0;
-	}
-
+	
 	section:last-child {
 		padding-bottom: 0;
 	}
 
-	#accordion .panel-heading {
-		padding: 0;
+	.img-responsive {
+		width: 180px;
 	}
-
-	.fa-plus, .fa-minus {
-		display: none;
-	}
-
-	.collapse {
-		display: inline !important;
-		visibility: visible !important;
+	
+	.text-center {
+		text-align: left;
 	}
 }
