@@ -67,6 +67,18 @@ header {
 
 header a {
 	color: #5c5;
+	font-size: 18px;
+}
+
+header .btn-primary {
+	background-color: #5a5;
+	border-color: #393;
+	color: #fff;
+}
+
+header .btn-primary:focus, header .btn-primary:hover {
+	background-color: #393;
+	border-color: #393;
 }
 
 section {
@@ -84,19 +96,6 @@ section:nth-of-type(odd) {
 
 section:last-child {
 	padding-bottom: 150px;
-}
-
-.panel, .panel-default>.panel-heading {
-	background-color: transparent;
-	box-shadow: none;
-}
-
-.panel-default, .panel-heading {
-	border: none;
-}
-
-.panel-title {
-	font-size: 18px;
 }
 
 footer {
