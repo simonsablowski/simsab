@@ -1,6 +1,5 @@
 @import url('http://fonts.googleapis.com/css?family=Roboto');
 @import url('http://fonts.googleapis.com/css?family=Oswald');
-@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
 
 html {
 	position: relative;
@@ -10,24 +9,11 @@ html {
 
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 	width: 100%;
 	height: 100%;
 	color: #222;
 	line-height: 1.5;
-}
-
-a {
-	color: #5a5;
-}
-
-a:focus, a:hover {
-	color: #393;
-	text-decoration: none;
-}
-
-p {
-	margin: 0 0 15px;
 }
 
 h1, h2 {
@@ -38,52 +24,52 @@ h1, h2 {
 
 h1 {
 	color: #fff;
-	margin: 80px 0 30px;
-	padding: 0 0 10px;
-	font-size: 60px;
+	margin: 50px 0;
+	padding: 60px 0 10px;
+	font-size: 80px;
 	font-weight: 400;
-	border-bottom-width: 10px;
+	border-bottom-width: 12px;
 	border-bottom-style: solid;
-	border-bottom-color: #5c5;
+	border-bottom-color: #0ff;
 }
 
 h2 {
 	color: #222;
 	margin: 20px 0 30px;
-	font-size: 38px;
+	font-size: 40px;
 }
 
-article {
-	background-color: #140;
+p {
+	margin: 0 0 15px;
+}
+
+a {
+	color: #222;
+}
+
+a:focus, a:hover {
+	color: #666;
 }
 
 header {
-	padding-top: 20px;
-	padding-bottom: 0;
-	background-color: #333;
-	color: #fff;
-	font-size: 24px;
+	background-image: url(../img/banner.png);
+	background-position: center center;
+	background-size: cover;
+	padding: 10px 200px;
+	text-align: center;
 }
 
 header a {
-	color: #5c5;
-	font-size: 18px;
+	color: #0ff;
+  font-size: 60px;
 }
 
-header .btn-primary {
-	background-color: #5a5;
-	border-color: #393;
-	color: #fff;
-}
-
-header .btn-primary:focus, header .btn-primary:hover {
-	background-color: #393;
-	border-color: #393;
+header a:focus, header a:hover {
+	color: #aff;
 }
 
 section {
-	padding: 60px 0 100px;
-	position: relative;
+	padding: 60px 0 80px;
 }
 
 section:nth-of-type(even) {
@@ -95,13 +81,14 @@ section:nth-of-type(odd) {
 }
 
 section:last-child {
-	padding-bottom: 150px;
+	padding-bottom: 100px;
 }
 
 footer {
 	width: 100%;
 	height: 60px;
 	font-size: 14px;
+	text-align: center;
 }
 
 footer .container {
@@ -114,7 +101,7 @@ footer .container p {
 }
 
 footer .container p a {
-	color: #666;
+	color: #333;
 }
 
 @media print {
