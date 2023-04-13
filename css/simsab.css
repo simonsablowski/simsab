@@ -106,12 +106,17 @@ footer .container p a {
 
 @media print {
 	h1 {
-		margin-top: 20px;
+		color: #000;
+		border-bottom-color: #666;
+	}
+
+	h1, h2 {
+		margin: 20px 0;
+		padding: 0;
 	}
 
 	h2 {
 		font-size: 200%;
-		margin: 20px 0;
 	}
 
 	p {
@@ -126,11 +131,7 @@ footer .container p a {
 		padding-bottom: 0;
 	}
 
-	.img-fluid {
-		width: 180px;
-	}
-
 	.text-center {
-		text-align: left;
+		text-align: left !important;
 	}
 }
