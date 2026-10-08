@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="robots" content="noindex">
+	<title>Simon Sablowski</title>
+	<!--
+		GitHub Pages serves this page for every unknown address.
+		Old addresses of the legal notice go there, everything else goes to the home page.
+	-->
+	<script>
+		(function () {
+			var path = location.pathname.toLowerCase().replace(/(\.html|\/)+$/, '');
+			var legal = /^\/(impressum|disclaimer)$/.test(path);
+			location.replace('/' + (legal ? '#legal-notice' : ''));
+		})();
+	</script>
+	<noscript><meta http-equiv="refresh" content="0; url=/"></noscript>
+	<style>
+		body { margin: 0; background-color: #272727; }
+		a { color: #EAE9E9; font-family: sans-serif; }
+		p { padding: 2rem; }
+	</style>
+</head>
+<body>
+	<p><a href="/">simsab.net</a></p>
+</body>
+</html>
