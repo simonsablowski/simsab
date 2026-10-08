@@ -1,288 +1,401 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="">
-		<meta name="author" content="">
-		<title>Simon Sablowski</title>
-		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
-		<link href="css/simsab.css" rel="stylesheet">
-		<link href="img/simsab.ico" rel="shortcut icon" type="image/x-icon">
-	</head>
-	<body id="top">
-		<header>
-			<div class="container">
-				<div class="row justify-content-md-center">
-					<div class="col-md-8">
-						<h1>Simon Sablowski</h1>
-					</div>
-				</div>
-				<div class="row justify-content-md-center d-print-none">
-					<div class="col-md-8">
-						<div class="container">
-							<div class="row">
-								<div class="col">
-									<p><a href="mailto:contact@simsab.net" title="E-mail"><i class="bi bi-envelope-fill"></i></a></p>
-								</div>
-								<div class="col">
-									<p><a href="https://www.linkedin.com/in/simonsablowski" title="LinkedIn"><i class="bi bi-linkedin"></i></a></p>
-								</div>
-								<div class="col">
-									<p><a href="https://twitter.com/simonsablowski" title="Twitter"><i class="bi bi-twitter"></i></a></p>
-								</div>
-								<div class="col">
-									<p><a href="https://github.com/simonsablowski" title="GitHub"><i class="bi bi-github"></i></a></p>
-								</div>
-							</div>
-						</div>
-					</div>
-					</div>
-				</div>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="color-scheme" content="light only">
+	<title>Simon Sablowski</title>
+	<meta name="description" content="Helping product and engineering leaders improve collaboration, decision-making, and organisational effectiveness in AI-accelerated environments.">
+	<meta property="og:site_name" content="Simon Sablowski">
+	<meta property="og:title" content="Simon Sablowski">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="Helping product and engineering leaders improve collaboration, decision-making, and organisational effectiveness in AI-accelerated environments.">
+	<meta property="og:image" content="https://simsab.net/assets/images/card.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="1280">
+	<meta property="og:image:height" content="800">
+	<meta property="og:url" content="https://simsab.net">
+	<meta property="twitter:card" content="summary_large_image">
+	<link rel="canonical" href="https://simsab.net">
+	<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	<link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+	<link rel="preload" href="assets/fonts/nunito-400.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="assets/fonts/alegreya-700.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+	<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" display="none">
+		<symbol id="icon-message" viewBox="0 0 40 40"><path d="M33.1,7.2H7.6c-3.1,0-4.6,1.3-4.6,3.9v15.5c0,3.1,1.5,4.6,4.6,4.6h4.4v5.4c0,.8,0,1.4.4,1.9.3.2.6.3.8.3.4,0,.7-.2,1-.7l5.4-7h12.6c3.1,0,4.6-1.5,4.6-4.6v-15.5c0-2.6-1.3-3.9-3.9-3.9h0Z"/></symbol>
+		<symbol id="icon-email" viewBox="0 0 40 40"><path d="M37.5,12.6l-17.5,11.9L2.5,12.6c-.2-.1-.3-.2-.5-.2v-2.7c0-.8.6-1.4,1.4-1.4h33.1c.8,0,1.4.6,1.4,1.4v2.7c-.2,0-.4,0-.5.2ZM19.5,26.3c.2.1.3.2.5.2s.4,0,.5-.2l17.5-11.9v16.9c0,.8-.6,1.4-1.4,1.4H3.4c-.8,0-1.4-.6-1.4-1.4V14.4l17.5,11.9Z"/></symbol>
+	</svg>
+
+	<div class="page">
+		<header class="band band--header">
+			<div class="band__inner">
+				<p class="site-name">Simon Sablowski</p>
+				<nav>
+					<ul class="nav">
+						<li><a href="#focus">Focus</a></li>
+						<li><a href="#services">Services</a></li>
+						<li><a href="#clients">Clients</a></li>
+						<li><a href="#experience">Experience</a></li>
+						<li><a href="#contact">Contact</a></li>
+					</ul>
+				</nav>
 			</div>
 		</header>
-		<article>
-			<section>
-				<div class="container">
-					<h2>About me</h2>
-					<div class="row">
-						<div class="col-md-4 d-print-none">
-							<p><img class="img-fluid" src="img/simsab.png" alt="Simon Sablowski" title="Simon Sablowski"></p>
+
+		<main>
+			<section id="home-section">
+				<div class="band band--hero">
+					<div class="band__inner cols cols--hero">
+						<div class="stack">
+							<h1 class="title">When delivery speeds up, coordination becomes the bottleneck.</h1>
+							<p class="lead">AI can dramatically increase output. It can also increase confusion, competing priorities, and coordination overhead. I help product and engineering organisations keep the second from cancelling out the first.</p>
+							<ul class="buttons">
+								<li><a class="button button--light" href="#contact"><svg aria-hidden="true"><use href="#icon-message"/></svg><span>Let’s talk</span></a></li>
+							</ul>
 						</div>
-						<div class="col-md-8">
-							<p>I am an accomplished professional in the fields of organisational change, leadership coaching and agile product development. My passion for enacting sustainable improvement is reflected both in the feedback and the success of those who have embarked on the journey with me.</p>
-							<p>Foundational to my work are innovation, creativity and collaboration. By providing impactful coaching, consulting and training, I guide organisations towards a thriving workforce, delighted customers, and outstanding business results.</p>
-							<p>My experience and diverse professional background across a broad range of industries have equipped me with deep insights and reliable methods tailored to fit. Among my clients to date are <a href="https://www.volkswagen.de" title="Volkswagen">Volkswagen</a>, <a href="https://www.sumup.com" title="SumUp">SumUp</a>, <a href="https://www.rowa.de" title="BD Rowa">BD Rowa</a>, <a href="https://www.bundesdruckerei.de" title="Bundesdruckerei">Bundesdruckerei</a>, <a href="https://www.ecb.europa.eu" title="European Central Bank">European Central Bank</a>, and <a href="https://www.siemens.com" title="Siemens">Siemens</a>.</p>
-						</div>
-					</div>
-				</div>
-			</section>
-				<section>
-					<div class="container">
-						<h2>Recommendations</h2>
-						<div class="row">
-							<div class="col-md-4">
-								<p class="d-print-none"><img class="img-fluid" src="img/annemarie-kreyenberg.jpg" alt="Annemarie Kreyenberg" title="Annemarie Kreyenberg"></p>
-								<p><a href="https://www.linkedin.com/in/annemarie-kreyenberg-020b3554" title="Annemarie Kreyenberg">Annemarie Kreyenberg</a></p>
-								<p>Agile transition coordinator at <a href="https://www.siemens.com" title="Siemens">Siemens</a></p>
-								<p>Having worked with Simon in Agile Transformations in two different Siemens business units already, I can highly recommend him as an agile coach, trainer and mentor. He has a lot of experience, is full of good suggestions but also open to try new approaches. Whatever the transitions required, from training and coaching teams, helping leaders implement new leadership behaviours and strategies to bringing scrum masters, product owners and coaches to the next level, Simon accomplished it. I appreciate his positive attitude and calm nature especially in difficult situations.</p>
-							</div>
-							<div class="col-md-4">
-								<p class="d-print-none"><img class="img-fluid" src="img/ulrike-mueller.jpg" alt="Ulrike M&uuml;ller" title="Ulrike M&uuml;ller"></p>
-								<p><a href="https://www.linkedin.com/in/ulrike-m%C3%BCller-691297b5" title="Ulrike M&uuml;ller">Ulrike M&uuml;ller</a></p>
-								<p>Managing director at <a href="https://www.volkswagen.de" title="Volkswagen">Volkswagen</a> Future Center Europe</p>
-								<p>I had the pleasure of working with Simon for several years on various projects focused on change management, leadership coaching, and agile working methods. Throughout our time together, Simon consistently demonstrated exceptional expertise and dedication in all aspects of his work. Simon has a deep understanding of agile methods and a passion for empowering teams to adopt an agile mindset. He posseses excellent communication skills and is able to effectively lead and coach individuals at all levels of an organization. Additionally, Simon is highly skilled in facilitating workshops and training sessions. Simon has a proven track record of success, and is an invaluable asset to any team looking to drive positive change and to achieve goals.</p>
-							</div>
-							<div class="col-md-4">
-								<p class="d-print-none"><img class="img-fluid" src="img/maurizio-gabriele.jpg" alt="Maurizio Gabriele" title="Maurizio Gabriele"></p>
-								<p><a href="https://www.linkedin.com/in/mauriziogabriele" title="Maurizio Gabriele">Maurizio Gabriele</a></p>
-								<p>Team lead and project manager at <a href="https://www.ecb.europa.eu" title="European Central Bank">European Central Bank</a></p>
-								<p>Simon is a very professional coach. His experience and approach facilitate the change design and implementation. He helped me in building effective teams and in making the adopted Scrum events as focused to the goal as possible. Among the things which I liked the most, I would mention the highlights on factors to be improved. I would recommend Simon for large and difficult change management projects.</p>
-							</div>
-						</div>
-					</div>
-				</section>
-			<section>
-				<div class="container">
-					<h2>Experience</h2>
-					<div class="row">
-						<div class="col-md-2">
-							<p>since 2023</p>
-						</div>
-						<div class="col-md-10">
-							<p>Freelance leadership and agility coach</p>
-							<div class="row d-print-none">
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/logo.png" alt="Simon Sablowski" title="Simon Sablowski"></p>
-								</div>
-							</div>
-							<p>I guide teams, coaches and leaders in their journey towards continuous innovation, delighted customers, and a thriving workforce. My services include coaching, consulting and training in the areas of leadership, change management, product strategy, teamwork, and personal growth.</p>
-							<p>My focus with a large product development organisation at <a href="https://www.siemens.com" title="Siemens">Siemens</a> is to improve hardware, firmware and software development across four locations and forty teams. For <a href="https://www.rowa.de" title="BD Rowa">BD Rowa</a>, I guide leaders at all levels, including executives, product managers, and team coaches. Also, I provide customised training and personal mentoring to various clients.</p>
-							<div class="row d-print-none">
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/siemens.png" alt="Siemens" title="Siemens"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/bd-rowa.png" alt="BD Rowa" title="BD Rowa"></p>
-								</div>
-							</div>
-					</div>
-					<div class="row">
-						<div class="col-md-2">
-							<p>2015 - 2023</p>
-						</div>
-						<div class="col-md-10">
-							<p>Agile coach at agile42</p>
-							<div class="row d-print-none">
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/agile42.png" alt="agile42" title="agile42"></p>
-								</div>
-							</div>
-							<p><a href="https://www.agile42.com" title="agile42">agile42</a> enables sustainable change that equips organisations to achieve higher resilience and keep up with our rapidly changing world. As an agile coach, I worked with clients operating in various industries such as healthcare, manufacturing, automotive, finance, security and education.</p>
-							<p>At <a href="https://www.volkswagen.de" title="Volkswagen">Volkswagen</a>'s Future Center Europe, I improved leadership and collaboration on innovative projects. For <a href="https://www.sumup.com" title="SumUp">SumUp</a>, I aligned software and hardware development teams to deliver greater customer value. I established a portfolio system for <a href="https://www.bundesdruckerei.de" title="Bundesdruckerei">Bundesdruckerei</a> IT to manage their initiatives. Also, I led <a href="https://www.jti.com" title="JTI">JTI</a>'s Agile Champion programme which is helping 20,000 employees embrace agility in their daily work.</p>
-							<div class="row d-print-none">
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/vw-fce.png" alt="Volkswagen Future Center Europe" title="Volkswagen Future Center Europe"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/sumup.png" alt="SumUp" title="SumUp"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/ecb.png" alt="European Central Bank" title="European Central Bank"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/bundesdruckerei.png" alt="Bundesdruckerei" title="Bundesdruckerei"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/newstore.png" alt="NewStore" title="NewStore"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/jti.png" alt="JTI" title="JTI"></p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-2">
-							<p>2011 - 2015</p>
-						</div>
-						<div class="col-md-10">
-							<p>Project CTO at Rocket Internet and CTO at Foodpanda</p>
-							<div class="row d-print-none">
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/rocket-internet.png" alt="Rocket Internet" title="Rocket Internet"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/foodpanda.png" alt="Foodpanda" title="Foodpanda"></p>
-								</div>
-							</div>
-							<p><a href="https://www.rocket-internet.com" title="Rocket Internet">Rocket Internet</a> is a global online venture builder for e-commerce and online marketplaces. At Rocket Internet, I was responsible for the launch of all new projects and up to 100 direct reports in the fields software engineering, project management, system administration and quality assurance. I worked closely with Rocket Internet's technology centres in Portugal and China and hired more than 50 employees. Under my supervision, the teams at Rocket Internet successfully launched <a href="https://www.hellofresh.com" title="HelloFresh" class="external">HelloFresh</a>, <a href="https://www.jabong.com" title="Jabong" class="external">Jabong</a>, <a href="https://www.jumia.com" title="Jumia" class="external">Jumia</a>, <a href="https://www.linio.com" title="Linio" class="external">Linio</a>, <a href="https://www.lazada.com" title="Lazada" class="external">Lazada</a>, <a href="https://www.zalora.com" title="Zalora" class="external">Zalora</a> and many other projects.</p>
-							<div class="row d-print-none">
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/hellofresh.png" alt="HelloFresh" title="HelloFresh"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/jabong.png" alt="Jabong" title="Jabong"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/jumia.png" alt="Jumia" title="Jumia"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/linio.png" alt="Linio" title="Linio"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/lazada.png" alt="Lazada" title="Lazada"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/zalora.png" alt="Zalora" title="Zalora"></p>
-								</div>
-							</div>
-							<p><a href="https://www.foodpanda.com" title="Foodpanda">Foodpanda</a> is a global online food delivery service. Together with its affiliated brands, Foodpanda operates in Asia, Europe, Latin America, Africa and the Middle East. After moving from Rocket Internet itself to its priority project Foodpanda, I was responsible for assembling and leading a team of 30 software developers, product managers and system engineers. Managing Foodpanda's product development included liasing with 100 stakeholders who represented the needs of different Foodpanda markets.</p>
-						</div>
-						<div class="col-md-2">
-							<p></p>
-						</div>
-						<div class="col-md-10">
-							<p>Interim CTO at various startups</p>
-							<p>As a freelance consultant and interim CTO, I helped various early-stage startups with creating their product development strategy, planning their software architecture and technological infrastructure, recruiting product and development teams, introducing engineering practices and establishing agile software development methods.</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-2">
-							<p>2009 - 2011</p>
-						</div>
-						<div class="col-md-10">
-							<p>Co-founder and CTO at Motivado</p>
-							<div class="row d-print-none">
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/motivado.png" alt="Motivado" title="Motivado"></p>
-								</div>
-							</div>
-							<p>With its interactive video coaching, <a href="http://www.motivado.de" title="Motivado">Motivado</a> guides people in finding solutions for personal issues and achieving goals by closing the gap between cost-intensive personal coaching and the general guidebook market. Topics covered by Motivato's products include personal health, relationships, career advancement and parenting.</p>
-							<p>I co-founded Motivado and was part of a team of diversely skilled people ranging from software developers to psychologists. In a highly agile fashion, we collaborated closely with our customers and users, shipped new product increments frequently and continuously optimised our processes and practices.</p>
-							<p>Our products have helped many people become happier, healthier and more successful. We have won an award from Germany's Federal Ministry for Economy and Technology.</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-2">
-							<p>2001 - 2009</p>
-						</div>
-						<div class="col-md-10">
-							<p>Freelance software developer and illustrator</p>
-							<p>I started developing software in 1999 and went on to working as a freelance web and software developer, gaining experience mainly in the travel and e-commerce industries. My experience includes frontend and backend development, software architecture, automated testing, rapid prototyping, continuous refactoring, framework development, performance optimisation and user experience design.</p>
-							<p>One of my clients was mytourclips, a one-stop solution for travellers to exchange travelling experiences, videos and pictures with each other. The platform also offered aggregated travel news and direct trip booking. I managed an extensive refactoring of the existing application on the basis of my framework <a href="https://github.com/simonsablowski/nacho" title="nacho">nacho</a> aimed at improving the product's scalability and extensibility.</p>
-							<p>I worked as an animator at <a href="https://www.inkarnatoons.com" title="Inkarnatoons">Inkarnatoons</a>, contributing hand-drawn and digitally post-processed character animations and scenery design to the provocative short movie <a href="https://www.imdb.com/title/tt1483006/" title="Judas &amp; Jesus on IMDb">Judas &amp; Jesus</a> which was released in 2009, was screened at film festivals across the globe and won numerous international film awards.</p>
-							<div class="row d-print-none">
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/mytourclips.png" alt="mytourclips" title="mytourclips"></p>
-								</div>
-								<div class="col-md-2">
-									<p><img class="img-fluid" src="img/inkarnatoons.png" alt="Inkarnatoons" title="Inkarnatoons"></p>
-								</div>
-							</div>
+						<div class="stack">
+							<span class="portrait portrait--large"><img src="assets/images/simon-sablowski.svg" alt="Simon Sablowski"></span>
 						</div>
 					</div>
 				</div>
-			</section>
-			<section>
-				<div class="container">
-					<h2>Qualifications</h2>
-					<div class="row">
-						<div class="col-md-12">
-							<p>I am an active member of the <a href="https://www.scrumalliance.org/community/profile/ssablowski" title="Scrum Alliance profile">Scrum Alliance</a>, the <a href="https://edu.kanban.university/users/simon-sablowski/" title="Kanban University profile">Kanban University</a> and the <a href="https://www.organic-agility.com/partners/organic-agility-partners/" title="ORGANIC agility profile">ORGANIC agility</a> communities.</p>
-						</div>
+
+				<!-- Focus -->
+				<div class="band band--intro band--light" data-anchor="focus">
+					<div class="band__inner stack">
+						<p class="eyebrow">Focus</p>
+						<h2 class="heading">Where work gets stuck between teams</h2>
+						<p class="text">Organisations rarely struggle because people lack skill or motivation. They struggle because the work that matters crosses team boundaries, reporting lines and competing priorities. Nobody owns the crossing. That cost is rarely measured, so it is rarely managed.</p>
 					</div>
-					<div class="row d-print-none">
-						<div class="col-md-2">
-							<p><img class="img-fluid" src="img/cal.png" alt="Certified Agile Leadership Professional" title="Certified Agile Leadership Professional"></p>
+				</div>
+				<div class="band band--topic">
+					<div class="band__inner cols cols--40-60">
+						<div class="stack">
+							<h3 class="label">Decision latency</h3>
+							<p class="sub">How long a decision takes to travel</p>
 						</div>
-						<div class="col-md-2">
-							<p><img class="img-fluid" src="img/csp-sm.png" alt="Certified Scrum Professional ScrumMaster" title="Certified Scrum Professional ScrumMaster"></p>
-						</div>
-						<div class="col-md-2">
-							<p><img class="img-fluid" src="img/csp-po.png" alt="Certified Scrum Professional Product Owner" title="Certified Scrum Professional Product Owner"></p>
-						</div>
-						<div class="col-md-2">
-							<p><img class="img-fluid" src="img/kmp.png" alt="Accredited Kanban Management Professional" title="Accredited Kanban Management Professional"></p>
-						</div>
-						<div class="col-md-2">
-							<p><img class="img-fluid" src="img/oap.png" alt="Accredited ORGANIC agility Leadership Professional" title="Accredited ORGANIC agility Leadership Professional"></p>
-						</div>
-						<div class="col-md-2">
-							<p><img class="img-fluid" src="img/atcc.png" alt="Accredited Advanced Team Coach" title="Accredited Advanced Team Coach"></p>
+						<div class="stack">
+							<p class="text">Decisions that need three groups in a room spend most of their life waiting rather than being made. The delay is usually concentrated in one step, and not the step people suspect.</p>
 						</div>
 					</div>
 				</div>
+				<div class="band band--topic">
+					<div class="band__inner cols cols--40-60">
+						<div class="stack">
+							<h3 class="label">Team boundaries</h3>
+							<p class="sub">Where the work is divided</p>
+						</div>
+						<div class="stack">
+							<p class="text">Boundaries drawn for a smaller company keep operating long after the work has changed shape. Every crossing has a price, and most organisations have never counted it.</p>
+						</div>
+					</div>
+				</div>
+				<div class="band band--topic">
+					<div class="band__inner cols cols--40-60">
+						<div class="stack">
+							<h3 class="label">Stakeholder alignment</h3>
+							<p class="sub">What drifts between conversations</p>
+						</div>
+						<div class="stack">
+							<p class="text">Agreement reached in a meeting decays quietly until someone discovers it has gone. Which stakeholders drift, and how often they need bringing back, is designable rather than accidental.</p>
+						</div>
+					</div>
+				</div>
+				<div class="band band--topic">
+					<div class="band__inner cols cols--40-60">
+						<div class="stack">
+							<h3 class="label">Conflict and disagreement</h3>
+							<p class="sub">What nobody is saying</p>
+						</div>
+						<div class="stack">
+							<p class="text">Unspoken conflict between teams gets attributed to personalities when it is usually structural. Naming what a disagreement is actually about is what makes it workable.</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Services -->
+				<div class="band band--intro band--mid" data-anchor="services">
+					<div class="band__inner stack">
+						<p class="eyebrow">Services</p>
+						<h2 class="heading">How I support organisations</h2>
+						<p class="text">Structure changes slowly, and it only holds when the people running it change how they work. So coaching usually runs alongside whatever is being restructured, and a workshop is how a group settles something that meetings have not. Which of the three you start with depends on where the work is stuck.</p>
+					</div>
+				</div>
+				<div class="band band--service">
+					<div class="band__inner cols cols--20-80">
+						<div class="stack">
+							<span class="portrait"><img src="assets/images/coaching.svg" alt="Coaching and mentoring"></span>
+						</div>
+						<div class="stack">
+							<h3 class="label">Leadership coaching</h3>
+							<p class="sub">Weekly or bi-weekly, over several months</p>
+							<p class="text">Sustained work with the leader who owns the problem and has to act. Sessions follow whatever is live that week rather than a syllabus, with time to examine difficult situations and prepare for conversations. The work runs alongside structural change.</p>
+						</div>
+					</div>
+				</div>
+				<div class="band band--service">
+					<div class="band__inner cols cols--20-80">
+						<div class="stack">
+							<span class="portrait"><img src="assets/images/workshops.svg" alt="Workshops and training"></span>
+						</div>
+						<div class="stack">
+							<h3 class="label">Workshops and training</h3>
+							<p class="sub">One or two days, on site, for a team or a leadership group</p>
+							<p class="text">The group works on its own material rather than a case study. Typical subjects are how work crosses team boundaries, where decisions wait, and how stakeholders are kept aligned. People leave holding something they wrote themselves.</p>
+						</div>
+					</div>
+				</div>
+				<div class="band band--service">
+					<div class="band__inner cols cols--20-80">
+						<div class="stack">
+							<span class="portrait"><img src="assets/images/review.svg" alt="Organisational development"></span>
+						</div>
+						<div class="stack">
+							<h3 class="label">Organisational review</h3>
+							<p class="sub">Two weeks, fixed scope and price</p>
+							<p class="text">Interviews across the teams in scope, a mapping workshop, and a short written recommendation naming the few changes worth making and the ones worth leaving alone. Longer work follows when the recommendation is taken up.</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Clients -->
+				<div class="band band--intro band--light" data-anchor="clients">
+					<div class="band__inner stack">
+						<p class="eyebrow">Clients</p>
+						<h2 class="heading">Organisations I have worked with</h2>
+					</div>
+				</div>
+				<div class="band band--logos">
+					<ul class="band__inner cols cols--logos">
+						<li><span class="logo"><img src="assets/images/clients/siemens.png" alt="Siemens"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/ecb.svg" alt="European Central Bank"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/vw-fce.png" alt="Volkswagen Future Center Europe"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/bd-rowa.png" alt="BD Rowa"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/bundesdruckerei.svg" alt="Bundesdruckerei"></span></li>
+					</ul>
+				</div>
+				<div class="band band--logos">
+					<ul class="band__inner cols cols--logos">
+						<li><span class="logo"><img src="assets/images/clients/sap.svg" alt="SAP"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/abb.svg" alt="ABB"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/jti.png" alt="JTI"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/bayer.svg" alt="Bayer"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/pathfinder.png" alt="Pathfinder by tripunkt"></span></li>
+					</ul>
+				</div>
+				<div class="band band--logos">
+					<ul class="band__inner cols cols--logos">
+						<li><span class="logo"><img src="assets/images/clients/delivery-hero.svg" alt="Delivery Hero"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/sumup.svg" alt="SumUp"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/hellofresh.png" alt="HelloFresh"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/newstore.png" alt="NewStore"></span></li>
+						<li><span class="logo"><img src="assets/images/clients/kaiko-systems.png" alt="Kaiko Systems"></span></li>
+					</ul>
+				</div>
+
+				<!-- Testimonials -->
+				<figure class="band band--featured-quote">
+					<div class="band__inner stack">
+						<blockquote class="quote">Simon’s guidance has been transformative for leaders at all levels: Executives, product managers, and team coaches. What sets him apart is his exceptional ability to go beyond traditional coaching methods. His wealth of experience and unique approach have provided our team with invaluable insights, fostering both individual growth and sustainable organisational improvement.</blockquote>
+						<figcaption>
+							<span class="quote-name">Markus Siegmann</span>
+							<span class="quote-role">Director business process digitalization at BD Rowa</span>
+						</figcaption>
+					</div>
+				</figure>
+				<figure class="band band--quote">
+					<div class="band__inner stack">
+						<blockquote class="quote">I am very happy that Simon is an inspiring element of our journey. With his great experience with different organizations and his practical support based on very good tool knowledge, we have improved our planning phase, supported teams and started a promising process to take our organization with 40 teams in 4 locations on 2 continents to the next level.</blockquote>
+						<figcaption>
+							<span class="quote-name">Markus Weigand</span>
+							<span class="quote-role">Release manager at Siemens</span>
+						</figcaption>
+					</div>
+				</figure>
+				<figure class="band band--quote">
+					<div class="band__inner stack">
+						<blockquote class="quote">I had the pleasure of working with Simon for several years on various projects focused on change management, leadership coaching, and agile working methods. Simon consistently demonstrated exceptional expertise and dedication. He possesses excellent communication skills and is able to effectively lead and coach individuals at all levels of an organization. Simon has a proven track record of success, and is an invaluable asset to any team looking to drive positive change and to achieve goals.</blockquote>
+						<figcaption>
+							<span class="quote-name">Ulrike Müller</span>
+							<span class="quote-role">Managing director at Volkswagen</span>
+						</figcaption>
+					</div>
+				</figure>
+				<figure class="band band--quote">
+					<div class="band__inner stack">
+						<blockquote class="quote">My experience was fantastic. Simon is able to take complex problems and complex workflows, understand them, and identify the areas that can help improve. He’s very patient and incredibly enthusiastic about his job. I learned a lot from him.</blockquote>
+						<figcaption>
+							<span class="quote-name">Marco Salvioli Mariani</span>
+							<span class="quote-role">Lead product manager at SumUp</span>
+						</figcaption>
+					</div>
+				</figure>
+				<figure class="band band--quote">
+					<div class="band__inner stack">
+						<blockquote class="quote">Simon is a very professional coach. His experience and approach facilitate the change design and implementation. I would recommend Simon for large and difficult change management projects.</blockquote>
+						<figcaption>
+							<span class="quote-name">Maurizio Gabriele</span>
+							<span class="quote-role">Project manager at European Central Bank</span>
+						</figcaption>
+					</div>
+				</figure>
+
+				<!-- Experience -->
+				<div class="band band--intro band--light" data-anchor="experience">
+					<div class="band__inner stack">
+						<p class="eyebrow">Experience</p>
+						<h2 class="heading">How I came to this work</h2>
+						<p class="text">I have worked in software and product development for more than two decades. Since 2015, my focus has been coaching, training, and organisational change, first at agile42 and independently since 2023. Before that I ran engineering organisations and worked as an interim CTO, giving me first-hand experience of the leadership and coordination challenges I help clients address today.</p>
+					</div>
+				</div>
+				<div class="band band--job">
+					<div class="band__inner cols cols--20-80">
+						<div class="stack">
+							<p class="date">since 2023</p>
+						</div>
+						<div class="stack">
+							<h3 class="job-title">Consultant and coach, independent</h3>
+							<p class="text">Coaching the leadership group at BD Rowa through a period of organisational change. Improving how software development, product management, release management and quality management work together at Siemens, across four locations and more than forty teams. Strengthening product management practice at Kaiko Systems.</p>
+						</div>
+					</div>
+				</div>
+				<div class="band band--job">
+					<div class="band__inner cols cols--20-80">
+						<div class="stack">
+							<p class="date">2015 - 2023</p>
+						</div>
+						<div class="stack">
+							<h3 class="job-title">Coach and trainer, agile42</h3>
+							<p class="text">Clients spanned healthcare, manufacturing, automotive, finance, cybersecurity, and education. Leadership and collaboration at Volkswagen’s Future Center Europe, product development at SumUp, a portfolio system for Bundesdruckerei IT, and JTI’s Agile Champion programme reaching 20,000 employees worldwide.</p>
+						</div>
+					</div>
+				</div>
+				<div class="band band--job">
+					<div class="band__inner cols cols--20-80">
+						<div class="stack">
+							<p class="date">2011 - 2015</p>
+						</div>
+						<div class="stack">
+							<h3 class="job-title">Interim CTO, Rocket Internet and foodpanda</h3>
+							<p class="text">Running product and engineering organisations through rapid growth and international expansion. At Rocket Internet, launching new ventures with teams of up to a hundred people. At foodpanda, product development across more than thirty countries.</p>
+						</div>
+					</div>
+				</div>
+				<div class="band band--job">
+					<div class="band__inner cols cols--20-80">
+						<div class="stack">
+							<p class="date">2009 - 2011</p>
+						</div>
+						<div class="stack">
+							<h3 class="job-title">Co-founder and CTO, Motivado</h3>
+							<p class="text">Co-founded an interactive video coaching platform with software developers and psychologists. The company was recognised by Germany’s Federal Ministry for Economy and Technology for its approach to personal development.</p>
+						</div>
+					</div>
+				</div>
+				<div class="band band--job">
+					<div class="band__inner cols cols--20-80">
+						<div class="stack">
+							<p class="date">2001 - 2009</p>
+						</div>
+						<div class="stack">
+							<h3 class="job-title">Software developer</h3>
+							<p class="text">Freelance software and web development in travel and e-commerce, ranging from application architecture and large-scale refactoring to frontend and backend development. Also worked as an animator on the award-winning short film Judas &amp; Jesus.</p>
+						</div>
+					</div>
+				</div>
+
+				<!-- Contact -->
+				<div class="band band--intro band--mid" data-anchor="contact">
+					<div class="band__inner stack">
+						<p class="eyebrow">Contact</p>
+						<h2 class="heading">Getting in touch</h2>
+						<p class="text">If coordination has become a bottleneck in your organisation, I’d be happy to discuss your situation.</p>
+						<ul class="buttons">
+							<li><a class="button button--dark" href="mailto:contact@simsab.net"><svg aria-hidden="true"><use href="#icon-email"/></svg><span>contact@simsab.net</span></a></li>
+						</ul>
+						<p class="text">Or find me on <a href="https://www.linkedin.com/in/simonsablowski/" target="_blank">LinkedIn</a>.</p>
+					</div>
+				</div>
 			</section>
-		</article>
-		<footer>
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<p>&copy; 2001 - 2024 Simon Sablowski</p>
+
+			<section id="legal-notice-section" data-title="Legal Notice" lang="de" hidden>
+				<div class="band band--intro band--light">
+					<div class="band__inner stack">
+						<h2 class="heading">Impressum</h2>
+						<p class="legal-heading">Angaben gemäß § 5 DDG</p>
+						<p class="legal-text">Simon Sablowski<br>Alt-Stralau 5<br>10245 Berlin</p>
+						<p class="legal-heading">Kontakt</p>
+						<p class="legal-text"><a href="mailto:contact@simsab.net">contact@simsab.net</a></p>
+						<p class="legal-heading">Umsatzsteuer</p>
+						<p class="legal-text">Umsatzsteuer-Identifikationsnummer: DE405789371</p>
 					</div>
-					<div class="col d-print-none">
-						<p><a href="/disclaimer" rel="nofollow">Disclaimer</a></p>
+				</div>
+			</section>
+
+			<section id="privacy-policy-section" data-title="Privacy Policy" lang="de" hidden>
+				<div class="band band--intro band--light">
+					<div class="band__inner stack">
+						<h2 class="heading">Datenschutzerklärung</h2>
+						<p class="legal-heading">Datenschutz auf einen Blick</p>
+						<p class="legal-text"><strong>Allgemeine Hinweise</strong></p>
+						<p class="legal-text">Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.</p>
+						<p class="legal-heading">Datenerfassung auf dieser Website</p>
+						<p class="legal-text"><strong>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</strong></p>
+						<p class="legal-text">Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.</p>
+						<p class="legal-text"><strong>Wie erfassen wir Ihre Daten?</strong></p>
+						<p class="legal-text">Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.</p>
+						<p class="legal-text"><strong>Wofür nutzen wir Ihre Daten?</strong></p>
+						<p class="legal-text">Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Sofern über die Website Verträge geschlossen oder angebahnt werden können, werden die übermittelten Daten auch für Vertragsangebote, Bestellungen oder sonstige Auftragsanfragen verarbeitet.</p>
+						<p class="legal-text"><strong>Welche Rechte haben Sie bezüglich Ihrer Daten?</strong></p>
+						<p class="legal-text">Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.</p>
+						<p class="legal-text">Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.</p>
+						<p class="legal-heading">Hosting</p>
+						<p class="legal-text"><strong>Externes Hosting</strong></p>
+						<p class="legal-text">Diese Website wird extern gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters / der Hoster gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.</p>
+						<p class="legal-text">Das externe Hosting erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).</p>
+						<p class="legal-text">Unser Hoster wird bzw. werden Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen. Wir setzen folgenden Hoster ein:</p>
+						<p class="legal-text">Carrd Inc.<br>231 Public Square Suite 300 PMB 12<br>Franklin, TN 37064<br>USA</p>
+						<p class="legal-heading">Allgemeine Hinweise und Pflichtinformationen</p>
+						<p class="legal-text"><strong>Datenschutz</strong></p>
+						<p class="legal-text">Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.</p>
+						<p class="legal-text">Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.</p>
+						<p class="legal-text">Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>
+						<p class="legal-text"><strong>Hinweis zur verantwortlichen Stelle</strong></p>
+						<p class="legal-text">Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
+						<p class="legal-text">Simon Sablowski<br>Alt-Stralau 5<br>10245 Berlin</p>
+						<p class="legal-text"><a href="mailto:contact@simsab.net">contact@simsab.net</a></p>
+						<p class="legal-text">Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.</p>
+						<p class="legal-text"><strong>SSL- bzw. TLS-Verschlüsselung</strong></p>
+						<p class="legal-text">Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLSVerschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von „http://“ auf „https://“ wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.</p>
+						<p class="legal-text">Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.</p>
+						<p class="legal-heading">Datenerfassung auf dieser Website</p>
+						<p class="legal-text"><strong>Anfrage per E-Mail</strong></p>
+						<p class="legal-text">Wenn Sie uns per E-Mail oder Telefon kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.</p>
+						<p class="legal-text">Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit widerrufbar.</p>
+						<p class="legal-text">Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.</p>
+						<p class="legal-text">Quelle: <a href="https://www.e-recht24.de/" target="_blank">e-recht24.de</a></p>
 					</div>
-					<div class="col d-print-none">
-						<p><a href="#top" rel="nofollow">Back to top</a></p>
-					</div>
+				</div>
+			</section>
+		</main>
+
+		<footer class="band band--footer">
+			<div class="band__inner cols cols--50-50">
+				<div class="stack">
+					<p class="copyright">© 2001 - 2026 Simon Sablowski</p>
+				</div>
+				<div class="stack">
+					<ul class="footer-links">
+						<li><a href="#legal-notice">Legal Notice</a></li>
+						<li><a href="#privacy-policy">Privacy Policy</a></li>
+					</ul>
 				</div>
 			</div>
 		</footer>
-		<script type="text/javascript"><!--
-		var gaJsHost = 'https:' == document.location.protocol ? 'https://ssl.' : 'http://www.';
-		document.write(unescape('%3Cscript src="' + gaJsHost + 'google-analytics.com/ga.js" type="text/javascript"%3E%3C/script%3E'));
-		//--></script>
-		<script type="text/javascript"><!--
-		try {
-			var pageTracker = _gat._getTracker('UA-9712670-1');
-			pageTracker._initData();
-			pageTracker._trackPageview();
-		} catch (error) {
+	</div>
 
-		}
-		//--></script>
-	</body>
+	<script src="assets/js/main.js"></script>
+</body>
 </html>
