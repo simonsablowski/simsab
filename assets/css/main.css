@@ -401,6 +401,7 @@ h1, h2, h3 { text-wrap: balance; }
 
 .stop__sub {
 	color: var(--muted);
+	font-size: var(--fs-s);
 	font-style: italic;
 	line-height: 1.4;
 }
