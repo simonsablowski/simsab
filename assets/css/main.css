@@ -3,7 +3,6 @@
 @font-face { font-family: 'Alegreya'; font-style: normal; font-weight: 400; font-display: swap; src: url('../fonts/alegreya-400.woff2') format('woff2'); }
 @font-face { font-family: 'Alegreya'; font-style: normal; font-weight: 700; font-display: swap; src: url('../fonts/alegreya-700.woff2') format('woff2'); }
 @font-face { font-family: 'Nunito'; font-style: normal; font-weight: 400; font-display: swap; src: url('../fonts/nunito-400.woff2') format('woff2'); }
-@font-face { font-family: 'Nunito'; font-style: italic; font-weight: 400; font-display: swap; src: url('../fonts/nunito-400-italic.woff2') format('woff2'); }
 @font-face { font-family: 'Nunito'; font-style: normal; font-weight: 600; font-display: swap; src: url('../fonts/nunito-600.woff2') format('woff2'); }
 @font-face { font-family: 'Nunito'; font-style: normal; font-weight: 700; font-display: swap; src: url('../fonts/nunito-700.woff2') format('woff2'); }
 
@@ -420,7 +419,6 @@ h1, h2, h3 { text-wrap: balance; }
 .stop__sub {
 	color: var(--muted);
 	font-size: var(--fs-s);
-	font-style: italic;
 	line-height: 1.4;
 }
 
