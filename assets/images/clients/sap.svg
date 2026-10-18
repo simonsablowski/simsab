@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="250" viewBox="0 0 600 250"><svg x="97.85" y="25.00" width="404.29" height="200.00" viewBox="0.000 0.000 412.380 204.000" preserveAspectRatio="xMidYMid meet" >
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="97.85 25 404.29 200" width="404.29" height="200"><svg x="97.85" y="25.00" width="404.29" height="200.00" viewBox="0.000 0.000 412.380 204.000" preserveAspectRatio="xMidYMid meet" >
 <defs><style>.cls-1{fill:url(#linear-gradient);}.cls-1,.cls-2{fill-rule:evenodd;}.cls-2{fill:#fff;}</style>
 <linearGradient id="linear-gradient" x1="206.19" y1="0" x2="206.19" y2="204" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#00b1eb"></stop>
