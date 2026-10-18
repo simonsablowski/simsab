@@ -506,12 +506,13 @@ h1, h2, h3 { text-wrap: balance; }
 	gap: 16px 64px;
 }
 
+/* Decorative quote mark: a deliberate exception to the four type sizes */
 .feature__mark {
 	flex: none;
 	color: #8E5CC4;
 	font-family: var(--font-serif);
-	font-size: var(--fs-xl);
-	line-height: 1;
+	font-size: clamp(6rem, 11vw, 10rem);
+	line-height: 0.8;
 }
 
 .feature__body {
