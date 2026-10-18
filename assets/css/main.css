@@ -269,12 +269,26 @@ h1, h2, h3 { text-wrap: balance; }
 .hero .intro { max-width: 580px; }
 
 .portrait {
+	position: relative;
 	flex: 0 1 440px;
 	min-width: 0;
 	overflow: hidden;
-	border: 1px solid var(--line-strong);
 	border-radius: var(--radius);
 	background: var(--white);
+}
+
+/*
+ * Boxes whose image runs to the edge draw their border on a layer above
+ * the image, so it looks the same on all sides and at the rounded corners.
+ */
+.portrait::after,
+.card::after {
+	content: '';
+	position: absolute;
+	inset: 0;
+	border: 1px solid var(--line-strong);
+	border-radius: inherit;
+	pointer-events: none;
 }
 
 .portrait img {
@@ -424,6 +438,7 @@ h1, h2, h3 { text-wrap: balance; }
 }
 
 .card {
+	position: relative;
 	flex: 1 1 320px;
 	min-width: 0;
 	display: flex;
@@ -431,7 +446,6 @@ h1, h2, h3 { text-wrap: balance; }
 	gap: 24px;
 	padding-bottom: 32px;
 	overflow: hidden;
-	border: 1px solid var(--line-strong);
 	border-radius: var(--radius);
 	background: var(--white);
 }
