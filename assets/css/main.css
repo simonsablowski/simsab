@@ -216,7 +216,7 @@ h1, h2, h3 { text-wrap: balance; }
 .hero__inner {
 	display: flex;
 	flex-wrap: wrap;
-	align-items: center;
+	align-items: flex-start;
 	gap: 64px 72px;
 }
 
@@ -247,6 +247,8 @@ h1, h2, h3 { text-wrap: balance; }
 .portrait {
 	position: relative;
 	flex: 0 1 440px;
+	/* Align the top edge with the capitals of the headline, not its line box */
+	margin-top: calc(var(--fs-xl) * 0.19);
 	min-width: 0;
 	overflow: hidden;
 	border-radius: var(--radius);
